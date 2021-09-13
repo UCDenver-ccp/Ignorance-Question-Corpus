@@ -1,0 +1,14 @@
+LEXICAL_CUE	SYNONYM (ORIGINAL REGEX)	IGNORANCE_TYPE	ANNOTATION_ID	SPAN_START	SPAN_END
+has_not_been_rigorously_studied	has_not_been_rigorously_studied	FULL_UNKNOWN	PMC1247630.nxml.gz-15	810	841
+inverse_effect	inverse_effect	SUPERFICIAL_RELATIONSHIP	PMC1247630.nxml.gz-914	2131	2145
+no_one	no_one	ALTERNATIVE_OPTIONS	PMC1247630.nxml.gz-918	2280	2286
+remains	remains	FUTURE_WORK	PMC1247630.nxml.gz-920	2449	2456
+could_not_be_assessed	could_not_be_assessed	DIFFICULT_TASK	PMC2009866.nxml.gz-922	1157	1178
+did_not_allow	did_not_allow	DIFFICULT_TASK	PMC2516588.nxml.gz-40	2781	2794
+cannot,_however,_correct_for	cannot,_however,_correct_for	DIFFICULT_TASK	PMC2516588.nxml.gz-6	760	788
+would_not_be_possible_however	would_not_be_possible_however	DIFFICULT_TASK	PMC2516588.nxml.gz-924	1882	1911
+weight	weight	PROBABLE_UNDERSTANDING	PMC2516588.nxml.gz-926	2537	2543
+very_necessary	very_necessary	URGENT_CALL_TO_ACTION	PMC3800883.nxml.gz-928	464	478
+the_need_of_the_hour	the_need_of_the_hour	URGENT_CALL_TO_ACTION	PMC3800883.nxml.gz-932	1637	1657
+would_have_been_worthwhile	would_have_been_worthwhile	FUTURE_WORK	PMC5501061.nxml.gz-934	1253	1279
+would_have_been_beneficial	would_have_been_beneficial	FUTURE_WORK	PMC5501061.nxml.gz-936	1513	1539

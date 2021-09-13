@@ -1,0 +1,21 @@
+LEXICAL_CUE	SYNONYM (ORIGINAL REGEX)	IGNORANCE_TYPE	ANNOTATION_ID	SPAN_START	SPAN_END
+does_not_occur	does_not_occur	DIFFICULT_TASK	PMC4122855.nxml.gz-12	440	454
+due_to	due_to	PROBLEM_COMPLICATION	PMC4122855.nxml.gz-30	1451	1457
+impaired	impaired	DIFFICULT_TASK	PMC4122855.nxml.gz-46	2680	2688
+no...exist	no.{0,46}exist	FULL_UNKNOWN	PMC4122855.nxml.gz-8	327	380
+raises	raises	EXPLICIT_QUESTION	PMC4428817.nxml.gz-1185	2296	2302
+further...but	further.{0,29}but	ANOMALY_CURIOUS_FINDING	PMC4428817.nxml.gz-20	2188	2227
+to_determine	to_determine	QUESTION_ANSWERED_BY_THIS_WORK	PMC4428817.nxml.gz-9	454	466
+rationale	rationale	QUESTION_ANSWERED_BY_THIS_WORK	PMC4500436.nxml.gz-1187	1907	1916
+still	still	URGENT_CALL_TO_ACTION	PMC4500436.nxml.gz-1189	2661	2666
+the_mission	the_mission	URGENT_CALL_TO_ACTION	PMC4500436.nxml.gz-1191	3898	3909
+to_bring_about	to_bring_about	URGENT_CALL_TO_ACTION	PMC4500436.nxml.gz-1195	5374	5388
+obligation	obligation	URGENT_CALL_TO_ACTION	PMC4500436.nxml.gz-2	657	667
+strategy	strategy	FUTURE_WORK	PMC4500436.nxml.gz-21	4730	4738
+planning	planning	FUTURE_WORK	PMC4500436.nxml.gz-23	4997	5005
+to_better_elucidate	to_better_elucidate	INCOMPLETE_EVIDENCE	PMC4653409.nxml.gz-1201	3876	3895
+to_evaluate	to_evaluate	QUESTION_ANSWERED_BY_THIS_WORK	PMC4653409.nxml.gz-17	798	809
+to_identify	to_identify	QUESTION_ANSWERED_BY_THIS_WORK	PMC4653418.nxml.gz-5	717	728
+unfavorable	unfavorable	URGENT_CALL_TO_ACTION	PMC4653418.nxml.gz-7	1848	1859
+may_be	may_be	FUTURE_PREDICTION	PMC4683322.nxml.gz-1207	2096	2102
+could_be_included_in_other_studies	could_be_included_in_other_studies	FUTURE_WORK	PMC4683322.nxml.gz-9	1946	1980
