@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC5501061.nxml.gz" text-file="PMC5501061.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="170" id="PMC5501061.nxml.gz-1" start="40">This book focuses on the various nutritional aspects of the current needs of the society at large and for the health practitioners</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-2" type="identity">
+      <class id="this" label=""/>
+      <span end="44" id="PMC5501061.nxml.gz-2" start="40">This</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-21" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1595" id="PMC5501061.nxml.gz-21" start="1250">It would have been worthwhile to include some more topics such as management of severely acute malnutrition, examples of high, low and moderate glycaemic index foods, how to read food labels (with examples), etc and also additional references for further reading would have been beneficial as the chapters are a quick guide to appraise the topic</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-22" type="identity">
+      <class id="would_have_been_worthwhile" label=""/>
+      <span end="1279" id="PMC5501061.nxml.gz-22" start="1253">would have been worthwhile</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-25" type="identity">
+      <class id="would_have_been_beneficial" label=""/>
+      <span end="1539" id="PMC5501061.nxml.gz-25" start="1513">would have been beneficial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-26" type="identity">
+      <class id="have_been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-27" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-28" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-29" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-3" type="identity">
+      <class id="focuses" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-30" type="identity">
+      <class id="this" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-31" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-32" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-4" type="identity">
+      <class id="focuses" label=""/>
+      <span end="57" id="PMC5501061.nxml.gz-4" start="50">focuses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-5" type="identity">
+      <class id="needs" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-6" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="113" id="PMC5501061.nxml.gz-6" start="108">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-8" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5501061.nxml.gz-9" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+  </document>
+</knowtator-project>

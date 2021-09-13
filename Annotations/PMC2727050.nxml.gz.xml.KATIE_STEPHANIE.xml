@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC2727050.nxml.gz" text-file="PMC2727050.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="106" id="PMC2727050.nxml.gz-1" start="0">Pre- and Postnatal Nutritional Histories Influence Reproductive Maturation and Ovarian Function in the Rat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-10" type="identity">
+      <class id="potential" label=""/>
+      <span end="254" id="PMC2727050.nxml.gz-10" start="245">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-100" type="identity">
+      <class id="links" label=""/>
+      <span end="4300" id="PMC2727050.nxml.gz-100" start="4295">links</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-102" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4725" id="PMC2727050.nxml.gz-102" start="4451">Part of an adaptive response to early life nutritional challenge might therefore be expected to be an acceleration in the age of reproductive maturation, provided that the organism can metabolically sustain earlier reproduction without further compromising its own viability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-104" type="identity">
+      <class id="might" label=""/>
+      <span end="4521" id="PMC2727050.nxml.gz-104" start="4516">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-105" type="identity">
+      <class id="therefore" label=""/>
+      <span end="4531" id="PMC2727050.nxml.gz-105" start="4522">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-106" type="identity">
+      <class id="expected" label=""/>
+      <span end="4543" id="PMC2727050.nxml.gz-106" start="4535">expected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-107" type="identity">
+      <class id="in_general" label=""/>
+      <span end="4737" id="PMC2727050.nxml.gz-107" start="4727">In general</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-108" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4979" id="PMC2727050.nxml.gz-108" start="4727">In general, life history concepts suggest that poor nutrition or threatening circumstances in early life lead to accelerated maturation, through which the organism trades body size and longevity for earlier reproduction in a threatening environment[26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-109" type="identity">
+      <class id="suggest" label=""/>
+      <span end="4768" id="PMC2727050.nxml.gz-109" start="4761">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-11" type="identity">
+      <class id="contributions" label=""/>
+      <span end="268" id="PMC2727050.nxml.gz-11" start="255">contributions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-111" type="identity">
+      <class id="lead_to" label=""/>
+      <span end="4839" id="PMC2727050.nxml.gz-111" start="4832">lead to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-112" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5403" id="PMC2727050.nxml.gz-112" start="4981">There are a wealth of data showing that in the rat, compromising early life signals such as maternal undernutrition or glucocorticoid exposure lead to offspring that develop a deleterious metabolic phenotype; including obesity, with both peripheral components such as sarcopenia and insulin resistance, and central components including hyperphagia, a preference for fatty foods and altered willingness to exercise[27]–[29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-113" type="identity">
+      <class id="showing" label=""/>
+      <span end="5015" id="PMC2727050.nxml.gz-113" start="5008">showing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-114" type="identity">
+      <class id="lead_to" label=""/>
+      <span end="5131" id="PMC2727050.nxml.gz-114" start="5124">lead to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-115" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5483" id="PMC2727050.nxml.gz-115" start="5405">More recently, the effects of relative ‘overnutrition’ have come into question</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-116" type="identity">
+      <class id="recently" label=""/>
+      <span end="5418" id="PMC2727050.nxml.gz-116" start="5410">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-117" type="identity">
+      <class id="effects" label=""/>
+      <span end="5431" id="PMC2727050.nxml.gz-117" start="5424">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-118" type="identity">
+      <class id="question" label=""/>
+      <span end="5483" id="PMC2727050.nxml.gz-118" start="5475">question</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-119" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-12" type="identity">
+      <class id="influences" label=""/>
+      <span end="305" id="PMC2727050.nxml.gz-12" start="295">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-120" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5648" id="PMC2727050.nxml.gz-120" start="5485">Of current concern in developed countries are the rising rates of obesity[30]and gestational diabetes, both of which produce offspring who develop obesity[31]–[35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-121" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="5503" id="PMC2727050.nxml.gz-121" start="5496">concern</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-122" type="identity">
+      <class id="while" label=""/>
+      <span end="5655" id="PMC2727050.nxml.gz-122" start="5650">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-123" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5881" id="PMC2727050.nxml.gz-123" start="5650">While it has been suggested that body fat and therefore childhood nutrition per se play a direct role in determining the age of pubertal onset[36],[37], the effects of an intrauterine obesogenic environment have not been considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-124" type="identity">
+      <class id="has_been_suggested" label=""/>
+      <span end="5677" id="PMC2727050.nxml.gz-124" start="5659">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-125" type="identity">
+      <class id="therefore" label=""/>
+      <span end="5705" id="PMC2727050.nxml.gz-125" start="5696">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-126" type="identity">
+      <class id="role" label=""/>
+      <span end="5751" id="PMC2727050.nxml.gz-126" start="5747">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-127" type="identity">
+      <class id="effects" label=""/>
+      <span end="5814" id="PMC2727050.nxml.gz-127" start="5807">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-128" type="identity">
+      <class id="have...been" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="558" id="PMC2727050.nxml.gz-13" start="355">In the present study we employed an established model of nutritional programming to evaluate the relative influences of prenatal and postnatal nutrition on growth and ovarian function in female offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-131" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6145" id="PMC2727050.nxml.gz-131" start="5883">The overall aim of the present study was to investigate the impact of differing nutritional exposures (standard rat chow, high fat or caloric restriction) during intrauterine and early postnatal life on pubertal onset and ovarian function in female rat offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-132" type="identity">
+      <class id="aim" label=""/>
+      <span end="5898" id="PMC2727050.nxml.gz-132" start="5895">aim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-133" type="identity">
+      <class id="present_study" label=""/>
+      <span end="5919" id="PMC2727050.nxml.gz-133" start="5906">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-134" type="identity">
+      <class id="to_investigate" label=""/>
+      <span end="5938" id="PMC2727050.nxml.gz-134" start="5924">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-135" type="identity">
+      <class id="impact" label=""/>
+      <span end="5949" id="PMC2727050.nxml.gz-135" start="5943">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-136" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6331" id="PMC2727050.nxml.gz-136" start="6147">Additionally, we investigated whether a lifetime of high fat consumption by the dam has differing effects compared to high fat consumption that is restricted to pregnancy and lactation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-137" type="identity">
+      <class id="investigated" label=""/>
+      <span end="6176" id="PMC2727050.nxml.gz-137" start="6164">investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-138" type="identity">
+      <class id="whether...compared" label=""/>
+      <span end="6184" id="PMC2727050.nxml.gz-138" start="6177">whether</span>
+      <span end="6261" id="PMC2727050.nxml.gz-139" start="6253">compared</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-14" type="identity">
+      <class id="present_study" label=""/>
+      <span end="375" id="PMC2727050.nxml.gz-14" start="362">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-140" type="identity">
+      <class id="effects" label=""/>
+      <span end="6252" id="PMC2727050.nxml.gz-140" start="6245">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-141" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-142" type="identity">
+      <class id="evaluated" label=""/>
+      <span end="6452" id="PMC2727050.nxml.gz-142" start="6443">evaluated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-143" type="identity">
+      <class id="either...or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-145" type="identity">
+      <class id="consistently" label=""/>
+      <span end="6623" id="PMC2727050.nxml.gz-145" start="6611">consistently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-146" type="identity">
+      <class id="although" label=""/>
+      <span end="6667" id="PMC2727050.nxml.gz-146" start="6659">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-147" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6852" id="PMC2727050.nxml.gz-147" start="6659">Although we report that the combination of prenatal caloric restriction and postnatal high fat nutrition also advanced the age at puberty, this was not directly linked to body weight at puberty</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-148" type="identity">
+      <class id="this" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-149" type="identity">
+      <class id="was_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-15" type="identity">
+      <class id="established" label=""/>
+      <span end="402" id="PMC2727050.nxml.gz-15" start="391">established</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-150" type="identity">
+      <class id="linked" label=""/>
+      <span end="6826" id="PMC2727050.nxml.gz-150" start="6820">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-151" type="identity">
+      <class id="intriguingly" label=""/>
+      <span end="6866" id="PMC2727050.nxml.gz-151" start="6854">Intriguingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-152" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7027" id="PMC2727050.nxml.gz-152" start="6854">Intriguingly, maternal high fat consumption also accelerated reproductive maturation in female offspring, but here a post-weaning high fat diet had limited additional effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-153" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="6963" id="PMC2727050.nxml.gz-153" start="6960">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-154" type="identity">
+      <class id="here" label=""/>
+      <span end="6968" id="PMC2727050.nxml.gz-154" start="6964">here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-155" type="identity">
+      <class id="limited" label=""/>
+      <span end="7009" id="PMC2727050.nxml.gz-155" start="7002">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-156" type="identity">
+      <class id="effect" label=""/>
+      <span end="7027" id="PMC2727050.nxml.gz-156" start="7021">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-157" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7266" id="PMC2727050.nxml.gz-157" start="7029">We also present data indicating that these two early life nutritional exposures had differential effects on later life ovarian function, suggestive of two developmental pathways that affect the tempo of reproductive maturation in the rat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-158" type="identity">
+      <class id="indicating" label=""/>
+      <span end="7060" id="PMC2727050.nxml.gz-158" start="7050">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-159" type="identity">
+      <class id="differential" label=""/>
+      <span end="7125" id="PMC2727050.nxml.gz-159" start="7113">differential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-16" type="identity">
+      <class id="0_model" label=""/>
+      <span end="408" id="PMC2727050.nxml.gz-16" start="403">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-160" type="identity">
+      <class id="effects" label=""/>
+      <span end="7133" id="PMC2727050.nxml.gz-160" start="7126">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-161" type="identity">
+      <class id="suggestive" label=""/>
+      <span end="7176" id="PMC2727050.nxml.gz-161" start="7166">suggestive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-162" type="identity">
+      <class id="affect" label=""/>
+      <span end="7218" id="PMC2727050.nxml.gz-162" start="7212">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-163" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7962" id="PMC2727050.nxml.gz-163" start="7825">Comparatively, maternal high fat nutrition led to a small but significant (p&lt;0.05) reduction in birth weight compared to Cont (Figure 1B)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-164" type="identity">
+      <class id="led_to" label=""/>
+      <span end="7874" id="PMC2727050.nxml.gz-164" start="7868">led to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-165" type="identity">
+      <class id="small" label=""/>
+      <span end="7882" id="PMC2727050.nxml.gz-165" start="7877">small</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-166" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="7886" id="PMC2727050.nxml.gz-166" start="7883">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-167" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-168" type="identity">
+      <class id="further" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-169" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="8346" id="PMC2727050.nxml.gz-169" start="8105">In contrast to calorie restricted offspring, these pups regained their weight and by day 12 (MHF) or day 14 (PLHF) surpassed controls in both weight and rate of weight gain, reflective of a significantly altered growth trajectory (Figure 1D)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-17" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="447" id="PMC2727050.nxml.gz-17" start="436">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-170" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="8289" id="PMC2727050.nxml.gz-170" start="8279">reflective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-171" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9534" id="PMC2727050.nxml.gz-171" start="9445">Pubertal onset and adult ovarian function is dependent on maternal nutritional background</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-172" type="identity">
+      <class id="dependent" label=""/>
+      <span end="9499" id="PMC2727050.nxml.gz-172" start="9490">dependent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-173" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9662" id="PMC2727050.nxml.gz-173" start="9572">Pubertal age of offspring born to control dams was similar to that reported previously[38]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-174" type="identity">
+      <class id="similar_to" label=""/>
+      <span end="9633" id="PMC2727050.nxml.gz-174" start="9623">similar to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-175" type="identity">
+      <class id="reported" label=""/>
+      <span end="9647" id="PMC2727050.nxml.gz-175" start="9639">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-176" type="identity">
+      <class id="previously" label=""/>
+      <span end="9658" id="PMC2727050.nxml.gz-176" start="9648">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-177" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10793" id="PMC2727050.nxml.gz-177" start="10627">Maternal nutrient restriction during pregnancy and/or lactation significantly advanced pubertal age in female offspring to a similar degree (p&lt;0.01,figure 2A;Table 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-178" type="identity">
+      <class id="similar" label=""/>
+      <span end="10759" id="PMC2727050.nxml.gz-178" start="10752">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-179" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11043" id="PMC2727050.nxml.gz-179" start="10795">In calorie restricted offspring (UNP, UNL, UNPL), a post-weaning HF diet further advanced the age at puberty (p&lt;0.001;Figure 2B, C, D;Table 1) compared to those offspring who were normally nourished in utero and fed a HF diet post-weaning (Table 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-18" type="identity">
+      <class id="influences" label=""/>
+      <span end="471" id="PMC2727050.nxml.gz-18" start="461">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-180" type="identity">
+      <class id="further" label=""/>
+      <span end="10875" id="PMC2727050.nxml.gz-180" start="10868">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-187" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13251" id="PMC2727050.nxml.gz-187" start="13051">A post-weaning HF diet significantly increased progesterone concentrations in Cont and UN animals (p&lt;0.05,Figure 4C), although in UNL offspring these differences did not reach statistical significance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-188" type="identity">
+      <class id="although" label=""/>
+      <span end="13177" id="PMC2727050.nxml.gz-188" start="13169">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-189" type="identity">
+      <class id="differences" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-19" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1149" id="PMC2727050.nxml.gz-19" start="903">We report that in the female rat, pubertal timing and subsequent ovarian function is influenced by the animal's nutritional status in utero , with both maternal caloric restriction and maternal high fat nutrition resulting in early pubertal onset</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-190" type="identity">
+      <class id="did_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-191" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13518" id="PMC2727050.nxml.gz-191" start="13253">Maternal consumption of a HF diet resulted in adult offspring progesterone concentrations that were significantly higher than those of offspring born to Cont dams (p&lt;0.05;Figure 4B), although in MHF offspring these differences did not reach statistical significance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-192" type="identity">
+      <class id="although" label=""/>
+      <span end="13444" id="PMC2727050.nxml.gz-192" start="13436">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-193" type="identity">
+      <class id="differences" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-194" type="identity">
+      <class id="did_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-195" type="identity">
+      <class id="significance" label=""/>
+      <span end="13518" id="PMC2727050.nxml.gz-195" start="13506">significance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-196" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-197" type="identity">
+      <class id="further" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-198" type="identity">
+      <class id="effect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-199" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14897" id="PMC2727050.nxml.gz-199" start="14684">Offspring that were exposed to altered maternal nutrition (either maternal undernutrition or high fat diet) all showed significantly lower body weights at pubertal onset compared to Cont offspring (p&lt;0.05;Table 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-2" type="identity">
+      <class id="influence" label=""/>
+      <span end="50" id="PMC2727050.nxml.gz-2" start="41">Influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-20" type="identity">
+      <class id="influenced" label=""/>
+      <span end="998" id="PMC2727050.nxml.gz-20" start="988">influenced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-200" type="identity">
+      <class id="showed" label=""/>
+      <span end="14802" id="PMC2727050.nxml.gz-200" start="14796">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-201" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15152" id="PMC2727050.nxml.gz-201" start="14911">These data demonstrate that intrauterine, lactational and post-weaning nutritional histories make differential contributions to the age of puberty in the female rat, and lead to persistent effects on ovarian function extending into adulthood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-202" type="identity">
+      <class id="demonstrate" label=""/>
+      <span end="14933" id="PMC2727050.nxml.gz-202" start="14922">demonstrate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-203" type="identity">
+      <class id="differential" label=""/>
+      <span end="15021" id="PMC2727050.nxml.gz-203" start="15009">differential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-204" type="identity">
+      <class id="contributions" label=""/>
+      <span end="15035" id="PMC2727050.nxml.gz-204" start="15022">contributions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-205" type="identity">
+      <class id="lead_to" label=""/>
+      <span end="15088" id="PMC2727050.nxml.gz-205" start="15081">lead to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-206" type="identity">
+      <class id="effects" label=""/>
+      <span end="15107" id="PMC2727050.nxml.gz-206" start="15100">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-207" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="15137" id="PMC2727050.nxml.gz-207" start="15128">extending</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-208" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15450" id="PMC2727050.nxml.gz-208" start="15154">While a post-weaning high fat diet had the effect of accelerating puberty, this was restricted to only those offspring of control dams or those born to dams that were calorie restricted, and in calorie restricted offspring this effect was relatively small compared to that of early life nutrition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-209" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="15159" id="PMC2727050.nxml.gz-209" start="15154">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-21" type="identity">
+      <class id="depending_on" label=""/>
+      <span end="1163" id="PMC2727050.nxml.gz-21" start="1151">Depending on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-210" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-211" type="identity">
+      <class id="effect" label=""/>
+      <span end="15203" id="PMC2727050.nxml.gz-211" start="15197">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-212" type="identity">
+      <class id="restricted" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-213" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="15256" id="PMC2727050.nxml.gz-213" start="15252">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-214" type="identity">
+      <class id="only" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-215" type="identity">
+      <class id="effect" label=""/>
+      <span end="15388" id="PMC2727050.nxml.gz-215" start="15382">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-216" type="identity">
+      <class id="small" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-217" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15822" id="PMC2727050.nxml.gz-217" start="15477">Fetal growth restriction as a consequence of impaired intrauterine conditions can be interpreted as part of a life history strategy in which the organism anticipates a shorter life because of a higher risk of extrinsic mortality, and therefore invests less into growth but accelerates maturation to ensure reproductive fitness[10],[36],[39]–[41]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-218" type="identity">
+      <class id="as" label=""/>
+      <span end="15504" id="PMC2727050.nxml.gz-218" start="15502">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-219" type="identity">
+      <class id="consequence" label=""/>
+      <span end="15518" id="PMC2727050.nxml.gz-219" start="15507">consequence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-22" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1398" id="PMC2727050.nxml.gz-22" start="1151">Depending on the offspring's nutritional history during the prenatal and lactational periods, subsequent nutrition and body weight gain did not further influence offspring reproductive tempo, which was dominated by the effect of prenatal nutrition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-220" type="identity">
+      <class id="can" label=""/>
+      <span end="15558" id="PMC2727050.nxml.gz-220" start="15555">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-221" type="identity">
+      <class id="interpreted_as" label=""/>
+      <span end="15576" id="PMC2727050.nxml.gz-221" start="15562">interpreted as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-222" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="15608" id="PMC2727050.nxml.gz-222" start="15600">strategy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-223" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="15665" id="PMC2727050.nxml.gz-223" start="15658">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-224" type="identity">
+      <class id="because" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-225" type="identity">
+      <class id="therefore" label=""/>
+      <span end="15720" id="PMC2727050.nxml.gz-225" start="15711">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-226" type="identity">
+      <class id="but" label=""/>
+      <span end="15749" id="PMC2727050.nxml.gz-226" start="15746">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-227" type="identity">
+      <class id="consistent" label=""/>
+      <span end="15834" id="PMC2727050.nxml.gz-227" start="15824">Consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-228" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16079" id="PMC2727050.nxml.gz-228" start="15824">Consistent with this, we observed that both prenatal and lactational undernutrition accelerated puberty – although only the former was accompanied by the later development of obesity and other components of metabolic compromise, as previously reported[29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-229" type="identity">
+      <class id="observed" label=""/>
+      <span end="15857" id="PMC2727050.nxml.gz-229" start="15849">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-23" type="identity">
+      <class id="did_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-230" type="identity">
+      <class id="although" label=""/>
+      <span end="15938" id="PMC2727050.nxml.gz-230" start="15930">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-231" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="15943" id="PMC2727050.nxml.gz-231" start="15939">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-232" type="identity">
+      <class id="accompanied" label=""/>
+      <span end="15970" id="PMC2727050.nxml.gz-232" start="15959">accompanied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-233" type="identity">
+      <class id="as" label=""/>
+      <span end="16055" id="PMC2727050.nxml.gz-233" start="16053">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-234" type="identity">
+      <class id="previously" label=""/>
+      <span end="16066" id="PMC2727050.nxml.gz-234" start="16056">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-235" type="identity">
+      <class id="reported" label=""/>
+      <span end="16075" id="PMC2727050.nxml.gz-235" start="16067">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-236" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16325" id="PMC2727050.nxml.gz-236" start="16081">The shift towards an earlier puberty may represent a life course strategy[10]intended to preserve fitness[36],[41]by reducing the risk of death before reproducing, or by allowing a greater number of successful reproductive episodes before death</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-237" type="identity">
+      <class id="may" label=""/>
+      <span end="16121" id="PMC2727050.nxml.gz-237" start="16118">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-238" type="identity">
+      <class id="represent" label=""/>
+      <span end="16131" id="PMC2727050.nxml.gz-238" start="16122">represent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-239" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="16154" id="PMC2727050.nxml.gz-239" start="16146">strategy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-24" type="identity">
+      <class id="further" label=""/>
+      <span end="1302" id="PMC2727050.nxml.gz-24" start="1295">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-240" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16518" id="PMC2727050.nxml.gz-240" start="16327">We speculate that the well reported phenomenon of metabolic programming as a result of poor prenatal nutrition might be a secondary outcome of a life history strategy to accelerate maturation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-241" type="identity">
+      <class id="speculate" label=""/>
+      <span end="16339" id="PMC2727050.nxml.gz-241" start="16330">speculate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-242" type="identity">
+      <class id="reported" label=""/>
+      <span end="16362" id="PMC2727050.nxml.gz-242" start="16354">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-243" type="identity">
+      <class id="as" label=""/>
+      <span end="16401" id="PMC2727050.nxml.gz-243" start="16399">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-244" type="identity">
+      <class id="poor" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-245" type="identity">
+      <class id="might" label=""/>
+      <span end="16443" id="PMC2727050.nxml.gz-245" start="16438">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-246" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="16493" id="PMC2727050.nxml.gz-246" start="16485">strategy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-247" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16739" id="PMC2727050.nxml.gz-247" start="16520">A fitness advantage would be obtained only if there were sufficient nutrient stores to support earlier reproduction, and an integrated adaptive response would thus require both accelerated puberty and altered metabolism</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-248" type="identity">
+      <class id="would_be" label=""/>
+      <span end="16548" id="PMC2727050.nxml.gz-248" start="16540">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-249" type="identity">
+      <class id="only_if" label=""/>
+      <span end="16565" id="PMC2727050.nxml.gz-249" start="16558">only if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-25" type="identity">
+      <class id="influence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-250" type="identity">
+      <class id="would" label=""/>
+      <span end="16678" id="PMC2727050.nxml.gz-250" start="16673">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-251" type="identity">
+      <class id="thus" label=""/>
+      <span end="16683" id="PMC2727050.nxml.gz-251" start="16679">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-252" type="identity">
+      <class id="require" label=""/>
+      <span end="16691" id="PMC2727050.nxml.gz-252" start="16684">require</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-253" type="identity">
+      <class id="however" label=""/>
+      <span end="16748" id="PMC2727050.nxml.gz-253" start="16741">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-254" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16850" id="PMC2727050.nxml.gz-254" start="16741">However, an accelerated reproductive tempo may not be maintained in the face of later nutritional constraints</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-255" type="identity">
+      <class id="may" label=""/>
+      <span end="16787" id="PMC2727050.nxml.gz-255" start="16784">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-257" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17071" id="PMC2727050.nxml.gz-257" start="16852">There may be a postnatal override such that if energetics remain poor during postnatal life, reproductive maturation may be delayed until the nutritional environment is improved sufficiently to support a first pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-258" type="identity">
+      <class id="may_be" label=""/>
+      <span end="16864" id="PMC2727050.nxml.gz-258" start="16858">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-259" type="identity">
+      <class id="if" label=""/>
+      <span end="16898" id="PMC2727050.nxml.gz-259" start="16896">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-26" type="identity">
+      <class id="effect" label=""/>
+      <span end="1376" id="PMC2727050.nxml.gz-26" start="1370">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-261" type="identity">
+      <class id="may_be" label=""/>
+      <span end="16975" id="PMC2727050.nxml.gz-261" start="16969">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-263" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17354" id="PMC2727050.nxml.gz-263" start="17073">Using a similar experimental paradigm, we have previously demonstrated that prenatal undernutrition in a rodent model was associated with a prepubertal increase in food intake[29]and alterations in epigenetic regulation of and mRNA levels of hepatic genes to favour lipogenesis[42]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-264" type="identity">
+      <class id="previously" label=""/>
+      <span end="17130" id="PMC2727050.nxml.gz-264" start="17120">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-265" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="17143" id="PMC2727050.nxml.gz-265" start="17131">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-266" type="identity">
+      <class id="0_model" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-267" type="identity">
+      <class id="associated" label=""/>
+      <span end="17205" id="PMC2727050.nxml.gz-267" start="17195">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-268" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17570" id="PMC2727050.nxml.gz-268" start="17356">Taken together, our observations could suggest that the prenatal undernutrition-induced acceleration in pubertal onset observed in the present study may contribute to a significant drive to alter metabolic capacity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-269" type="identity">
+      <class id="together" label=""/>
+      <span end="17370" id="PMC2727050.nxml.gz-269" start="17362">together</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-27" type="identity">
+      <class id="whereas" label=""/>
+      <span end="1407" id="PMC2727050.nxml.gz-27" start="1400">Whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-270" type="identity">
+      <class id="observations" label=""/>
+      <span end="17388" id="PMC2727050.nxml.gz-270" start="17376">observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-271" type="identity">
+      <class id="could" label=""/>
+      <span end="17394" id="PMC2727050.nxml.gz-271" start="17389">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-272" type="identity">
+      <class id="suggest" label=""/>
+      <span end="17402" id="PMC2727050.nxml.gz-272" start="17395">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-273" type="identity">
+      <class id="observed" label=""/>
+      <span end="17483" id="PMC2727050.nxml.gz-273" start="17475">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-275" type="identity">
+      <class id="may" label=""/>
+      <span end="17508" id="PMC2727050.nxml.gz-275" start="17505">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-276" type="identity">
+      <class id="contribute" label=""/>
+      <span end="17519" id="PMC2727050.nxml.gz-276" start="17509">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-277" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17770" id="PMC2727050.nxml.gz-277" start="17572">These data therefore may be consistent with clinical observations that that lower but normal birth weight followed by accelerated weight gain up to age 8 is associated with earlier menarche[12],[13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-278" type="identity">
+      <class id="therefore" label=""/>
+      <span end="17592" id="PMC2727050.nxml.gz-278" start="17583">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-279" type="identity">
+      <class id="may_be" label=""/>
+      <span end="17599" id="PMC2727050.nxml.gz-279" start="17593">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-28" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-280" type="identity">
+      <class id="consistent" label=""/>
+      <span end="17610" id="PMC2727050.nxml.gz-280" start="17600">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-281" type="identity">
+      <class id="observations" label=""/>
+      <span end="17637" id="PMC2727050.nxml.gz-281" start="17625">observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-282" type="identity">
+      <class id="associated" label=""/>
+      <span end="17739" id="PMC2727050.nxml.gz-282" start="17729">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-283" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17836" id="PMC2727050.nxml.gz-283" start="17772">Mechanisms regulating pubertal onset are no doubt multifactorial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-284" type="identity">
+      <class id="no_doubt" label=""/>
+      <span end="17821" id="PMC2727050.nxml.gz-284" start="17813">no doubt</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-285" type="identity">
+      <class id="multifactorial" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-286" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="17836" id="PMC2727050.nxml.gz-286" start="17822">multifactorial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-287" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-288" type="identity">
+      <class id="factor" label=""/>
+      <span end="17884" id="PMC2727050.nxml.gz-288" start="17878">factor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-289" type="identity">
+      <class id="either...or" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-29" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="1442" id="PMC2727050.nxml.gz-29" start="1437">leads</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-291" type="identity">
+      <class id="inadequate" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-292" type="identity">
+      <class id="affects" label=""/>
+      <span end="18139" id="PMC2727050.nxml.gz-292" start="18132">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-293" type="identity">
+      <class id="since" label=""/>
+      <span end="18174" id="PMC2727050.nxml.gz-293" start="18169">Since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-294" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18523" id="PMC2727050.nxml.gz-294" start="18169">Since in the present study neonatal growth trajectories in pups that were exposed to maternal undernutrition began to deviate from those of control pups at a time that coincides with a neonatal surge in circulating leptin concentrations, which itself is nutritionally influenced[49],[50], leptin may be a central driver in initiating maturational changes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-295" type="identity">
+      <class id="coincides" label=""/>
+      <span end="18346" id="PMC2727050.nxml.gz-295" start="18337">coincides</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-296" type="identity">
+      <class id="influenced" label=""/>
+      <span end="18447" id="PMC2727050.nxml.gz-296" start="18437">influenced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-297" type="identity">
+      <class id="may_be" label=""/>
+      <span end="18471" id="PMC2727050.nxml.gz-297" start="18465">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-298" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18664" id="PMC2727050.nxml.gz-298" start="18525">This is consistent with our previous observations that these offspring have altered leptin regulation and are hyperleptinemic as adults[51]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-299" type="identity">
+      <class id="consistent" label=""/>
+      <span end="18543" id="PMC2727050.nxml.gz-299" start="18533">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-3" type="identity">
+      <class id="while" label=""/>
+      <span end="134" id="PMC2727050.nxml.gz-3" start="129">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-30" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="1481" id="PMC2727050.nxml.gz-30" start="1476">leads</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-300" type="identity">
+      <class id="previous" label=""/>
+      <span end="18561" id="PMC2727050.nxml.gz-300" start="18553">previous</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-301" type="identity">
+      <class id="observations" label=""/>
+      <span end="18574" id="PMC2727050.nxml.gz-301" start="18562">observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-302" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-303" type="identity">
+      <class id="did_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-304" type="identity">
+      <class id="predict" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-305" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18915" id="PMC2727050.nxml.gz-305" start="18736">Indeed those offspring, for which maternal calorie restriction was extended into lactation, did not show obesity as adults, but still displayed accelerated reproductive maturation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-306" type="identity">
+      <class id="did_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-307" type="identity">
+      <class id="show" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-308" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="18869" id="PMC2727050.nxml.gz-308" start="18864">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-309" type="identity">
+      <class id="still" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-31" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="1552" id="PMC2727050.nxml.gz-31" start="1541">In contrast</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-310" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19138" id="PMC2727050.nxml.gz-310" start="18917">The observation that lactational undernutrition can lead to a modification of the adult metabolic phenotype is compatible with work by others showing that postnatal undernutrition can modify metabolic programming[52],[53]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-311" type="identity">
+      <class id="observation" label=""/>
+      <span end="18932" id="PMC2727050.nxml.gz-311" start="18921">observation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-312" type="identity">
+      <class id="can" label=""/>
+      <span end="18968" id="PMC2727050.nxml.gz-312" start="18965">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-313" type="identity">
+      <class id="lead_to" label=""/>
+      <span end="18976" id="PMC2727050.nxml.gz-313" start="18969">lead to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-314" type="identity">
+      <class id="showing" label=""/>
+      <span end="19066" id="PMC2727050.nxml.gz-314" start="19059">showing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-315" type="identity">
+      <class id="can" label=""/>
+      <span end="19100" id="PMC2727050.nxml.gz-315" start="19097">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-316" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19271" id="PMC2727050.nxml.gz-316" start="19140">It does appear however that such modification does not reverse the altered tempo of reproductive maturation in programmed offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-317" type="identity">
+      <class id="appear" label=""/>
+      <span end="19154" id="PMC2727050.nxml.gz-317" start="19148">appear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-318" type="identity">
+      <class id="however" label=""/>
+      <span end="19162" id="PMC2727050.nxml.gz-318" start="19155">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-319" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19445" id="PMC2727050.nxml.gz-319" start="19273">Using a life-history interpretation, adaptive developmental responses to environmental cues may be graded; according to the severity of the stress experienced[22],[54]–[56]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-32" type="identity">
+      <class id="found" label=""/>
+      <span end="1562" id="PMC2727050.nxml.gz-32" start="1557">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-320" type="identity">
+      <class id="interpretation" label=""/>
+      <span end="19308" id="PMC2727050.nxml.gz-320" start="19294">interpretation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-321" type="identity">
+      <class id="may_be" label=""/>
+      <span end="19371" id="PMC2727050.nxml.gz-321" start="19365">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-322" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="19392" id="PMC2727050.nxml.gz-322" start="19380">according to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-323" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19602" id="PMC2727050.nxml.gz-323" start="19447">The differing outcomes between each of the perinatal undernutrition approaches reported here are likely to reflect these confounders of severity and timing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-324" type="identity">
+      <class id="reported" label=""/>
+      <span end="19534" id="PMC2727050.nxml.gz-324" start="19526">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-325" type="identity">
+      <class id="here" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-326" type="identity">
+      <class id="likely" label=""/>
+      <span end="19550" id="PMC2727050.nxml.gz-326" start="19544">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-327" type="identity">
+      <class id="reflect" label=""/>
+      <span end="19561" id="PMC2727050.nxml.gz-327" start="19554">reflect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-328" type="identity">
+      <class id="confounders" label=""/>
+      <span end="19579" id="PMC2727050.nxml.gz-328" start="19568">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-329" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19790" id="PMC2727050.nxml.gz-329" start="19632">We found that exposure to a high fat diet either throughout the lifetime of the mother or restricted to pregnancy and/or lactation led to early pubertal onset</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33" type="identity">
+      <class id="associated" label=""/>
+      <span end="1657" id="PMC2727050.nxml.gz-33" start="1647">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-330" type="identity">
+      <class id="found" label=""/>
+      <span end="19640" id="PMC2727050.nxml.gz-330" start="19635">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-331" type="identity">
+      <class id="led_to" label=""/>
+      <span end="19769" id="PMC2727050.nxml.gz-331" start="19763">led to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-332" type="identity">
+      <class id="these_findings" label=""/>
+      <span end="19806" id="PMC2727050.nxml.gz-332" start="19792">These findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-333" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19911" id="PMC2727050.nxml.gz-333" start="19792">These findings are compatible with a previous report of early puberty following high fat nutrition during pregnancy[57]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-334" type="identity">
+      <class id="previous" label=""/>
+      <span end="19837" id="PMC2727050.nxml.gz-334" start="19829">previous</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-335" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20184" id="PMC2727050.nxml.gz-335" start="19913">High fat perinatal nutrition advanced the age at puberty to the same degree as did post-weaning high fat nutrition in control offspring, and intriguingly the addition of a high fat postnatal diet following high fat prenatal nutrition had no further effect on pubertal age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-336" type="identity">
+      <class id="intriguingly" label=""/>
+      <span end="20066" id="PMC2727050.nxml.gz-336" start="20054">intriguingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-337" type="identity">
+      <class id="no" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33755" type="identity">
+      <class id="subject_scope"/>
+      <span end="1539" id="PMC2727050.nxml.gz-33756" start="1400">Whereas maternal calorie restriction leads to early pubertal onset, it also leads to a reduction in adult progesterone levels later in life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33757" type="identity">
+      <class id="subject_scope"/>
+      <span end="1699" id="PMC2727050.nxml.gz-33758" start="1541">In contrast, we found that maternal high fat feeding which also induces early maturation in offspring was associated with elevated progesterone concentrations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33759" type="identity">
+      <class id="have...been"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33761" type="identity">
+      <class id="full_unknown"/>
+      <span end="5881" id="PMC2727050.nxml.gz-33762" start="5857">have not been considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33763" type="identity">
+      <class id="subject_scope"/>
+      <span end="6521" id="PMC2727050.nxml.gz-33764" start="6440">We evaluated growth, timing of reproductive maturation and adult ovarian function</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33765" type="identity">
+      <class id="subject_scope"/>
+      <span end="6657" id="PMC2727050.nxml.gz-33766" start="6523">We report that early life caloric restriction, either before birth or during lactation, consistently accelerates the age of maturation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33767" type="identity">
+      <class id="further"/>
+      <span end="7983" id="PMC2727050.nxml.gz-33768" start="7976">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33769" type="identity">
+      <class id="subject_scope"/>
+      <span end="8103" id="PMC2727050.nxml.gz-33770" start="7964">There was a further significant (p&lt;0.05) reduction in birth weight of female offspring born to PLHF dams compared to MHF and Cont offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33771" type="identity">
+      <class id="subject_scope"/>
+      <span end="17918" id="PMC2727050.nxml.gz-33772" start="17838">Leptin is a permissive neuro-regulatory factor for the onset of puberty[43],[44]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33773" type="identity">
+      <class id="subject_scope"/>
+      <span end="18167" id="PMC2727050.nxml.gz-33774" start="17920">It synchronizes growth and fertility with periods of either adequate or inadequate food availability[45]; post-weaning treatment with leptin accelerates puberty in rodents[46],[47], and leptin in the rat neonate affects hypothalamic maturation[48]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33775" type="identity">
+      <class id="important_consideration"/>
+      <span end="21768" id="PMC2727050.nxml.gz-33776" start="21748">cannot be discounted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33777" type="identity">
+      <class id="subject_scope"/>
+      <span end="21928" id="PMC2727050.nxml.gz-33778" start="21770">In contrast to MHF and PLHF offspring, those born to dams that were undernourished during pregnancy showed lower adult circulating progesterone concentrations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33779" type="identity">
+      <class id="subject_scope"/>
+      <span end="22167" id="PMC2727050.nxml.gz-33780" start="21930">In life history terms, the trade-off for those born to dams undernourished during pregnancy may be an earlier maturation but a faster decline in ovarian function with aging, associated with significantly reduced adult progesterone levels</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33781" type="identity">
+      <class id="subject_scope"/>
+      <span end="22289" id="PMC2727050.nxml.gz-33782" start="22169">There are data that suggest that at least in mice, aging per se may be accelerated in offspring of poorly nourished dams</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33783" type="identity">
+      <class id="subject_scope"/>
+      <span end="22428" id="PMC2727050.nxml.gz-33784" start="22291">Ozanne et al. [59]have reported that prenatal undernutrition, in contrast to postnatal undernutrition, leads to reduced longevity in mice</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33785" type="identity">
+      <class id="problem_complication"/>
+      <span end="22961" id="PMC2727050.nxml.gz-33786" start="22940">number of differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-33787" type="identity">
+      <class id="further_studies"/>
+      <span end="24105" id="PMC2727050.nxml.gz-33788" start="24090">further studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-338" type="identity">
+      <class id="further" label=""/>
+      <span end="20161" id="PMC2727050.nxml.gz-338" start="20154">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-339" type="identity">
+      <class id="effect" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-34" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1886" id="PMC2727050.nxml.gz-34" start="1714">These observations are suggestive of two distinct developmental pathways leading to the acceleration of pubertal timing but with different consequences for ovarian function</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-340" type="identity">
+      <class id="therefore" label=""/>
+      <span end="20195" id="PMC2727050.nxml.gz-340" start="20186">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-341" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20347" id="PMC2727050.nxml.gz-341" start="20186">Therefore, nutritionally-induced accelerated reproductive maturation following high fat exposure may not be limited to one distinct critical developmental window</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-342" type="identity">
+      <class id="may" label=""/>
+      <span end="20286" id="PMC2727050.nxml.gz-342" start="20283">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-343" type="identity">
+      <class id="limited" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-344" type="identity">
+      <class id="critical" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-345" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20446" id="PMC2727050.nxml.gz-345" start="20349">In our model, early life signals of high fat nutritional conditions led to accelerated maturation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-346" type="identity">
+      <class id="0_model" label=""/>
+      <span end="20361" id="PMC2727050.nxml.gz-346" start="20356">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-347" type="identity">
+      <class id="led_to" label=""/>
+      <span end="20423" id="PMC2727050.nxml.gz-347" start="20417">led to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-348" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20656" id="PMC2727050.nxml.gz-348" start="20448">We have previously shown that offspring of dams fed a high fat diet throughout life (including during pregnancy and lactation) show accelerated weight gain in postnatal life, independent of postnatal diet[58]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-349" type="identity">
+      <class id="previously_shown" label=""/>
+      <span end="20472" id="PMC2727050.nxml.gz-349" start="20456">previously shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-35" type="identity">
+      <class id="observations" label=""/>
+      <span end="1732" id="PMC2727050.nxml.gz-35" start="1720">observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-350" type="identity">
+      <class id="show" label=""/>
+      <span end="20579" id="PMC2727050.nxml.gz-350" start="20575">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-351" type="identity">
+      <class id="independent" label=""/>
+      <span end="20634" id="PMC2727050.nxml.gz-351" start="20623">independent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-352" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20925" id="PMC2727050.nxml.gz-352" start="20658">In the present study, offspring of nutritionally challenged dams develop obesity; thus a perpetuation and possibly a compounding of accelerated pubertal onset may ensue in the next generation as these offspring will themselves be fatter at an earlier reproductive age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-353" type="identity">
+      <class id="present_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-354" type="identity">
+      <class id="thus" label=""/>
+      <span end="20744" id="PMC2727050.nxml.gz-354" start="20740">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-355" type="identity">
+      <class id="possibly" label=""/>
+      <span end="20772" id="PMC2727050.nxml.gz-355" start="20764">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-356" type="identity">
+      <class id="may" label=""/>
+      <span end="20820" id="PMC2727050.nxml.gz-356" start="20817">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-357" type="identity">
+      <class id="as" label=""/>
+      <span end="20852" id="PMC2727050.nxml.gz-357" start="20850">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-358" type="identity">
+      <class id="will" label=""/>
+      <span end="20873" id="PMC2727050.nxml.gz-358" start="20869">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-359" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21208" id="PMC2727050.nxml.gz-359" start="20945">Maternal exposure to either caloric restriction or to high fat nutrition was associated with accelerated puberty in female offspring, but there were distinct differences in mature ovarian function as measured by progesterone concentrations in the proestrous phase</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-36" type="identity">
+      <class id="suggestive" label=""/>
+      <span end="1747" id="PMC2727050.nxml.gz-36" start="1737">suggestive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-360" type="identity">
+      <class id="associated" label=""/>
+      <span end="21032" id="PMC2727050.nxml.gz-360" start="21022">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-361" type="identity">
+      <class id="but" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-362" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="21082" id="PMC2727050.nxml.gz-362" start="21079">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-363" type="identity">
+      <class id="differences" label=""/>
+      <span end="21114" id="PMC2727050.nxml.gz-363" start="21103">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-364" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-365" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21495" id="PMC2727050.nxml.gz-365" start="21210">The study design did not allow for a direct measure of reproductive performance, however, high salivary progesterone concentrations in women is associated with greater ovulation rates and ovulatory events are associated with childhood and adult environmental and ecological factors[58]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-366" type="identity">
+      <class id="did_not_allow" label=""/>
+      <span end="21240" id="PMC2727050.nxml.gz-366" start="21227">did not allow</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-367" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-368" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="21298" id="PMC2727050.nxml.gz-368" start="21291">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-369" type="identity">
+      <class id="associated" label=""/>
+      <span end="21364" id="PMC2727050.nxml.gz-369" start="21354">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-37" type="identity">
+      <class id="but" label=""/>
+      <span end="1837" id="PMC2727050.nxml.gz-37" start="1834">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-370" type="identity">
+      <class id="associated" label=""/>
+      <span end="21429" id="PMC2727050.nxml.gz-370" start="21419">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-371" type="identity">
+      <class id="factors" label=""/>
+      <span end="21491" id="PMC2727050.nxml.gz-371" start="21484">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-372" type="identity">
+      <class id="although" label=""/>
+      <span end="21505" id="PMC2727050.nxml.gz-372" start="21497">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-373" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21679" id="PMC2727050.nxml.gz-373" start="21497">Although we did not measure reproductive performance, we speculate that the higher progesterone concentrations observed may be associated with better functioning of the corpora lutea</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-374" type="identity">
+      <class id="did_not" label=""/>
+      <span end="21516" id="PMC2727050.nxml.gz-374" start="21509">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-375" type="identity">
+      <class id="speculate" label=""/>
+      <span end="21563" id="PMC2727050.nxml.gz-375" start="21554">speculate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-376" type="identity">
+      <class id="observed" label=""/>
+      <span end="21616" id="PMC2727050.nxml.gz-376" start="21608">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-377" type="identity">
+      <class id="may_be" label=""/>
+      <span end="21623" id="PMC2727050.nxml.gz-377" start="21617">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-378" type="identity">
+      <class id="associated" label=""/>
+      <span end="21634" id="PMC2727050.nxml.gz-378" start="21624">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-379" type="identity">
+      <class id="better" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-38" type="identity">
+      <class id="different" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-380" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21768" id="PMC2727050.nxml.gz-380" start="21681">We recognise however that the influence of central gonadal drivers cannot be discounted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-381" type="identity">
+      <class id="recognise" label=""/>
+      <span end="21693" id="PMC2727050.nxml.gz-381" start="21684">recognise</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-382" type="identity">
+      <class id="however" label=""/>
+      <span end="21701" id="PMC2727050.nxml.gz-382" start="21694">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-383" type="identity">
+      <class id="influence" label=""/>
+      <span end="21720" id="PMC2727050.nxml.gz-383" start="21711">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-384" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-385" type="identity">
+      <class id="cannot_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-386" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-387" type="identity">
+      <class id="in_contrast_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-388" type="identity">
+      <class id="showed" label=""/>
+      <span end="21876" id="PMC2727050.nxml.gz-388" start="21870">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-389" type="identity">
+      <class id="may_be" label=""/>
+      <span end="22028" id="PMC2727050.nxml.gz-389" start="22022">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-39" type="identity">
+      <class id="consequences" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-390" type="identity">
+      <class id="but" label=""/>
+      <span end="22054" id="PMC2727050.nxml.gz-390" start="22051">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-391" type="identity">
+      <class id="associated" label=""/>
+      <span end="22114" id="PMC2727050.nxml.gz-391" start="22104">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-392" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-393" type="identity">
+      <class id="suggest" label=""/>
+      <span end="22196" id="PMC2727050.nxml.gz-393" start="22189">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-394" type="identity">
+      <class id="at_least" label=""/>
+      <span end="22210" id="PMC2727050.nxml.gz-394" start="22202">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-395" type="identity">
+      <class id="may_be" label=""/>
+      <span end="22239" id="PMC2727050.nxml.gz-395" start="22233">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-396" type="identity">
+      <class id="have_reported" label=""/>
+      <span end="22322" id="PMC2727050.nxml.gz-396" start="22309">have reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-397" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22573" id="PMC2727050.nxml.gz-397" start="22430">In our study, while puberty was accelerated in maternal high fat exposed offspring, ovarian function was maintained or enhanced into adult life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-398" type="identity">
+      <class id="while" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-399" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="22449" id="PMC2727050.nxml.gz-399" start="22444">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-4" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="353" id="PMC2727050.nxml.gz-4" start="129">While prepubertal nutritional influences appear to play a role in sexual maturation, there is a need to clarify the potential contributions of maternal and childhood influences in setting the tempo of reproductive maturation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-40" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2009" id="PMC2727050.nxml.gz-40" start="1888">We suggest different adaptive explanations for these pathways and for their relationship to altered metabolic homeostasis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-400" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22837" id="PMC2727050.nxml.gz-400" start="22575">We speculate that whereas pubertal onset was accelerated in the UNP group to maintain some potential for reproduction in an environment predicted to have a higher mortality risk, in the HF offspring maturation was accelerated to opportunistically enhance fitness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-401" type="identity">
+      <class id="speculate" label=""/>
+      <span end="22587" id="PMC2727050.nxml.gz-401" start="22578">speculate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-402" type="identity">
+      <class id="whereas" label=""/>
+      <span end="22600" id="PMC2727050.nxml.gz-402" start="22593">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-403" type="identity">
+      <class id="some" label=""/>
+      <span end="22665" id="PMC2727050.nxml.gz-403" start="22661">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-404" type="identity">
+      <class id="potential" label=""/>
+      <span end="22675" id="PMC2727050.nxml.gz-404" start="22666">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-405" type="identity">
+      <class id="predicted" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-406" type="identity">
+      <class id="enhance" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-407" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22980" id="PMC2727050.nxml.gz-407" start="22839">Finally, while the use of rodent models for reproductive investigation is generally well accepted, a number of differences must be recognized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-408" type="identity">
+      <class id="while" label=""/>
+      <span end="22853" id="PMC2727050.nxml.gz-408" start="22848">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-409" type="identity">
+      <class id="models" label=""/>
+      <span end="22878" id="PMC2727050.nxml.gz-409" start="22872">models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-41" type="identity">
+      <class id="suggest" label=""/>
+      <span end="1898" id="PMC2727050.nxml.gz-41" start="1891">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-410" type="identity">
+      <class id="generally" label=""/>
+      <span end="22922" id="PMC2727050.nxml.gz-410" start="22913">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-411" type="identity">
+      <class id="accepted" label=""/>
+      <span end="22936" id="PMC2727050.nxml.gz-411" start="22928">accepted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-412" type="identity">
+      <class id="number_of" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-413" type="identity">
+      <class id="differences" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-414" type="identity">
+      <class id="difficult_task" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-415" type="identity">
+      <class id="must...be" label=""/>
+      <span end="22969" id="PMC2727050.nxml.gz-415" start="22962">must be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-416" type="identity">
+      <class id="recognized" label=""/>
+      <span end="22980" id="PMC2727050.nxml.gz-416" start="22970">recognized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-417" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23231" id="PMC2727050.nxml.gz-417" start="22982">Rodents for instance have short reproductive cycles closely linked with circadian rhythms, and do not experience menses or true “menopause” as a result of follicular depletion as typically observed in humans, although follicular depletion does occur</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-418" type="identity">
+      <class id="linked" label=""/>
+      <span end="23048" id="PMC2727050.nxml.gz-418" start="23042">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-419" type="identity">
+      <class id="as" label=""/>
+      <span end="23124" id="PMC2727050.nxml.gz-419" start="23122">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-42" type="identity">
+      <class id="different" label=""/>
+      <span end="1908" id="PMC2727050.nxml.gz-42" start="1899">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-420" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-421" type="identity">
+      <class id="observed" label=""/>
+      <span end="23179" id="PMC2727050.nxml.gz-421" start="23171">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-422" type="identity">
+      <class id="although" label=""/>
+      <span end="23199" id="PMC2727050.nxml.gz-422" start="23191">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-423" type="identity">
+      <class id="does" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-424" type="identity">
+      <class id="although" label=""/>
+      <span end="23241" id="PMC2727050.nxml.gz-424" start="23233">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-425" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23471" id="PMC2727050.nxml.gz-425" start="23233">Although we accept that rodents and humans may differ in their adaptive responses to early life cues, there are many reports outlining associations between a suboptimal early life environment and altered phenotype in both species[60],[61]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-426" type="identity">
+      <class id="may" label=""/>
+      <span end="23279" id="PMC2727050.nxml.gz-426" start="23276">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-427" type="identity">
+      <class id="differ" label=""/>
+      <span end="23286" id="PMC2727050.nxml.gz-427" start="23280">differ</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-428" type="identity">
+      <class id="associations" label=""/>
+      <span end="23380" id="PMC2727050.nxml.gz-428" start="23368">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-429" type="identity">
+      <class id="in_summary" label=""/>
+      <span end="23496" id="PMC2727050.nxml.gz-429" start="23486">In summary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-43" type="identity">
+      <class id="explanations" label=""/>
+      <span end="1930" id="PMC2727050.nxml.gz-43" start="1918">explanations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-430" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23678" id="PMC2727050.nxml.gz-430" start="23486">In summary, we have demonstrated that in the rat, pre- and postnatal nutritional histories together influence both ovarian function and the tempo of reproductive maturation in female offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-431" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="23518" id="PMC2727050.nxml.gz-431" start="23506">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-432" type="identity">
+      <class id="together" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-433" type="identity">
+      <class id="influence" label=""/>
+      <span end="23595" id="PMC2727050.nxml.gz-433" start="23586">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-434" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23919" id="PMC2727050.nxml.gz-434" start="23680">In our study, both maternal high fat nutrition and diminished maternal calorie intake impacted on female offspring reproductive maturation resulting in early pubertal onset, most likely through two different, potentially adaptive, pathways</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-435" type="identity">
+      <class id="our_study" label=""/>
+      <span end="23692" id="PMC2727050.nxml.gz-435" start="23683">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-436" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="23774" id="PMC2727050.nxml.gz-436" start="23766">impacted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-437" type="identity">
+      <class id="most_likely" label=""/>
+      <span end="23865" id="PMC2727050.nxml.gz-437" start="23854">most likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-438" type="identity">
+      <class id="different" label=""/>
+      <span end="23887" id="PMC2727050.nxml.gz-438" start="23878">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-439" type="identity">
+      <class id="potentially" label=""/>
+      <span end="23900" id="PMC2727050.nxml.gz-439" start="23889">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-44" type="identity">
+      <class id="relationship" label=""/>
+      <span end="1976" id="PMC2727050.nxml.gz-44" start="1964">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-440" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24136" id="PMC2727050.nxml.gz-440" start="23921">We speculate that our findings may imply adaptive responses to early life cues predicted by a life-history approach, although confirmation of these predictions requires further studies to assess reproductive fitness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-441" type="identity">
+      <class id="speculate" label=""/>
+      <span end="23933" id="PMC2727050.nxml.gz-441" start="23924">speculate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-442" type="identity">
+      <class id="our_findings" label=""/>
+      <span end="23951" id="PMC2727050.nxml.gz-442" start="23939">our findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-443" type="identity">
+      <class id="may" label=""/>
+      <span end="23955" id="PMC2727050.nxml.gz-443" start="23952">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-444" type="identity">
+      <class id="imply" label=""/>
+      <span end="23961" id="PMC2727050.nxml.gz-444" start="23956">imply</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-445" type="identity">
+      <class id="predicted" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-446" type="identity">
+      <class id="although" label=""/>
+      <span end="24046" id="PMC2727050.nxml.gz-446" start="24038">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-447" type="identity">
+      <class id="confirmation" label=""/>
+      <span end="24059" id="PMC2727050.nxml.gz-447" start="24047">confirmation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-448" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-449" type="identity">
+      <class id="requires" label=""/>
+      <span end="24089" id="PMC2727050.nxml.gz-449" start="24081">requires</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-45" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2219" id="PMC2727050.nxml.gz-45" start="2025">The past century has seen a dramatic decline in the age of menarche: in Europe the age of menarche has fallen from 17 to ∼12.5 years of age[1]–[5], although the rate of decline is slowing[6],[7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-450" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-451" type="identity">
+      <class id="to_assess" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-452" type="identity">
+      <class id="future_studies" label=""/>
+      <span end="24152" id="PMC2727050.nxml.gz-452" start="24138">Future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-453" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24322" id="PMC2727050.nxml.gz-453" start="24138">Future studies will elucidate the long term effects of maternal nutrition on offspring reproductive capability and to determine the molecular mechanisms underlying early pubertal onset</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-454" type="identity">
+      <class id="will" label=""/>
+      <span end="24157" id="PMC2727050.nxml.gz-454" start="24153">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-455" type="identity">
+      <class id="elucidate" label=""/>
+      <span end="24167" id="PMC2727050.nxml.gz-455" start="24158">elucidate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-456" type="identity">
+      <class id="effects" label=""/>
+      <span end="24189" id="PMC2727050.nxml.gz-456" start="24182">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-457" type="identity">
+      <class id="to_determine" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-458" type="identity">
+      <class id="underlying" label=""/>
+      <span end="24301" id="PMC2727050.nxml.gz-458" start="24291">underlying</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-459" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-46" type="identity">
+      <class id="has_seen" label=""/>
+      <span end="2050" id="PMC2727050.nxml.gz-46" start="2042">has seen</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-460" type="identity">
+      <class id="established" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-461" type="identity">
+      <class id="0_model" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-47" type="identity">
+      <class id="although" label=""/>
+      <span end="2181" id="PMC2727050.nxml.gz-47" start="2173">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-48" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-49" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2364" id="PMC2727050.nxml.gz-49" start="2221">This fall is usually attributed to improvements in child health and nutrition since the early 19thcentury, when the age of menarche was highest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-5" type="identity">
+      <class id="influences" label=""/>
+      <span end="169" id="PMC2727050.nxml.gz-5" start="159">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-50" type="identity">
+      <class id="usually" label=""/>
+      <span end="2241" id="PMC2727050.nxml.gz-50" start="2234">usually</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-51" type="identity">
+      <class id="attributed" label=""/>
+      <span end="2252" id="PMC2727050.nxml.gz-51" start="2242">attributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-52" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2639" id="PMC2727050.nxml.gz-52" start="2366">This led to the hypothesis that the age of menarche is directly linked to a critical degree of body fat[8]; however although prepubertal nutrition and the age of puberty are certainly associated in some way, this concept did not stand up to critical analysis of the data[9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-53" type="identity">
+      <class id="led_to" label=""/>
+      <span end="2377" id="PMC2727050.nxml.gz-53" start="2371">led to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-54" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="2392" id="PMC2727050.nxml.gz-54" start="2382">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-55" type="identity">
+      <class id="linked" label=""/>
+      <span end="2436" id="PMC2727050.nxml.gz-55" start="2430">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-56" type="identity">
+      <class id="however" label=""/>
+      <span end="2481" id="PMC2727050.nxml.gz-56" start="2474">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-57" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-58" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="2490" id="PMC2727050.nxml.gz-58" start="2482">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-59" type="identity">
+      <class id="associated" label=""/>
+      <span end="2560" id="PMC2727050.nxml.gz-59" start="2550">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-6" type="identity">
+      <class id="appear" label=""/>
+      <span end="176" id="PMC2727050.nxml.gz-6" start="170">appear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-60" type="identity">
+      <class id="some" label=""/>
+      <span end="2568" id="PMC2727050.nxml.gz-60" start="2564">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-61" type="identity">
+      <class id="this_concept" label=""/>
+      <span end="2586" id="PMC2727050.nxml.gz-61" start="2574">this concept</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-62" type="identity">
+      <class id="did_not" label=""/>
+      <span end="2594" id="PMC2727050.nxml.gz-62" start="2587">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-63" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2810" id="PMC2727050.nxml.gz-63" start="2641">Data in humans suggest the possibility that complex interactions between prenatal and postnatal events influence the timing of puberty within one generation[2],[10],[11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-64" type="identity">
+      <class id="suggest" label=""/>
+      <span end="2663" id="PMC2727050.nxml.gz-64" start="2656">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-65" type="identity">
+      <class id="possibility" label=""/>
+      <span end="2679" id="PMC2727050.nxml.gz-65" start="2668">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-66" type="identity">
+      <class id="complex" label=""/>
+      <span end="2692" id="PMC2727050.nxml.gz-66" start="2685">complex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-67" type="identity">
+      <class id="interactions" label=""/>
+      <span end="2705" id="PMC2727050.nxml.gz-67" start="2693">interactions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-68" type="identity">
+      <class id="influence" label=""/>
+      <span end="2753" id="PMC2727050.nxml.gz-68" start="2744">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-69" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3052" id="PMC2727050.nxml.gz-69" start="2812">In the 1948 UK birth cohort, both being born smaller and accelerated weight gain in childhood led to independent and interactive effects on the age of menarche[12], and we have recently confirmed this observation in an Australian cohort[13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-7" type="identity">
+      <class id="role" label=""/>
+      <span end="191" id="PMC2727050.nxml.gz-7" start="187">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-70" type="identity">
+      <class id="led_to" label=""/>
+      <span end="2912" id="PMC2727050.nxml.gz-70" start="2906">led to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-71" type="identity">
+      <class id="probable_understanding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-72" type="identity">
+      <class id="independent" label=""/>
+      <span end="2924" id="PMC2727050.nxml.gz-72" start="2913">independent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-73" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="2940" id="PMC2727050.nxml.gz-73" start="2929">interactive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-74" type="identity">
+      <class id="effects" label=""/>
+      <span end="2948" id="PMC2727050.nxml.gz-74" start="2941">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-75" type="identity">
+      <class id="recently" label=""/>
+      <span end="2997" id="PMC2727050.nxml.gz-75" start="2989">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-76" type="identity">
+      <class id="confirmed" label=""/>
+      <span end="3007" id="PMC2727050.nxml.gz-76" start="2998">confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-77" type="identity">
+      <class id="observation" label=""/>
+      <span end="3024" id="PMC2727050.nxml.gz-77" start="3013">observation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-78" type="identity">
+      <class id="opposing" label=""/>
+      <span end="3062" id="PMC2727050.nxml.gz-78" start="3054">Opposing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-79" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3228" id="PMC2727050.nxml.gz-79" start="3054">Opposing influences of prenatal and postnatal growth have previously been described for adrenarche[14], central fat distribution[15]and insulin sensitivity at age 8 years[16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-8" type="identity">
+      <class id="need" label=""/>
+      <span end="229" id="PMC2727050.nxml.gz-8" start="225">need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-80" type="identity">
+      <class id="influences" label=""/>
+      <span end="3073" id="PMC2727050.nxml.gz-80" start="3063">influences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-81" type="identity">
+      <class id="have...been" label=""/>
+      <span end="3111" id="PMC2727050.nxml.gz-81" start="3107">have</span>
+      <span end="3127" id="PMC2727050.nxml.gz-82" start="3123">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-83" type="identity">
+      <class id="described" label=""/>
+      <span end="3137" id="PMC2727050.nxml.gz-83" start="3128">described</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-84" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3566" id="PMC2727050.nxml.gz-84" start="3230">In data derived from adoption studies[17],[18], young girls who migrated from underprivileged countries to developed countries entered puberty significantly earlier than girls who remained in their country of origin[19],[20], and in unrelated studies such children have shown persistent differences in ovarian function later in life[11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-85" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="3505" id="PMC2727050.nxml.gz-85" start="3495">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-86" type="identity">
+      <class id="differences" label=""/>
+      <span end="3528" id="PMC2727050.nxml.gz-86" start="3517">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-87" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3843" id="PMC2727050.nxml.gz-87" start="3568">It has been argued that the effects of intrauterine cues such as prenatal undernutrition on later metabolic function have an adaptive origin[21], in that they are a result of evolved processes designed to maintain reproductive fitness across a range of potential environments</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-88" type="identity">
+      <class id="argued" label=""/>
+      <span end="3586" id="PMC2727050.nxml.gz-88" start="3580">argued</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-89" type="identity">
+      <class id="effects" label=""/>
+      <span end="3603" id="PMC2727050.nxml.gz-89" start="3596">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-9" type="identity">
+      <class id="to_clarify" label=""/>
+      <span end="240" id="PMC2727050.nxml.gz-9" start="230">to clarify</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-90" type="identity">
+      <class id="potential" label=""/>
+      <span end="3830" id="PMC2727050.nxml.gz-90" start="3821">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-91" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4092" id="PMC2727050.nxml.gz-91" start="3845">Gluckman et al .[22]have proposed that the fetus uses nutritional signals (and/or changes in the endocrine environment) to anticipate its future energetic environment, and through developmental plasticity adjusts its phenotype accordingly[23],[24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-92" type="identity">
+      <class id="proposed" label=""/>
+      <span end="3878" id="PMC2727050.nxml.gz-92" start="3870">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-93" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4273" id="PMC2727050.nxml.gz-93" start="4094">In this regard, developmental plasticity would confer a phenotype that is better suited for the environment and thereby increase the organism's chances of reproducing successfully</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-94" type="identity">
+      <class id="would" label=""/>
+      <span end="4140" id="PMC2727050.nxml.gz-94" start="4135">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-95" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="4174" id="PMC2727050.nxml.gz-95" start="4168">better</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-96" type="identity">
+      <class id="future_prediction" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-97" type="identity">
+      <class id="successfully" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-98" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4449" id="PMC2727050.nxml.gz-98" start="4275">Life history theory links earlier ages of maturation to ecological circumstances including energy availability, risks of predation and other causes of extrinsic mortality[25]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC2727050.nxml.gz-99" type="identity">
+      <class id="theory" label=""/>
+      <span end="4294" id="PMC2727050.nxml.gz-99" start="4288">theory</span>
+    </annotation>
+  </document>
+</knowtator-project>

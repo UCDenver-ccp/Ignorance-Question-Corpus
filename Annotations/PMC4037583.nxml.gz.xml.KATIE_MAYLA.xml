@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4037583.nxml.gz" text-file="PMC4037583.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1017" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="2234" id="PMC4037583.nxml.gz-1018" start="2227">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1019" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="3719" id="PMC4037583.nxml.gz-1020" start="3712">Studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1029" type="identity">
+      <class id="improve" label="improve"/>
+      <span end="27428" id="PMC4037583.nxml.gz-1030" start="27421">improve</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1035" type="identity">
+      <class id="to_date" label="to_date"/>
+      <span end="2086" id="PMC4037583.nxml.gz-1036" start="2079">To date</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1069" type="identity">
+      <class id="provides" label="provides"/>
+      <span end="18627" id="PMC4037583.nxml.gz-1070" start="18619">provides</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1071" type="identity">
+      <class id="provides" label="provides"/>
+      <span end="21188" id="PMC4037583.nxml.gz-1072" start="21180">provides</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1073" type="identity">
+      <class id="provides" label="provides"/>
+      <span end="24123" id="PMC4037583.nxml.gz-1074" start="24115">provides</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1083" type="identity">
+      <class id="significant" label="significant"/>
+      <span end="14282" id="PMC4037583.nxml.gz-1084" start="14271">significant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1087" type="identity">
+      <class id="significant" label="significant"/>
+      <span end="14745" id="PMC4037583.nxml.gz-1088" start="14734">significant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1097" type="identity">
+      <class id="significant" label="significant"/>
+      <span end="17368" id="PMC4037583.nxml.gz-1098" start="17357">significant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1105" type="identity">
+      <class id="significant" label="significant"/>
+      <span end="27101" id="PMC4037583.nxml.gz-1106" start="27090">significant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1107" type="identity">
+      <class id="provide" label="provide"/>
+      <span end="21005" id="PMC4037583.nxml.gz-1108" start="20998">provide</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1109" type="identity">
+      <class id="provide" label="provide"/>
+      <span end="25058" id="PMC4037583.nxml.gz-1110" start="25051">provide</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-111" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="2906" id="PMC4037583.nxml.gz-112" start="2896">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1117" type="identity">
+      <class id="attempt" label="attempt"/>
+      <span end="774" id="PMC4037583.nxml.gz-1118" start="767">attempt</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1119" type="identity">
+      <class id="attempt" label="attempt"/>
+      <span end="1095" id="PMC4037583.nxml.gz-1120" start="1088">attempt</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1121" type="identity">
+      <class id="attempt" label="attempt"/>
+      <span end="4378" id="PMC4037583.nxml.gz-1122" start="4371">attempt</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1123" type="identity">
+      <class id="compared_with" label="compared_with"/>
+      <span end="1013" id="PMC4037583.nxml.gz-1124" start="1000">compared with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1127" type="identity">
+      <class id="compared_with" label="compared_with"/>
+      <span end="14090" id="PMC4037583.nxml.gz-1128" start="14077">compared with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1129" type="identity">
+      <class id="compared_with" label="compared_with"/>
+      <span end="16545" id="PMC4037583.nxml.gz-1130" start="16532">compared with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-113" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="3099" id="PMC4037583.nxml.gz-114" start="3089">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1131" type="identity">
+      <class id="compared_with" label="compared_with"/>
+      <span end="23301" id="PMC4037583.nxml.gz-1132" start="23288">compared with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1136" type="identity">
+      <class id="the...study" label="the...study"/>
+      <span end="24085" id="PMC4037583.nxml.gz-1137" start="24082">the</span>
+      <span end="24103" id="PMC4037583.nxml.gz-1138" start="24098">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-115" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="3779" id="PMC4037583.nxml.gz-116" start="3769">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-117" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="22025" id="PMC4037583.nxml.gz-118" start="22015">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1178" type="identity">
+      <class id="than" label="than"/>
+      <span end="1965" id="PMC4037583.nxml.gz-1179" start="1961">than</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-1184" type="identity">
+      <class id="than" label="than"/>
+      <span end="19116" id="PMC4037583.nxml.gz-1185" start="19112">than</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-122" type="identity">
+      <class id="association" label="association"/>
+      <span end="17432" id="PMC4037583.nxml.gz-123" start="17421">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-124" type="identity">
+      <class id="association" label="association"/>
+      <span end="22114" id="PMC4037583.nxml.gz-125" start="22103">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-126" type="identity">
+      <class id="at_least" label="at_least"/>
+      <span end="3744" id="PMC4037583.nxml.gz-127" start="3736">at least</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-13" type="identity">
+      <class id="acknowledge" label="acknowledge"/>
+      <span end="24509" id="PMC4037583.nxml.gz-14" start="24498">acknowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-136" type="identity">
+      <class id="but" label="but"/>
+      <span end="22338" id="PMC4037583.nxml.gz-137" start="22335">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-142" type="identity">
+      <class id="can" label="can"/>
+      <span end="311" id="PMC4037583.nxml.gz-143" start="308">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-146" type="identity">
+      <class id="can" label="can"/>
+      <span end="18700" id="PMC4037583.nxml.gz-147" start="18697">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-15" type="identity">
+      <class id="acknowledge" label="acknowledge"/>
+      <span end="25868" id="PMC4037583.nxml.gz-16" start="25857">acknowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-152" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="1351" id="PMC4037583.nxml.gz-153" start="1340">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-154" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="14210" id="PMC4037583.nxml.gz-155" start="14199">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-156" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="16191" id="PMC4037583.nxml.gz-157" start="16180">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-158" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="16354" id="PMC4037583.nxml.gz-159" start="16343">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-160" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="19022" id="PMC4037583.nxml.gz-161" start="19011">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-168" type="identity">
+      <class id="confounders" label="confounders"/>
+      <span end="18296" id="PMC4037583.nxml.gz-169" start="18285">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-17" type="identity">
+      <class id="affect" label="affect"/>
+      <span end="3914" id="PMC4037583.nxml.gz-18" start="3908">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-170" type="identity">
+      <class id="confounders" label="confounders"/>
+      <span end="19544" id="PMC4037583.nxml.gz-171" start="19533">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-172" type="identity">
+      <class id="confounders" label="confounders"/>
+      <span end="19563" id="PMC4037583.nxml.gz-173" start="19552">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-174" type="identity">
+      <class id="contradicting" label="contradicting"/>
+      <span end="19968" id="PMC4037583.nxml.gz-175" start="19955">contradicting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-176" type="identity">
+      <class id="controversy" label="controversy"/>
+      <span end="20218" id="PMC4037583.nxml.gz-177" start="20207">controversy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-178" type="identity">
+      <class id="controversy" label="controversy"/>
+      <span end="22293" id="PMC4037583.nxml.gz-179" start="22282">controversy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-180" type="identity">
+      <class id="correlated" label="correlated"/>
+      <span end="1516" id="PMC4037583.nxml.gz-181" start="1506">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-182" type="identity">
+      <class id="correlated" label="correlated"/>
+      <span end="14464" id="PMC4037583.nxml.gz-183" start="14454">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-184" type="identity">
+      <class id="correlated" label="correlated"/>
+      <span end="14518" id="PMC4037583.nxml.gz-185" start="14508">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-186" type="identity">
+      <class id="correlation" label="correlation"/>
+      <span end="14294" id="PMC4037583.nxml.gz-187" start="14283">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18620" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18622" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="238" id="PMC4037583.nxml.gz-18623" start="189">Pregnancy-specific stress predicts birth outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18624" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="340" id="PMC4037583.nxml.gz-18625" start="240">We hypothesized that there is a maternal stress-GR interaction that can influence fetal birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18626" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="611" id="PMC4037583.nxml.gz-18627" start="342">This study examined the relationship between mothers' stress and attitude towards their pregnancies, placental glucocorticoid receptors (GRs) and growth arrest-specific transcript 5 (GAS5) expression, and the status of GR polymorphism, with their infants' birth weights</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18628" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="914" id="PMC4037583.nxml.gz-18629" start="761">In an attempt to mimic moderate and high stress environment in vitro , BeWo and JEG-3 cytotrophoblast cell lines were treated with 10 nM–1000 nM cortisol</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18630" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1080" id="PMC4037583.nxml.gz-18631" start="916">Only expression of GAS5 was significantly upregulated by cortisol in all treatments compared with basal levels, but none of the GRs changed expression significantly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18632" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1172" id="PMC4037583.nxml.gz-18633" start="1082">In an attempt to assess a stress versus gene interaction, we studied four GR polymorphisms</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18634" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1389" id="PMC4037583.nxml.gz-18635" start="1174">In the homozygous group for Tth111 I polymorphism, mothers with negative attitudes towards the pregnancy gave birth to infants with significantly lower birth weights compared to women with positive/neutral attitudes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18636" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1537" id="PMC4037583.nxml.gz-18637" start="1460">However, placental GAS5 levels were inversely correlated with maternal stress</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18638" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1656" id="PMC4037583.nxml.gz-18639" start="1539">This study points towards a potential gene-environment interaction that could be of predictive value for fetal weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18640" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1871" id="PMC4037583.nxml.gz-18641" start="1675">Pregnancy is associated with major physiological and future psychosocial changes and adaptation to these changes is crucial for normal fetal development and for healthy infant-mother relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18642" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1984" id="PMC4037583.nxml.gz-18643" start="1873">Maternal pregnancy-specific stress may be a more powerful contributor to birth outcomes than general stress [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18644" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2216" id="PMC4037583.nxml.gz-18645" start="2079">To date, four splice variants of the GR gene have been reported, formed by alternative splicing, termed GR α , GR β , GR γ , and GR-P [2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18646" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2341" id="PMC4037583.nxml.gz-18647" start="2218">Numerous studies have also reported the expression of different GR splice variants in different cell and tissue types [3–6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18648" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18650" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18652" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3233" id="PMC4037583.nxml.gz-18653" start="3056">A GR Bcl I polymorphism has been associated with increased glucocorticoid sensitivity and was overrepresented in pregnant women with pathological, fetomaternal immune adaptation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18654" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3465" id="PMC4037583.nxml.gz-18655" start="3235">Indeed, a number of polymorphisms have been described in the gene coding for the GR although it is still unclear whether the variability in the glucocorticoid responses observed is due to the polymorphisms or to other factors [10]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18656" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3551" id="PMC4037583.nxml.gz-18657" start="3467">This sensitivity could be one mechanism linking maternal stress to fetal development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18658" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3709" id="PMC4037583.nxml.gz-18659" start="3553">Only few of these polymorphisms are functionally relevant and these are the Tth111 I, the ER22/23EK, the N363S, the—already mentioned— Bcl I, and the GR-9 β</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18660" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3940" id="PMC4037583.nxml.gz-18661" start="3712">Studies have shown that at least three polymorphisms are associated with altered glucocorticoid sensitivity and also with changes in body composition and metabolic parameters [10,11], which could affect fetal development as well</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18662" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4152" id="PMC4037583.nxml.gz-18663" start="3942">This study examined the relationship between mothers' stress levels and attitude towards their pregnancies, placental GR and GAS5 expression, and the status of GR polymorphism, with their infants' birth weights</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18664" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4250" id="PMC4037583.nxml.gz-18665" start="4154">We also examined the maternal attitude versus gene interaction in relation to fetal birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18666" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4439" id="PMC4037583.nxml.gz-18667" start="4252">Moreover, we tested the effect of cortisol on GR splicing and GAS5 expression of BeWo and JEG-3 placental cells, in an attempt to resemble a low, moderate, and high stress milieu in vitro</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18668" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="13946" id="PMC4037583.nxml.gz-18669" start="13866">It is evident that the major transcripts in the human placenta are GR α and GAS5</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18670" type="identity">
+      <class id="whether...or" label="whether...or"/>
+      <span end="25443" id="PMC4037583.nxml.gz-18671" start="25436">whether</span>
+      <span end="25489" id="PMC4037583.nxml.gz-18672" start="25487">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18673" type="identity">
+      <class id="future_work" label="future_work"/>
+      <span end="26023" id="PMC4037583.nxml.gz-18674" start="26016">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18675" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="26087" id="PMC4037583.nxml.gz-18676" start="26079">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18677" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="26445" id="PMC4037583.nxml.gz-18678" start="26440">since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18679" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="26677" id="PMC4037583.nxml.gz-18680" start="26670">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18681" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="26695" id="PMC4037583.nxml.gz-18682" start="26684">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18683" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="14105" id="PMC4037583.nxml.gz-18684" start="13948">When relative mRNA abundance was calculated, an approximate 4-fold change in the GR α /GR-P in the preterm labor group was noted compared with the term group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18685" type="identity">
+      <class id="first_study" label="first_study"/>
+      <span end="26720" id="PMC4037583.nxml.gz-18686" start="26709">first study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18687" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="27084" id="PMC4037583.nxml.gz-18688" start="27081">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18689" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="27170" id="PMC4037583.nxml.gz-18690" start="27162">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18691" type="identity">
+      <class id="future_work" label="future_work"/>
+      <span end="27272" id="PMC4037583.nxml.gz-18692" start="27267">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18693" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="27340" id="PMC4037583.nxml.gz-18694" start="27337">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18695" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="27398" id="PMC4037583.nxml.gz-18696" start="27393">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18697" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="14238" id="PMC4037583.nxml.gz-18698" start="14107">In addition, a twofold increase in the GR α /GAS5 ratio was also noted in the preterm group compared to the term group (seeTable 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18699" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="14377" id="PMC4037583.nxml.gz-18700" start="14240">In term placentas, there was a significant correlation between GR β and GR γ ( r = 0.580, P = 0.038) and with GR-P ( r = 0.980, P&lt; 0.001)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18701" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="14552" id="PMC4037583.nxml.gz-18702" start="14379">In the preterm group, the dynamics of GR splicing were altered, since GR α correlated with GR-P ( r = 0.710, P = 0.021) and GR β correlated with GAS5 ( r = 0.792, P = 0.011)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18703" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18705" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="14818" id="PMC4037583.nxml.gz-18706" start="14706">In the term group, the only significant correlation was between GAS5 and maternal stress ( r = −0.711, P = 0.021</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18707" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="14938" id="PMC4037583.nxml.gz-18708" start="14821">Due to ethical restrictions, we were only able to assess the expression of GR α / β in 4 term and 3 preterm placentas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18709" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="15086" id="PMC4037583.nxml.gz-18710" start="14940">Since GR is present as different isoforms, multiple bands were observed and there was an expected interpatient variation in the protein expression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18711" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18713" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="15830" id="PMC4037583.nxml.gz-18714" start="15751">This is a first time that GAS5 localization has been studied in human placentas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18715" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16233" id="PMC4037583.nxml.gz-18716" start="16117">GAS5 was significantly lower in expression in JEG-3 cells when compared to BeWo under basal conditions (Figure 3(a))</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18717" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16383" id="PMC4037583.nxml.gz-18718" start="16235">For the GRs, significantly higher expression levels were detected only for GR γ and GR-P in the JEG-3 cells compared to the BeWo cells (Figure 3(b))</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18719" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16592" id="PMC4037583.nxml.gz-18720" start="16385">When BeWo and JEG-3 cells were treated with cortisol 10 nM, 100 nM, or 1000 nM, the expression of GAS5 was significantly upregulated (all P&lt; 0.05) compared with their corresponding basal levels (Figure 4(a))</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18721" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18725" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18727" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17920" id="PMC4037583.nxml.gz-18728" start="17703">Statistical analysis of the maternal Tht111 I polymorphism has shown an inverse correlation between negative maternal attitude and infant birth weight ( r = −0.41, P = 0.030), only in Tht111 I CC polymorphism subgroup</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18729" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18296" id="PMC4037583.nxml.gz-18730" start="18071">These data point towards an interaction between stress and genetics, since only in the CC polymorphic GR group did negative maternal attitude predict fetal weight reduction, but not in the CT group, independent of confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18731" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18733" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18735" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18742" id="PMC4037583.nxml.gz-18736" start="18571">The present study extends previous findings and provides evidence for the first time how maternal stress and GR polymorphisms can potentially affect fetal outcome together</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18737" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18913" id="PMC4037583.nxml.gz-18738" start="18744">As reviewed previously, prenatal maternal stress has been shown to have long-term effects on the psychological as well as behavioral development of the offspring [15,16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18739" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19203" id="PMC4037583.nxml.gz-18740" start="18915">In our cohort, women with negative attitudes exhibited higher levels of stress during pregnancy compared to women with neutral/positive attitudes and gave birth to infants with lower birth weights than those with positive/neutral attitudes towards their pregnancy (500 gr difference [13])</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18741" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19544" id="PMC4037583.nxml.gz-18742" start="19205">In terms of the polymorphisms analyses, only the maternal Tth111 I polymorphism was suggestive of a gene-environment interaction since, only in Tth111 I (CC), negative versus positive/neutral maternal attitudes towards the pregnancy predicted fetal weight reduction, but not in the Tth111 I (GC) group, independent of important confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18743" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18745" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18747" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19920" id="PMC4037583.nxml.gz-18748" start="19756">This is the first time that a gene-environment interaction between a GR polymorphism and maternal attitudes towards pregnancy was found, in relation to fetal weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18749" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18751" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18753" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18755" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20407" id="PMC4037583.nxml.gz-18756" start="20290">GR alternative splicing might also influence the subsequent activation of signalling pathways by glucocorticoids [20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18757" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18759" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20665" id="PMC4037583.nxml.gz-18760" start="20592">These data corroborate a previous preliminary study of placental GRs [20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18761" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20752" id="PMC4037583.nxml.gz-18762" start="20667">Moreover, we demonstrate for the first time the expression of GAS5 in human placentas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18763" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20889" id="PMC4037583.nxml.gz-18764" start="20754">We decided to incorporate GAS5 in the current study as it can act as a GR DNA binding decoy and as a result compromise its activity [8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18765" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18767" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18769" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18771" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18773" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18775" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18777" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18779" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18781" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18783" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23000" id="PMC4037583.nxml.gz-18784" start="22772">Similarly, little is known about the role of GR-P, a truncated isoform that lacks a large part of the ligand-binding domain, including the domains for silencing of GR in the absence of hormone and transcriptional activation [24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18785" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23092" id="PMC4037583.nxml.gz-18786" start="23002">In our study, an approximate 4-fold change in the GR α /GR-P in preterm labor was detected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18787" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23207" id="PMC4037583.nxml.gz-18788" start="23094">Johnson et al. have shown that placental GR-P mRNA levels were reduced significantly after spontaneous labor [20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18789" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23325" id="PMC4037583.nxml.gz-18790" start="23209">A twofold increase in the GR α /GAS5 ratio was also noted in the preterm group compared with the term group of women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18791" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18793" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18795" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23876" id="PMC4037583.nxml.gz-18796" start="23723">These ratio changes will ultimately lead to an augmented response towards glucocorticoids with potential detrimental effects for the mother and the fetus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18797" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24068" id="PMC4037583.nxml.gz-18798" start="23878">It is possible that this change of relative transcript abundance ratio might be involved in the correlation between negative maternal attitudes (hence highly stressed) and fetal birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18799" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18801" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24493" id="PMC4037583.nxml.gz-18802" start="24336">In a past study, a similar gene-environment interaction was noted between the ER22/23EK polymorphism and the effect of childhood adversity on depression [17]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18803" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24640" id="PMC4037583.nxml.gz-18804" start="24495">We acknowledge that measurement of GR polymorphisms posed certain limitations, for example, the use of cell lines as in vitro experimental models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18805" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24789" id="PMC4037583.nxml.gz-18806" start="24642">Although both cell lines (JEG-3 and BeWo) could represent a cytotrophoblastic milieu in vitro , they have differences in their fusogenic capacities</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18807" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18809" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="25027" id="PMC4037583.nxml.gz-18810" start="24924">It would be of interest to repeat these experiments in primary cell lines of syncytialised trophoblasts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18811" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="25115" id="PMC4037583.nxml.gz-18812" start="25029">This experiment would provide a better insight into the regulation of GAS5 by cortisol</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18813" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18815" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="25648" id="PMC4037583.nxml.gz-18816" start="25500">To test this, we have performed qPCR for all GRs and GAS5 in the same cohort of placentas divided this time to labor ( n = 18) and nonlabor ( n = 5)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18817" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18819" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="25951" id="PMC4037583.nxml.gz-18820" start="25854">We acknowledge that our sample included small numbers in certain categories of polymorphic groups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18821" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26122" id="PMC4037583.nxml.gz-18822" start="25953">Moreover, the nature of maternal stress was not identified and further analytical approaches are needed to provide conclusive evidence for a gene-environment interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18823" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26356" id="PMC4037583.nxml.gz-18824" start="26124">Nevertheless, the statistically significant effect and the size of differences observed between mothers with negative versus positive and neutral attitudes in the Tht111 I CC polymorphism group suggest that this effect may be robust</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18825" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26538" id="PMC4037583.nxml.gz-18826" start="26358">Second, the distribution of Bcl I polymorphism seen in this sample may be unique, since there are important geographical/ethnic differences in the prevalence of these polymorphisms</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18827" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18829" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26874" id="PMC4037583.nxml.gz-18830" start="26670">Despite these limitations, this is the first study to demonstrate a gene-maternal environment synergism in relation to infant birth weight, using a very brief assessment of maternal attitudes to pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18831" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-18833" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27480" id="PMC4037583.nxml.gz-18834" start="27149">For example, based on the polymorphic profile and our brief assessment of mothers' attitude towards the pregnancy, we could screen noninvasively and identify mothers during pregnancy that may benefit from stress-management strategies, and this could possibly dramatically improve health outcomes for the mother as well as the fetus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19" type="identity">
+      <class id="affect" label="affect"/>
+      <span end="18719" id="PMC4037583.nxml.gz-20" start="18713">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-190" type="identity">
+      <class id="correlation" label="correlation"/>
+      <span end="14757" id="PMC4037583.nxml.gz-191" start="14746">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19147" type="identity">
+      <class id="superficial_relationship" label="superficial_relationship"/>
+      <span end="223" id="PMC4037583.nxml.gz-19148" start="215">predicts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19149" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="920" id="PMC4037583.nxml.gz-19150" start="916">Only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19151" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="1031" id="PMC4037583.nxml.gz-19152" start="1028">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19153" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="1556" id="PMC4037583.nxml.gz-19154" start="1550">points</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19155" type="identity">
+      <class id="associated" label="superficial_relationship"/>
+      <span end="1698" id="PMC4037583.nxml.gz-19156" start="1688">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19160" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="2963" id="PMC4037583.nxml.gz-19161" start="2953">reflecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19162" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="3327" id="PMC4037583.nxml.gz-19163" start="3319">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19165" type="identity">
+      <class id="whether...or" label="whether...or"/>
+      <span end="3355" id="PMC4037583.nxml.gz-19166" start="3348">whether</span>
+      <span end="3443" id="PMC4037583.nxml.gz-19167" start="3441">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19168" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="4199" id="PMC4037583.nxml.gz-19169" start="4193">versus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19170" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="14448" id="PMC4037583.nxml.gz-19171" start="14443">since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19172" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="14561" id="PMC4037583.nxml.gz-19173" start="14554">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19174" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="14733" id="PMC4037583.nxml.gz-19175" start="14729">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19176" type="identity">
+      <class id="due_to" label="due_to"/>
+      <span end="14827" id="PMC4037583.nxml.gz-19177" start="14821">Due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19178" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="14945" id="PMC4037583.nxml.gz-19179" start="14940">Since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19180" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="16305" id="PMC4037583.nxml.gz-19181" start="16301">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19182" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="16777" id="PMC4037583.nxml.gz-19183" start="16770">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19184" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="16748" id="PMC4037583.nxml.gz-19185" start="16741">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19186" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="17306" id="PMC4037583.nxml.gz-19187" start="17301">Since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19188" type="identity">
+      <class id="question_answered_by_this_work" label="question_answered_by_this_work"/>
+      <span end="17415" id="PMC4037583.nxml.gz-19189" start="17405">reexamined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19192" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="17883" id="PMC4037583.nxml.gz-19193" start="17879">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19194" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="18145" id="PMC4037583.nxml.gz-19195" start="18140">since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19196" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="18150" id="PMC4037583.nxml.gz-19197" start="18146">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19198" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="18252" id="PMC4037583.nxml.gz-19199" start="18245">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-192" type="identity">
+      <class id="correlation" label="correlation"/>
+      <span end="17794" id="PMC4037583.nxml.gz-193" start="17783">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19200" type="identity">
+      <class id="present_study" label="present_study"/>
+      <span end="18588" id="PMC4037583.nxml.gz-19201" start="18575">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19202" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="18969" id="PMC4037583.nxml.gz-19203" start="18960">exhibited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19204" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="19249" id="PMC4037583.nxml.gz-19205" start="19245">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19206" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="19339" id="PMC4037583.nxml.gz-19207" start="19334">since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19208" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="19345" id="PMC4037583.nxml.gz-19209" start="19341">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19210" type="identity">
+      <class id="superficial_relationship" label="superficial_relationship"/>
+      <span end="19447" id="PMC4037583.nxml.gz-19211" start="19438">predicted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19212" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="19479" id="PMC4037583.nxml.gz-19213" start="19472">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19216" type="identity">
+      <class id="has_been" label="incomplete_evidence"/>
+      <span end="19949" id="PMC4037583.nxml.gz-19217" start="19941">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19218" type="identity">
+      <class id="our_study" label="question_answered_by_this_work"/>
+      <span end="20421" id="PMC4037583.nxml.gz-19219" start="20412">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19220" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="20614" id="PMC4037583.nxml.gz-19221" start="20603">corroborate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19225" type="identity">
+      <class id="previous_study" label="previous_study"/>
+      <span end="20625" id="PMC4037583.nxml.gz-19226" start="20617">previous</span>
+      <span end="20643" id="PMC4037583.nxml.gz-19227" start="20638">study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19228" type="identity">
+      <class id="decided" label="alternative_options_controversy"/>
+      <span end="20764" id="PMC4037583.nxml.gz-19229" start="20757">decided</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19230" type="identity">
+      <class id="as" label="probable_understanding"/>
+      <span end="20808" id="PMC4037583.nxml.gz-19231" start="20806">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19232" type="identity">
+      <class id="superficial_relationship" label="superficial_relationship"/>
+      <span end="20872" id="PMC4037583.nxml.gz-19233" start="20862">compromise</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19234" type="identity">
+      <class id="accompanied" label="superficial_relationship"/>
+      <span end="21412" id="PMC4037583.nxml.gz-19235" start="21401">accompanied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19236" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="22156" id="PMC4037583.nxml.gz-19237" start="22143">complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19238" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="22181" id="PMC4037583.nxml.gz-19239" start="22171">especially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19240" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="22781" id="PMC4037583.nxml.gz-19241" start="22772">Similarly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19244" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="23556" id="PMC4037583.nxml.gz-19245" start="23547">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19246" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="23630" id="PMC4037583.nxml.gz-19247" start="23625">since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19248" type="identity">
+      <class id="superficial_relationship" label="superficial_relationship"/>
+      <span end="23673" id="PMC4037583.nxml.gz-19249" start="23663">regulators</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19250" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="23827" id="PMC4037583.nxml.gz-19251" start="23818">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19255" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="24362" id="PMC4037583.nxml.gz-19256" start="24355">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19257" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="24572" id="PMC4037583.nxml.gz-19258" start="24561">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19259" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="24640" id="PMC4037583.nxml.gz-19260" start="24634">models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19261" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="24650" id="PMC4037583.nxml.gz-19262" start="24642">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19263" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="25067" id="PMC4037583.nxml.gz-19264" start="25061">better</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19265" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="25136" id="PMC4037583.nxml.gz-19266" start="25129">despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19267" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="25154" id="PMC4037583.nxml.gz-19268" start="25143">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19269" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="25237" id="PMC4037583.nxml.gz-19270" start="25231">models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-19272" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-194" type="identity">
+      <class id="correlation" label="correlation"/>
+      <span end="23985" id="PMC4037583.nxml.gz-195" start="23974">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-202" type="identity">
+      <class id="correlations" label="correlations"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-204" type="identity">
+      <class id="could" label="could"/>
+      <span end="3907" id="PMC4037583.nxml.gz-205" start="3902">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-208" type="identity">
+      <class id="could" label="could"/>
+      <span end="24689" id="PMC4037583.nxml.gz-209" start="24684">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-21" type="identity">
+      <class id="affect" label="affect"/>
+      <span end="23502" id="PMC4037583.nxml.gz-22" start="23496">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-214" type="identity">
+      <class id="could_be" label="could_be"/>
+      <span end="1619" id="PMC4037583.nxml.gz-215" start="1611">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-216" type="identity">
+      <class id="could_be" label="could_be"/>
+      <span end="3492" id="PMC4037583.nxml.gz-217" start="3484">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-218" type="identity">
+      <class id="crucial" label="crucial"/>
+      <span end="1798" id="PMC4037583.nxml.gz-219" start="1791">crucial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-222" type="identity">
+      <class id="demonstrate" label="demonstrate"/>
+      <span end="20691" id="PMC4037583.nxml.gz-223" start="20680">demonstrate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-224" type="identity">
+      <class id="demonstrate" label="demonstrate"/>
+      <span end="26735" id="PMC4037583.nxml.gz-225" start="26724">demonstrate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-226" type="identity">
+      <class id="demonstrated" label="demonstrated"/>
+      <span end="2564" id="PMC4037583.nxml.gz-227" start="2552">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-228" type="identity">
+      <class id="demonstrated" label="demonstrated"/>
+      <span end="18463" id="PMC4037583.nxml.gz-229" start="18451">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-23" type="identity">
+      <class id="affect" label="affect"/>
+      <span end="25835" id="PMC4037583.nxml.gz-24" start="25829">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-230" type="identity">
+      <class id="demonstrated" label="demonstrated"/>
+      <span end="24836" id="PMC4037583.nxml.gz-231" start="24824">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-234" type="identity">
+      <class id="described" label="described"/>
+      <span end="3288" id="PMC4037583.nxml.gz-235" start="3279">described</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-250" type="identity">
+      <class id="detected" label="detected"/>
+      <span end="16300" id="PMC4037583.nxml.gz-251" start="16292">detected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-252" type="identity">
+      <class id="detected" label="detected"/>
+      <span end="23092" id="PMC4037583.nxml.gz-253" start="23084">detected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-256" type="identity">
+      <class id="detrimental" label="detrimental"/>
+      <span end="23839" id="PMC4037583.nxml.gz-257" start="23828">detrimental</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-264" type="identity">
+      <class id="differences" label="differences"/>
+      <span end="24759" id="PMC4037583.nxml.gz-265" start="24748">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-268" type="identity">
+      <class id="differences" label="differences"/>
+      <span end="26497" id="PMC4037583.nxml.gz-269" start="26486">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-270" type="identity">
+      <class id="different" label="different"/>
+      <span end="2281" id="PMC4037583.nxml.gz-271" start="2272">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-272" type="identity">
+      <class id="different" label="different"/>
+      <span end="2313" id="PMC4037583.nxml.gz-273" start="2304">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-278" type="identity">
+      <class id="differential" label="differential"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-282" type="identity">
+      <class id="differentially" label="differentially"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-289" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="2981" id="PMC4037583.nxml.gz-290" start="2975">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-291" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="4282" id="PMC4037583.nxml.gz-292" start="4276">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-293" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="22385" id="PMC4037583.nxml.gz-294" start="22379">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-295" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="24451" id="PMC4037583.nxml.gz-296" start="24445">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-297" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="26174" id="PMC4037583.nxml.gz-298" start="26168">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-299" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="26342" id="PMC4037583.nxml.gz-300" start="26336">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-303" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="18316" id="PMC4037583.nxml.gz-304" start="18309">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-305" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="18833" id="PMC4037583.nxml.gz-306" start="18826">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-307" type="identity">
+      <class id="effects" label="effects"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-309" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="23847" id="PMC4037583.nxml.gz-310" start="23840">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-311" type="identity">
+      <class id="anomaly_curious_finding" label="either"/>
+      <span end="16912" id="PMC4037583.nxml.gz-312" start="16906">either</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-317" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="143" id="PMC4037583.nxml.gz-318" start="135">Evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-319" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="18636" id="PMC4037583.nxml.gz-320" start="18628">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-321" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="19977" id="PMC4037583.nxml.gz-322" start="19969">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-323" type="identity">
+      <class id="evident" label="evident"/>
+      <span end="13879" id="PMC4037583.nxml.gz-324" start="13872">evident</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-325" type="identity">
+      <class id="examined" label="examined"/>
+      <span end="361" id="PMC4037583.nxml.gz-326" start="353">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-327" type="identity">
+      <class id="examined" label="examined"/>
+      <span end="3961" id="PMC4037583.nxml.gz-328" start="3953">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-329" type="identity">
+      <class id="examined" label="examined"/>
+      <span end="4170" id="PMC4037583.nxml.gz-330" start="4162">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-335" type="identity">
+      <class id="expected" label="expected"/>
+      <span end="15037" id="PMC4037583.nxml.gz-336" start="15029">expected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-337" type="identity">
+      <class id="extends" label="extends"/>
+      <span end="18596" id="PMC4037583.nxml.gz-338" start="18589">extends</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-339" type="identity">
+      <class id="factor" label="factor"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-341" type="identity">
+      <class id="factors" label="factors"/>
+      <span end="3460" id="PMC4037583.nxml.gz-342" start="3453">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-343" type="identity">
+      <class id="few" label="few"/>
+      <span end="3561" id="PMC4037583.nxml.gz-344" start="3558">few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-345" type="identity">
+      <class id="finding" label="finding"/>
+      <span end="21179" id="PMC4037583.nxml.gz-346" start="21172">finding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-347" type="identity">
+      <class id="findings" label="findings"/>
+      <span end="18614" id="PMC4037583.nxml.gz-348" start="18606">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-349" type="identity">
+      <class id="first_time" label="first_time"/>
+      <span end="15771" id="PMC4037583.nxml.gz-350" start="15761">first time</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-351" type="identity">
+      <class id="first_time" label="first_time"/>
+      <span end="18655" id="PMC4037583.nxml.gz-352" start="18645">first time</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-353" type="identity">
+      <class id="first_time" label="first_time"/>
+      <span end="19778" id="PMC4037583.nxml.gz-354" start="19768">first time</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-355" type="identity">
+      <class id="first_time" label="first_time"/>
+      <span end="20710" id="PMC4037583.nxml.gz-356" start="20700">first time</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-357" type="identity">
+      <class id="found" label="found"/>
+      <span end="19891" id="PMC4037583.nxml.gz-358" start="19886">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-361" type="identity">
+      <class id="further" label="further"/>
+      <span end="21013" id="PMC4037583.nxml.gz-362" start="21006">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-365" type="identity">
+      <class id="further_evidence" label="further_evidence"/>
+      <span end="21205" id="PMC4037583.nxml.gz-366" start="21189">further evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-375" type="identity">
+      <class id="given" label="given"/>
+      <span end="26937" id="PMC4037583.nxml.gz-376" start="26932">given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-377" type="identity">
+      <class id="has...been" label="has...been"/>
+      <span end="15803" id="PMC4037583.nxml.gz-378" start="15795">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-379" type="identity">
+      <class id="has_been_shown" label="has_been_shown"/>
+      <span end="18807" id="PMC4037583.nxml.gz-380" start="18793">has been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-381" type="identity">
+      <class id="has_shown" label="has_shown"/>
+      <span end="17771" id="PMC4037583.nxml.gz-382" start="17762">has shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-383" type="identity">
+      <class id="have_been_reported" label="have_been_reported"/>
+      <span end="2142" id="PMC4037583.nxml.gz-384" start="2124">have been reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-385" type="identity">
+      <class id="have_shown" label="have_shown"/>
+      <span end="3730" id="PMC4037583.nxml.gz-386" start="3720">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-387" type="identity">
+      <class id="have_shown" label="have_shown"/>
+      <span end="20436" id="PMC4037583.nxml.gz-388" start="20426">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-389" type="identity">
+      <class id="have_shown" label="have_shown"/>
+      <span end="23119" id="PMC4037583.nxml.gz-390" start="23109">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-39" type="identity">
+      <class id="appears" label="appears"/>
+      <span end="22349" id="PMC4037583.nxml.gz-40" start="22342">appears</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-391" type="identity">
+      <class id="hence" label="hence"/>
+      <span end="18303" id="PMC4037583.nxml.gz-392" start="18298">Hence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-393" type="identity">
+      <class id="hence" label="hence"/>
+      <span end="24028" id="PMC4037583.nxml.gz-394" start="24023">hence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-395" type="identity">
+      <class id="here" label="here"/>
+      <span end="20993" id="PMC4037583.nxml.gz-396" start="20989">Here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-397" type="identity">
+      <class id="how" label="how"/>
+      <span end="18659" id="PMC4037583.nxml.gz-398" start="18656">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-399" type="identity">
+      <class id="however" label="however"/>
+      <span end="1467" id="PMC4037583.nxml.gz-400" start="1460">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-405" type="identity">
+      <class id="however" label="however"/>
+      <span end="20205" id="PMC4037583.nxml.gz-406" start="20198">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-407" type="identity">
+      <class id="however" label="however"/>
+      <span end="25124" id="PMC4037583.nxml.gz-408" start="25117">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-409" type="identity">
+      <class id="hypothesized" label="hypothesized"/>
+      <span end="255" id="PMC4037583.nxml.gz-410" start="243">hypothesized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-41" type="identity">
+      <class id="approximate" label="approximate"/>
+      <span end="14007" id="PMC4037583.nxml.gz-42" start="13996">approximate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-411" type="identity">
+      <class id="identified" label="identified"/>
+      <span end="24221" id="PMC4037583.nxml.gz-412" start="24211">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-413" type="identity">
+      <class id="identify" label="identify"/>
+      <span end="27306" id="PMC4037583.nxml.gz-414" start="27298">identify</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-415" type="identity">
+      <class id="implications" label="implications"/>
+      <span end="27114" id="PMC4037583.nxml.gz-416" start="27102">implications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-417" type="identity">
+      <class id="important" label="important"/>
+      <span end="19532" id="PMC4037583.nxml.gz-418" start="19523">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-419" type="identity">
+      <class id="important" label="important"/>
+      <span end="26465" id="PMC4037583.nxml.gz-420" start="26456">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-421" type="identity">
+      <class id="independent" label="independent"/>
+      <span end="18281" id="PMC4037583.nxml.gz-422" start="18270">independent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-423" type="identity">
+      <class id="independent" label="independent"/>
+      <span end="19519" id="PMC4037583.nxml.gz-424" start="19508">independent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-427" type="identity">
+      <class id="influence" label="influence"/>
+      <span end="321" id="PMC4037583.nxml.gz-428" start="312">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-429" type="identity">
+      <class id="influence" label="influence"/>
+      <span end="20334" id="PMC4037583.nxml.gz-430" start="20325">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-43" type="identity">
+      <class id="approximate" label="approximate"/>
+      <span end="23030" id="PMC4037583.nxml.gz-44" start="23019">approximate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-431" type="identity">
+      <class id="information" label="information"/>
+      <span end="21025" id="PMC4037583.nxml.gz-432" start="21014">information</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-433" type="identity">
+      <class id="insight" label="insight"/>
+      <span end="24139" id="PMC4037583.nxml.gz-434" start="24132">insight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-435" type="identity">
+      <class id="insight" label="insight"/>
+      <span end="25075" id="PMC4037583.nxml.gz-436" start="25068">insight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-437" type="identity">
+      <class id="interaction" label="interaction"/>
+      <span end="302" id="PMC4037583.nxml.gz-438" start="291">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-439" type="identity">
+      <class id="interaction" label="interaction"/>
+      <span end="1138" id="PMC4037583.nxml.gz-440" start="1127">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-441" type="identity">
+      <class id="interaction" label="interaction"/>
+      <span end="1605" id="PMC4037583.nxml.gz-442" start="1594">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-443" type="identity">
+      <class id="interaction" label="interaction"/>
+      <span end="4216" id="PMC4037583.nxml.gz-444" start="4205">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-445" type="identity">
+      <class id="interaction" label="interaction"/>
+      <span end="17517" id="PMC4037583.nxml.gz-446" start="17506">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-447" type="identity">
+      <class id="interaction" label="interaction"/>
+      <span end="18110" id="PMC4037583.nxml.gz-448" start="18099">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-449" type="identity">
+      <class id="interaction" label="interaction"/>
+      <span end="19333" id="PMC4037583.nxml.gz-450" start="19322">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-451" type="identity">
+      <class id="interaction" label="interaction"/>
+      <span end="19814" id="PMC4037583.nxml.gz-452" start="19803">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-453" type="identity">
+      <class id="interaction" label="interaction"/>
+      <span end="24391" id="PMC4037583.nxml.gz-454" start="24380">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-455" type="identity">
+      <class id="interaction" label="interaction"/>
+      <span end="26122" id="PMC4037583.nxml.gz-456" start="26111">interaction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-459" type="identity">
+      <class id="interestingly" label="interestingly"/>
+      <span end="20904" id="PMC4037583.nxml.gz-460" start="20891">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-463" type="identity">
+      <class id="involved" label="involved"/>
+      <span end="23966" id="PMC4037583.nxml.gz-464" start="23958">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-465" type="identity">
+      <class id="it_is_possible" label="it_is_possible"/>
+      <span end="23892" id="PMC4037583.nxml.gz-466" start="23878">It is possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-467" type="identity">
+      <class id="key" label="key"/>
+      <span end="25358" id="PMC4037583.nxml.gz-468" start="25355">key</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-469" type="identity">
+      <class id="known" label="known"/>
+      <span end="20451" id="PMC4037583.nxml.gz-470" start="20446">known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-47" type="identity">
+      <class id="are_needed" label="are_needed"/>
+      <span end="26056" id="PMC4037583.nxml.gz-48" start="26046">are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-473" type="identity">
+      <class id="lead_to" label="lead_to"/>
+      <span end="23766" id="PMC4037583.nxml.gz-474" start="23759">lead to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-481" type="identity">
+      <class id="link" label="link"/>
+      <span end="21545" id="PMC4037583.nxml.gz-482" start="21541">link</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-483" type="identity">
+      <class id="linking" label="linking"/>
+      <span end="3514" id="PMC4037583.nxml.gz-484" start="3507">linking</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-485" type="identity">
+      <class id="little_is_known" label="little_is_known"/>
+      <span end="22798" id="PMC4037583.nxml.gz-486" start="22783">little is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-489" type="identity">
+      <class id="major" label="major"/>
+      <span end="13894" id="PMC4037583.nxml.gz-490" start="13889">major</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-491" type="identity">
+      <class id="may" label="may"/>
+      <span end="23495" id="PMC4037583.nxml.gz-492" start="23492">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-495" type="identity">
+      <class id="may_be" label="may_be"/>
+      <span end="1914" id="PMC4037583.nxml.gz-496" start="1908">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-497" type="identity">
+      <class id="may_be" label="may_be"/>
+      <span end="2587" id="PMC4037583.nxml.gz-498" start="2581">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-499" type="identity">
+      <class id="may_be" label="may_be"/>
+      <span end="26349" id="PMC4037583.nxml.gz-500" start="26343">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-501" type="identity">
+      <class id="may_be" label="may_be"/>
+      <span end="26431" id="PMC4037583.nxml.gz-502" start="26425">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-505" type="identity">
+      <class id="mediated" label="mediated"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-507" type="identity">
+      <class id="might" label="might"/>
+      <span end="20319" id="PMC4037583.nxml.gz-508" start="20314">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-509" type="identity">
+      <class id="might" label="might"/>
+      <span end="23954" id="PMC4037583.nxml.gz-510" start="23949">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-524" type="identity">
+      <class id="nevertheless" label="nevertheless"/>
+      <span end="26136" id="PMC4037583.nxml.gz-525" start="26124">Nevertheless</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-542" type="identity">
+      <class id="none" label="none"/>
+      <span end="1036" id="PMC4037583.nxml.gz-543" start="1032">none</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-554" type="identity">
+      <class id="probable_understanding" label="not_explained"/>
+      <span end="19615" id="PMC4037583.nxml.gz-555" start="19602">not explained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-558" type="identity">
+      <class id="noted" label="noted"/>
+      <span end="14076" id="PMC4037583.nxml.gz-559" start="14071">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-560" type="identity">
+      <class id="noted" label="noted"/>
+      <span end="14177" id="PMC4037583.nxml.gz-561" start="14172">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-562" type="identity">
+      <class id="anomaly_curious_finding" label="noted"/>
+      <span end="14565" id="PMC4037583.nxml.gz-57511" start="14563">no</span>
+      <span end="14599" id="PMC4037583.nxml.gz-563" start="14594">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-566" type="identity">
+      <class id="noted" label="noted"/>
+      <span end="23266" id="PMC4037583.nxml.gz-567" start="23261">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-568" type="identity">
+      <class id="noted" label="noted"/>
+      <span end="24401" id="PMC4037583.nxml.gz-569" start="24396">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-570" type="identity">
+      <class id="novel" label="novel"/>
+      <span end="24131" id="PMC4037583.nxml.gz-571" start="24126">novel</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-572" type="identity">
+      <class id="number_of" label="number_of"/>
+      <span end="3254" id="PMC4037583.nxml.gz-573" start="3245">number of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57279" type="identity">
+      <class id="subject_scope"/>
+      <span end="178" id="PMC4037583.nxml.gz-57280" start="0">Differential Expression of Placental Glucocorticoid Receptors and Growth Arrest-Specific Transcript 5 in Term and Preterm Pregnancies: Evidence for Involvement of Maternal Stress</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57281" type="identity">
+      <class id="probable_understanding"/>
+      <span end="647" id="PMC4037583.nxml.gz-57282" start="636">predominant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57283" type="identity">
+      <class id="primarily"/>
+      <span end="721" id="PMC4037583.nxml.gz-57284" start="712">primarily</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57285" type="identity">
+      <class id="subject_scope"/>
+      <span end="2724" id="PMC4037583.nxml.gz-57286" start="2504">In a recent study by Kino and colleagues it was demonstrated that GAS5 ncRNA may be a repressor for the GR by acting as a decoy “glucocorticoid response element (GRE),” thus, competing with DNA GREs for binding to the GR</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57287" type="identity">
+      <class id="subject_scope"/>
+      <span end="3054" id="PMC4037583.nxml.gz-57288" start="2824">Changes in the epigenetic regulation of the fetal GR promoter have been associated with exposure to prenatal maternal stress [9] reflecting a possible effect of maternal stress on the expression and function of the GR in the fetus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57289" type="identity">
+      <class id="not...identified"/>
+      <span end="5442" id="PMC4037583.nxml.gz-57290" start="5428">not identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57291" type="identity">
+      <class id="relationships"/>
+      <span end="12855" id="PMC4037583.nxml.gz-57292" start="12842">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57293" type="identity">
+      <class id="relationship"/>
+      <span end="13123" id="PMC4037583.nxml.gz-57294" start="13111">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57295" type="identity">
+      <class id="confounders"/>
+      <span end="13227" id="PMC4037583.nxml.gz-57296" start="13216">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57297" type="identity">
+      <class id="probable_understanding"/>
+      <span end="13594" id="PMC4037583.nxml.gz-57298" start="13583">predominant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57299" type="identity">
+      <class id="subject_scope"/>
+      <span end="14704" id="PMC4037583.nxml.gz-57300" start="14554">However, no significant correlation was noted in the preterm group between fetal weight or maternal stress and the relative expression of GRs and GAS5</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57301" type="identity">
+      <class id="subject_scope"/>
+      <span end="15293" id="PMC4037583.nxml.gz-57302" start="15088">Scanning densitometry of the bands corresponding to GR α / β normalized over GAPDH revealed no apparent differences in the expression of these variants between the term and the preterm groups (Figure 1(b))</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57303" type="identity">
+      <class id="mainly"/>
+      <span end="15490" id="PMC4037583.nxml.gz-57304" start="15484">mainly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57305" type="identity">
+      <class id="some"/>
+      <span end="15609" id="PMC4037583.nxml.gz-57306" start="15605">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57307" type="identity">
+      <class id="primarily"/>
+      <span end="15711" id="PMC4037583.nxml.gz-57308" start="15702">primarily</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57309" type="identity">
+      <class id="subject_scope"/>
+      <span end="16944" id="PMC4037583.nxml.gz-57310" start="16741">However, cortisol treatments did not exert any significant changes in the gene expression of GR α (Figure 4(b)), GR β (Figure 4(c)), GR γ (Figure 4(d)), and GR-P in either of the cell lines (Figure 4(e))</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57311" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="16981" id="PMC4037583.nxml.gz-57312" start="16970">no apparent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57313" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="17088" id="PMC4037583.nxml.gz-57314" start="17075">corroborating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57315" type="identity">
+      <class id="subject_scope"/>
+      <span end="17701" id="PMC4037583.nxml.gz-57316" start="17301">Since the maternal attitude towards the pregnancy was a significant predictor of fetal birth weight, we reexamined this association as a function of the GR genepolymorphisms, resembling a gene-environment interaction and statistically controlling for mothers' age, BMI, pregnancy planning, and pregnancy nutritional habits, to remove any potential sources of statistical bias that could skew our data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57317" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="17940" id="PMC4037583.nxml.gz-57318" start="17938">no</span>
+      <span end="17976" id="PMC4037583.nxml.gz-57319" start="17971">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57320" type="identity">
+      <class id="subject_scope"/>
+      <span end="18401" id="PMC4037583.nxml.gz-57321" start="18298">Hence, the effects of maternal attitudes on fetal weight depend on the mother's polymorphism of GR gene</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57322" type="identity">
+      <class id="subject_scope"/>
+      <span end="18554" id="PMC4037583.nxml.gz-57323" start="18403">None of the remaining GR polymorphism subgroups demonstrated any differential correlations between maternal attitudes and fetal weight (data not shown)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57324" type="identity">
+      <class id="subject_scope"/>
+      <span end="19634" id="PMC4037583.nxml.gz-57325" start="19546">These confounders included women's age and BMI and were not explained by gestational age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57328" type="identity">
+      <class id="subject_scope"/>
+      <span end="20041" id="PMC4037583.nxml.gz-57329" start="19922">To this date there has been some contradicting evidence as to the role of these polymorphisms in fetal outcomes [17–19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57332" type="identity">
+      <class id="subject_scope"/>
+      <span end="20288" id="PMC4037583.nxml.gz-57333" start="20198">However, controversy surrounds the exact mechanisms by which these responses are regulated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57334" type="identity">
+      <class id="subject_scope"/>
+      <span end="20590" id="PMC4037583.nxml.gz-57335" start="20409">In our study, we have shown that all known transcripts of GR splice variants are expressed in the human placenta with GR α being the predominant transcript in all categories studied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57336" type="identity">
+      <class id="subject_scope"/>
+      <span end="20987" id="PMC4037583.nxml.gz-57337" start="20891">Interestingly, GAS5 and GR α were the predominant transcripts in both term and preterm placentas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57338" type="identity">
+      <class id="subject_scope"/>
+      <span end="21165" id="PMC4037583.nxml.gz-57339" start="20989">Here, we provide further information about the regulation of this transcript by cortisol using two in vitro models as it is upregulated by cortisol in a dose-independent manner</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57340" type="identity">
+      <class id="subject_scope"/>
+      <span end="21288" id="PMC4037583.nxml.gz-57341" start="21167">This finding provides further evidence of regulation of GAS5 by stress and corroborates initial in vivo data in mice [21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57342" type="identity">
+      <class id="subject_scope"/>
+      <span end="21452" id="PMC4037583.nxml.gz-57343" start="21290">In this study using C57BL/6 male mice, stress induced GAS5 RNA levels in the hippocampus and this increase was accompanied by a rise of corticosterone levels [22]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57344" type="identity">
+      <class id="subject_scope"/>
+      <span end="21575" id="PMC4037583.nxml.gz-57345" start="21454">These in vitro and in vivo observations together are highly suggestive of a functional link between stress and this ncRNA</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57346" type="identity">
+      <class id="subject_scope"/>
+      <span end="21996" id="PMC4037583.nxml.gz-57347" start="21746">In view of previous data in HeLa cells, where GAS5 translocates from the cytoplasm into the nucleus with GR in response to dexamethasone [8], this colocalization is highly suggestive of a potential crosstalk at placental level between GAS5 and the GR</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57348" type="identity">
+      <class id="subject_scope"/>
+      <span end="22200" id="PMC4037583.nxml.gz-57349" start="21998">Preterm labor is associated with high mortality and morbidity [22] and a recent study pointed towards an association between maternal stress and complications of pregnancy, especially preterm birth [23]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57350" type="identity">
+      <class id="subject_scope"/>
+      <span end="22431" id="PMC4037583.nxml.gz-57351" start="22268">There is some controversy surrounding the exact function of GR β , but it appears to exert a dominant-negative effect on GR α -induced transcriptional activity [8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57352" type="identity">
+      <class id="subject_scope"/>
+      <span end="22660" id="PMC4037583.nxml.gz-57353" start="22529">GR γ is a ligand-dependent transcription factor with reduced transactivating activity and its function is still under investigation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57354" type="identity">
+      <class id="subject_scope"/>
+      <span end="23518" id="PMC4037583.nxml.gz-57355" start="23327">It is attractive therefore to hypothesise that the change in the ratio of the splicing isoforms alters the responsiveness of placental GRs to cortisol and that this may affect gestational age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57356" type="identity">
+      <class id="subject_scope"/>
+      <span end="23721" id="PMC4037583.nxml.gz-57357" start="23520">We would like to propose a potential model where, during preterm birth, GR α is the predominant receptor since there is a decrease in negative regulators such as GR β , GR γ , and the “pseudo-GRE” GAS5</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57358" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57360" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57362" type="identity">
+      <class id="subject_scope"/>
+      <span end="24201" id="PMC4037583.nxml.gz-57363" start="24070">In terms of the polymorphic study, our study provides a novel insight into the involvement of GR polymorphisms in pregnancy outcome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57364" type="identity">
+      <class id="subject_scope"/>
+      <span end="24334" id="PMC4037583.nxml.gz-57365" start="24203">We have identified a specific group of mothers (Tht III I polymorphism, CC group) in whom maternal attitudes predicted fetal weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57366" type="identity">
+      <class id="subject_scope"/>
+      <span end="24922" id="PMC4037583.nxml.gz-57367" start="24791">In addition, microarray analyses demonstrated that many transcripts were differentially expressed between JEG-3 and BeWo cells [25]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57368" type="identity">
+      <class id="subject_scope"/>
+      <span end="25265" id="PMC4037583.nxml.gz-57369" start="25117">However and despite these limitations, there is a wealth of literature using those two cell lines as experimental models to study placental function</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57370" type="identity">
+      <class id="subject_scope"/>
+      <span end="25498" id="PMC4037583.nxml.gz-57371" start="25267">It would also be of interest to expand these observations in human myometrium that is a key organ responsible for quiescence and contractility responses and also assess whether changes in GR transcripts are due to labor or nonlabor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57372" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="25671" id="PMC4037583.nxml.gz-57373" start="25660">no apparent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57374" type="identity">
+      <class id="subject_scope"/>
+      <span end="25852" id="PMC4037583.nxml.gz-57375" start="25759">Therefore, at placental level, the contractile status does not really affect GR transcription</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57376" type="identity">
+      <class id="subject_scope"/>
+      <span end="26668" id="PMC4037583.nxml.gz-57377" start="26540">It should be emphasized that, in the present study, we included a fairly homogeneous cohort of Mediterranean patients from Crete</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57378" type="identity">
+      <class id="subject_scope"/>
+      <span end="27147" id="PMC4037583.nxml.gz-57379" start="26876">Should these data be replicated in a much wider cohort, given the simplicity in assessing such attitudes and the feasibility to identify the homozygous group of women early on in pregnancy, these findings may have significant implications for public health and prevention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57501" type="identity">
+      <class id="subject_scope"/>
+      <span end="759" id="PMC4037583.nxml.gz-57502" start="613">GAS5 and GR α were the predominant transcripts in both term and preterm placentas, with GAS5 being primarily localized in the syncytiotrophoblasts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57503" type="identity">
+      <class id="recent_study"/>
+      <span end="2521" id="PMC4037583.nxml.gz-57504" start="2509">recent study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57505" type="identity">
+      <class id="subject_scope"/>
+      <span end="5442" id="PMC4037583.nxml.gz-57506" start="5389">The exact cause of maternal stress was not identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57507" type="identity">
+      <class id="subject_scope"/>
+      <span end="13307" id="PMC4037583.nxml.gz-57508" start="12823">We also tested the relationships between continuous predictors (women's age, stress) and infant weight, using Pearson correlations and partial correlations (when adjusting for age and BMI) and using  t -tests for dichotomous predictors (e.g., planned pregnancy) and ANOVA for testing the relationship between attitude type and infant birth weight, while controlling statistically for relevant confounders such as mothers' age, BMI, pregnancy planning, and pregnancy nutritional habits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57509" type="identity">
+      <class id="subject_scope"/>
+      <span end="13606" id="PMC4037583.nxml.gz-57510" start="13364">Quantitative RT-PCR revealed that GAS5 and all GRs were expressed in human placentas ( n = 23); 13 were preterm labor (&lt;37 gestational weeks) and 10 were term (&gt;37 gestational weeks) labor, with GAS5 and GR α being the predominant transcripts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57512" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="15191" id="PMC4037583.nxml.gz-57513" start="15180">no apparent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57514" type="identity">
+      <class id="subject_scope"/>
+      <span end="15669" id="PMC4037583.nxml.gz-57515" start="15456">Strong homogeneous staining mainly in the cytoplasm is detected in the syncytiotrophoblast cells on the outermost layer of the placental villi, with some scattered expression in cytotrophoblast cells (Figure 2(a))</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57516" type="identity">
+      <class id="subject_scope"/>
+      <span end="15749" id="PMC4037583.nxml.gz-57517" start="15671">Using RNA FISH, GAS5 localized primarily in syncytiotrophoblasts (Figure 2(c))</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57518" type="identity">
+      <class id="subject_scope"/>
+      <span end="17122" id="PMC4037583.nxml.gz-57519" start="16946">In addition, there were no apparent changes in protein expression of GR α / β in BeWo cells treated with 10–1000 nM of cortisol, corroborating the qPCR studies (data not shown)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57520" type="identity">
+      <class id="problem_complication"/>
+      <span end="17676" id="PMC4037583.nxml.gz-57521" start="17672">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57522" type="identity">
+      <class id="subject_scope"/>
+      <span end="18069" id="PMC4037583.nxml.gz-57523" start="17922">In Tht111 I CT, no significant correlations were noted, controlling for age, BMI, pregnancy planning, and consumption of fast food during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57524" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="18364" id="PMC4037583.nxml.gz-57525" start="18355">depend on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57526" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="19924" id="PMC4037583.nxml.gz-57527" start="19922">To</span>
+      <span end="19934" id="PMC4037583.nxml.gz-57528" start="19930">date</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57529" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="20238" id="PMC4037583.nxml.gz-57530" start="20229">the exact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57531" type="identity">
+      <class id="which"/>
+      <span end="20258" id="PMC4037583.nxml.gz-57532" start="20253">which</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57533" type="identity">
+      <class id="probable_understanding"/>
+      <span end="20553" id="PMC4037583.nxml.gz-57534" start="20542">predominant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57535" type="identity">
+      <class id="probable_understanding"/>
+      <span end="20940" id="PMC4037583.nxml.gz-57536" start="20929">predominant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57537" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="21103" id="PMC4037583.nxml.gz-57538" start="21097">models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57539" type="identity">
+      <class id="independent"/>
+      <span end="21158" id="PMC4037583.nxml.gz-57540" start="21147">independent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57541" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="21254" id="PMC4037583.nxml.gz-57542" start="21242">corroborates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57543" type="identity">
+      <class id="this_study"/>
+      <span end="21303" id="PMC4037583.nxml.gz-57544" start="21293">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57545" type="identity">
+      <class id="probable_understanding"/>
+      <span end="21513" id="PMC4037583.nxml.gz-57546" start="21507">highly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57547" type="identity">
+      <class id="probable_understanding"/>
+      <span end="21917" id="PMC4037583.nxml.gz-57548" start="21911">highly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57549" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="21953" id="PMC4037583.nxml.gz-57550" start="21944">crosstalk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57551" type="identity">
+      <class id="important_consideration"/>
+      <span end="22035" id="PMC4037583.nxml.gz-57552" start="22031">high</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57553" type="identity">
+      <class id="recent_study"/>
+      <span end="22083" id="PMC4037583.nxml.gz-57554" start="22071">recent study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57555" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="22315" id="PMC4037583.nxml.gz-57556" start="22306">the exact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57557" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="22660" id="PMC4037583.nxml.gz-57558" start="22635">still under investigation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57559" type="identity">
+      <class id="probable_understanding"/>
+      <span end="23343" id="PMC4037583.nxml.gz-57560" start="23327">It is attractive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57561" type="identity">
+      <class id="probable_understanding"/>
+      <span end="23615" id="PMC4037583.nxml.gz-57562" start="23604">predominant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57563" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="24160" id="PMC4037583.nxml.gz-57564" start="24149">involvement</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57565" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="24351" id="PMC4037583.nxml.gz-57566" start="24341">past study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57567" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="25187" id="PMC4037583.nxml.gz-57568" start="25167">wealth of literature</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57569" type="identity">
+      <class id="subject_scope"/>
+      <span end="25757" id="PMC4037583.nxml.gz-57570" start="25650">There was no apparent change in the expression of any of the genes in these two categories (data not shown)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57571" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="25828" id="PMC4037583.nxml.gz-57572" start="25813">does not really</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-57573" type="identity">
+      <class id="present_study"/>
+      <span end="26590" id="PMC4037583.nxml.gz-57574" start="26577">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-576" type="identity">
+      <class id="observations" label="observations"/>
+      <span end="21493" id="PMC4037583.nxml.gz-577" start="21481">observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-578" type="identity">
+      <class id="observations" label="observations"/>
+      <span end="25324" id="PMC4037583.nxml.gz-579" start="25312">observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-582" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="15011" id="PMC4037583.nxml.gz-583" start="15003">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-584" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="26211" id="PMC4037583.nxml.gz-585" start="26203">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-588" type="identity">
+      <class id="of_interest" label="of_interest"/>
+      <span end="24947" id="PMC4037583.nxml.gz-589" start="24936">of interest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-590" type="identity">
+      <class id="of_interest" label="of_interest"/>
+      <span end="25295" id="PMC4037583.nxml.gz-591" start="25284">of interest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-594" type="identity">
+      <class id="only" label="only"/>
+      <span end="3557" id="PMC4037583.nxml.gz-595" start="3553">Only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-598" type="identity">
+      <class id="only" label="only"/>
+      <span end="14862" id="PMC4037583.nxml.gz-599" start="14858">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-610" type="identity">
+      <class id="other" label="other"/>
+      <span end="3452" id="PMC4037583.nxml.gz-611" start="3447">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-612" type="identity">
+      <class id="other" label="other"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-614" type="identity">
+      <class id="our_study" label="our_study"/>
+      <span end="23014" id="PMC4037583.nxml.gz-615" start="23005">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-616" type="identity">
+      <class id="our_study" label="our_study"/>
+      <span end="24114" id="PMC4037583.nxml.gz-617" start="24105">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-628" type="identity">
+      <class id="point" label="point"/>
+      <span end="18087" id="PMC4037583.nxml.gz-629" start="18082">point</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-630" type="identity">
+      <class id="pointed" label="pointed"/>
+      <span end="22091" id="PMC4037583.nxml.gz-631" start="22084">pointed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-632" type="identity">
+      <class id="possible" label="possible"/>
+      <span end="2974" id="PMC4037583.nxml.gz-633" start="2966">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-634" type="identity">
+      <class id="possibly" label="possibly"/>
+      <span end="27407" id="PMC4037583.nxml.gz-635" start="27399">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-636" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="1576" id="PMC4037583.nxml.gz-637" start="1567">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-640" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="21943" id="PMC4037583.nxml.gz-641" start="21934">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-646" type="identity">
+      <class id="potentially" label="potentially"/>
+      <span end="18712" id="PMC4037583.nxml.gz-647" start="18701">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-650" type="identity">
+      <class id="predict" label="predict"/>
+      <span end="18220" id="PMC4037583.nxml.gz-651" start="18213">predict</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-654" type="identity">
+      <class id="superficial_relationship" label="predicted"/>
+      <span end="24321" id="PMC4037583.nxml.gz-655" start="24312">predicted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-656" type="identity">
+      <class id="predictive" label="predictive"/>
+      <span end="1633" id="PMC4037583.nxml.gz-657" start="1623">predictive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-658" type="identity">
+      <class id="predictive" label="predictive"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-660" type="identity">
+      <class id="predictor" label="predictor"/>
+      <span end="17378" id="PMC4037583.nxml.gz-661" start="17369">predictor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-666" type="identity">
+      <class id="previous" label="previous"/>
+      <span end="18605" id="PMC4037583.nxml.gz-667" start="18597">previous</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-668" type="identity">
+      <class id="previous" label="previous"/>
+      <span end="21765" id="PMC4037583.nxml.gz-669" start="21757">previous</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-678" type="identity">
+      <class id="previously" label="previously"/>
+      <span end="18766" id="PMC4037583.nxml.gz-679" start="18756">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-688" type="identity">
+      <class id="propose" label="propose"/>
+      <span end="23544" id="PMC4037583.nxml.gz-689" start="23537">propose</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-690" type="identity">
+      <class id="public_health" label="public_health"/>
+      <span end="27132" id="PMC4037583.nxml.gz-691" start="27119">public health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-700" type="identity">
+      <class id="relation" label="relation"/>
+      <span end="4228" id="PMC4037583.nxml.gz-701" start="4220">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-702" type="identity">
+      <class id="relation" label="relation"/>
+      <span end="19904" id="PMC4037583.nxml.gz-703" start="19896">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-704" type="identity">
+      <class id="relation" label="relation"/>
+      <span end="26785" id="PMC4037583.nxml.gz-705" start="26777">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-706" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="378" id="PMC4037583.nxml.gz-707" start="366">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-708" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="3978" id="PMC4037583.nxml.gz-709" start="3966">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-716" type="identity">
+      <class id="relevant" label="relevant"/>
+      <span end="3610" id="PMC4037583.nxml.gz-717" start="3602">relevant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-722" type="identity">
+      <class id="replicated" label="replicated"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-724" type="identity">
+      <class id="reported" label="reported"/>
+      <span end="2253" id="PMC4037583.nxml.gz-725" start="2245">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-728" type="identity">
+      <class id="represent" label="represent"/>
+      <span end="24699" id="PMC4037583.nxml.gz-729" start="24690">represent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-730" type="identity">
+      <class id="responsible" label="responsible"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-734" type="identity">
+      <class id="revealed" label="revealed"/>
+      <span end="15179" id="PMC4037583.nxml.gz-735" start="15171">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-736" type="identity">
+      <class id="robust" label="robust"/>
+      <span end="26356" id="PMC4037583.nxml.gz-737" start="26350">robust</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-738" type="identity">
+      <class id="role" label="role"/>
+      <span end="19992" id="PMC4037583.nxml.gz-739" start="19988">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-740" type="identity">
+      <class id="role" label="role"/>
+      <span end="22813" id="PMC4037583.nxml.gz-741" start="22809">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-742" type="identity">
+      <class id="seen" label="seen"/>
+      <span end="26409" id="PMC4037583.nxml.gz-743" start="26405">seen</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-744" type="identity">
+      <class id="should" label="should"/>
+      <span end="26882" id="PMC4037583.nxml.gz-745" start="26876">Should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-774" type="identity">
+      <class id="small" label="small"/>
+      <span end="25899" id="PMC4037583.nxml.gz-775" start="25894">small</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-778" type="identity">
+      <class id="some" label="some"/>
+      <span end="19954" id="PMC4037583.nxml.gz-779" start="19950">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-780" type="identity">
+      <class id="some" label="some"/>
+      <span end="22281" id="PMC4037583.nxml.gz-781" start="22277">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-782" type="identity">
+      <class id="incomplete_evidence" label="still"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-784" type="identity">
+      <class id="still_unclear" label="still_unclear"/>
+      <span end="3347" id="PMC4037583.nxml.gz-785" start="3334">still unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-786" type="identity">
+      <class id="strategies" label="strategies"/>
+      <span end="27382" id="PMC4037583.nxml.gz-787" start="27372">strategies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-796" type="identity">
+      <class id="suggest" label="suggest"/>
+      <span end="26325" id="PMC4037583.nxml.gz-797" start="26318">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-798" type="identity">
+      <class id="suggestive" label="suggestive"/>
+      <span end="19299" id="PMC4037583.nxml.gz-799" start="19289">suggestive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-800" type="identity">
+      <class id="suggestive" label="suggestive"/>
+      <span end="21524" id="PMC4037583.nxml.gz-801" start="21514">suggestive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-802" type="identity">
+      <class id="suggestive" label="suggestive"/>
+      <span end="21928" id="PMC4037583.nxml.gz-803" start="21918">suggestive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-808" type="identity">
+      <class id="therefore" label="therefore"/>
+      <span end="23353" id="PMC4037583.nxml.gz-809" start="23344">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-810" type="identity">
+      <class id="therefore" label="therefore"/>
+      <span end="25768" id="PMC4037583.nxml.gz-811" start="25759">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-812" type="identity">
+      <class id="these_findings" label="these_findings"/>
+      <span end="27080" id="PMC4037583.nxml.gz-813" start="27066">these findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-856" type="identity">
+      <class id="thus" label="thus"/>
+      <span end="2677" id="PMC4037583.nxml.gz-857" start="2673">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-858" type="identity">
+      <class id="to_assess" label="to_assess"/>
+      <span end="1105" id="PMC4037583.nxml.gz-859" start="1096">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-866" type="identity">
+      <class id="to_test" label="to_test"/>
+      <span end="25507" id="PMC4037583.nxml.gz-867" start="25500">To test</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-868" type="identity">
+      <class id="together" label="together"/>
+      <span end="18742" id="PMC4037583.nxml.gz-869" start="18734">together</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-870" type="identity">
+      <class id="together" label="together"/>
+      <span end="21502" id="PMC4037583.nxml.gz-871" start="21494">together</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-872" type="identity">
+      <class id="ultimately" label="ultimately"/>
+      <span end="23758" id="PMC4037583.nxml.gz-873" start="23748">ultimately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-874" type="identity">
+      <class id="unique" label="unique"/>
+      <span end="26438" id="PMC4037583.nxml.gz-875" start="26432">unique</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-876" type="identity">
+      <class id="variability" label="variability"/>
+      <span end="3371" id="PMC4037583.nxml.gz-877" start="3360">variability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-880" type="identity">
+      <class id="view" label="view"/>
+      <span end="21753" id="PMC4037583.nxml.gz-881" start="21749">view</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-890" type="identity">
+      <class id="was_not" label="was_not"/>
+      <span end="26000" id="PMC4037583.nxml.gz-891" start="25993">was not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-919" type="identity">
+      <class id="will" label="will"/>
+      <span end="23747" id="PMC4037583.nxml.gz-920" start="23743">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-921" type="identity">
+      <class id="would" label="would"/>
+      <span end="23528" id="PMC4037583.nxml.gz-922" start="23523">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-923" type="identity">
+      <class id="would" label="would"/>
+      <span end="25050" id="PMC4037583.nxml.gz-924" start="25045">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-925" type="identity">
+      <class id="would" label="would"/>
+      <span end="25275" id="PMC4037583.nxml.gz-926" start="25270">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-927" type="identity">
+      <class id="would_be" label="would_be"/>
+      <span end="24935" id="PMC4037583.nxml.gz-928" start="24927">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-929" type="identity">
+      <class id="0_model" label="0_model"/>
+      <span end="23562" id="PMC4037583.nxml.gz-930" start="23557">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-931" type="identity">
+      <class id="contributor" label="contributor"/>
+      <span end="1942" id="PMC4037583.nxml.gz-932" start="1931">contributor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-933" type="identity">
+      <class id="benefit" label="benefit"/>
+      <span end="27348" id="PMC4037583.nxml.gz-934" start="27341">benefit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-939" type="identity">
+      <class id="should_be_emphasized" label="should_be_emphasized"/>
+      <span end="26563" id="PMC4037583.nxml.gz-940" start="26543">should be emphasized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-941" type="identity">
+      <class id="regulation" label="regulation"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-943" type="identity">
+      <class id="regulation" label="regulation"/>
+      <span end="21046" id="PMC4037583.nxml.gz-944" start="21036">regulation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-945" type="identity">
+      <class id="regulation" label="regulation"/>
+      <span end="21219" id="PMC4037583.nxml.gz-946" start="21209">regulation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-947" type="identity">
+      <class id="regulation" label="regulation"/>
+      <span end="25095" id="PMC4037583.nxml.gz-948" start="25085">regulation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-967" type="identity">
+      <class id="prevalence" label="prevalence"/>
+      <span end="26515" id="PMC4037583.nxml.gz-968" start="26505">prevalence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-971" type="identity">
+      <class id="hypothesise" label="hypothesise"/>
+      <span end="23368" id="PMC4037583.nxml.gz-972" start="23357">hypothesise</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-973" type="identity">
+      <class id="many" label="many"/>
+      <span end="24846" id="PMC4037583.nxml.gz-974" start="24842">many</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-977" type="identity">
+      <class id="investigation" label="investigation"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4037583.nxml.gz-981" type="identity">
+      <class id="variables" label="variables"/>
+    </annotation>
+  </document>
+</knowtator-project>

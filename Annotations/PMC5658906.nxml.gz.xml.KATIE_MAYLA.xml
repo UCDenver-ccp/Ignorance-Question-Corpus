@@ -1,0 +1,1676 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC5658906.nxml.gz" text-file="PMC5658906.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1002" type="identity">
+      <class id="showed" label="showed"/>
+      <span end="35348" id="PMC5658906.nxml.gz-1003" start="35342">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-101" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="24551" id="PMC5658906.nxml.gz-102" start="24541">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-103" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="24628" id="PMC5658906.nxml.gz-104" start="24618">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1034" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="29435" id="PMC5658906.nxml.gz-1035" start="29428">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1036" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="33247" id="PMC5658906.nxml.gz-1037" start="33240">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1038" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="34509" id="PMC5658906.nxml.gz-1039" start="34502">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1040" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="34538" id="PMC5658906.nxml.gz-1041" start="34531">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1042" type="identity">
+      <class id="similar_findings" label="similar_findings"/>
+      <span end="30656" id="PMC5658906.nxml.gz-1043" start="30640">Similar findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1044" type="identity">
+      <class id="similar_to" label="similar_to"/>
+      <span end="21104" id="PMC5658906.nxml.gz-1045" start="21094">similar to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-105" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="25151" id="PMC5658906.nxml.gz-106" start="25141">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1068" type="identity">
+      <class id="some_evidence" label="some_evidence"/>
+      <span end="30291" id="PMC5658906.nxml.gz-1069" start="30278">some evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-107" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="25269" id="PMC5658906.nxml.gz-108" start="25259">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1076" type="identity">
+      <class id="tended" label="tended"/>
+      <span end="21087" id="PMC5658906.nxml.gz-1077" start="21081">tended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1078" type="identity">
+      <class id="tended" label="tended"/>
+      <span end="21611" id="PMC5658906.nxml.gz-1079" start="21605">tended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1080" type="identity">
+      <class id="tended" label="tended"/>
+      <span end="26124" id="PMC5658906.nxml.gz-1081" start="26118">tended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1082" type="identity">
+      <class id="tended" label="tended"/>
+      <span end="29802" id="PMC5658906.nxml.gz-1083" start="29796">tended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1084" type="identity">
+      <class id="theories" label="theories"/>
+      <span end="30807" id="PMC5658906.nxml.gz-1085" start="30799">theories</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-109" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="25384" id="PMC5658906.nxml.gz-110" start="25374">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1090" type="identity">
+      <class id="therefore" label="therefore"/>
+      <span end="34568" id="PMC5658906.nxml.gz-1091" start="34559">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1092" type="identity">
+      <class id="these_findings" label="these_findings"/>
+      <span end="31575" id="PMC5658906.nxml.gz-1093" start="31561">these findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-11" type="identity">
+      <class id="account_for" label="account_for"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-111" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="26611" id="PMC5658906.nxml.gz-112" start="26601">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1114" type="identity">
+      <class id="this" label="this"/>
+      <span end="34797" id="PMC5658906.nxml.gz-1115" start="34793">this</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1116" type="identity">
+      <class id="this...study" label="this...study"/>
+      <span end="29121" id="PMC5658906.nxml.gz-1117" start="29111">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1123" type="identity">
+      <class id="this_paper" label="this_paper"/>
+      <span end="34677" id="PMC5658906.nxml.gz-1124" start="34667">This paper</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1125" type="identity">
+      <class id="this_study" label="this_study"/>
+      <span end="6439" id="PMC5658906.nxml.gz-1126" start="6429">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1127" type="identity">
+      <class id="to...examine" label="to...examine"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-113" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="26750" id="PMC5658906.nxml.gz-114" start="26740">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1140" type="identity">
+      <class id="unknown" label="unknown"/>
+      <span end="30789" id="PMC5658906.nxml.gz-1141" start="30782">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-115" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="26847" id="PMC5658906.nxml.gz-116" start="26837">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-117" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="27044" id="PMC5658906.nxml.gz-118" start="27034">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-119" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="27159" id="PMC5658906.nxml.gz-120" start="27149">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1200" type="identity">
+      <class id="warrant" label="warrant"/>
+      <span end="16916" id="PMC5658906.nxml.gz-1201" start="16909">warrant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1204" type="identity">
+      <class id="was_not" label="was_not"/>
+      <span end="23834" id="PMC5658906.nxml.gz-1205" start="23827">was not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-121" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="27259" id="PMC5658906.nxml.gz-122" start="27249">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1226" type="identity">
+      <class id="whereas" label="whereas"/>
+      <span end="4411" id="PMC5658906.nxml.gz-1227" start="4404">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-123" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="28074" id="PMC5658906.nxml.gz-124" start="28064">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1244" type="identity">
+      <class id="which" label="which"/>
+      <span end="23304" id="PMC5658906.nxml.gz-1245" start="23299">which</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-125" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="28245" id="PMC5658906.nxml.gz-126" start="28235">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1264" type="identity">
+      <class id="while" label="while"/>
+      <span end="10477" id="PMC5658906.nxml.gz-1265" start="10472">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-127" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="28296" id="PMC5658906.nxml.gz-128" start="28286">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1282" type="identity">
+      <class id="why" label="why"/>
+      <span end="23805" id="PMC5658906.nxml.gz-1283" start="23802">why</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1284" type="identity">
+      <class id="will" label="will"/>
+      <span end="3381" id="PMC5658906.nxml.gz-1285" start="3377">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1286" type="identity">
+      <class id="would" label="would"/>
+      <span end="34525" id="PMC5658906.nxml.gz-1287" start="34520">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1288" type="identity">
+      <class id="0_model" label="0_model"/>
+      <span end="4728" id="PMC5658906.nxml.gz-1289" start="4723">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-129" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="28560" id="PMC5658906.nxml.gz-130" start="28550">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1292" type="identity">
+      <class id="0_model" label="0_model"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-131" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="28641" id="PMC5658906.nxml.gz-132" start="28631">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-133" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="28777" id="PMC5658906.nxml.gz-134" start="28767">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-1336" type="identity">
+      <class id="roughly" label="roughly"/>
+      <span end="28274" id="PMC5658906.nxml.gz-1337" start="28267">roughly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-135" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="29994" id="PMC5658906.nxml.gz-136" start="29984">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-137" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="30239" id="PMC5658906.nxml.gz-138" start="30229">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-139" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="30329" id="PMC5658906.nxml.gz-140" start="30319">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-141" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="30444" id="PMC5658906.nxml.gz-142" start="30434">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-143" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="30556" id="PMC5658906.nxml.gz-144" start="30546">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-145" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="31394" id="PMC5658906.nxml.gz-146" start="31384">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-147" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="31496" id="PMC5658906.nxml.gz-148" start="31486">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-149" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="35591" id="PMC5658906.nxml.gz-150" start="35581">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-15" type="identity">
+      <class id="affect" label="affect"/>
+      <span end="31069" id="PMC5658906.nxml.gz-16" start="31063">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-151" type="identity">
+      <class id="association" label="association"/>
+      <span end="500" id="PMC5658906.nxml.gz-152" start="489">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-153" type="identity">
+      <class id="association" label="association"/>
+      <span end="4361" id="PMC5658906.nxml.gz-154" start="4350">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-155" type="identity">
+      <class id="association" label="association"/>
+      <span end="4459" id="PMC5658906.nxml.gz-156" start="4448">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-159" type="identity">
+      <class id="association" label="association"/>
+      <span end="6497" id="PMC5658906.nxml.gz-160" start="6486">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-165" type="identity">
+      <class id="association" label="association"/>
+      <span end="24026" id="PMC5658906.nxml.gz-166" start="24015">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-169" type="identity">
+      <class id="association" label="association"/>
+      <span end="30097" id="PMC5658906.nxml.gz-170" start="30086">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-17" type="identity">
+      <class id="affecting" label="affecting"/>
+      <span end="3363" id="PMC5658906.nxml.gz-18" start="3354">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-171" type="identity">
+      <class id="association" label="association"/>
+      <span end="30603" id="PMC5658906.nxml.gz-172" start="30592">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-177" type="identity">
+      <class id="associations" label="associations"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-179" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="1569" id="PMC5658906.nxml.gz-180" start="1557">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-181" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="3262" id="PMC5658906.nxml.gz-182" start="3250">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-183" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="4494" id="PMC5658906.nxml.gz-184" start="4482">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-185" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="23243" id="PMC5658906.nxml.gz-186" start="23231">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-187" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="28999" id="PMC5658906.nxml.gz-188" start="28987">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-189" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="29374" id="PMC5658906.nxml.gz-190" start="29362">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-19" type="identity">
+      <class id="affecting" label="affecting"/>
+      <span end="31018" id="PMC5658906.nxml.gz-20" start="31009">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-191" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="29487" id="PMC5658906.nxml.gz-192" start="29475">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-193" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="29623" id="PMC5658906.nxml.gz-194" start="29611">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-195" type="identity">
+      <class id="associations" label="associations"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-197" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="32042" id="PMC5658906.nxml.gz-198" start="32030">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-199" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="35448" id="PMC5658906.nxml.gz-200" start="35436">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-201" type="identity">
+      <class id="assumed" label="assumed"/>
+      <span end="33197" id="PMC5658906.nxml.gz-202" start="33190">assumed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-203" type="identity">
+      <class id="assumption" label="assumption"/>
+      <span end="34483" id="PMC5658906.nxml.gz-204" start="34473">assumption</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-21" type="identity">
+      <class id="aimed" label="aimed"/>
+      <span end="473" id="PMC5658906.nxml.gz-22" start="468">aimed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-215" type="identity">
+      <class id="because" label="because"/>
+      <span end="17734" id="PMC5658906.nxml.gz-216" start="17727">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-227" type="identity">
+      <class id="better_understand" label="better_understand"/>
+      <span end="17218" id="PMC5658906.nxml.gz-228" start="17201">better understand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-231" type="identity">
+      <class id="biased" label="biased"/>
+      <span end="17775" id="PMC5658906.nxml.gz-232" start="17769">biased</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-233" type="identity">
+      <class id="but" label="but"/>
+      <span end="363" id="PMC5658906.nxml.gz-234" start="360">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-235" type="identity">
+      <class id="but" label="but"/>
+      <span end="4217" id="PMC5658906.nxml.gz-236" start="4214">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-237" type="identity">
+      <class id="but" label="but"/>
+      <span end="34902" id="PMC5658906.nxml.gz-238" start="34899">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-239" type="identity">
+      <class id="can" label="can"/>
+      <span end="3837" id="PMC5658906.nxml.gz-240" start="3834">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-241" type="identity">
+      <class id="can" label="can"/>
+      <span end="5111" id="PMC5658906.nxml.gz-242" start="5108">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-245" type="identity">
+      <class id="can" label="can"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-247" type="identity">
+      <class id="caution" label="caution"/>
+      <span end="30638" id="PMC5658906.nxml.gz-248" start="30631">caution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-251" type="identity">
+      <class id="challenging" label="challenging"/>
+      <span end="17726" id="PMC5658906.nxml.gz-252" start="17715">challenging</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-253" type="identity">
+      <class id="choice" label="choice"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-255" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="28135" id="PMC5658906.nxml.gz-256" start="28124">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-257" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="34946" id="PMC5658906.nxml.gz-258" start="34935">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-267" type="identity">
+      <class id="conducted" label="conducted"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-269" type="identity">
+      <class id="conducted" label="conducted"/>
+      <span end="34447" id="PMC5658906.nxml.gz-270" start="34438">conducted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-27" type="identity">
+      <class id="another" label="another"/>
+      <span end="5092" id="PMC5658906.nxml.gz-28" start="5085">another</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-281" type="identity">
+      <class id="consistent" label="consistent"/>
+      <span end="35510" id="PMC5658906.nxml.gz-282" start="35500">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-291" type="identity">
+      <class id="correlated" label="correlated"/>
+      <span end="21639" id="PMC5658906.nxml.gz-292" start="21629">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-293" type="identity">
+      <class id="correlated" label="correlated"/>
+      <span end="21799" id="PMC5658906.nxml.gz-294" start="21789">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-295" type="identity">
+      <class id="correlated" label="correlated"/>
+      <span end="21907" id="PMC5658906.nxml.gz-296" start="21897">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-299" type="identity">
+      <class id="correlated" label="correlated"/>
+      <span end="35327" id="PMC5658906.nxml.gz-300" start="35317">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-303" type="identity">
+      <class id="could" label="could"/>
+      <span end="33413" id="PMC5658906.nxml.gz-304" start="33408">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-305" type="identity">
+      <class id="demonstrates" label="demonstrates"/>
+      <span end="35094" id="PMC5658906.nxml.gz-306" start="35082">demonstrates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-321" type="identity">
+      <class id="did_not" label="did_not"/>
+      <span end="29704" id="PMC5658906.nxml.gz-322" start="29697">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-323" type="identity">
+      <class id="did_not" label="did_not"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-325" type="identity">
+      <class id="did_not_find" label="did_not_find"/>
+      <span end="4444" id="PMC5658906.nxml.gz-326" start="4432">did not find</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-327" type="identity">
+      <class id="differ" label="differ"/>
+      <span end="3844" id="PMC5658906.nxml.gz-328" start="3838">differ</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-367" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="5501" id="PMC5658906.nxml.gz-368" start="5495">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-371" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="27800" id="PMC5658906.nxml.gz-372" start="27794">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-373" type="identity">
+      <class id="effect" label="effect"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-375" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="408" id="PMC5658906.nxml.gz-376" start="401">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-377" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="3002" id="PMC5658906.nxml.gz-378" start="2995">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-379" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="4655" id="PMC5658906.nxml.gz-380" start="4648">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-389" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="16899" id="PMC5658906.nxml.gz-390" start="16892">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39028" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39030" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39032" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39034" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39036" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39038" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39040" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39042" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39044" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="4915" id="PMC5658906.nxml.gz-39045" start="4908">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39052" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39054" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39056" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="20681" id="PMC5658906.nxml.gz-39057" start="20672">predicted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39058" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="20843" id="PMC5658906.nxml.gz-39059" start="20834">predicted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39060" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39062" type="identity">
+      <class id="association" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39064" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39066" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39068" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39070" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="24387" id="PMC5658906.nxml.gz-39071" start="24382">meant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39072" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39074" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39076" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39078" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39080" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39082" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39084" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="27472" id="PMC5658906.nxml.gz-39085" start="27466">harder</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39086" type="identity">
+      <class id="problem_complication" label=""/>
+      <span end="27505" id="PMC5658906.nxml.gz-39087" start="27499">do not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39088" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39090" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39092" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39094" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39096" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39098" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-391" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="22585" id="PMC5658906.nxml.gz-392" start="22578">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39100" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39102" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39104" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39106" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31656" id="PMC5658906.nxml.gz-39107" start="31553">Both of these findings, as with the PFAS findings, should be interpreted cautiously because alpha = 0.5</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39108" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39110" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31729" id="PMC5658906.nxml.gz-39111" start="31658">They do, however, agree with previously published studies [14,39,45,46]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39112" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39114" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39116" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39118" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33109" id="PMC5658906.nxml.gz-39119" start="33066">There were several limitations to the study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39120" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33305" id="PMC5658906.nxml.gz-39121" start="33111">First, the BHLM model did not account for interactions between classes, and we assumed that all chemicals within a class share a similar mode of action and arise from a common prior distribution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39122" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39124" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39126" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39128" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39130" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39132" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39134" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2877" id="PMC5658906.nxml.gz-39135" start="2860">The vulnerability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39136" type="identity">
+      <class id="may" label=""/>
+      <span end="3345" id="PMC5658906.nxml.gz-39137" start="3342">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39138" type="identity">
+      <class id="future_work" label=""/>
+      <span end="3396" id="PMC5658906.nxml.gz-39139" start="3389">efforts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39140" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="3470" id="PMC5658906.nxml.gz-39141" start="3466">Many</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39142" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="4121" id="PMC5658906.nxml.gz-39143" start="4102">sufficient evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39144" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="4600" id="PMC5658906.nxml.gz-39145" start="4587">may be due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39146" type="identity">
+      <class id="difficult_task" label=""/>
+      <span end="4611" id="PMC5658906.nxml.gz-39147" start="4603">shortage</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39148" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="4863" id="PMC5658906.nxml.gz-39149" start="4861">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39150" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="5008" id="PMC5658906.nxml.gz-39151" start="4890">These approaches, however, assign equal weight and importance to all chemicals, irrespective of their predictive value</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39152" type="identity">
+      <class id="problem_complication"/>
+      <span end="5104" id="PMC5658906.nxml.gz-39153" start="5101">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39154" type="identity">
+      <class id="probable_understanding"/>
+      <span end="5147" id="PMC5658906.nxml.gz-39155" start="5141">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39156" type="identity">
+      <class id="alternative_options_controversy"/>
+      <span end="10496" id="PMC5658906.nxml.gz-39157" start="10478">not conventionally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39158" type="identity">
+      <class id="important_consideration"/>
+      <span end="10531" id="PMC5658906.nxml.gz-39159" start="10521">widespread</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39160" type="identity">
+      <class id="may"/>
+      <span end="16908" id="PMC5658906.nxml.gz-39161" start="16905">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39162" type="identity">
+      <class id="difficult_task"/>
+      <span end="17630" id="PMC5658906.nxml.gz-39163" start="17617">not available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39164" type="identity">
+      <class id="subject_scope"/>
+      <span end="20804" id="PMC5658906.nxml.gz-39165" start="20627">Several maternal demographic characteristics predicted birth weight, including age, race, marital status, annual household income, public or no insurance and other SES variables</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39166" type="identity">
+      <class id="subject_scope"/>
+      <span end="20993" id="PMC5658906.nxml.gz-39167" start="20806">Tobacco smoke exposure also predicted lower birth weight with a 210 g reduction among smoking mothers (&gt;3 ng/ml serum cotinine) compared with non-smoking mothers (&lt;3 ng/ml serum cotinine)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39168" type="identity">
+      <class id="estimate"/>
+      <span end="22606" id="PMC5658906.nxml.gz-39169" start="22598">estimate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39170" type="identity">
+      <class id="although"/>
+      <span end="23951" id="PMC5658906.nxml.gz-39171" start="23943">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39172" type="identity">
+      <class id="subject_scope"/>
+      <span end="24489" id="PMC5658906.nxml.gz-39173" start="24331">The large number of 23 PCBs examined in this study meant that the BHLM performed more aggressive shrinkage on the model regression coefficients for this class</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39174" type="identity">
+      <class id="problem_complication"/>
+      <span end="26188" id="PMC5658906.nxml.gz-39175" start="26176">less precise</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39176" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="26528" id="PMC5658906.nxml.gz-39177" start="26519">in common</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39178" type="identity">
+      <class id="problem_complication"/>
+      <span end="27392" id="PMC5658906.nxml.gz-39179" start="27386">do not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39180" type="identity">
+      <class id="subject_scope"/>
+      <span end="27609" id="PMC5658906.nxml.gz-39181" start="27356">Because LASSO and Elastic Net do not estimate the μβparameter, this makes Additional file1: Figures S2 and S3 harder to interpret because they do not estimate the average association between the exposure variables and the outcome within a chemical class</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39182" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="27638" id="PMC5658906.nxml.gz-39183" start="27629">mediating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39184" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="27742" id="PMC5658906.nxml.gz-39185" start="27734">modifier</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39186" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="27991" id="PMC5658906.nxml.gz-39187" start="27986">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39188" type="identity">
+      <class id="potentially"/>
+      <span end="28415" id="PMC5658906.nxml.gz-39189" start="28404">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39190" type="identity">
+      <class id="difficult_task"/>
+      <span end="28439" id="PMC5658906.nxml.gz-39191" start="28428">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39192" type="identity">
+      <class id="probable_understanding"/>
+      <span end="30516" id="PMC5658906.nxml.gz-39193" start="30510">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39194" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="31674" id="PMC5658906.nxml.gz-39195" start="31667">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39196" type="identity">
+      <class id="difficult_task"/>
+      <span end="32007" id="PMC5658906.nxml.gz-39197" start="31996">complicates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39198" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="33148" id="PMC5658906.nxml.gz-39199" start="33133">did not account</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39200" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="33338" id="PMC5658906.nxml.gz-39201" start="33330">excluded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39202" type="identity">
+      <class id="problem_complication"/>
+      <span end="34142" id="PMC5658906.nxml.gz-39203" start="34135">reduced</span>
+      <span end="34160" id="PMC5658906.nxml.gz-39204" start="34155">power</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39205" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="34688" id="PMC5658906.nxml.gz-39206" start="34678">introduces</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39207" type="identity">
+      <class id="problem_complication"/>
+      <span end="34920" id="PMC5658906.nxml.gz-39208" start="34908">less precise</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-39209" type="identity">
+      <class id="probable_understanding"/>
+      <span end="35292" id="PMC5658906.nxml.gz-39210" start="35280">interpreting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-395" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="33402" id="PMC5658906.nxml.gz-396" start="33395">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-399" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="35304" id="PMC5658906.nxml.gz-400" start="35297">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-409" type="identity">
+      <class id="error" label="error"/>
+      <span end="30540" id="PMC5658906.nxml.gz-410" start="30535">error</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-413" type="identity">
+      <class id="error" label="error"/>
+      <span end="34013" id="PMC5658906.nxml.gz-414" start="34008">error</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-419" type="identity">
+      <class id="errors" label="errors"/>
+      <span end="33789" id="PMC5658906.nxml.gz-420" start="33783">errors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-431" type="identity">
+      <class id="estimated" label="estimated"/>
+      <span end="23207" id="PMC5658906.nxml.gz-432" start="23198">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-433" type="identity">
+      <class id="estimates" label="estimates"/>
+      <span end="5140" id="PMC5658906.nxml.gz-434" start="5131">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-435" type="identity">
+      <class id="estimates" label="estimates"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-449" type="identity">
+      <class id="estimates" label="estimates"/>
+      <span end="34130" id="PMC5658906.nxml.gz-450" start="34121">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-453" type="identity">
+      <class id="estimates" label="estimates"/>
+      <span end="35244" id="PMC5658906.nxml.gz-454" start="35235">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-455" type="identity">
+      <class id="evidence" label="evidence"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-457" type="identity">
+      <class id="examine" label="examine"/>
+      <span end="6481" id="PMC5658906.nxml.gz-458" start="6474">examine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-459" type="identity">
+      <class id="examined" label="examined"/>
+      <span end="389" id="PMC5658906.nxml.gz-460" start="381">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-475" type="identity">
+      <class id="examined" label="examined"/>
+      <span end="23230" id="PMC5658906.nxml.gz-476" start="23222">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-481" type="identity">
+      <class id="examined" label="examined"/>
+      <span end="29133" id="PMC5658906.nxml.gz-482" start="29125">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-483" type="identity">
+      <class id="examines" label="examines"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-487" type="identity">
+      <class id="exception" label="exception"/>
+      <span end="21844" id="PMC5658906.nxml.gz-488" start="21835">exception</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-501" type="identity">
+      <class id="explain" label="explain"/>
+      <span end="23801" id="PMC5658906.nxml.gz-502" start="23794">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-511" type="identity">
+      <class id="few...studies" label="few...studies"/>
+      <span end="375" id="PMC5658906.nxml.gz-512" start="364">few studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-513" type="identity">
+      <class id="findings" label="findings"/>
+      <span end="31602" id="PMC5658906.nxml.gz-514" start="31594">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-523" type="identity">
+      <class id="found" label="found"/>
+      <span end="3249" id="PMC5658906.nxml.gz-524" start="3244">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-525" type="identity">
+      <class id="found" label="found"/>
+      <span end="3982" id="PMC5658906.nxml.gz-526" start="3977">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-527" type="identity">
+      <class id="found" label="found"/>
+      <span end="4346" id="PMC5658906.nxml.gz-528" start="4341">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-529" type="identity">
+      <class id="found" label="found"/>
+      <span end="29280" id="PMC5658906.nxml.gz-530" start="29275">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-531" type="identity">
+      <class id="found" label="found"/>
+      <span end="29610" id="PMC5658906.nxml.gz-532" start="29605">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-533" type="identity">
+      <class id="found" label="found"/>
+      <span end="30049" id="PMC5658906.nxml.gz-534" start="30044">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-535" type="identity">
+      <class id="found" label="found"/>
+      <span end="30204" id="PMC5658906.nxml.gz-536" start="30199">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-537" type="identity">
+      <class id="found" label="found"/>
+      <span end="30277" id="PMC5658906.nxml.gz-538" start="30272">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-539" type="identity">
+      <class id="further_study" label="further_study"/>
+      <span end="16930" id="PMC5658906.nxml.gz-540" start="16917">further study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-549" type="identity">
+      <class id="have...been" label="have...been"/>
+      <span end="5348" id="PMC5658906.nxml.gz-550" start="5339">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-553" type="identity">
+      <class id="have_been_reported" label="have_been_reported"/>
+      <span end="30700" id="PMC5658906.nxml.gz-554" start="30682">have been reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-555" type="identity">
+      <class id="have_reported" label="have_reported"/>
+      <span end="29427" id="PMC5658906.nxml.gz-556" start="29414">have reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-567" type="identity">
+      <class id="however" label="however"/>
+      <span end="17030" id="PMC5658906.nxml.gz-568" start="17023">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-569" type="identity">
+      <class id="however" label="however"/>
+      <span end="29598" id="PMC5658906.nxml.gz-570" start="29591">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-577" type="identity">
+      <class id="however" label="however"/>
+      <span end="34628" id="PMC5658906.nxml.gz-578" start="34621">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-585" type="identity">
+      <class id="identified" label="identified"/>
+      <span end="26512" id="PMC5658906.nxml.gz-586" start="26502">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-587" type="identity">
+      <class id="identifying" label="identifying"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-593" type="identity">
+      <class id="impact" label="impact"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-595" type="identity">
+      <class id="impact" label="impact"/>
+      <span end="28453" id="PMC5658906.nxml.gz-596" start="28447">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-597" type="identity">
+      <class id="impact" label="impact"/>
+      <span end="30765" id="PMC5658906.nxml.gz-598" start="30759">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-599" type="identity">
+      <class id="impact" label="impact"/>
+      <span end="31177" id="PMC5658906.nxml.gz-600" start="31171">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-601" type="identity">
+      <class id="impacts" label="impacts"/>
+      <span end="10568" id="PMC5658906.nxml.gz-602" start="10561">impacts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-605" type="identity">
+      <class id="important" label="important"/>
+      <span end="33429" id="PMC5658906.nxml.gz-606" start="33420">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-613" type="identity">
+      <class id="inconsistencies" label="inconsistencies"/>
+      <span end="4586" id="PMC5658906.nxml.gz-614" start="4571">inconsistencies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-615" type="identity">
+      <class id="inconsistent" label="inconsistent"/>
+      <span end="4481" id="PMC5658906.nxml.gz-616" start="4469">inconsistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-619" type="identity">
+      <class id="indicated" label="indicated"/>
+      <span end="22538" id="PMC5658906.nxml.gz-620" start="22529">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-625" type="identity">
+      <class id="information" label="information"/>
+      <span end="33441" id="PMC5658906.nxml.gz-626" start="33430">information</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-629" type="identity">
+      <class id="informative" label="informative"/>
+      <span end="34653" id="PMC5658906.nxml.gz-630" start="34642">informative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-631" type="identity">
+      <class id="interact" label="interact"/>
+      <span end="30865" id="PMC5658906.nxml.gz-632" start="30857">interact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-633" type="identity">
+      <class id="interactions" label="interactions"/>
+      <span end="33165" id="PMC5658906.nxml.gz-634" start="33153">interactions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-635" type="identity">
+      <class id="interesting" label="interesting"/>
+      <span end="28427" id="PMC5658906.nxml.gz-636" start="28416">interesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-637" type="identity">
+      <class id="probable_understanding" label="interpretation"/>
+      <span end="32026" id="PMC5658906.nxml.gz-638" start="32012">interpretation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-639" type="identity">
+      <class id="interpreted" label="interpreted"/>
+      <span end="30625" id="PMC5658906.nxml.gz-640" start="30614">interpreted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-641" type="identity">
+      <class id="probable_understanding" label="interpreted"/>
+      <span end="31625" id="PMC5658906.nxml.gz-642" start="31614">interpreted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-643" type="identity">
+      <class id="involved" label="involved"/>
+      <span end="31132" id="PMC5658906.nxml.gz-644" start="31124">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-649" type="identity">
+      <class id="less" label="less"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-655" type="identity">
+      <class id="likely" label="likely"/>
+      <span end="4052" id="PMC5658906.nxml.gz-656" start="4046">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-661" type="identity">
+      <class id="limitation" label="limitation"/>
+      <span end="17044" id="PMC5658906.nxml.gz-662" start="17034">limitation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-663" type="identity">
+      <class id="limitations" label="limitations"/>
+      <span end="33096" id="PMC5658906.nxml.gz-664" start="33085">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-671" type="identity">
+      <class id="may" label="may"/>
+      <span end="23793" id="PMC5658906.nxml.gz-672" start="23790">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-673" type="identity">
+      <class id="may" label="may"/>
+      <span end="27773" id="PMC5658906.nxml.gz-674" start="27770">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-675" type="identity">
+      <class id="may" label="may"/>
+      <span end="31170" id="PMC5658906.nxml.gz-676" start="31167">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-677" type="identity">
+      <class id="may" label="may"/>
+      <span end="34093" id="PMC5658906.nxml.gz-678" start="34090">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-679" type="identity">
+      <class id="may_be" label="may_be"/>
+      <span end="265" id="PMC5658906.nxml.gz-680" start="259">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-683" type="identity">
+      <class id="may_be" label="may_be"/>
+      <span end="34636" id="PMC5658906.nxml.gz-684" start="34630">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-685" type="identity">
+      <class id="misclassification" label="misclassification"/>
+      <span end="34203" id="PMC5658906.nxml.gz-686" start="34186">misclassification</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-687" type="identity">
+      <class id="mixed_results" label="mixed_results"/>
+      <span end="4231" id="PMC5658906.nxml.gz-688" start="4218">mixed results</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-81" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="276" id="PMC5658906.nxml.gz-82" start="266">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-83" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="1658" id="PMC5658906.nxml.gz-84" start="1648">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-831" type="identity">
+      <class id="objective" label="objective"/>
+      <span end="6425" id="PMC5658906.nxml.gz-832" start="6416">objective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-835" type="identity">
+      <class id="one_explanation" label="one_explanation"/>
+      <span end="30843" id="PMC5658906.nxml.gz-836" start="30828">One explanation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-837" type="identity">
+      <class id="one_way" label="one_way"/>
+      <span end="4719" id="PMC5658906.nxml.gz-838" start="4712">One way</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8401" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16935" id="PMC5658906.nxml.gz-8402" start="16763">Using 50% CIs gives higher power to detect small effects in the data and they can serve as a screening tool for identifying weak effects that may warrant further study [33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8403" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17182" id="PMC5658906.nxml.gz-8404" start="17023">However, a limitation of 50% CIs when used for multiple frequentist hypothesis tests is that they have a higher Type I error rate than using alpha level = 0.05</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8405" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17340" id="PMC5658906.nxml.gz-8406" start="17184">Additionally, to better understand the impact of the BHLM shrinkage on the regression coefficients, we re-analyzed the data using both LASSO and Elastic Net</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8407" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17808" id="PMC5658906.nxml.gz-8408" start="17533">Note that confidence intervals for beta coefficients from LASSO and Elastic Net are not available using standard software, and calculating standard errors for parameter estimates is challenging because the shrinkage estimation produces biased estimates for large coefficients</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8409" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="22721" id="PMC5658906.nxml.gz-8410" start="22710">In contrast</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8411" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="23881" id="PMC5658906.nxml.gz-8412" start="23870">In contrast</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8413" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="24125" id="PMC5658906.nxml.gz-8414" start="24118">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8415" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="24604" id="PMC5658906.nxml.gz-8416" start="24599">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8417" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="24763" id="PMC5658906.nxml.gz-8418" start="24758">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8419" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="25352" id="PMC5658906.nxml.gz-8420" start="25347">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8421" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="27714" id="PMC5658906.nxml.gz-8422" start="27709">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8423" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="28541" id="PMC5658906.nxml.gz-8424" start="28536">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8425" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="29089" id="PMC5658906.nxml.gz-8426" start="29061">previously published studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8427" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21149" id="PMC5658906.nxml.gz-8428" start="20995">With few exceptions (e.g., PFOA), median concentrations among HOME Study participants tended to be similar to concentrations observed in US women (Table2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8429" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21749" id="PMC5658906.nxml.gz-8430" start="21569">Individual chemicals within a class tended to be positively correlated with each other, particularly for persistent compounds like PCBs and PBDEs (Additional file1: Figure S2 [43])</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8431" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21923" id="PMC5658906.nxml.gz-8432" start="21751">Phthalates and BPA were less strongly correlated with other chemicals and, with the exception of the di-2-ethylhexylphthalate metabolites, weakly correlated with each other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8433" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22708" id="PMC5658906.nxml.gz-8434" start="22492">The σβposterior mean was 10 g, which indicated heterogeneity in the phthalate and BPA effects around this estimate, and that roughly two thirds of the beta coefficients were within 10 g (one standard deviation) of μβ</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8435" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22854" id="PMC5658906.nxml.gz-8436" start="22710">In contrast, for PFAS exposure, the μβand σβposterior means were larger in magnitude and equal to -11 g, 95% CI (-52, 34) and 24 g, respectively</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8437" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23217" id="PMC5658906.nxml.gz-8438" start="23119">Finally, OCP exposure was associated with a μβof 7 g, 95% CI (-25, 99) with an estimated σβof 18 g</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8439" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23457" id="PMC5658906.nxml.gz-8440" start="23219">We examined associations between individual EDCs and birth weight to understand which individual EDCs within a class drive the value of μβ, given by the posterior distribution of the BHLM regression coefficients βx1... βxp(see Figs.1and2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8441" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23673" id="PMC5658906.nxml.gz-8442" start="23459">In the phthalates and BPA class, there was a 9 g birth weight increase in response to a 10-fold increase exposure to MEOHP, and a 10-fold increase in MEHP exposure was associated with a 7 g decrease in birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8443" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23868" id="PMC5658906.nxml.gz-8444" start="23675">None of the individual phthalate metabolites or BPA were statistically significant at the 0.05 or 0.5 level, which may explain why the class as a whole was not significantly different from zero</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8445" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23985" id="PMC5658906.nxml.gz-8446" start="23870">In contrast, all 5 PFAS were associated with reductions in birth weight, although none of the 95% CIs excluded zero</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8447" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24172" id="PMC5658906.nxml.gz-8448" start="23987">PFHXS exhibited the largest association in the BHLM with a 10-fold exposure increase associated with a 17 g birth weight decrease, whereas PFNA was the weakest predictor of birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8449" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24329" id="PMC5658906.nxml.gz-8450" start="24174">PCBs ranged from an 8 g birth weight increase associated with a 10-fold increase of PCB 105 to a 7 g decrease associated with a 10-fold increase in PCB 199</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8451" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24662" id="PMC5658906.nxml.gz-8452" start="24491">Of the 9 PBDEs, a 10-fold increase in PBDE 17 was associated with the greatest birth weight increase (12 g) while PBDE 153 was associated with the greatest decrease (23 g)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8453" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24869" id="PMC5658906.nxml.gz-8454" start="24664">The largest increase in the OCP class was seen with a 10-fold increase in HCH exposure (5 g), while the largest birth weight decrease was seen in response to a 10-fold increase in Nonachlor exposure (10 g)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8455" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="25228" id="PMC5658906.nxml.gz-8456" start="25020">For every 10-fold increase in DEP exposure, there was a 14 g increase in birth weight 95% CI (-51, 79). DMP exposure was associated with a 57 g reduction in birth weight (95% CI (-123, 10), 50% CI (-79, -34))</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8457" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="25437" id="PMC5658906.nxml.gz-8458" start="25230">Blood lead concentration was associated with a 45 g decrease in birth weight (95% CI (-110, 22), 50% CI (-68, -22)), while mercury exposure was associated with a 5 g, 95%CI (-56, 66) increase in birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8465" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26327" id="PMC5658906.nxml.gz-8466" start="26084">The LASSO regression coefficients tended to be larger in magnitude than BHLM with wider and less precise 95% intervals, which we expected because LASSO does not use shrinkage that borrows information between chemicals within a particular class</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8467" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26711" id="PMC5658906.nxml.gz-8468" start="26576">In Lenters, this EDC was associated with a -0.15 g difference in birth weight, which was attenuated after adjusting for gestational age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8469" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26814" id="PMC5658906.nxml.gz-8470" start="26713">In our analysis, MEOHP was associated with a 13 g birth weight increase (Additional file1: Figure S3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8471" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27014" id="PMC5658906.nxml.gz-8472" start="26816">Additionally, Pb was associated with a 58 g decrease in birth weight in the LASSO analysis (Additional file1: Figure S3) and a 53 g decrease in the Elastic Net analysis (Additional file1: Figure S4)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8473" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27210" id="PMC5658906.nxml.gz-8474" start="27016">DEP, one OPP, was associated with a 16 g birth weight increase using LASSO (Additional file1: Figure S3) and DMP, the other OPP, was associated with a 48 g decrease (Additional file1: Figure S3)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8475" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27354" id="PMC5658906.nxml.gz-8476" start="27212">In the Elastic Net analysis, DEP was associated with a 21 g increase and DMP with a 54g decrease in birth weight (Additional file1: Figure S4)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8477" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27742" id="PMC5658906.nxml.gz-8478" start="27611">GA is a potential mediating variable on the causal pathway between EDC exposure and birth weight, while sex is a potential modifier</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8479" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27824" id="PMC5658906.nxml.gz-8480" start="27744">Controlling for mediators may attenuate the total effect of EDCs on birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8483" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28199" id="PMC5658906.nxml.gz-8484" start="27986">While the results are mostly unchanged, the phthalates and BPA exposures were associated with a decrease in birth weight for male infants compared to the combined analysis (3 g decrease compared with 1 g increase)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8485" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28387" id="PMC5658906.nxml.gz-8486" start="28201">The decrease in male birth weight associated with Pb exposure was roughly double the associated birth weight decrease in the combined analysis (94 g decrease compared with 45 g decrease)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8487" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28534" id="PMC5658906.nxml.gz-8488" start="28389">There are some potentially interesting differences in the impact of DEP and DMP on birth weight when the study sample is stratified by infant sex</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8489" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28732" id="PMC5658906.nxml.gz-8490" start="28536">While DEP was associated with a 14 g increase in birth weight in the combined analysis, it was associated with a 51 g increase in males and a 9 g decrease in females in the sex stratified analysis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8491" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28981" id="PMC5658906.nxml.gz-8492" start="28734">DMP in the combined analysis was associated with a 57 g decrease in birth weight; looking at the stratified analysis revealed that this decrease is greater in magnitude for male infants (88 g decrease), and lesser in female infants (27 g decrease)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8493" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29094" id="PMC5658906.nxml.gz-8494" start="28983">The associations of greater magnitude present in male infants correspond with previously published studies [24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8495" type="identity">
+      <class id="alternative_options_controversy" label="anomaly_curious_finding"/>
+      <span end="29693" id="PMC5658906.nxml.gz-8496" start="29686">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8497" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="31455" id="PMC5658906.nxml.gz-8498" start="31450">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8499" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="31636" id="PMC5658906.nxml.gz-8500" start="31626">cautiously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-85" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="3768" id="PMC5658906.nxml.gz-86" start="3758">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8501" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="31715" id="PMC5658906.nxml.gz-8502" start="31687">previously published studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8503" type="identity">
+      <class id="superficial_relationship" label="superficial_relationship"/>
+      <span end="34738" id="PMC5658906.nxml.gz-8504" start="34728">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8505" type="identity">
+      <class id="in_contrast" label="anomaly_curious_finding"/>
+      <span end="35494" id="PMC5658906.nxml.gz-8506" start="35483">In contrast</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8507" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29270" id="PMC5658906.nxml.gz-8508" start="29108">In this study we examined the relationship between gestational exposure to 53 different EDCs and birth weight in a prospective birth cohort of mother-infant pairs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8509" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29392" id="PMC5658906.nxml.gz-8510" start="29272">We found that exposure to phthalates and BPA, PFAS, PCBs, PBDEs or OCPs had null or small associations with birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8511" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29566" id="PMC5658906.nxml.gz-8512" start="29394">Other investigators have reported similar small or statistically non-significant associations between birth weight and phthalates [37], PCBs [15], PBDEs [13], and OCPs [25]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8513" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29704" id="PMC5658906.nxml.gz-8514" start="29568">Several other studies, however, have found associations between increased exposure to phthalates, PCBs, PBDEs or OCPs whereas we did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8515" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29884" id="PMC5658906.nxml.gz-8516" start="29706">A case-control study by Zhang et al. [24] revealed that low birth weight infants in China tended to have much higher meconium phthalate levels than infants who were normal weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8517" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30022" id="PMC5658906.nxml.gz-8518" start="29886">Additionally, a meta-analysis by Govarts et al. [21] reported that increased exposure to PCBs was associated with decreased birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8519" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30136" id="PMC5658906.nxml.gz-8520" start="30024">Lignell et al. [27] found a statistically significant inverse association between PBDE exposure and birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8521" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30267" id="PMC5658906.nxml.gz-8522" start="30138">Finally, Monteagudo et al. [44] and Lenters et al. [18] both found changes in birth weight associated with increased OCP exposure</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8523" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30367" id="PMC5658906.nxml.gz-8524" start="30269">We found some evidence that PFAS, DMP and Pb were associated with small reductions in birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8525" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30499" id="PMC5658906.nxml.gz-8526" start="30369">On average, a 10-fold increase in exposure to the PFAS class was associated with an -11 g change in birth weight, 50% CI (-21, -2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8527" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30638" id="PMC5658906.nxml.gz-8528" start="30501">However, due to the higher Type I error rate associated with using alpha level = 0.5, this association should be interpreted with caution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8529" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30717" id="PMC5658906.nxml.gz-8530" start="30640">Similar findings concerning PFAS exposure have been reported elsewhere [5,19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8531" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30826" id="PMC5658906.nxml.gz-8532" start="30719">While the exact mechanism by which PFAS impact birth weight is unknown, several theories have been proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8533" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30924" id="PMC5658906.nxml.gz-8534" start="30828">One explanation is that PFAS interact with estrogen receptors and disrupt hormonal balances [20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8535" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31047" id="PMC5658906.nxml.gz-8536" start="30926">Additionally, PFAS alter human [20] and animal [3] serum lipid levels, potentially affecting fetal growth and development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8537" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31344" id="PMC5658906.nxml.gz-8538" start="31049">Finally, PFAS affect adipose tissue development and the regulatory systems involved in body weight homeostasis, which may impact fetal growth outcomes [20], including those that occur after birth such as infant mortality or cardiovascular disease which are beyond the scope of this study [16,17]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8539" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31551" id="PMC5658906.nxml.gz-8540" start="31346">A 10-fold increase in Pb exposure was associated with a 45 g birth weight reduction (50% CI (-68, -22), while increased exposure to DMP was associated with a -57 g (50% CI(-79, -34)) change in birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8541" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8545" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="32138" id="PMC5658906.nxml.gz-8546" start="31965">Having many exposure variables complicates the interpretation of associations between the 5 EDC classes and birth weight when using traditional multi-variable linear methods</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8549" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8552" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="33503" id="PMC5658906.nxml.gz-8553" start="33307">Second, the model also excluded non-linear relationships, including potential threshold effects that could yield important information about the relationships between EDC exposure and birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8554" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="33789" id="PMC5658906.nxml.gz-8555" start="33711">BHLM, because it is a shrinkage method, is also prone to higher Type II errors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8556" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34013" id="PMC5658906.nxml.gz-8557" start="33945">Non-persistent chemicals exhibit larger degrees of measurement error</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8558" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34165" id="PMC5658906.nxml.gz-8559" start="34015">For example, phthalates metabolites and BPA have short half-lives and this may have attenuated regression estimates and reduced statistical power [48]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8560" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34252" id="PMC5658906.nxml.gz-8561" start="34167">To reduce exposure misclassification, we pooled the exposures at 16 and 26 weeks [40]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8562" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34595" id="PMC5658906.nxml.gz-8563" start="34427">Lastly, we conducted these analyses under the assumption that structurally similar chemicals would have similar modes of action and therefore should be grouped together</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8564" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34653" id="PMC5658906.nxml.gz-8565" start="34597">Other grouping schemes, however, may be more informative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8566" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34831" id="PMC5658906.nxml.gz-8567" start="34667">This paper introduces BHLM as a method for tackling multiple correlated exposures in relation to health outcomes and compared this method with LASSO and Elastic Net</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8568" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34951" id="PMC5658906.nxml.gz-8569" start="34833">LASSO and Elastic Net regression coefficients were larger in size but with less precise 95% intervals compared to BHLM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8570" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="35190" id="PMC5658906.nxml.gz-8571" start="35063">Statistical theory demonstrates that the estimators have smaller mean squared error than ordinary least squares estimators [51]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8572" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="35337" id="PMC5658906.nxml.gz-8573" start="35192">BHLM also has the advantage that it yields estimates of the hyperparameters that aid in interpreting the effects of multiple correlated exposures</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8574" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="35481" id="PMC5658906.nxml.gz-8575" start="35339">We showed that gestational exposure to phthalates and BPA, PCBs, PBDEs or OCPs had small or null associations with differences in birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8576" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="35631" id="PMC5658906.nxml.gz-8577" start="35483">In contrast, and consistent with previous studies, PFAS, Pb, and OPP exposures were more strongly associated with reduced birth weight [19,39,45,46]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8578" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26574" id="PMC5658906.nxml.gz-8579" start="26477">Our Elastic Net analysis identified 1 EDC in common with Lenters et al. [18], the phthalate MEOHP</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8664" type="identity">
+      <class id="explicit_question" label="explicit_question"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8666" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="2968" id="PMC5658906.nxml.gz-8667" start="2953">raised concerns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8668" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="3584" id="PMC5658906.nxml.gz-8669" start="3576">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8670" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="3900" id="PMC5658906.nxml.gz-8671" start="3892">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8672" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8674" type="identity">
+      <class id="difficult_task" label="difficult_task"/>
+      <span end="5130" id="PMC5658906.nxml.gz-8675" start="5120">unreliable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-869" type="identity">
+      <class id="other" label="other"/>
+      <span end="34602" id="PMC5658906.nxml.gz-870" start="34597">Other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8693" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="128" id="PMC5658906.nxml.gz-8694" start="0">Gestational exposure to endocrine disrupting chemicals in relation to infant birth weight: a Bayesian analysis of the HOME Study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8698" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="455" id="PMC5658906.nxml.gz-8699" start="233">Gestational EDC exposures may be associated with changes in fetal growth that elevates the risk for poor health later in life, but few studies have examined the health effects of simultaneous exposure to multiple chemicals</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-87" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="4182" id="PMC5658906.nxml.gz-88" start="4172">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8700" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="766" id="PMC5658906.nxml.gz-8701" start="457">This study aimed to examine the association of gestational exposure to five chemical classes of potential EDCs: phthalates and bisphenol A, perfluoroalkyl substances (PFAS), polychlorinated biphenyls (PCBs), polybrominated diphenyl ethers (PBDEs), and organochlorine pesticides (OCPs) with infant birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8702" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8704" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1587" id="PMC5658906.nxml.gz-8705" start="1471">Gestational exposure to phthalates, PFAS, PCBs, PBDEs, OCPs or OPPs had null or small associations with birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8706" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1682" id="PMC5658906.nxml.gz-8707" start="1589">Gestational OPP, Pb, and PFAS exposures were most strongly associated with lower birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8708" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3071" id="PMC5658906.nxml.gz-8709" start="2860">The vulnerability of the developing fetus [15] coupled with the pervasive nature of EDCs has raised concerns about reproductive health effects arising from gestational EDC exposure, such as low birth weight [15]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8710" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3186" id="PMC5658906.nxml.gz-8711" start="3073">Low birth weight is a predictor for coronary heart disease [16], diabetes mellitus [17] and infant mortality [17]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8712" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3312" id="PMC5658906.nxml.gz-8713" start="3188">Additionally, some previously published studies [14,15] found associations between gestational EDC exposure and birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8714" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3464" id="PMC5658906.nxml.gz-8715" start="3314">Understanding the role EDCs may play in affecting birth weight will inform efforts to prevent low birth weight and the development of chronic diseases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8718" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3559" id="PMC5658906.nxml.gz-8719" start="3466">Many investigators have explored the relationship between EDC exposures and birth weight [18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8720" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3797" id="PMC5658906.nxml.gz-8721" start="3561">Lenters et al. examined the relationships between 16 chemicals (6 phthalates, 8 PFAS, 2 PCBs and 1 OCP) and birth weight using Elastic Net Regression analyses; 2 phthalates, 1 PFAS, and 1 OCP were associated with lower birth weight [18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8722" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4091" id="PMC5658906.nxml.gz-8723" start="3799">Using a job exposure matrix, which can differ from exposure measurement, Birks et al. (2016) examined occupational EDC exposures in a meta-analysis of European birth cohorts and found that pregnant women exposed to more than 1 EDC class were more likely to have a low birth weight infant [15]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8724" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4284" id="PMC5658906.nxml.gz-8725" start="4093">There is sufficient evidence that increased PFAS (especially PFOA) exposure is associated with low birth weight [18–20], but mixed results are reported for other EDCs and birth weight [18,21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8726" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4459" id="PMC5658906.nxml.gz-8727" start="4286">For example, a meta-analysis by Govarts et al. (2016), found an association between PCB 153 and low birth weight [21] whereas Lenters et al. [18] did not find an association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8728" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4563" id="PMC5658906.nxml.gz-8729" start="4461">Similar inconsistent associations exist for phthalates and BPA [22–24], OCPs [18,25] and PBDEs [26,27]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-873" type="identity">
+      <class id="particularly" label="particularly"/>
+      <span end="21669" id="PMC5658906.nxml.gz-874" start="21657">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8731" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4710" id="PMC5658906.nxml.gz-8732" start="4565">These inconsistencies may be due to a shortage of statistical tools to explore the effects of multiple chemical exposure mixtures on birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8733" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4888" id="PMC5658906.nxml.gz-8734" start="4712">One way to model multi-exposure mixtures is to collapse the exposures into a summary term that is included in regression models for the outcome [28] or use proxy variables [29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8735" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="5194" id="PMC5658906.nxml.gz-8736" start="5010">Multivariable linear regression [5,13,24] with selected predictors [30] is another method, but it can produce unreliable estimates due to the highly correlated nature of some EDCs [31]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8737" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="5406" id="PMC5658906.nxml.gz-8738" start="5196">LASSO (Least Absolute Shrinkage and Selection Operator) [30] and Elastic Net are more sophisticated multivariable linear modeling methods that have been used for analyzing multiple correlated exposure variables</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8739" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="5539" id="PMC5658906.nxml.gz-8740" start="5408">Bayesian hierarchical linear models (BHLMs) are one possible solution to analyzing the effect of multiple correlated exposures [32]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8741" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8743" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="6793" id="PMC5658906.nxml.gz-8744" start="6412">The objective of this study was to use BHLM to simultaneously examine the association between exposure to 5 different EDC classes (phthalates and BPA, PFAS, PCBs, PBDEs and OCPs), 2 organophosphate pesticides (OPPs) and 2 heavy metals, lead (Pb) and mercury (Hg), with birth weight among women and their children in the Health Outcomes and Measures of Environment (HOME) Study [34]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8745" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="14032" id="PMC5658906.nxml.gz-8746" start="14024">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8747" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="10672" id="PMC5658906.nxml.gz-8748" start="10468">Pb, while not conventionally considered an EDC, is a widespread reproductive [38] toxin that impacts neurodevelopment [6] and birth weight at very low exposure levels [39] and so is included in this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-8749" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="14148" id="PMC5658906.nxml.gz-8750" start="13969">We drew a directed acyclic graph to select confounders based on the relationships between the HOME Study [10,34] covariates and EDCs and birth weight (Additional file1: Figure S1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-877" type="identity">
+      <class id="possible" label="possible"/>
+      <span end="5468" id="PMC5658906.nxml.gz-878" start="5460">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-881" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="562" id="PMC5658906.nxml.gz-882" start="553">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-885" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="27628" id="PMC5658906.nxml.gz-886" start="27619">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-887" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="27733" id="PMC5658906.nxml.gz-888" start="27724">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-889" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="33384" id="PMC5658906.nxml.gz-890" start="33375">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-89" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="23155" id="PMC5658906.nxml.gz-90" start="23145">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-893" type="identity">
+      <class id="potentially" label="potentially"/>
+      <span end="31008" id="PMC5658906.nxml.gz-894" start="30997">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-901" type="identity">
+      <class id="predictor" label="predictor"/>
+      <span end="3104" id="PMC5658906.nxml.gz-902" start="3095">predictor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-903" type="identity">
+      <class id="predictor" label="predictor"/>
+      <span end="24156" id="PMC5658906.nxml.gz-904" start="24147">predictor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-91" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="23637" id="PMC5658906.nxml.gz-92" start="23627">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-915" type="identity">
+      <class id="previous...studies" label="previous...studies"/>
+      <span end="35532" id="PMC5658906.nxml.gz-916" start="35516">previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-917" type="identity">
+      <class id="previously" label="previously"/>
+      <span end="3217" id="PMC5658906.nxml.gz-918" start="3207">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-925" type="identity">
+      <class id="problem" label="problem"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-927" type="identity">
+      <class id="prone" label="prone"/>
+      <span end="33764" id="PMC5658906.nxml.gz-928" start="33759">prone</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-929" type="identity">
+      <class id="proposed" label="proposed"/>
+      <span end="30826" id="PMC5658906.nxml.gz-930" start="30818">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-93" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="23909" id="PMC5658906.nxml.gz-94" start="23899">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-937" type="identity">
+      <class id="proxy" label="proxy"/>
+      <span end="4873" id="PMC5658906.nxml.gz-938" start="4868">proxy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-949" type="identity">
+      <class id="relation" label="relation"/>
+      <span end="66" id="PMC5658906.nxml.gz-950" start="58">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-95" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="24082" id="PMC5658906.nxml.gz-96" start="24072">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-955" type="identity">
+      <class id="relation" label="relation"/>
+      <span end="34760" id="PMC5658906.nxml.gz-956" start="34752">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-957" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="3515" id="PMC5658906.nxml.gz-958" start="3503">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-959" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="29150" id="PMC5658906.nxml.gz-960" start="29138">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-961" type="identity">
+      <class id="relationships" label="relationships"/>
+      <span end="3602" id="PMC5658906.nxml.gz-962" start="3589">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-963" type="identity">
+      <class id="relationships" label="relationships"/>
+      <span end="14050" id="PMC5658906.nxml.gz-964" start="14037">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-967" type="identity">
+      <class id="relationships" label="relationships"/>
+      <span end="33465" id="PMC5658906.nxml.gz-968" start="33452">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-97" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="24230" id="PMC5658906.nxml.gz-98" start="24220">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-973" type="identity">
+      <class id="reported" label="reported"/>
+      <span end="4244" id="PMC5658906.nxml.gz-974" start="4236">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-975" type="identity">
+      <class id="reported" label="reported"/>
+      <span end="29947" id="PMC5658906.nxml.gz-976" start="29939">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-979" type="identity">
+      <class id="revealed" label="revealed"/>
+      <span end="28859" id="PMC5658906.nxml.gz-980" start="28851">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-981" type="identity">
+      <class id="revealed" label="revealed"/>
+      <span end="29756" id="PMC5658906.nxml.gz-982" start="29748">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-983" type="identity">
+      <class id="role" label="role"/>
+      <span end="3336" id="PMC5658906.nxml.gz-984" start="3332">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-985" type="identity">
+      <class id="seen" label="seen"/>
+      <span end="24710" id="PMC5658906.nxml.gz-986" start="24706">seen</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-987" type="identity">
+      <class id="seen" label="seen"/>
+      <span end="24806" id="PMC5658906.nxml.gz-988" start="24802">seen</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-99" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="24294" id="PMC5658906.nxml.gz-100" start="24284">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5658906.nxml.gz-993" type="identity">
+      <class id="several...studies" label="several...studies"/>
+      <span end="29575" id="PMC5658906.nxml.gz-994" start="29568">Several</span>
+      <span end="29589" id="PMC5658906.nxml.gz-995" start="29582">studies</span>
+    </annotation>
+  </document>
+</knowtator-project>

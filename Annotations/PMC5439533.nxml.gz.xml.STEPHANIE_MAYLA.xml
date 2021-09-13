@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC5439533.nxml.gz" text-file="PMC5439533.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-103" type="identity">
+      <class id="association" label="association"/>
+      <span end="30840" id="PMC5439533.nxml.gz-104" start="30829">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1030" type="identity">
+      <class id="showed" label="showed"/>
+      <span end="23308" id="PMC5439533.nxml.gz-1031" start="23302">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1034" type="identity">
+      <class id="shows" label="shows"/>
+      <span end="3297" id="PMC5439533.nxml.gz-1035" start="3292">shows</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1038" type="identity">
+      <class id="shows" label="shows"/>
+      <span end="32987" id="PMC5439533.nxml.gz-1039" start="32982">shows</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-105" type="identity">
+      <class id="association" label="association"/>
+      <span end="31038" id="PMC5439533.nxml.gz-106" start="31027">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-107" type="identity">
+      <class id="association" label="association"/>
+      <span end="31155" id="PMC5439533.nxml.gz-108" start="31144">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1072" type="identity">
+      <class id="incomplete_evidence" label="similar"/>
+      <span end="23316" id="PMC5439533.nxml.gz-1073" start="23309">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1074" type="identity">
+      <class id="incomplete_evidence" label="similar"/>
+      <span end="31412" id="PMC5439533.nxml.gz-1075" start="31405">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1098" type="identity">
+      <class id="some_evidence" label="some_evidence"/>
+      <span end="36092" id="PMC5439533.nxml.gz-1099" start="36079">some evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-11" type="identity">
+      <class id="acknowledge" label="acknowledge"/>
+      <span end="33123" id="PMC5439533.nxml.gz-12" start="33112">acknowledge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1100" type="identity">
+      <class id="somewhat" label="somewhat"/>
+      <span end="33631" id="PMC5439533.nxml.gz-1101" start="33623">somewhat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1106" type="identity">
+      <class id="strengths" label="strengths"/>
+      <span end="35142" id="PMC5439533.nxml.gz-1107" start="35133">strengths</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1108" type="identity">
+      <class id="suggest" label="suggest"/>
+      <span end="35289" id="PMC5439533.nxml.gz-1109" start="35282">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1110" type="identity">
+      <class id="suggesting" label="suggesting"/>
+      <span end="33733" id="PMC5439533.nxml.gz-1111" start="33723">suggesting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1116" type="identity">
+      <class id="these_studies" label="these_studies"/>
+      <span end="31399" id="PMC5439533.nxml.gz-1117" start="31386">these studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1118" type="identity">
+      <class id="this" label="this"/>
+      <span end="403" id="PMC5439533.nxml.gz-1119" start="399">this</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1120" type="identity">
+      <class id="this" label="this"/>
+      <span end="2935" id="PMC5439533.nxml.gz-1121" start="2931">this</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1138" type="identity">
+      <class id="this_study" label="this_study"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1146" type="identity">
+      <class id="future_work" label="future_work"/>
+      <span end="36382" id="PMC5439533.nxml.gz-1147" start="36373">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1150" type="identity">
+      <class id="to_evaluate" label="to_evaluate"/>
+      <span end="536" id="PMC5439533.nxml.gz-1151" start="525">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1156" type="identity">
+      <class id="to_test" label="to_test"/>
+      <span end="398" id="PMC5439533.nxml.gz-1157" start="391">to test</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1158" type="identity">
+      <class id="trend" label="trend"/>
+      <span end="22677" id="PMC5439533.nxml.gz-1159" start="22672">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1166" type="identity">
+      <class id="validated" label="validated"/>
+      <span end="35938" id="PMC5439533.nxml.gz-1167" start="35929">validated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-117" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="549" id="PMC5439533.nxml.gz-118" start="537">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1170" type="identity">
+      <class id="variability" label="variability"/>
+      <span end="32162" id="PMC5439533.nxml.gz-1171" start="32151">variability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1188" type="identity">
+      <class id="variations" label="variations"/>
+      <span end="3100" id="PMC5439533.nxml.gz-1189" start="3090">variations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-121" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="1556" id="PMC5439533.nxml.gz-122" start="1544">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1246" type="identity">
+      <class id="more_common" label="more_common"/>
+      <span end="18143" id="PMC5439533.nxml.gz-1247" start="18132">more common</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-125" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="31577" id="PMC5439533.nxml.gz-126" start="31565">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1254" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="33936" id="PMC5439533.nxml.gz-1255" start="33921">would have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1256" type="identity">
+      <class id="self-reported" label="self-reported"/>
+      <span end="1024" id="PMC5439533.nxml.gz-1257" start="1011">self-reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-127" type="identity">
+      <class id="assuming" label="assuming"/>
+      <span end="4271" id="PMC5439533.nxml.gz-128" start="4263">assuming</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1270" type="identity">
+      <class id="self-reported" label="self-reported"/>
+      <span end="8755" id="PMC5439533.nxml.gz-1271" start="8742">self-reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1272" type="identity">
+      <class id="self-reported" label="self-reported"/>
+      <span end="8870" id="PMC5439533.nxml.gz-1273" start="8857">self-reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1276" type="identity">
+      <class id="self-reported" label="self-reported"/>
+      <span end="23289" id="PMC5439533.nxml.gz-1277" start="23276">self-reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1278" type="identity">
+      <class id="self-reported" label="self-reported"/>
+      <span end="35817" id="PMC5439533.nxml.gz-1279" start="35804">self-reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-129" type="identity">
+      <class id="assuming" label="assuming"/>
+      <span end="7194" id="PMC5439533.nxml.gz-130" start="7186">assuming</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1294" type="identity">
+      <class id="observational" label="observational"/>
+      <span end="384" id="PMC5439533.nxml.gz-1295" start="371">observational</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1298" type="identity">
+      <class id="observational" label="observational"/>
+      <span end="30216" id="PMC5439533.nxml.gz-1299" start="30203">observational</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-13" type="identity">
+      <class id="aim" label="aim"/>
+      <span end="3706" id="PMC5439533.nxml.gz-14" start="3703">aim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1300" type="identity">
+      <class id="observational" label="observational"/>
+      <span end="32220" id="PMC5439533.nxml.gz-1301" start="32207">Observational</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1302" type="identity">
+      <class id="observational" label="observational"/>
+      <span end="32376" id="PMC5439533.nxml.gz-1303" start="32363">observational</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1304" type="identity">
+      <class id="analyzed" label="analyzed"/>
+      <span end="31457" id="PMC5439533.nxml.gz-1305" start="31449">analyzed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1306" type="identity">
+      <class id="may_not" label="may_not"/>
+      <span end="32039" id="PMC5439533.nxml.gz-1307" start="32032">may not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1310" type="identity">
+      <class id="excluded" label="excluded"/>
+      <span end="8709" id="PMC5439533.nxml.gz-1311" start="8701">excluded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1312" type="identity">
+      <class id="unreliable" label="unreliable"/>
+      <span end="34644" id="PMC5439533.nxml.gz-1313" start="34634">unreliable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1314" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="36493" id="PMC5439533.nxml.gz-1315" start="36483">especially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1316" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="188" id="PMC5439533.nxml.gz-1317" start="184">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1318" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="2504" id="PMC5439533.nxml.gz-1319" start="2500">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1320" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="31754" id="PMC5439533.nxml.gz-1321" start="31750">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1322" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="33951" id="PMC5439533.nxml.gz-1323" start="33947">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1336" type="identity">
+      <class id="recent" label="recent"/>
+      <span end="30997" id="PMC5439533.nxml.gz-1337" start="30991">recent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1346" type="identity">
+      <class id="variables" label="variables"/>
+      <span end="32487" id="PMC5439533.nxml.gz-1347" start="32478">variables</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1352" type="identity">
+      <class id="trends" label="trends"/>
+      <span end="23323" id="PMC5439533.nxml.gz-1353" start="23317">trends</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1356" type="identity">
+      <class id="high-risk" label="high-risk"/>
+      <span end="3451" id="PMC5439533.nxml.gz-1357" start="3442">high-risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1358" type="identity">
+      <class id="high-risk" label="high-risk"/>
+      <span end="33847" id="PMC5439533.nxml.gz-1359" start="33838">high-risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1360" type="identity">
+      <class id="so" label="so"/>
+      <span end="32031" id="PMC5439533.nxml.gz-1361" start="32029">so</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1362" type="identity">
+      <class id="so" label="so"/>
+      <span end="34386" id="PMC5439533.nxml.gz-1363" start="34384">so</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1364" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="116" id="PMC5439533.nxml.gz-1365" start="109">Studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1366" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="3004" id="PMC5439533.nxml.gz-1367" start="2997">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1370" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="30224" id="PMC5439533.nxml.gz-1371" start="30217">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1372" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="32228" id="PMC5439533.nxml.gz-1373" start="32221">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1374" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="35281" id="PMC5439533.nxml.gz-1375" start="35274">Studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1376" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="36286" id="PMC5439533.nxml.gz-1377" start="36279">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1402" type="identity">
+      <class id="low" label="low"/>
+      <span end="8679" id="PMC5439533.nxml.gz-1403" start="8676">low</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-1434" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="31260" id="PMC5439533.nxml.gz-1435" start="31247">other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-15" type="identity">
+      <class id="alternative_options_controversy" label="problem_complication"/>
+      <span end="30124" id="PMC5439533.nxml.gz-16" start="30116">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-17" type="identity">
+      <class id="although" label="although"/>
+      <span end="30452" id="PMC5439533.nxml.gz-18" start="30444">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-183" type="identity">
+      <class id="probable_understanding" label="based_on"/>
+      <span end="35722" id="PMC5439533.nxml.gz-184" start="35714">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-187" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="35362" id="PMC5439533.nxml.gz-188" start="35356">better</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-199" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="31627" id="PMC5439533.nxml.gz-200" start="31623">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-203" type="identity">
+      <class id="problem_complication" label="bias"/>
+      <span end="32470" id="PMC5439533.nxml.gz-204" start="32466">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-205" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="33894" id="PMC5439533.nxml.gz-206" start="33890">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-207" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="34291" id="PMC5439533.nxml.gz-208" start="34287">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-209" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="34536" id="PMC5439533.nxml.gz-210" start="34532">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-217" type="identity">
+      <class id="but" label="but"/>
+      <span end="8778" id="PMC5439533.nxml.gz-218" start="8775">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-219" type="identity">
+      <class id="can" label="can"/>
+      <span end="30168" id="PMC5439533.nxml.gz-220" start="30165">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-221" type="identity">
+      <class id="can" label="can"/>
+      <span end="32385" id="PMC5439533.nxml.gz-222" start="32382">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-223" type="identity">
+      <class id="challenge" label="challenge"/>
+      <span end="32182" id="PMC5439533.nxml.gz-224" start="32173">challenge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-225" type="identity">
+      <class id="comparable" label="comparable"/>
+      <span end="31197" id="PMC5439533.nxml.gz-226" start="31187">comparable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-227" type="identity">
+      <class id="comparable" label="comparable"/>
+      <span end="32062" id="PMC5439533.nxml.gz-228" start="32052">comparable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-233" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="33994" id="PMC5439533.nxml.gz-234" start="33983">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-25" type="identity">
+      <class id="approximately" label="approximately"/>
+      <span end="34732" id="PMC5439533.nxml.gz-26" start="34719">Approximately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-259" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="2553" id="PMC5439533.nxml.gz-260" start="2540">complications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-269" type="identity">
+      <class id="conducted" label="conducted"/>
+      <span end="367" id="PMC5439533.nxml.gz-270" start="358">conducted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-271" type="identity">
+      <class id="conducted" label="conducted"/>
+      <span end="495" id="PMC5439533.nxml.gz-272" start="486">conducted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-279" type="identity">
+      <class id="confounding" label="confounding"/>
+      <span end="32284" id="PMC5439533.nxml.gz-280" start="32273">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-281" type="identity">
+      <class id="confounding" label="confounding"/>
+      <span end="32553" id="PMC5439533.nxml.gz-282" start="32542">confounding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-289" type="identity">
+      <class id="consistent" label="consistent"/>
+      <span end="36030" id="PMC5439533.nxml.gz-290" start="36020">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-295" type="identity">
+      <class id="could" label="could"/>
+      <span end="33865" id="PMC5439533.nxml.gz-296" start="33860">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-297" type="identity">
+      <class id="could" label="could"/>
+      <span end="34111" id="PMC5439533.nxml.gz-298" start="34106">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-299" type="identity">
+      <class id="could" label="could"/>
+      <span end="34546" id="PMC5439533.nxml.gz-300" start="34541">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-3" type="identity">
+      <class id="according_to" label="according_to"/>
+      <span end="9920" id="PMC5439533.nxml.gz-4" start="9908">according to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-303" type="identity">
+      <class id="could_be" label="could_be"/>
+      <span end="33067" id="PMC5439533.nxml.gz-304" start="33059">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-305" type="identity">
+      <class id="defined" label="defined"/>
+      <span end="9563" id="PMC5439533.nxml.gz-306" start="9556">defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-307" type="identity">
+      <class id="defined" label="defined"/>
+      <span end="10067" id="PMC5439533.nxml.gz-308" start="10060">defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-309" type="identity">
+      <class id="defined" label="defined"/>
+      <span end="10153" id="PMC5439533.nxml.gz-310" start="10146">defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-311" type="identity">
+      <class id="demonstrated" label="demonstrated"/>
+      <span end="32328" id="PMC5439533.nxml.gz-312" start="32316">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-313" type="identity">
+      <class id="despite" label="despite"/>
+      <span end="35109" id="PMC5439533.nxml.gz-314" start="35102">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-315" type="identity">
+      <class id="did_not" label="did_not"/>
+      <span end="1036" id="PMC5439533.nxml.gz-316" start="1029">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-319" type="identity">
+      <class id="did_not" label="did_not"/>
+      <span end="8786" id="PMC5439533.nxml.gz-320" start="8779">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-323" type="identity">
+      <class id="did_not" label="did_not"/>
+      <span end="32567" id="PMC5439533.nxml.gz-324" start="32560">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-327" type="identity">
+      <class id="did_not" label="did_not"/>
+      <span end="34195" id="PMC5439533.nxml.gz-328" start="34188">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-329" type="identity">
+      <class id="did_not" label="did_not"/>
+      <span end="34310" id="PMC5439533.nxml.gz-330" start="34303">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-335" type="identity">
+      <class id="did_not_find" label="did_not_find"/>
+      <span end="31815" id="PMC5439533.nxml.gz-336" start="31803">did not find</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-339" type="identity">
+      <class id="differed" label="differed"/>
+      <span end="3018" id="PMC5439533.nxml.gz-340" start="3010">differed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-349" type="identity">
+      <class id="difficult_task" label="difficult_task"/>
+      <span end="32088" id="PMC5439533.nxml.gz-350" start="32077">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-351" type="identity">
+      <class id="difficult_task" label="difficult_task"/>
+      <span end="35585" id="PMC5439533.nxml.gz-352" start="35574">differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-357" type="identity">
+      <class id="difficult" label="difficult"/>
+      <span end="3234" id="PMC5439533.nxml.gz-358" start="3225">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-361" type="identity">
+      <class id="documented" label="documented"/>
+      <span end="2264" id="PMC5439533.nxml.gz-362" start="2254">documented</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-367" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="2699" id="PMC5439533.nxml.gz-368" start="2693">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-369" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="3786" id="PMC5439533.nxml.gz-370" start="3780">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-373" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="22862" id="PMC5439533.nxml.gz-374" start="22856">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-375" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="23118" id="PMC5439533.nxml.gz-376" start="23112">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-377" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="30023" id="PMC5439533.nxml.gz-378" start="30017">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-379" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="30345" id="PMC5439533.nxml.gz-380" start="30339">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-383" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="35305" id="PMC5439533.nxml.gz-384" start="35299">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-385" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="36115" id="PMC5439533.nxml.gz-386" start="36109">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-387" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="326" id="PMC5439533.nxml.gz-388" start="319">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-389" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="30201" id="PMC5439533.nxml.gz-390" start="30194">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-391" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="34351" id="PMC5439533.nxml.gz-392" start="34344">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-393" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="34420" id="PMC5439533.nxml.gz-394" start="34413">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-400" type="identity">
+      <class id="encourage" label="encourage"/>
+      <span end="36194" id="PMC5439533.nxml.gz-401" start="36185">encourage</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-402" type="identity">
+      <class id="error" label="error"/>
+      <span end="34855" id="PMC5439533.nxml.gz-403" start="34850">error</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-404" type="identity">
+      <class id="errors" label="errors"/>
+      <span end="34569" id="PMC5439533.nxml.gz-405" start="34563">errors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-414" type="identity">
+      <class id="estimate" label="estimate"/>
+      <span end="34849" id="PMC5439533.nxml.gz-415" start="34841">estimate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-416" type="identity">
+      <class id="estimate" label="estimate"/>
+      <span end="35997" id="PMC5439533.nxml.gz-417" start="35989">estimate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-418" type="identity">
+      <class id="estimated" label="estimated"/>
+      <span end="4484" id="PMC5439533.nxml.gz-419" start="4475">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-424" type="identity">
+      <class id="estimates" label="estimates"/>
+      <span end="34768" id="PMC5439533.nxml.gz-425" start="34759">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-426" type="identity">
+      <class id="estimates" label="estimates"/>
+      <span end="34870" id="PMC5439533.nxml.gz-427" start="34861">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-440" type="identity">
+      <class id="evidence_to_support" label="evidence_to_support"/>
+      <span end="1891" id="PMC5439533.nxml.gz-441" start="1872">evidence to support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-452" type="identity">
+      <class id="explain" label="explain"/>
+      <span end="30176" id="PMC5439533.nxml.gz-453" start="30169">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-5" type="identity">
+      <class id="account_for" label="account_for"/>
+      <span end="3089" id="PMC5439533.nxml.gz-6" start="3078">account for</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50786" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50788" type="identity">
+      <class id="association" label=""/>
+      <span end="11" id="PMC5439533.nxml.gz-50789" start="0">Association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50790" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50792" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50794" type="identity">
+      <class id="self-reported"/>
+      <span end="6750" id="PMC5439533.nxml.gz-50795" start="6737">self-reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50798" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="6870" id="PMC5439533.nxml.gz-50799" start="6858">if available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50800" type="identity">
+      <class id="subject_scope"/>
+      <span end="10178" id="PMC5439533.nxml.gz-50801" start="9532">Birth outcome data were defined and calculated as follows: (1) gestational age at delivery was calculated using LMP, if available, or gestational age at any ultrasound obtained from antenatal medical records (seeSupplementary material A1for gestational age calculation algorithm); (2) small for gestational age (SGA) was calculated from weight and gestational age at delivery according to the International Fetal and Newborn Growth Consortium for the 21st Century, or intergrowth-21st standards[36]; (3) preterm birth (PTB) was defined as born with &lt;37 weeks of gestational age; and (4) low birth weight (LBW) was defined as born weighing &lt;2500 g</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50802" type="identity">
+      <class id="difficult_task"/>
+      <span end="11813" id="PMC5439533.nxml.gz-50803" start="11806">not met</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50804" type="identity">
+      <class id="subject_scope"/>
+      <span end="13094" id="PMC5439533.nxml.gz-50805" start="12873">As a secondary investigation, we assessed the association of influenza vaccination and birth outcomes by trimester in which women received influenza vaccination; the unvaccinated group was used as a control for all models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50814" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50816" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50818" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50820" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50822" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50824" type="identity">
+      <class id="little...is_known"/>
+      <span end="33537" id="PMC5439533.nxml.gz-50825" start="33522">little is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50826" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50828" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50830" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50832" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50834" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50836" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50838" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50840" type="identity">
+      <class id="subject_scope"/>
+      <span end="35829" id="PMC5439533.nxml.gz-50841" start="35750">We were also able to perform sensitivity analysis for self-reported vaccination</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50842" type="identity">
+      <class id="subject_scope"/>
+      <span end="36056" id="PMC5439533.nxml.gz-50843" start="35831">Moreover, we used international standards to define the variable small for gestational age[36]and validated it with a World Health Organization calculator to estimate SGA[56]; results were consistent for both (data not shown)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50844" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50885" type="identity">
+      <class id="subject_scope"/>
+      <span end="86" id="PMC5439533.nxml.gz-50886" start="0">Association of influenza vaccination during pregnancy with birth outcomes in Nicaragua</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50887" type="identity">
+      <class id="subject_scope"/>
+      <span end="6870" id="PMC5439533.nxml.gz-50888" start="6711">Influenza vaccination was self-reported; however, interviewers validated this information using vaccination cards and/or antenatal medical records if available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50889" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="9661" id="PMC5439533.nxml.gz-50890" start="9649">if available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50891" type="identity">
+      <class id="subject_scope"/>
+      <span end="11923" id="PMC5439533.nxml.gz-50892" start="11781">When the requirement was not met, we randomly sampled from the vaccinated cases to obtain an unvaccinated to vaccinated ratio greater than one</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50893" type="identity">
+      <class id="alternative_options_controversy"/>
+      <span end="29768" id="PMC5439533.nxml.gz-50894" start="29761">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50895" type="identity">
+      <class id="difficult_task"/>
+      <span end="30259" id="PMC5439533.nxml.gz-50896" start="30251">preclude</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50897" type="identity">
+      <class id="probable_understanding"/>
+      <span end="31686" id="PMC5439533.nxml.gz-50898" start="31684">no</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50899" type="identity">
+      <class id="important_consideration"/>
+      <span end="32352" id="PMC5439533.nxml.gz-50900" start="32334">not accounting for</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50901" type="identity">
+      <class id="how"/>
+      <span end="33547" id="PMC5439533.nxml.gz-50902" start="33544">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50903" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="33597" id="PMC5439533.nxml.gz-50904" start="33591">Indeed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50905" type="identity">
+      <class id="important_consideration"/>
+      <span end="34131" id="PMC5439533.nxml.gz-50906" start="34122">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-50907" type="identity">
+      <class id="probable_understanding"/>
+      <span end="34438" id="PMC5439533.nxml.gz-50908" start="34433">based</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-514" type="identity">
+      <class id="found" label="found"/>
+      <span end="2679" id="PMC5439533.nxml.gz-515" start="2674">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-516" type="identity">
+      <class id="found" label="found"/>
+      <span end="2907" id="PMC5439533.nxml.gz-517" start="2902">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-518" type="identity">
+      <class id="found" label="found"/>
+      <span end="23098" id="PMC5439533.nxml.gz-519" start="23093">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-520" type="identity">
+      <class id="found" label="found"/>
+      <span end="30825" id="PMC5439533.nxml.gz-521" start="30820">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-522" type="identity">
+      <class id="found" label="found"/>
+      <span end="31017" id="PMC5439533.nxml.gz-523" start="31012">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-524" type="identity">
+      <class id="found" label="found"/>
+      <span end="31683" id="PMC5439533.nxml.gz-525" start="31678">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-526" type="identity">
+      <class id="found" label="found"/>
+      <span end="36078" id="PMC5439533.nxml.gz-527" start="36073">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-534" type="identity">
+      <class id="further" label="further"/>
+      <span end="23246" id="PMC5439533.nxml.gz-535" start="23239">Further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-539" type="identity">
+      <class id="further_investigation" label="further_investigation"/>
+      <span end="36216" id="PMC5439533.nxml.gz-540" start="36195">further investigation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-541" type="identity">
+      <class id="has_been_shown" label="has_been_shown"/>
+      <span end="2485" id="PMC5439533.nxml.gz-542" start="2471">has been shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-543" type="identity">
+      <class id="have...been" label="have...been"/>
+      <span end="34121" id="PMC5439533.nxml.gz-544" start="34112">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-545" type="identity">
+      <class id="have...been" label="have...been"/>
+      <span end="36569" id="PMC5439533.nxml.gz-546" start="36565">have</span>
+      <span end="36583" id="PMC5439533.nxml.gz-547" start="36579">been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-548" type="identity">
+      <class id="have_been" label="have_been"/>
+      <span end="32532" id="PMC5439533.nxml.gz-549" start="32523">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-55" type="identity">
+      <class id="as" label="as"/>
+      <span end="32556" id="PMC5439533.nxml.gz-56" start="32554">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-550" type="identity">
+      <class id="have_shown" label="have_shown"/>
+      <span end="127" id="PMC5439533.nxml.gz-551" start="117">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-556" type="identity">
+      <class id="however" label="however"/>
+      <span end="2895" id="PMC5439533.nxml.gz-557" start="2888">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-562" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="18696" id="PMC5439533.nxml.gz-563" start="18689">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-564" type="identity">
+      <class id="anomaly_curious_finding" label="however"/>
+      <span end="22839" id="PMC5439533.nxml.gz-565" start="22832">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-566" type="identity">
+      <class id="anomaly_curious_finding" label="however"/>
+      <span end="29921" id="PMC5439533.nxml.gz-567" start="29914">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-568" type="identity">
+      <class id="however" label="however"/>
+      <span end="31977" id="PMC5439533.nxml.gz-569" start="31970">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-570" type="identity">
+      <class id="however" label="however"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-572" type="identity">
+      <class id="however" label="however"/>
+      <span end="34602" id="PMC5439533.nxml.gz-573" start="34595">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-574" type="identity">
+      <class id="however" label="however"/>
+      <span end="36180" id="PMC5439533.nxml.gz-575" start="36173">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-576" type="identity">
+      <class id="hypothesis" label="hypothesis"/>
+      <span end="414" id="PMC5439533.nxml.gz-577" start="404">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-578" type="identity">
+      <class id="hypothesis" label="hypothesis"/>
+      <span end="2946" id="PMC5439533.nxml.gz-579" start="2936">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-580" type="identity">
+      <class id="hypothesis" label="hypothesis"/>
+      <span end="3735" id="PMC5439533.nxml.gz-581" start="3725">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-59" type="identity">
+      <class id="as" label="as"/>
+      <span end="33897" id="PMC5439533.nxml.gz-60" start="33895">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-592" type="identity">
+      <class id="important" label="important"/>
+      <span end="34412" id="PMC5439533.nxml.gz-593" start="34403">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-598" type="identity">
+      <class id="in_summary" label="in_summary"/>
+      <span end="36068" id="PMC5439533.nxml.gz-599" start="36058">In summary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-616" type="identity">
+      <class id="is_known" label="is_known"/>
+      <span end="34507" id="PMC5439533.nxml.gz-617" start="34499">is known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-618" type="identity">
+      <class id="key" label="key"/>
+      <span end="32477" id="PMC5439533.nxml.gz-619" start="32474">key</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-624" type="identity">
+      <class id="known" label="known"/>
+      <span end="32615" id="PMC5439533.nxml.gz-625" start="32610">known</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-626" type="identity">
+      <class id="lack_of" label="lack_of"/>
+      <span end="31277" id="PMC5439533.nxml.gz-627" start="31270">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-630" type="identity">
+      <class id="likelihood" label="likelihood"/>
+      <span end="2779" id="PMC5439533.nxml.gz-631" start="2769">likelihood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-632" type="identity">
+      <class id="likelihood" label="likelihood"/>
+      <span end="30903" id="PMC5439533.nxml.gz-633" start="30893">likelihood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-634" type="identity">
+      <class id="likelihood" label="likelihood"/>
+      <span end="31102" id="PMC5439533.nxml.gz-635" start="31092">likelihood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-636" type="identity">
+      <class id="likely" label="likely"/>
+      <span end="30543" id="PMC5439533.nxml.gz-637" start="30537">Likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-640" type="identity">
+      <class id="limitations" label="limitations"/>
+      <span end="33149" id="PMC5439533.nxml.gz-641" start="33138">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-642" type="identity">
+      <class id="limitations" label="limitations"/>
+      <span end="35127" id="PMC5439533.nxml.gz-643" start="35116">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-646" type="identity">
+      <class id="little...is_known" label="little...is_known"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-649" type="identity">
+      <class id="may" label="may"/>
+      <span end="297" id="PMC5439533.nxml.gz-650" start="294">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-65" type="identity">
+      <class id="assessed" label="assessed"/>
+      <span end="915" id="PMC5439533.nxml.gz-66" start="907">assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-651" type="identity">
+      <class id="may" label="may"/>
+      <span end="2360" id="PMC5439533.nxml.gz-652" start="2357">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-659" type="identity">
+      <class id="may" label="may"/>
+      <span end="32522" id="PMC5439533.nxml.gz-660" start="32519">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-661" type="identity">
+      <class id="may" label="may"/>
+      <span end="33761" id="PMC5439533.nxml.gz-662" start="33758">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-663" type="identity">
+      <class id="may" label="may"/>
+      <span end="34390" id="PMC5439533.nxml.gz-664" start="34387">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-665" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="35355" id="PMC5439533.nxml.gz-666" start="35349">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-667" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="36350" id="PMC5439533.nxml.gz-668" start="36344">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-69" type="identity">
+      <class id="assessed" label="assessed"/>
+      <span end="12914" id="PMC5439533.nxml.gz-70" start="12906">assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-71" type="identity">
+      <class id="associated" label="associated"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-73" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="2421" id="PMC5439533.nxml.gz-74" start="2411">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-75" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="32632" id="PMC5439533.nxml.gz-76" start="32622">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-77" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="33078" id="PMC5439533.nxml.gz-78" start="33068">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-79" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="35061" id="PMC5439533.nxml.gz-80" start="35051">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-806" type="identity">
+      <class id="number_of_studies" label="number_of_studies"/>
+      <span end="30814" id="PMC5439533.nxml.gz-807" start="30797">number of studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-808" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="1532" id="PMC5439533.nxml.gz-809" start="1524">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-810" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="22669" id="PMC5439533.nxml.gz-811" start="22661">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-812" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="30003" id="PMC5439533.nxml.gz-813" start="29995">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-814" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="30325" id="PMC5439533.nxml.gz-815" start="30317">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-816" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="35371" id="PMC5439533.nxml.gz-817" start="35363">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-824" type="identity">
+      <class id="on_the_other_hand" label="on_the_other_hand"/>
+      <span end="31236" id="PMC5439533.nxml.gz-825" start="31219">On the other hand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-828" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="18702" id="PMC5439533.nxml.gz-829" start="18698">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-83" type="identity">
+      <class id="association" label="association"/>
+      <span end="1906" id="PMC5439533.nxml.gz-84" start="1895">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-838" type="identity">
+      <class id="other" label="other"/>
+      <span end="32596" id="PMC5439533.nxml.gz-839" start="32591">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-840" type="identity">
+      <class id="other_studies" label="other_studies"/>
+      <span end="2886" id="PMC5439533.nxml.gz-841" start="2873">Other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-842" type="identity">
+      <class id="our_findings" label="our_findings"/>
+      <span end="30774" id="PMC5439533.nxml.gz-843" start="30762">Our findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-844" type="identity">
+      <class id="our_findings" label="our_findings"/>
+      <span end="31213" id="PMC5439533.nxml.gz-845" start="31201">our findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-848" type="identity">
+      <class id="our_study" label="our_study"/>
+      <span end="32419" id="PMC5439533.nxml.gz-849" start="32410">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-85" type="identity">
+      <class id="association" label="association"/>
+      <span end="2216" id="PMC5439533.nxml.gz-86" start="2205">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-850" type="identity">
+      <class id="our_study" label="our_study"/>
+      <span end="33717" id="PMC5439533.nxml.gz-851" start="33708">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-852" type="identity">
+      <class id="our_study" label="our_study"/>
+      <span end="35155" id="PMC5439533.nxml.gz-853" start="35146">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-868" type="identity">
+      <class id="possibility" label="possibility"/>
+      <span end="30147" id="PMC5439533.nxml.gz-869" start="30136">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-870" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="4437" id="PMC5439533.nxml.gz-871" start="4428">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-872" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="32263" id="PMC5439533.nxml.gz-873" start="32254">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-878" type="identity">
+      <class id="present_study" label="present_study"/>
+      <span end="29760" id="PMC5439533.nxml.gz-879" start="29747">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9" type="identity">
+      <class id="account_for" label="account_for"/>
+      <span end="31937" id="PMC5439533.nxml.gz-10" start="31926">account for</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-904" type="identity">
+      <class id="proposed" label="proposed"/>
+      <span end="267" id="PMC5439533.nxml.gz-905" start="259">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-91" type="identity">
+      <class id="association" label="association"/>
+      <span end="12930" id="PMC5439533.nxml.gz-92" start="12919">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-910" type="identity">
+      <class id="protective" label="protective"/>
+      <span end="1543" id="PMC5439533.nxml.gz-911" start="1533">protective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-912" type="identity">
+      <class id="protective" label="protective"/>
+      <span end="22855" id="PMC5439533.nxml.gz-913" start="22845">protective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-914" type="identity">
+      <class id="protective" label="protective"/>
+      <span end="23111" id="PMC5439533.nxml.gz-915" start="23101">protective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-916" type="identity">
+      <class id="protective" label="protective"/>
+      <span end="30016" id="PMC5439533.nxml.gz-917" start="30006">protective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-918" type="identity">
+      <class id="protective" label="protective"/>
+      <span end="30193" id="PMC5439533.nxml.gz-919" start="30183">protective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-920" type="identity">
+      <class id="protective" label="protective"/>
+      <span end="30338" id="PMC5439533.nxml.gz-921" start="30328">protective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-922" type="identity">
+      <class id="protective" label="protective"/>
+      <span end="36108" id="PMC5439533.nxml.gz-923" start="36098">protective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-926" type="identity">
+      <class id="proxy" label="proxy"/>
+      <span end="9008" id="PMC5439533.nxml.gz-927" start="9003">proxy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-946" type="identity">
+      <class id="related" label="related"/>
+      <span end="30595" id="PMC5439533.nxml.gz-947" start="30588">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-960" type="identity">
+      <class id="reported" label="reported"/>
+      <span end="31182" id="PMC5439533.nxml.gz-961" start="31174">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-970" type="identity">
+      <class id="required" label="required"/>
+      <span end="4470" id="PMC5439533.nxml.gz-971" start="4462">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9787" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="928" id="PMC5439533.nxml.gz-9788" start="916">self-reports</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9789" type="identity">
+      <class id="found" label="found"/>
+      <span end="1871" id="PMC5439533.nxml.gz-9790" start="1866">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9791" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="2082" id="PMC5439533.nxml.gz-9792" start="2076">biases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9793" type="identity">
+      <class id="studies_are_needed" label="studies_are_needed"/>
+      <span end="2114" id="PMC5439533.nxml.gz-9794" start="2096">studies are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9795" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="2139" id="PMC5439533.nxml.gz-9796" start="2133">biases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9797" type="identity">
+      <class id="some_studies" label="some_studies"/>
+      <span end="2668" id="PMC5439533.nxml.gz-9798" start="2656">some studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9799" type="identity">
+      <class id="no_evidence" label="no_evidence"/>
+      <span end="2919" id="PMC5439533.nxml.gz-9800" start="2908">no evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-980" type="identity">
+      <class id="incomplete_evidence" label="retrospective"/>
+      <span end="511" id="PMC5439533.nxml.gz-981" start="498">retrospective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9801" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="4444" id="PMC5439533.nxml.gz-9802" start="4438">biases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9805" type="identity">
+      <class id="more_common" label="more_common"/>
+      <span end="15441" id="PMC5439533.nxml.gz-9806" start="15430">more common</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9807" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="30245" id="PMC5439533.nxml.gz-9808" start="30239">biases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9809" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="30513" id="PMC5439533.nxml.gz-9810" start="30506">trended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9811" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="30587" id="PMC5439533.nxml.gz-9812" start="30581">biases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9813" type="identity">
+      <class id="consistent" label="consistent"/>
+      <span end="30789" id="PMC5439533.nxml.gz-9814" start="30779">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9815" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="32359" id="PMC5439533.nxml.gz-9816" start="32353">biases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9817" type="identity">
+      <class id="full_unknown" label="full_unknown"/>
+      <span end="32853" id="PMC5439533.nxml.gz-9818" start="32847">lacked</span>
+      <span end="32874" id="PMC5439533.nxml.gz-9819" start="32863">information</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-982" type="identity">
+      <class id="incomplete_evidence" label="retrospective"/>
+      <span end="31859" id="PMC5439533.nxml.gz-983" start="31846">retrospective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9820" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="34041" id="PMC5439533.nxml.gz-9821" start="34034">was not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9822" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="34402" id="PMC5439533.nxml.gz-9823" start="34396">missed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9824" type="identity">
+      <class id="difficult_task" label="full_unknown"/>
+      <span end="34927" id="PMC5439533.nxml.gz-9825" start="34919">not able</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9826" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="35559" id="PMC5439533.nxml.gz-9827" start="35553">biases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9828" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="36326" id="PMC5439533.nxml.gz-9829" start="36320">biases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9830" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="247" id="PMC5439533.nxml.gz-9831" start="109">Studies have shown that influenza vaccination during pregnancy reduces the risk of influenza disease in pregnant women and their offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9832" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="344" id="PMC5439533.nxml.gz-9833" start="249">Some have proposed that maternal vaccination may also have beneficial effects on birth outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9834" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="472" id="PMC5439533.nxml.gz-9835" start="346">In 2014, we conducted an observational study to test this hypothesis using data from two large hospitals in Managua, Nicaragua</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9836" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="598" id="PMC5439533.nxml.gz-9837" start="483">We conducted a retrospective cohort study to evaluate associations between influenza vaccination and birth outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9838" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-984" type="identity">
+      <class id="incomplete_evidence" label="retrospective"/>
+      <span end="36278" id="PMC5439533.nxml.gz-985" start="36265">retrospective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9840" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1090" id="PMC5439533.nxml.gz-9841" start="904">We assessed self-reports of influenza vaccination status by further reviewing medical records of those who self-reported but did not have readily available evidence of vaccination status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9842" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1848" id="PMC5439533.nxml.gz-9843" start="1477">With PSM, after adjusting for risk factors, we observed protective associations between influenza vaccination in the second and third trimester and preterm birth (aOR: 0.87; 95% confidence interval (CI): 0.75–0.99 and aOR: 0.66; 95% CI: 0.45–0.96, respectively) and between influenza vaccination in the second trimester and low birth weight (aOR: 0.80; 95% CI: 0.64–0.97)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9844" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2027" id="PMC5439533.nxml.gz-9845" start="1863">We found evidence to support an association between influenza vaccination and birth outcomes by trimester of receipt with data from an urban population in Nicaragua</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9846" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2082" id="PMC5439533.nxml.gz-9847" start="2029">The study had significant selection and recall biases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9848" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2139" id="PMC5439533.nxml.gz-9849" start="2084">Prospective studies are needed to minimize these biases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9850" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2293" id="PMC5439533.nxml.gz-9851" start="2155">Infection with influenza during pregnancy and its association with adverse birth outcomes has been documented since the early 1900s[1],[2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9852" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2447" id="PMC5439533.nxml.gz-9853" start="2295">For instance, infection with influenza virus during pregnancy may prompt an inflammatory [cascade] response that is associated with preterm birth[3],[4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9854" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2641" id="PMC5439533.nxml.gz-9855" start="2449">Influenza vaccination has been shown to reduce the risk of influenza virus disease and its complications among pregnant women and their infants[5],[6],[7],[8],[9],[10],[11],[12],[13],[14],[15]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9856" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2871" id="PMC5439533.nxml.gz-9857" start="2643">Furthermore, some studies have found a beneficial effect of influenza vaccination on birth outcomes, specifically a decreased likelihood of delivering a baby preterm or small for gestational age[16],[17],[18],[19],[20],[21],[22]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9858" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2985" id="PMC5439533.nxml.gz-9859" start="2873">Other studies, however, have found no evidence to support this hypothesis[23],[24],[25],[26],[27],[28],[29],[30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-986" type="identity">
+      <class id="risk_factors" label="risk_factors"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9860" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3238" id="PMC5439533.nxml.gz-9861" start="2987">Published studies have differed substantially from one another in design and in ability to account for variations in circulating influenza viruses, vaccine components, target population, and place of study, making cross-study comparisons difficult[31]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9862" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3353" id="PMC5439533.nxml.gz-9863" start="3240">Historic influenza surveillance data from Nicaragua shows that influenza circulates between June and November[32]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9864" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3600" id="PMC5439533.nxml.gz-9865" start="3355">Since 2007, the Nicaraguan Government has provided influenza vaccination to women with high-risk pregnancies in the month of May, following the vaccination schedule for countries with southern hemisphere circulation of influenza viruses[33],[34]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9866" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3992" id="PMC5439533.nxml.gz-9867" start="3694">With the aim of evaluating the hypothesis that influenza vaccination has a beneficial effect on birth outcomes, we collected birth outcome data, current influenza vaccination status, and risk factors for adverse pregnancy outcomes by interviewing post-partum women at two large hospitals in Managua</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9868" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4369" id="PMC5439533.nxml.gz-9869" start="4036">Sample size planning was informed by calculating sample needs in order to detect a 40% reduction of low birth weight among newborns of vaccinated (regardless of vaccination trimester) compared to unvaccinated mothers[20],[21], assuming a two-sided 95% confidence level, 80% power, and a ratio of unvaccinated to vaccinated of 2:5[33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9870" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4444" id="PMC5439533.nxml.gz-9871" start="4371">A design effect of 1.5 was considered to account for any potential biases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9872" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4549" id="PMC5439533.nxml.gz-9873" start="4446">The sample size required was estimated to be 2769 (1938 vaccinated and 831 unvaccinated pregnant women)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9874" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="7326" id="PMC5439533.nxml.gz-9875" start="7083">Sample size of the random sample, per group, was calculated using the formula to estimate a proportion assuming that 90% of those who self-reported being vaccinated or unvaccinated status were truly vaccinated or unvaccinated, respectively[37]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9876" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="8893" id="PMC5439533.nxml.gz-9877" start="8664"> Due to the low PPV and high NPV, we excluded from further analyses women who self-reported vaccination status but did not present evidence of vaccination, and we included all participants who self-reported non-vaccination status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9878" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="9119" id="PMC5439533.nxml.gz-9879" start="9001">A proxy variable was calculated for cumulative influenza exposure using influenza surveillance data from Nicaragua[38]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9880" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9882" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9884" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="15489" id="PMC5439533.nxml.gz-9885" start="15161">Ninety-seven percent (3172) reported having at least one antenatal visit during pregnancy, 78% (2549) reported four or more antenatal visits, and 91% (2984) reported having at least one dose of tetanus vaccine; all of these antenatal care indicators were significantly more common among vaccinated compared to unvaccinated women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9886" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18213" id="PMC5439533.nxml.gz-9887" start="17932">More than half of the surveyed women (57%) reported having at least one chronic condition (obesity, diabetes, asthma, renal disease, liver disease, blood disease, neurologic disease); conditions were more common among vaccinated (60%) than unvaccinated women (53%) (p-value &lt; 0.01)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9888" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18895" id="PMC5439533.nxml.gz-9889" start="18689">However, only among participants vaccinated in the first trimester, the percentage with preterm birth was 12%, significantly higher than the unvaccinated group (6%; p-value &lt; 0.05;Supplementary material A2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9890" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22772" id="PMC5439533.nxml.gz-9891" start="22642">In both models, we observed a trend whereby the later in pregnancy a women received vaccination the lower her adjusted odds of PTB</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9892" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23075" id="PMC5439533.nxml.gz-9893" start="22832">However, the protective effect of influenza vaccination on PTB among those receiving vaccination in their second and third trimester was significant with PSM (aOR: 0.87; 95% CI: 0.75–0.99 and aOR: 0.66; 95% CI: 0.45–0.96, respectively;Table 4)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9894" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23237" id="PMC5439533.nxml.gz-9895" start="23077">In addition, we found a protective effect of influenza vaccination on LBW among those vaccinated in the second trimester (aOR: 0.80; 95%CI: 0.64–0.97) using PSM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9896" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23358" id="PMC5439533.nxml.gz-9897" start="23239">Further analyses including those who self-reported vaccination showed similar trends (seeSupplementary materials A3-A5)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9898" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29912" id="PMC5439533.nxml.gz-9899" start="29743">The present study did not find an association between maternal influenza vaccination administered at any point in pregnancy and adverse birth outcomes among their babies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9900" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30114" id="PMC5439533.nxml.gz-9901" start="29914">However, in secondary analyses stratifying influenza vaccination by trimester we observed a protective effect of vaccination on PTB in the second and third trimester and on LBW in the second trimester</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9902" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30301" id="PMC5439533.nxml.gz-9903" start="30116">Although there is a possibility that vaccination can explain these protective effects, observational studies have inherent biases that preclude them from establishing causality[41],[42]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9904" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30442" id="PMC5439533.nxml.gz-9905" start="30303">Using PSM, we observed a protective effect of influenza vaccination on PTB and LBW among those vaccinated in the second and third trimester</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9906" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30535" id="PMC5439533.nxml.gz-9907" start="30444">Although not statistically significant, the MLR approach also trended in the same direction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9908" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30760" id="PMC5439533.nxml.gz-9909" start="30537">Likely, the analysis with PSM corrected for biases related to the probability of influenza vaccination by controlling for differences between vaccinated and unvaccinated women that we were not able to control for in MLR[43]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9910" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30974" id="PMC5439533.nxml.gz-9911" start="30762">Our findings are consistent with a number of studies that found an association between receiving influenza vaccination and reduced likelihood of delivering a baby PTB or with LBW[16],[17],[18],[19],[20],[21],[22]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9912" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31217" id="PMC5439533.nxml.gz-9913" start="30976">In addition, a recent meta-analysis found a strong association between receipt of influenza vaccination and reduced likelihood of PTB and LBW, and the magnitude of the association that Nunes et al. reported was comparable to our findings[44]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9914" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31377" id="PMC5439533.nxml.gz-9915" start="31219">On the other hand, numerous other studies report a lack of association between influenza vaccination and birth outcomes[23],[24],[25],[26],[27],[28],[29],[30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9916" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31433" id="PMC5439533.nxml.gz-9917" start="31379">Two of these studies used similar methods to our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9918" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31772" id="PMC5439533.nxml.gz-9919" start="31435">Nordin et al. analyzed the large Vaccine Safety Datalink dataset (n = 57,554 pregnant women in the United States) to assess these associations and after using propensity score to minimize bias introduced by the probability of being vaccinated found no association between influenza vaccination during pregnancy and risk of SGA or PTB[26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-992" type="identity">
+      <class id="risk_factors" label="risk_factors"/>
+      <span end="3893" id="PMC5439533.nxml.gz-993" start="3881">risk factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9920" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="32066" id="PMC5439533.nxml.gz-9921" start="31774">In Finland, Baum et al. also did not find an association when analyzing retrospective data by trimester of vaccination and applying propensity score to account for the probability of vaccination; however, this study was performed during the 2009 pandemic so may not be directly comparable[29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9922" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="32205" id="PMC5439533.nxml.gz-9923" start="32068">Overall, differences in study design, populations, influenza virus and circulation variability make it a challenge to compare results[31]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9924" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="32405" id="PMC5439533.nxml.gz-9925" start="32207">Observational studies like ours are subject to potential residual confounding, and Vazquez-Benitez et al.[43]demonstrated that not accounting for biases in observational data can mislead the results</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9926" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="32829" id="PMC5439533.nxml.gz-9927" start="32407">In our study, in addition to social desirability or recall bias on key variables like chronic conditions, there may have been residual confounding as we did not collect information on other risk factors known to be associated with adverse neonatal outcomes, such as previous history of adverse birth outcomes, domestic violence, harsh working conditions, or exposure to pollutants or chemicals[45],[46],[47],[48],[49],[50]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9928" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="33107" id="PMC5439533.nxml.gz-9929" start="32831">In addition, we lacked specific information regarding the timing of antenatal supplements or health complications during pregnancy, and the literature shows that the timing of these events with respect to trimester of gestation could be associated with birth outcomes[51],[52]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9930" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="33149" id="PMC5439533.nxml.gz-9931" start="33109">We acknowledge the following limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9932" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="33589" id="PMC5439533.nxml.gz-9933" start="33513">However, little is known about how well the recommendations were implemented</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9934" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="33791" id="PMC5439533.nxml.gz-9935" start="33591">Indeed, vaccine uptake remained somewhat higher among pregnant women with pre-existing chronic medical conditions in our study year suggesting that the recommendation may have been slow to take effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9936" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34013" id="PMC5439533.nxml.gz-9937" start="33793">Higher vaccination among pregnant women with high-risk pregnancies could have caused a selection bias as those vaccinated women would have been at higher risk for adverse pregnancy outcomes compared to unvaccinated women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9938" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34059" id="PMC5439533.nxml.gz-9939" start="34015">Second, the sample was not randomly selected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9940" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34291" id="PMC5439533.nxml.gz-9941" start="34061">Women who agreed to participate in the study could have been different from women who did not participate in the study, and we did not collect characteristics on women who refused to participate in the study to ascertain this bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9942" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34420" id="PMC5439533.nxml.gz-9943" start="34293">Third, we did not power the sample size to analyze effects by trimester of vaccination and so may have missed important effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9944" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34593" id="PMC5439533.nxml.gz-9945" start="34422">Fourth, we based our calculation of gestational age at delivery on LMP which is known to be subject to recall bias and could have introduced errors in our calculations[53]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9946" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34717" id="PMC5439533.nxml.gz-9947" start="34595">However, when LMP was determined to be unreliable, we calculated gestational age at delivery using data from an ultrasound</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9948" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34900" id="PMC5439533.nxml.gz-9949" start="34719">Approximately 6% of the gestational age estimates came from ultrasounds in the last trimester, which have higher rates of estimate error than estimates calculated in early pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9950" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="35100" id="PMC5439533.nxml.gz-9951" start="34902">Finally, we were not able to obtain information on previous pregnancy outcomes; previous history of PTB or abortion in the second trimester has been associated with an increased frequency of PTB[54]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9952" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="35272" id="PMC5439533.nxml.gz-9953" start="35102">Despite these limitations, the strengths of our study include having access to birth outcomes from medical records as well as having available influenza surveillance data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9954" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="35498" id="PMC5439533.nxml.gz-9955" start="35274">Studies suggest that the effect of influenza vaccination on birth outcomes may be better observed during high influenza circulation period, and there was a substantial influenza circulation in Nicaragua in 2014[20],[21],[55]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9956" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="35748" id="PMC5439533.nxml.gz-9957" start="35500">Furthermore, the propensity score analyses minimized biases introduced by differences in baseline characteristics between unvaccinated and vaccinated pregnant women by accounting for the probability of vaccination based on these characteristics[43]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9960" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="36326" id="PMC5439533.nxml.gz-9961" start="36058">In summary, we found some evidence of a protective effect of influenza vaccination by trimester on birth outcomes; however, we encourage further investigation by prioritizing prospective cohort designs over retrospective studies to minimize selection and recall biases</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-9962" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="36607" id="PMC5439533.nxml.gz-9963" start="36328">In addition, it may be helpful for countries to assess knowledge, attitudes and practices of influenza vaccination recommendations among health personnel, especially in countries where influenza vaccination recommendations and practices have recently been implemented or expanded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5439533.nxml.gz-998" type="identity">
+      <class id="risk_factors" label="risk_factors"/>
+      <span end="32609" id="PMC5439533.nxml.gz-999" start="32597">risk factors</span>
+    </annotation>
+  </document>
+</knowtator-project>

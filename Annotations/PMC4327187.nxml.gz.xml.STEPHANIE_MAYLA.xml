@@ -1,0 +1,1997 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC4327187.nxml.gz" text-file="PMC4327187.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1000" type="identity">
+      <class id="show" label="show"/>
+      <span end="6125" id="PMC4327187.nxml.gz-1001" start="6121">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1002" type="identity">
+      <class id="show" label="show"/>
+      <span end="29918" id="PMC4327187.nxml.gz-1003" start="29914">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1004" type="identity">
+      <class id="showed" label="showed"/>
+      <span end="30547" id="PMC4327187.nxml.gz-1005" start="30541">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1006" type="identity">
+      <class id="shown" label="shown"/>
+      <span end="27918" id="PMC4327187.nxml.gz-1007" start="27913">shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-105" type="identity">
+      <class id="as" label="as"/>
+      <span end="33839" id="PMC4327187.nxml.gz-106" start="33837">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1064" type="identity">
+      <class id="some" label="some"/>
+      <span end="2460" id="PMC4327187.nxml.gz-1065" start="2456">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1068" type="identity">
+      <class id="some" label="some"/>
+      <span end="5490" id="PMC4327187.nxml.gz-1069" start="5486">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1070" type="identity">
+      <class id="some" label="some"/>
+      <span end="6064" id="PMC4327187.nxml.gz-1071" start="6060">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1072" type="identity">
+      <class id="still" label="still"/>
+      <span end="5286" id="PMC4327187.nxml.gz-1073" start="5281">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1077" type="identity">
+      <class id="suggest" label="suggest"/>
+      <span end="1859" id="PMC4327187.nxml.gz-1078" start="1852">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1079" type="identity">
+      <class id="suggest" label="suggest"/>
+      <span end="28702" id="PMC4327187.nxml.gz-1080" start="28695">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1081" type="identity">
+      <class id="suggest" label="suggest"/>
+      <span end="30982" id="PMC4327187.nxml.gz-1082" start="30975">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1083" type="identity">
+      <class id="suggest" label="suggest"/>
+      <span end="34652" id="PMC4327187.nxml.gz-1084" start="34645">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1085" type="identity">
+      <class id="suggested" label="suggested"/>
+      <span end="14039" id="PMC4327187.nxml.gz-1086" start="14030">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1087" type="identity">
+      <class id="suggests" label="suggests"/>
+      <span end="32595" id="PMC4327187.nxml.gz-1088" start="32587">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1091" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="33334" id="PMC4327187.nxml.gz-1092" start="33328">target</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1093" type="identity">
+      <class id="the_evidence_for" label="the_evidence_for"/>
+      <span end="5237" id="PMC4327187.nxml.gz-1094" start="5221">the evidence for</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1097" type="identity">
+      <class id="the_need" label="the_need"/>
+      <span end="32604" id="PMC4327187.nxml.gz-1098" start="32596">the need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1101" type="identity">
+      <class id="theory" label="theory"/>
+      <span end="7257" id="PMC4327187.nxml.gz-1102" start="7251">theory</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1103" type="identity">
+      <class id="theory" label="theory"/>
+      <span end="7353" id="PMC4327187.nxml.gz-1104" start="7347">Theory</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1105" type="identity">
+      <class id="theory" label="theory"/>
+      <span end="7414" id="PMC4327187.nxml.gz-1106" start="7408">theory</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1136" type="identity">
+      <class id="thus" label="thus"/>
+      <span end="32390" id="PMC4327187.nxml.gz-1137" start="32386">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1149" type="identity">
+      <class id="to_evaluate" label="to_evaluate"/>
+      <span end="553" id="PMC4327187.nxml.gz-1150" start="542">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1153" type="identity">
+      <class id="future_work" label="future_work"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1157" type="identity">
+      <class id="trend" label="trend"/>
+      <span end="5314" id="PMC4327187.nxml.gz-1158" start="5309">trend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1167" type="identity">
+      <class id="trial" label="trial"/>
+      <span end="8346" id="PMC4327187.nxml.gz-1168" start="8341">trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1171" type="identity">
+      <class id="trial" label="trial"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1173" type="identity">
+      <class id="underpowered" label="underpowered"/>
+      <span end="33879" id="PMC4327187.nxml.gz-1174" start="33867">underpowered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1187" type="identity">
+      <class id="validated" label="validated"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1203" type="identity">
+      <class id="what" label="what"/>
+      <span end="6280" id="PMC4327187.nxml.gz-1204" start="6276">what</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-121" type="identity">
+      <class id="assumption" label="assumption"/>
+      <span end="21487" id="PMC4327187.nxml.gz-122" start="21477">assumption</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1246" type="identity">
+      <class id="while" label="while"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1248" type="identity">
+      <class id="wide_range" label="wide_range"/>
+      <span end="31362" id="PMC4327187.nxml.gz-1249" start="31352">wide range</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-127" type="identity">
+      <class id="at_risk" label="at_risk"/>
+      <span end="33453" id="PMC4327187.nxml.gz-128" start="33446">at risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1276" type="identity">
+      <class id="will" label="will"/>
+      <span end="27962" id="PMC4327187.nxml.gz-1277" start="27958">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1278" type="identity">
+      <class id="worth_noting" label="worth_noting"/>
+      <span end="30852" id="PMC4327187.nxml.gz-1279" start="30840">worth noting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1280" type="identity">
+      <class id="would" label="would"/>
+      <span end="8477" id="PMC4327187.nxml.gz-1281" start="8472">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1282" type="identity">
+      <class id="would" label="would"/>
+      <span end="8636" id="PMC4327187.nxml.gz-1283" start="8631">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1284" type="identity">
+      <class id="would" label="would"/>
+      <span end="8747" id="PMC4327187.nxml.gz-1285" start="8742">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-129" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="28737" id="PMC4327187.nxml.gz-130" start="28728">attention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1290" type="identity">
+      <class id="would_be_expected" label="would_be_expected"/>
+      <span end="30046" id="PMC4327187.nxml.gz-1291" start="30029">would be expected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1292" type="identity">
+      <class id="0_model" label="0_model"/>
+      <span end="7378" id="PMC4327187.nxml.gz-1293" start="7373">Model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1318" type="identity">
+      <class id="one_of_the_most" label="one_of_the_most"/>
+      <span end="28432" id="PMC4327187.nxml.gz-1319" start="28417">one of the most</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1320" type="identity">
+      <class id="predicting" label="predicting"/>
+      <span end="29679" id="PMC4327187.nxml.gz-1321" start="29669">predicting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1330" type="identity">
+      <class id="benefit" label="benefit"/>
+      <span end="8049" id="PMC4327187.nxml.gz-1331" start="8042">benefit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1338" type="identity">
+      <class id="prevention" label="prevention"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1342" type="identity">
+      <class id="benefits" label="benefits"/>
+      <span end="32463" id="PMC4327187.nxml.gz-1343" start="32455">benefits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1346" type="identity">
+      <class id="self-reported" label="self-reported"/>
+      <span end="1416" id="PMC4327187.nxml.gz-1347" start="1403">self-reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1348" type="identity">
+      <class id="self-reported" label="self-reported"/>
+      <span end="24896" id="PMC4327187.nxml.gz-1349" start="24883">self-reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1350" type="identity">
+      <class id="self-reported" label="self-reported"/>
+      <span end="29699" id="PMC4327187.nxml.gz-1351" start="29686">self-reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1352" type="identity">
+      <class id="self-reported" label="self-reported"/>
+      <span end="30008" id="PMC4327187.nxml.gz-1353" start="29995">self-reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1362" type="identity">
+      <class id="efforts" label="efforts"/>
+      <span end="34603" id="PMC4327187.nxml.gz-1363" start="34596">efforts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1368" type="identity">
+      <class id="sufficient_evidence" label="sufficient_evidence"/>
+      <span end="3153" id="PMC4327187.nxml.gz-1369" start="3134">sufficient evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-137" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="8111" id="PMC4327187.nxml.gz-138" start="8104">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1370" type="identity">
+      <class id="no...observed" label="no...observed"/>
+      <span end="29044" id="PMC4327187.nxml.gz-1371" start="29042">no</span>
+      <span end="29081" id="PMC4327187.nxml.gz-1372" start="29073">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1377" type="identity">
+      <class id="several" label="several"/>
+      <span end="31166" id="PMC4327187.nxml.gz-1378" start="31159">several</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1399" type="identity">
+      <class id="intervention" label="intervention"/>
+      <span end="3497" id="PMC4327187.nxml.gz-1400" start="3485">intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1401" type="identity">
+      <class id="intervention" label="intervention"/>
+      <span end="3668" id="PMC4327187.nxml.gz-1402" start="3656">intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1403" type="identity">
+      <class id="intervention" label="intervention"/>
+      <span end="4475" id="PMC4327187.nxml.gz-1404" start="4463">intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1419" type="identity">
+      <class id="intervention" label="intervention"/>
+      <span end="30381" id="PMC4327187.nxml.gz-1420" start="30369">intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1423" type="identity">
+      <class id="intervention" label="intervention"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1425" type="identity">
+      <class id="intervention" label="intervention"/>
+      <span end="31941" id="PMC4327187.nxml.gz-1426" start="31929">intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1427" type="identity">
+      <class id="risks" label="risks"/>
+      <span end="7975" id="PMC4327187.nxml.gz-1428" start="7970">risks</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1429" type="identity">
+      <class id="risks" label="risks"/>
+      <span end="29856" id="PMC4327187.nxml.gz-1430" start="29851">risks</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1431" type="identity">
+      <class id="risks" label="risks"/>
+      <span end="30137" id="PMC4327187.nxml.gz-1432" start="30132">risks</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1435" type="identity">
+      <class id="risks" label="risks"/>
+      <span end="31028" id="PMC4327187.nxml.gz-1436" start="31023">risks</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1437" type="identity">
+      <class id="risks" label="risks"/>
+      <span end="31084" id="PMC4327187.nxml.gz-1438" start="31079">risks</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1439" type="identity">
+      <class id="proven" label="proven"/>
+      <span end="2390" id="PMC4327187.nxml.gz-1440" start="2384">proven</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1447" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="1922" id="PMC4327187.nxml.gz-1448" start="1909">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1449" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="3047" id="PMC4327187.nxml.gz-1450" start="3034">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1451" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="3129" id="PMC4327187.nxml.gz-1452" start="3116">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1453" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="3846" id="PMC4327187.nxml.gz-1454" start="3833">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1455" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="4099" id="PMC4327187.nxml.gz-1456" start="4086">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1457" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="5438" id="PMC4327187.nxml.gz-1458" start="5425">Interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1459" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="7293" id="PMC4327187.nxml.gz-1460" start="7280">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1461" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="7581" id="PMC4327187.nxml.gz-1462" start="7568">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1463" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="13946" id="PMC4327187.nxml.gz-1464" start="13933">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1465" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="30463" id="PMC4327187.nxml.gz-1466" start="30450">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1469" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="31735" id="PMC4327187.nxml.gz-1470" start="31722">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1471" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="32277" id="PMC4327187.nxml.gz-1472" start="32264">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1473" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="32912" id="PMC4327187.nxml.gz-1474" start="32899">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1475" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="32982" id="PMC4327187.nxml.gz-1476" start="32969">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1477" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="33641" id="PMC4327187.nxml.gz-1478" start="33628">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1483" type="identity">
+      <class id="targeted" label="targeted"/>
+      <span end="33091" id="PMC4327187.nxml.gz-1484" start="33083">targeted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1499" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="1710" id="PMC4327187.nxml.gz-1500" start="1703">Studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1501" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="2952" id="PMC4327187.nxml.gz-1502" start="2945">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1503" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="3287" id="PMC4327187.nxml.gz-1504" start="3280">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1505" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="3957" id="PMC4327187.nxml.gz-1506" start="3950">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1507" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="4765" id="PMC4327187.nxml.gz-1508" start="4758">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1509" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="6012" id="PMC4327187.nxml.gz-1510" start="6005">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1513" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="28454" id="PMC4327187.nxml.gz-1514" start="28447">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1519" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="32775" id="PMC4327187.nxml.gz-1520" start="32768">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1521" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="33979" id="PMC4327187.nxml.gz-1522" start="33972">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1523" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="34402" id="PMC4327187.nxml.gz-1524" start="34395">Studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-153" type="identity">
+      <class id="best" label="best"/>
+      <span end="2898" id="PMC4327187.nxml.gz-154" start="2894">best</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1531" type="identity">
+      <class id="research" label="research"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1539" type="identity">
+      <class id="research" label="research"/>
+      <span end="34795" id="PMC4327187.nxml.gz-1540" start="34787">research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-155" type="identity">
+      <class id="bias" label="bias"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1551" type="identity">
+      <class id="ambitious" label="ambitious"/>
+      <span end="28293" id="PMC4327187.nxml.gz-1552" start="28284">ambitious</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1553" type="identity">
+      <class id="to_be" label="to_be"/>
+      <span end="2262" id="PMC4327187.nxml.gz-1554" start="2257">to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1555" type="identity">
+      <class id="to_be" label="to_be"/>
+      <span end="3176" id="PMC4327187.nxml.gz-1556" start="3171">to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1569" type="identity">
+      <class id="to_be" label="to_be"/>
+      <span end="30052" id="PMC4327187.nxml.gz-1570" start="30047">to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-157" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="31785" id="PMC4327187.nxml.gz-158" start="31779">burden</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1571" type="identity">
+      <class id="improve" label="improve"/>
+      <span end="2127" id="PMC4327187.nxml.gz-1572" start="2120">improve</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-159" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="32331" id="PMC4327187.nxml.gz-160" start="32325">burden</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-1596" type="identity">
+      <class id="very_few" label="very_few"/>
+      <span end="27883" id="PMC4327187.nxml.gz-1597" start="27875">very few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-163" type="identity">
+      <class id="but" label="but"/>
+      <span end="7119" id="PMC4327187.nxml.gz-164" start="7116">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-171" type="identity">
+      <class id="can" label="can"/>
+      <span end="5331" id="PMC4327187.nxml.gz-172" start="5328">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-173" type="identity">
+      <class id="can" label="can"/>
+      <span end="6151" id="PMC4327187.nxml.gz-174" start="6148">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-177" type="identity">
+      <class id="can" label="can"/>
+      <span end="31739" id="PMC4327187.nxml.gz-178" start="31736">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-179" type="identity">
+      <class id="can" label="can"/>
+      <span end="32986" id="PMC4327187.nxml.gz-180" start="32983">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-183" type="identity">
+      <class id="can" label="can"/>
+      <span end="33219" id="PMC4327187.nxml.gz-184" start="33216">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-185" type="identity">
+      <class id="can" label="can"/>
+      <span end="33645" id="PMC4327187.nxml.gz-186" start="33642">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-189" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="3714" id="PMC4327187.nxml.gz-190" start="3703">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-19" type="identity">
+      <class id="affect" label="affect"/>
+      <span end="31920" id="PMC4327187.nxml.gz-20" start="31914">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-191" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="4152" id="PMC4327187.nxml.gz-192" start="4141">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-193" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="4599" id="PMC4327187.nxml.gz-194" start="4588">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-199" type="identity">
+      <class id="compared_to" label="compared_to"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-201" type="identity">
+      <class id="compared_to" label="compared_to"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-203" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="31395" id="PMC4327187.nxml.gz-204" start="31384">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-205" type="identity">
+      <class id="comprehensive" label="comprehensive"/>
+      <span end="28446" id="PMC4327187.nxml.gz-206" start="28433">comprehensive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-209" type="identity">
+      <class id="conducted" label="conducted"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-21" type="identity">
+      <class id="aims" label="aims"/>
+      <span end="536" id="PMC4327187.nxml.gz-22" start="532">aims</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-221" type="identity">
+      <class id="confirmed" label="confirmed"/>
+      <span end="29550" id="PMC4327187.nxml.gz-222" start="29541">confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-223" type="identity">
+      <class id="considered" label="considered"/>
+      <span end="3187" id="PMC4327187.nxml.gz-224" start="3177">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-227" type="identity">
+      <class id="considered" label="considered"/>
+      <span end="31806" id="PMC4327187.nxml.gz-228" start="31796">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-229" type="identity">
+      <class id="consistent" label="consistent"/>
+      <span end="30415" id="PMC4327187.nxml.gz-230" start="30405">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-23" type="identity">
+      <class id="although" label="although"/>
+      <span end="3918" id="PMC4327187.nxml.gz-24" start="3910">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-231" type="identity">
+      <class id="consistent" label="consistent"/>
+      <span end="33947" id="PMC4327187.nxml.gz-232" start="33937">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-235" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="32433" id="PMC4327187.nxml.gz-236" start="32428">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-241" type="identity">
+      <class id="demonstrate" label="demonstrate"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-243" type="identity">
+      <class id="demonstrate" label="demonstrate"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-247" type="identity">
+      <class id="demonstrated" label="demonstrated"/>
+      <span end="28904" id="PMC4327187.nxml.gz-248" start="28892">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-249" type="identity">
+      <class id="demonstrated" label="demonstrated"/>
+      <span end="31613" id="PMC4327187.nxml.gz-250" start="31601">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-25" type="identity">
+      <class id="although" label="although"/>
+      <span end="5220" id="PMC4327187.nxml.gz-26" start="5212">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-251" type="identity">
+      <class id="demonstrated" label="demonstrated"/>
+      <span end="31668" id="PMC4327187.nxml.gz-252" start="31656">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-253" type="identity">
+      <class id="demonstrated" label="demonstrated"/>
+      <span end="34492" id="PMC4327187.nxml.gz-254" start="34480">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-255" type="identity">
+      <class id="demonstrates" label="demonstrates"/>
+      <span end="28814" id="PMC4327187.nxml.gz-256" start="28802">demonstrates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-261" type="identity">
+      <class id="alternative_options_controversy" label="despite"/>
+      <span end="33888" id="PMC4327187.nxml.gz-262" start="33881">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-267" type="identity">
+      <class id="did_not" label="did_not"/>
+      <span end="32075" id="PMC4327187.nxml.gz-268" start="32068">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-27" type="identity">
+      <class id="although" label="although"/>
+      <span end="5975" id="PMC4327187.nxml.gz-28" start="5967">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-283" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="1369" id="PMC4327187.nxml.gz-284" start="1363">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-285" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="8671" id="PMC4327187.nxml.gz-286" start="8665">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-287" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="14065" id="PMC4327187.nxml.gz-288" start="14059">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-29" type="identity">
+      <class id="although" label="although"/>
+      <span end="29994" id="PMC4327187.nxml.gz-30" start="29986">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-291" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="24866" id="PMC4327187.nxml.gz-292" start="24860">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-293" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="28484" id="PMC4327187.nxml.gz-294" start="28478">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-295" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="28834" id="PMC4327187.nxml.gz-296" start="28828">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-297" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="29178" id="PMC4327187.nxml.gz-298" start="29172">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-301" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="29610" id="PMC4327187.nxml.gz-302" start="29604">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-303" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="30184" id="PMC4327187.nxml.gz-304" start="30178">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-305" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="31688" id="PMC4327187.nxml.gz-306" start="31682">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-307" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="34025" id="PMC4327187.nxml.gz-308" start="34019">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-309" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="34271" id="PMC4327187.nxml.gz-310" start="34265">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-31" type="identity">
+      <class id="although" label="although"/>
+      <span end="30787" id="PMC4327187.nxml.gz-32" start="30779">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-311" type="identity">
+      <class id="effective" label="effective"/>
+      <span end="2400" id="PMC4327187.nxml.gz-312" start="2391">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-313" type="identity">
+      <class id="effective" label="effective"/>
+      <span end="3877" id="PMC4327187.nxml.gz-314" start="3868">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-315" type="identity">
+      <class id="effective" label="effective"/>
+      <span end="5073" id="PMC4327187.nxml.gz-316" start="5064">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-317" type="identity">
+      <class id="effective" label="effective"/>
+      <span end="5344" id="PMC4327187.nxml.gz-318" start="5335">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-319" type="identity">
+      <class id="effective" label="effective"/>
+      <span end="6352" id="PMC4327187.nxml.gz-320" start="6343">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-321" type="identity">
+      <class id="effective" label="effective"/>
+      <span end="27934" id="PMC4327187.nxml.gz-322" start="27925">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-323" type="identity">
+      <class id="effective" label="effective"/>
+      <span end="30485" id="PMC4327187.nxml.gz-324" start="30476">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-325" type="identity">
+      <class id="effective" label="effective"/>
+      <span end="31147" id="PMC4327187.nxml.gz-326" start="31138">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-327" type="identity">
+      <class id="effective" label="effective"/>
+      <span end="31752" id="PMC4327187.nxml.gz-328" start="31743">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-329" type="identity">
+      <class id="effectiveness" label="effectiveness"/>
+      <span end="2172" id="PMC4327187.nxml.gz-330" start="2159">effectiveness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-331" type="identity">
+      <class id="effectiveness" label="effectiveness"/>
+      <span end="3170" id="PMC4327187.nxml.gz-332" start="3157">effectiveness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-333" type="identity">
+      <class id="effectiveness" label="effectiveness"/>
+      <span end="32514" id="PMC4327187.nxml.gz-334" start="32501">effectiveness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-337" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="575" id="PMC4327187.nxml.gz-338" start="568">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-339" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="605" id="PMC4327187.nxml.gz-340" start="598">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-341" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="1173" id="PMC4327187.nxml.gz-342" start="1166">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-343" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="1189" id="PMC4327187.nxml.gz-344" start="1182">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-345" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="1783" id="PMC4327187.nxml.gz-346" start="1776">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-347" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="1899" id="PMC4327187.nxml.gz-348" start="1892">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-349" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="3345" id="PMC4327187.nxml.gz-350" start="3338">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-35" type="identity">
+      <class id="although" label="although"/>
+      <span end="34164" id="PMC4327187.nxml.gz-36" start="34156">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-351" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="4877" id="PMC4327187.nxml.gz-352" start="4870">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-353" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="7127" id="PMC4327187.nxml.gz-354" start="7120">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-357" type="identity">
+      <class id="effects" label="effects"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-361" type="identity">
+      <class id="effects" label="effects"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-363" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="28051" id="PMC4327187.nxml.gz-364" start="28044">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-365" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="28923" id="PMC4327187.nxml.gz-366" start="28916">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-369" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="29397" id="PMC4327187.nxml.gz-370" start="29390">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-373" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="31634" id="PMC4327187.nxml.gz-374" start="31627">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-375" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="32365" id="PMC4327187.nxml.gz-376" start="32358">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-377" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="34191" id="PMC4327187.nxml.gz-378" start="34184">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-379" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="34519" id="PMC4327187.nxml.gz-380" start="34512">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-381" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="34630" id="PMC4327187.nxml.gz-382" start="34623">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-383" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="34734" id="PMC4327187.nxml.gz-384" start="34727">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-385" type="identity">
+      <class id="emerging" label="emerging"/>
+      <span end="5295" id="PMC4327187.nxml.gz-386" start="5287">emerging</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-391" type="identity">
+      <class id="estimate" label="estimate"/>
+      <span end="29379" id="PMC4327187.nxml.gz-392" start="29371">estimate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-395" type="identity">
+      <class id="estimated" label="estimated"/>
+      <span end="15571" id="PMC4327187.nxml.gz-396" start="15562">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-407" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="2915" id="PMC4327187.nxml.gz-408" start="2907">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-409" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="3022" id="PMC4327187.nxml.gz-410" start="3014">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-41" type="identity">
+      <class id="approximate" label="approximate"/>
+      <span end="14054" id="PMC4327187.nxml.gz-42" start="14043">approximate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-411" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="3931" id="PMC4327187.nxml.gz-412" start="3923">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-413" type="identity">
+      <class id="evidence_base" label="evidence_base"/>
+      <span end="1770" id="PMC4327187.nxml.gz-414" start="1757">evidence base</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-415" type="identity">
+      <class id="evidence_base" label="evidence_base"/>
+      <span end="34474" id="PMC4327187.nxml.gz-416" start="34461">evidence base</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-417" type="identity">
+      <class id="examined" label="examined"/>
+      <span end="1155" id="PMC4327187.nxml.gz-418" start="1147">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-421" type="identity">
+      <class id="examined" label="examined"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-423" type="identity">
+      <class id="examined" label="examined"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-425" type="identity">
+      <class id="examined" label="examined"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-43" type="identity">
+      <class id="as" label="as"/>
+      <span end="1491" id="PMC4327187.nxml.gz-44" start="1489">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-439" type="identity">
+      <class id="factors" label="factors"/>
+      <span end="31908" id="PMC4327187.nxml.gz-440" start="31901">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-443" type="identity">
+      <class id="finding" label="finding"/>
+      <span end="1344" id="PMC4327187.nxml.gz-444" start="1337">finding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-445" type="identity">
+      <class id="findings" label="findings"/>
+      <span end="31600" id="PMC4327187.nxml.gz-446" start="31592">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-465" type="identity">
+      <class id="important_consideration" label="focus"/>
+      <span end="29748" id="PMC4327187.nxml.gz-466" start="29743">focus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-471" type="identity">
+      <class id="found" label="found"/>
+      <span end="3057" id="PMC4327187.nxml.gz-472" start="3052">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-473" type="identity">
+      <class id="found" label="found"/>
+      <span end="3602" id="PMC4327187.nxml.gz-474" start="3597">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-475" type="identity">
+      <class id="found" label="found"/>
+      <span end="3856" id="PMC4327187.nxml.gz-476" start="3851">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-477" type="identity">
+      <class id="found" label="found"/>
+      <span end="4134" id="PMC4327187.nxml.gz-478" start="4129">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-479" type="identity">
+      <class id="found" label="found"/>
+      <span end="4342" id="PMC4327187.nxml.gz-480" start="4337">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-481" type="identity">
+      <class id="found" label="found"/>
+      <span end="4433" id="PMC4327187.nxml.gz-482" start="4428">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-483" type="identity">
+      <class id="found" label="found"/>
+      <span end="4652" id="PMC4327187.nxml.gz-484" start="4647">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-485" type="identity">
+      <class id="found" label="found"/>
+      <span end="4860" id="PMC4327187.nxml.gz-486" start="4855">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48526" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48528" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48530" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48532" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48534" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48536" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48538" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48540" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="4891" id="PMC4327187.nxml.gz-48541" start="4884">A study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48542" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48544" type="identity">
+      <class id="important_consideration"/>
+      <span end="6959" id="PMC4327187.nxml.gz-48545" start="6949">represents</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48546" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="7024" id="PMC4327187.nxml.gz-48547" start="7017">to date</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48548" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48550" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48552" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48554" type="identity">
+      <class id="estimated"/>
+      <span end="14168" id="PMC4327187.nxml.gz-48555" start="14159">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48556" type="identity">
+      <class id="assuming"/>
+      <span end="14229" id="PMC4327187.nxml.gz-48557" start="14221">assuming</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48558" type="identity">
+      <class id="estimated"/>
+      <span end="15817" id="PMC4327187.nxml.gz-48559" start="15808">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48560" type="identity">
+      <class id="estimated"/>
+      <span end="15976" id="PMC4327187.nxml.gz-48561" start="15967">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48562" type="identity">
+      <class id="estimated"/>
+      <span end="16582" id="PMC4327187.nxml.gz-48563" start="16573">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48564" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48566" type="identity">
+      <class id="widely"/>
+      <span end="18130" id="PMC4327187.nxml.gz-48567" start="18124">widely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48568" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48570" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48572" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48574" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48576" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48578" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48580" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48582" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48584" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48586" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48588" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48590" type="identity">
+      <class id="subject_scope"/>
+      <span end="27563" id="PMC4327187.nxml.gz-48591" start="27423">However, of the 128 respondents who indicated zero drinks per day, only 51 (40%) of them were in the control group and 77 (60%) in text4baby</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48592" type="identity">
+      <class id="important_consideration"/>
+      <span end="27701" id="PMC4327187.nxml.gz-48593" start="27691">represents</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48594" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="27755" id="PMC4327187.nxml.gz-48595" start="27748">to date</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48596" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48598" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48600" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48602" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48604" type="identity">
+      <class id="previous...studies"/>
+      <span end="28891" id="PMC4327187.nxml.gz-48605" start="28875">Previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48606" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48608" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48610" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48612" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48614" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48616" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48618" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48620" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48622" type="identity">
+      <class id="future...research"/>
+      <span end="32674" id="PMC4327187.nxml.gz-48623" start="32659">Future research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48624" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48626" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48628" type="identity">
+      <class id="problem_complication"/>
+      <span end="33758" id="PMC4327187.nxml.gz-48629" start="33755">low</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48630" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="33800" id="PMC4327187.nxml.gz-48631" start="33790">imputation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48632" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48634" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48636" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48638" type="identity">
+      <class id="future_work"/>
+      <span end="1810" id="PMC4327187.nxml.gz-48639" start="1797">offer lessons</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48640" type="identity">
+      <class id="probable_understanding"/>
+      <span end="2256" id="PMC4327187.nxml.gz-48641" start="2250">poised</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48642" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="4013" id="PMC4327187.nxml.gz-48643" start="3993">preliminary research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48644" type="identity">
+      <class id="subject_scope"/>
+      <span end="4996" id="PMC4327187.nxml.gz-48645" start="4884">A study of postpartum women employed a team approach to encourage women to use a Facebook app to promote PA [19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48646" type="identity">
+      <class id="subject_scope"/>
+      <span end="7024" id="PMC4327187.nxml.gz-48647" start="6946">It represents one of the largest mHealth text-based programs developed to date</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48648" type="identity">
+      <class id="future_prediction"/>
+      <span end="8041" id="PMC4327187.nxml.gz-48649" start="8036">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48650" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="8437" id="PMC4327187.nxml.gz-48651" start="8427">hypotheses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48652" type="identity">
+      <class id="subject_scope"/>
+      <span end="14274" id="PMC4327187.nxml.gz-48653" start="14144">Power analysis estimated the required sample to be 996 participants in total assuming a 10% attrition rate at postpartum follow-up</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48654" type="identity">
+      <class id="subject_scope"/>
+      <span end="15937" id="PMC4327187.nxml.gz-48655" start="15746">Based on the distribution of messages, investigators examined estimated dosage levels, dichotomized on whether a participant received lower or higher than median message exposure to messaging</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48656" type="identity">
+      <class id="subject_scope"/>
+      <span end="16201" id="PMC4327187.nxml.gz-48657" start="15939">Exposure was measured by an estimated count of total messages delivered to participants based on service enrollment and end dates validated by the Voxiva text4baby service database, which were linked to individuals and provided to the investigators under the DUA</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48658" type="identity">
+      <class id="subject_scope"/>
+      <span end="16819" id="PMC4327187.nxml.gz-48659" start="16559">Investigators estimated the odds of change over time in response to each of the behavioral outcome variables as a function of text4baby text message exposure through use of an interaction term including program exposure and progression to follow-up measurement</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48660" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="17631" id="PMC4327187.nxml.gz-48661" start="17621">imputation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48662" type="identity">
+      <class id="0_model"/>
+      <span end="17637" id="PMC4327187.nxml.gz-48663" start="17632">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48664" type="identity">
+      <class id="probable_understanding"/>
+      <span end="18148" id="PMC4327187.nxml.gz-48665" start="18131">accepted practice</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48666" type="identity">
+      <class id="subject_scope"/>
+      <span end="18276" id="PMC4327187.nxml.gz-48667" start="18114">Following widely accepted practice, Cronbach alpha of .6 was used to confirm interitem agreement for use of the factor in descriptive and regression analyses [39]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48668" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="18385" id="PMC4327187.nxml.gz-48669" start="18378">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48670" type="identity">
+      <class id="subject_scope"/>
+      <span end="27848" id="PMC4327187.nxml.gz-48671" start="27643">The text4baby program is significant in that it represents one of the largest worldwide mHealth programs to date, with more than 800,000 enrollees from inception in February 2010 through November 2014 [40]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48672" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="27857" id="PMC4327187.nxml.gz-48673" start="27850">To date</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48674" type="identity">
+      <class id="probable_understanding"/>
+      <span end="28156" id="PMC4327187.nxml.gz-48675" start="28148">provides</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48676" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="28462" id="PMC4327187.nxml.gz-48677" start="28455">to date</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48678" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="28619" id="PMC4327187.nxml.gz-48679" start="28607">understudied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48680" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="29426" id="PMC4327187.nxml.gz-48681" start="29419">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48682" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="30426" id="PMC4327187.nxml.gz-48683" start="30421">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48684" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="30799" id="PMC4327187.nxml.gz-48685" start="30796">not</span>
+      <span end="30807" id="PMC4327187.nxml.gz-48686" start="30802">large</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48687" type="identity">
+      <class id="future_research"/>
+      <span end="32229" id="PMC4327187.nxml.gz-48688" start="32214">future research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48689" type="identity">
+      <class id="subject_scope"/>
+      <span end="33835" id="PMC4327187.nxml.gz-48690" start="33739">First, we had a low follow-up rate and, thus, used imputation techniques to support the analysis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48691" type="identity">
+      <class id="problem_complication"/>
+      <span end="34048" id="PMC4327187.nxml.gz-48692" start="34039">attrition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48693" type="identity">
+      <class id="probable_understanding"/>
+      <span end="34065" id="PMC4327187.nxml.gz-48694" start="34053">attributable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48695" type="identity">
+      <class id="future_research"/>
+      <span end="34753" id="PMC4327187.nxml.gz-48696" start="34738">future research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48697" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="34831" id="PMC4327187.nxml.gz-48698" start="34826">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-48699" type="identity">
+      <class id="problem_complication"/>
+      <span end="14245" id="PMC4327187.nxml.gz-48700" start="14236">attrition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-489" type="identity">
+      <class id="found" label="found"/>
+      <span end="7076" id="PMC4327187.nxml.gz-490" start="7071">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-495" type="identity">
+      <class id="found" label="found"/>
+      <span end="24845" id="PMC4327187.nxml.gz-496" start="24840">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-501" type="identity">
+      <class id="found" label="found"/>
+      <span end="29091" id="PMC4327187.nxml.gz-502" start="29086">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-503" type="identity">
+      <class id="found" label="found"/>
+      <span end="34005" id="PMC4327187.nxml.gz-504" start="34000">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-505" type="identity">
+      <class id="incomplete_evidence" label="found_to_be"/>
+      <span end="30475" id="PMC4327187.nxml.gz-506" start="30464">found to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-509" type="identity">
+      <class id="future" label="future"/>
+      <span end="1821" id="PMC4327187.nxml.gz-510" start="1815">future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-511" type="identity">
+      <class id="future" label="future"/>
+      <span end="7559" id="PMC4327187.nxml.gz-512" start="7553">Future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-513" type="identity">
+      <class id="future" label="future"/>
+      <span end="27946" id="PMC4327187.nxml.gz-514" start="27940">future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-515" type="identity">
+      <class id="future" label="future"/>
+      <span end="32474" id="PMC4327187.nxml.gz-516" start="32468">future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-517" type="identity">
+      <class id="future" label="future"/>
+      <span end="34578" id="PMC4327187.nxml.gz-518" start="34572">future</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-522" type="identity">
+      <class id="future...research" label="future...research"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-525" type="identity">
+      <class id="future_interventions" label="future_interventions"/>
+      <span end="33215" id="PMC4327187.nxml.gz-526" start="33195">Future interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-527" type="identity">
+      <class id="future_studies" label="future_studies"/>
+      <span end="34393" id="PMC4327187.nxml.gz-528" start="34379">future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-529" type="identity">
+      <class id="given" label="given"/>
+      <span end="30080" id="PMC4327187.nxml.gz-530" start="30075">given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-531" type="identity">
+      <class id="given" label="given"/>
+      <span end="31762" id="PMC4327187.nxml.gz-532" start="31757">given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-535" type="identity">
+      <class id="growing" label="growing"/>
+      <span end="5470" id="PMC4327187.nxml.gz-536" start="5463">growing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-537" type="identity">
+      <class id="growing_evidence" label="growing_evidence"/>
+      <span end="5037" id="PMC4327187.nxml.gz-538" start="5021">growing evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-539" type="identity">
+      <class id="has_shown" label="has_shown"/>
+      <span end="4023" id="PMC4327187.nxml.gz-540" start="4014">has shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-543" type="identity">
+      <class id="have_been" label="have_been"/>
+      <span end="27874" id="PMC4327187.nxml.gz-544" start="27865">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-547" type="identity">
+      <class id="here" label="here"/>
+      <span end="34644" id="PMC4327187.nxml.gz-548" start="34640">here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-549" type="identity">
+      <class id="how" label="how"/>
+      <span end="190" id="PMC4327187.nxml.gz-550" start="187">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-553" type="identity">
+      <class id="however" label="however"/>
+      <span end="18344" id="PMC4327187.nxml.gz-554" start="18337">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-555" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="27430" id="PMC4327187.nxml.gz-556" start="27423">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-557" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="29019" id="PMC4327187.nxml.gz-558" start="29012">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-559" type="identity">
+      <class id="however" label="however"/>
+      <span end="29536" id="PMC4327187.nxml.gz-560" start="29529">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-561" type="identity">
+      <class id="however" label="however"/>
+      <span end="31571" id="PMC4327187.nxml.gz-562" start="31564">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-565" type="identity">
+      <class id="hypothesis" label="hypothesis"/>
+      <span end="29296" id="PMC4327187.nxml.gz-566" start="29286">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-567" type="identity">
+      <class id="hypothesis" label="hypothesis"/>
+      <span end="29572" id="PMC4327187.nxml.gz-568" start="29562">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-57" type="identity">
+      <class id="as" label="as"/>
+      <span end="5553" id="PMC4327187.nxml.gz-58" start="5551">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-593" type="identity">
+      <class id="implications" label="implications"/>
+      <span end="31179" id="PMC4327187.nxml.gz-594" start="31167">implications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-595" type="identity">
+      <class id="implications" label="implications"/>
+      <span end="32294" id="PMC4327187.nxml.gz-596" start="32282">implications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-605" type="identity">
+      <class id="important" label="important"/>
+      <span end="29742" id="PMC4327187.nxml.gz-606" start="29733">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-607" type="identity">
+      <class id="important" label="important"/>
+      <span end="31967" id="PMC4327187.nxml.gz-608" start="31958">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-609" type="identity">
+      <class id="important" label="important"/>
+      <span end="32202" id="PMC4327187.nxml.gz-610" start="32193">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-611" type="identity">
+      <class id="important" label="important"/>
+      <span end="33711" id="PMC4327187.nxml.gz-612" start="33702">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-613" type="identity">
+      <class id="important" label="important"/>
+      <span end="34313" id="PMC4327187.nxml.gz-614" start="34304">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-619" type="identity">
+      <class id="important_consideration" label="in_particular"/>
+      <span end="2360" id="PMC4327187.nxml.gz-620" start="2347">In particular</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-623" type="identity">
+      <class id="indicated" label="indicated"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-627" type="identity">
+      <class id="influence" label="influence"/>
+      <span end="33655" id="PMC4327187.nxml.gz-628" start="33646">influence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-649" type="identity">
+      <class id="information" label="information"/>
+      <span end="30118" id="PMC4327187.nxml.gz-650" start="30107">information</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-65" type="identity">
+      <class id="as" label="as"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-659" type="identity">
+      <class id="difficult_task" label="lack_of"/>
+      <span end="34101" id="PMC4327187.nxml.gz-660" start="34094">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-661" type="identity">
+      <class id="less" label="less"/>
+      <span end="3965" id="PMC4327187.nxml.gz-662" start="3961">less</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-663" type="identity">
+      <class id="likely" label="likely"/>
+      <span end="30286" id="PMC4327187.nxml.gz-664" start="30280">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-665" type="identity">
+      <class id="limitations" label="limitations"/>
+      <span end="33723" id="PMC4327187.nxml.gz-666" start="33712">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-679" type="identity">
+      <class id="major" label="major"/>
+      <span end="32454" id="PMC4327187.nxml.gz-680" start="32449">major</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-683" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="7585" id="PMC4327187.nxml.gz-684" start="7582">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-685" type="identity">
+      <class id="may" label="may"/>
+      <span end="7953" id="PMC4327187.nxml.gz-686" start="7950">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-687" type="identity">
+      <class id="may_be" label="may_be"/>
+      <span end="33866" id="PMC4327187.nxml.gz-688" start="33860">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-725" type="identity">
+      <class id="models" label="models"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-731" type="identity">
+      <class id="future_work" label="future_work"/>
+      <span end="32999" id="PMC4327187.nxml.gz-732" start="32990">much more</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-733" type="identity">
+      <class id="need" label="need"/>
+      <span end="6255" id="PMC4327187.nxml.gz-734" start="6251">need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-735" type="identity">
+      <class id="need" label="need"/>
+      <span end="31851" id="PMC4327187.nxml.gz-736" start="31847">need</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-737" type="identity">
+      <class id="need_to_study" label="need_to_study"/>
+      <span end="1877" id="PMC4327187.nxml.gz-738" start="1864">need to study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-739" type="identity">
+      <class id="need_to_study" label="need_to_study"/>
+      <span end="34670" id="PMC4327187.nxml.gz-740" start="34657">need to study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-769" type="identity">
+      <class id="no_evidence" label="no_evidence"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-771" type="identity">
+      <class id="no_study" label="no_study"/>
+      <span end="32934" id="PMC4327187.nxml.gz-772" start="32926">no study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-781" type="identity">
+      <class id="noted" label="noted"/>
+      <span end="3244" id="PMC4327187.nxml.gz-782" start="3239">noted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-809" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="34176" id="PMC4327187.nxml.gz-810" start="34168">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-81" type="identity">
+      <class id="as" label="as"/>
+      <span end="15549" id="PMC4327187.nxml.gz-82" start="15547">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-811" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="34639" id="PMC4327187.nxml.gz-812" start="34631">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8130" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="146" id="PMC4327187.nxml.gz-8131" start="139">growing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8132" type="identity">
+      <class id="studies_are_needed" label="studies_are_needed"/>
+      <span end="183" id="PMC4327187.nxml.gz-8133" start="165">studies are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8134" type="identity">
+      <class id="this_study" label="this_study"/>
+      <span end="315" id="PMC4327187.nxml.gz-8135" start="305">This study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8136" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="2087" id="PMC4327187.nxml.gz-8137" start="2072">expanding field</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8138" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="2116" id="PMC4327187.nxml.gz-8139" start="2109">promise</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8140" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="6120" id="PMC4327187.nxml.gz-8141" start="6113">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8142" type="identity">
+      <class id="are_needed" label="are_needed"/>
+      <span end="6228" id="PMC4327187.nxml.gz-8143" start="6218">are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8144" type="identity">
+      <class id="full_unknown" label="full_unknown"/>
+      <span end="7148" id="PMC4327187.nxml.gz-8145" start="7140">have not</span>
+      <span end="7176" id="PMC4327187.nxml.gz-8146" start="7160">been established</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8147" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8149" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="27995" id="PMC4327187.nxml.gz-8150" start="27984">small-scale</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8151" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="29275" id="PMC4327187.nxml.gz-8152" start="29263">disconfirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8153" type="identity">
+      <class id="future_work" label="future_work"/>
+      <span end="31225" id="PMC4327187.nxml.gz-8154" start="31219">future</span>
+      <span end="31260" id="PMC4327187.nxml.gz-8155" start="31234">interventions and research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8156" type="identity">
+      <class id="future_work" label="other_studies"/>
+      <span end="32732" id="PMC4327187.nxml.gz-8157" start="32727">other</span>
+      <span end="32753" id="PMC4327187.nxml.gz-8158" start="32746">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8159" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="303" id="PMC4327187.nxml.gz-8160" start="112">Mobile health (mHealth) is growing rapidly, but more studies are needed on how to optimize programs, including optimal timing of messaging, dose of exposure, and value of interactive features</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8161" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="509" id="PMC4327187.nxml.gz-8162" start="305">This study evaluates final outcomes of text4baby (a text message service for pregnant and postpartum women) from a randomized trial performed in a population of pregnant female soldiers and family members</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8163" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="686" id="PMC4327187.nxml.gz-8164" start="522">The study aims were to evaluate (1) treatment effects and (2) dose-response effects of text4baby on behavioral outcomes compared to control (no text4baby) condition</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8165" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1239" id="PMC4327187.nxml.gz-8166" start="1144">We examined treatment effects and the effects of higher doses of text4baby messages on outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8167" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1599" id="PMC4327187.nxml.gz-8168" start="1328">The main finding was a significant effect of high exposure to text4baby on self-reported alcohol consumption postpartum (OR 0.212, 95% CI 0.046-0.973, P =.046), as measured by the question “Since you found out about your pregnancy, have you consumed alcoholic beverages?”</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8169" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1688" id="PMC4327187.nxml.gz-8170" start="1600">The text4baby participants also reported lower quantities of alcohol consumed postpartum</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-817" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="27494" id="PMC4327187.nxml.gz-818" start="27490">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8171" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1770" id="PMC4327187.nxml.gz-8172" start="1703">Studies of text4baby have helped to build the mHealth evidence base</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8173" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1922" id="PMC4327187.nxml.gz-8174" start="1772">The effects of text4baby offer lessons for future scalable mHealth programs and suggest the need to study dose-response effects of these interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8175" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2230" id="PMC4327187.nxml.gz-8176" start="1938">Mobile health (mHealth), the use of mobile phones as a tool for health care treatment and public health behavior change, is a rapidly expanding field that has significant promise to improve public health and increase the effectiveness of disease prevention and health promotion programs [1-3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8177" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2345" id="PMC4327187.nxml.gz-8178" start="2232">Mobile phones are poised to be powerful tools to promote health in a number of domains and settings worldwide [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8179" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2536" id="PMC4327187.nxml.gz-8180" start="2347">In particular, mHealth programs have proven effective in drug adherence, as patient reminder systems, and in some areas of areas of chronic disease management, prevention, and control [5,6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8181" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2959" id="PMC4327187.nxml.gz-8182" start="2882">Some of the best mHealth evidence comes from smoking cessation studies [9,10]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8183" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3225" id="PMC4327187.nxml.gz-8184" start="2961">Free and colleagues [11] systematically reviewed the evidence on mHealth interventions and found that antiretroviral treatment (ART) and smoking cessation interventions had sufficient evidence of effectiveness to be considered for inclusion in health care services</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8185" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3424" id="PMC4327187.nxml.gz-8186" start="3227">The authors noted that the ART and smoking cessation studies exhibited no evidence of bias and had significant effects on reduced viral load (ART) and biochemically validated smoking cessation [11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8187" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3751" id="PMC4327187.nxml.gz-8188" start="3426">Abroms and colleagues designed and evaluated the text2quit intervention, which delivers text messages using a tailored feedback approach to promote smoking cessation, and found that 11.1% of former smokers who participated in the intervention remained abstinent after 6 months compared to 5.0% among the comparison group [12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8189" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3908" id="PMC4327187.nxml.gz-8190" start="3753">Whitaker and colleagues [13] specifically reviewed mobile phone-based cessation interventions and found them to be effective in long-term quitting outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-819" type="identity">
+      <class id="only" label="only"/>
+      <span end="34204" id="PMC4327187.nxml.gz-820" start="34200">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8191" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4099" id="PMC4327187.nxml.gz-8192" start="3910">Although the evidence from mobile phone studies is less conclusive in these areas, preliminary research has shown promise in delivering healthy eating and active living (HEAL) interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8193" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4291" id="PMC4327187.nxml.gz-8194" start="4101">Patrick and colleagues [14] found that, compared to control, short message service (SMS) text messaging and multimedia message service (MMS) participants achieved 1.97 kg greater weight loss</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8195" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4398" id="PMC4327187.nxml.gz-8196" start="4293">A follow-up study among overweight men also found higher weight loss using Internet and mobile phone [15]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8197" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4622" id="PMC4327187.nxml.gz-8198" start="4400">Hurling and colleagues [16] found that an Internet and mHealth intervention among overweight adults that included reminders produced more than 2 hours more physical activity (PA) per week compared to adults with no access.</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8199" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4726" id="PMC4327187.nxml.gz-8200" start="4623">Joo and colleagues [17] found that weekly text messages about diet and PA behavior promoted weight loss</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8201" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4882" id="PMC4327187.nxml.gz-8202" start="4728">Additionally, there have been studies that used combinations of mobile phone and other new technologies for weight control and found positive effects [18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8203" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="5210" id="PMC4327187.nxml.gz-8204" start="4998">Additionally, there is growing evidence that mHealth programs are effective in promoting diabetes self-management [20], as treatment adherence tools, and as reminder systems for health behavior and treatment [11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8205" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="5423" id="PMC4327187.nxml.gz-8206" start="5212">Although the evidence for use of mobile phones beyond these areas is still emerging, the overall trend is that they can be effective tools for health promotion, disease prevention, and as adjunct treatment tools</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8207" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="5549" id="PMC4327187.nxml.gz-8208" start="5425">Interventions using mobile phones are growing worldwide, and some are achieving significant scale and population-level reach</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8209" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="5774" id="PMC4327187.nxml.gz-8210" start="5551">As reported by the United Nations Foundation, Project Masiluleke in South Africa reaches 1 million people each day via mobile phone with human immunodeficiency virus (HIV) prevention, testing, and treatment information [21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8211" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="6233" id="PMC4327187.nxml.gz-8212" start="5967">Although the literature from rigorous studies of smoking cessation, treatment adherence, and some other chronic disease prevention and management studies show that mHealth programs can promote behavior change, more randomized controlled trials (RCTs) are needed [11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8213" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="6463" id="PMC4327187.nxml.gz-8214" start="6235">There is also a need for more studies on what specific features and approaches in mHealth programs are most effective, including studies on the optimal timing of messaging, dose of exposure, and value of interactive feature [23]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8215" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="7184" id="PMC4327187.nxml.gz-8216" start="7026">Recent studies of the text4baby program have found that it changes attitudes and beliefs, but effects on behavior have not previously been established [23,26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8217" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="7297" id="PMC4327187.nxml.gz-8218" start="7186">The text4baby program also offers an example of using behavioral theory to the design mHealth interventions [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8219" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="7422" id="PMC4327187.nxml.gz-8220" start="7299">The program applies and adapts Social Cognitive Theory, the Health Belief Model, and Diffusion of Innovation theory [27-29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8221" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="7689" id="PMC4327187.nxml.gz-8222" start="7553">Future mHealth interventions may build on these lessons to engage audiences in health programs through multiple digital channels [31,32]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8223" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="8000" id="PMC4327187.nxml.gz-8224" start="7844">Female service members and spouses of active duty soldiers are a group exposed to multiple stressors that may increase health risks during pregnancy [33-35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8225" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="8261" id="PMC4327187.nxml.gz-8226" start="8002">These soldiers and family members could benefit significantly from mHealth programs such as text4baby because it is a free resource and is highly portable, permitting families to receive these messages anywhere in the world where text messages can be received</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8227" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="8398" id="PMC4327187.nxml.gz-8228" start="8263">The present study evaluates the final outcomes of text4baby from a randomized trial of pregnant female soldiers and family members [23]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8229" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="8783" id="PMC4327187.nxml.gz-8230" start="8400">The study tested 2 primary hypotheses: (1) text4baby group participants would demonstrate increased health-promoting behaviors and decreased risk behaviors compared to control at postpartum follow-up and (2) text4baby participants would demonstrate a dose-response effect of receiving the text messages in which higher doses of text messages would produce greater behavioral outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-823" type="identity">
+      <class id="optimal" label="optimal"/>
+      <span end="230" id="PMC4327187.nxml.gz-824" start="223">optimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8233" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="14142" id="PMC4327187.nxml.gz-8234" start="13924">Previous interventions to promote reproductive health care utilization among low- and middle-income women suggested an approximate 12% effect (intervention vs control) of such programs after a 12-month time period [38]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8235" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="15744" id="PMC4327187.nxml.gz-8236" start="15518">Also, intervention exposure, as measured by estimated number of antepartum messages delivered and number of antepartum days enrolled in the messaging campaign, were assessed for all study participants in the intervention group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8237" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17817" id="PMC4327187.nxml.gz-8238" start="17599">Therefore, a multiple imputation model was constructed to account for missing race and marital status through use of a logit function with parity, age, and treatment status as predictors of both race and marital status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8239" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18443" id="PMC4327187.nxml.gz-8240" start="18337">However, GEE models using the KAB factor did not show significant results and have not included those data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8245" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20931" id="PMC4327187.nxml.gz-8246" start="20709">The comparison revealed a larger, statistically significant percent reporting smoking in the last 30 days: 15.3% (95% CI 12.08-18.58) in the control vs 9.6% (95% CI 6.95-12.32, P= .048) in the treatment group, respectively</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8249" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21643" id="PMC4327187.nxml.gz-8250" start="21400">We identified the week of pregnancy in which participants enrolled using the assumption of a 40-week gestation period and subtracting the total number of days between the participant’s date of enrollment and due date recorded by the study site</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-825" type="identity">
+      <class id="optimal" label="optimal"/>
+      <span end="6386" id="PMC4327187.nxml.gz-826" start="6379">optimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8253" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24818" id="PMC4327187.nxml.gz-8254" start="24541">In these models, we examined the effects of high vs low dosage of text4baby, as measured by a median split variable in which the top 50% of the distribution of text message exposure among text4baby intervention participants was compared to the bottom half among that same group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8255" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="25079" id="PMC4327187.nxml.gz-8256" start="24820">In these models, we found a significant effect of text4baby on self-reported alcohol consumption postpartum (OR 0.212, 95% CI 0.046-0.973, P =.046), as measured by the question “Since you found out about your pregnancy, have you consumed alcoholic beverages?”</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8263" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27934" id="PMC4327187.nxml.gz-8264" start="27850">To date, there have been very few large-scale mHealth programs shown to be effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8265" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28086" id="PMC4327187.nxml.gz-8266" start="27936">The future of mHealth will include going beyond small-scale pilots and trials and reaching population-level effects through large-scale implementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8267" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28260" id="PMC4327187.nxml.gz-8268" start="28138">First, it provides a randomized trial of text4baby with a large sample over the full course of the prenatal texting module</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8269" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28395" id="PMC4327187.nxml.gz-8270" start="28262">The Madigan study was ambitious in that it followed a baseline sample of nearly 1000 women for a total study period of nearly 2 years</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-827" type="identity">
+      <class id="optimal" label="optimal"/>
+      <span end="31873" id="PMC4327187.nxml.gz-828" start="31866">optimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8271" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28565" id="PMC4327187.nxml.gz-8272" start="28397">Second, it provides one of the most comprehensive studies to date evaluating the effect of mHealth on the health of pregnant military female soldiers and family members</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8273" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28783" id="PMC4327187.nxml.gz-8274" start="28567">As noted, military women’s health is an understudied topic and the multiple stressors that they face compared to civilian women suggest that it deserves greater attention from mHealth and other health studies [34,41]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8275" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28873" id="PMC4327187.nxml.gz-8276" start="28785">Third, the study demonstrates a behavioral effect of text4baby among high-exposure users</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8277" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29010" id="PMC4327187.nxml.gz-8278" start="28875">Previous studies demonstrated short-term effects on KAB among participants, including the initial outcomes of the Madigan study [23,26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8279" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29081" id="PMC4327187.nxml.gz-8280" start="29012">However, until these results, no behavioral effects had been observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8281" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29244" id="PMC4327187.nxml.gz-8282" start="29083">We found that among the subgroup of high-exposure participants, text4baby had a positive effect on reducing alcohol use behavior of pregnant and postpartum women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8283" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29351" id="PMC4327187.nxml.gz-8284" start="29246">Specifically, we disconfirmed our first hypothesis that there was no direct treatment effect of text4baby</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8285" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29527" id="PMC4327187.nxml.gz-8286" start="29353">The GEE models to estimate treatment effects on measured outcomes did not demonstrate any significant postpartum text4baby participation effects on health-promoting behaviors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8287" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29719" id="PMC4327187.nxml.gz-8288" start="29529">However, we confirmed our second hypothesis that there was a dose-response effect of text4baby, with higher levels of text message exposure predicting lower self-reported alcohol consumption</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8289" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29900" id="PMC4327187.nxml.gz-8290" start="29721">This was an important focus of text4baby messages, including both recommendations not to drink and also warnings about the health risks of fetal alcohol syndrome for unborn babies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-829" type="identity">
+      <class id="optimal" label="optimal"/>
+      <span end="32411" id="PMC4327187.nxml.gz-830" start="32404">optimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8291" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29984" id="PMC4327187.nxml.gz-8292" start="29902">Our results show that dosage was a predictor of lower alcohol consumption response</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8293" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30345" id="PMC4327187.nxml.gz-8294" start="29986">Although self-reported alcohol consumption would be expected to be lower after pregnancy given social cues and available information about health risks for all participants, the dose-response effect among text4baby participants was pronounced, as high-dose participants were more than twice as likely to abstain from drinking compared to low-dose participants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8295" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30508" id="PMC4327187.nxml.gz-8296" start="30347">The brief, text-based intervention format of text4baby is consistent with other brief prenatal alcohol interventions found to be effective in recent studies [42]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8297" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30627" id="PMC4327187.nxml.gz-8298" start="30510">Moreover, descriptive analysis showed that the quantity of drinking was lower among text4baby participants postpartum</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8299" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30962" id="PMC4327187.nxml.gz-8300" start="30779">Although this is not a large number of total messages, it is worth noting that they reinforce information women are already receiving from other sources regarding avoiding alcohol use</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8301" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31147" id="PMC4327187.nxml.gz-8302" start="30964">These data suggest that dosage of texts received regarding risks of alcohol use, which included messages regarding risks due to alcohol while breastfeeding, had a cumulative effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8303" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31260" id="PMC4327187.nxml.gz-8304" start="31149">There are several implications of the Madigan study and text4baby for future mHealth interventions and research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8305" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8307" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31469" id="PMC4327187.nxml.gz-8308" start="31328">The program addresses a wide range of health topics, as compared to other studies that focused on 1 or a few closely related health behaviors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8309" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31703" id="PMC4327187.nxml.gz-8310" start="31564">However, initial short-term findings demonstrated multiple KAB effects [23], and this study demonstrated a behavioral effect on alcohol use</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8311" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31834" id="PMC4327187.nxml.gz-8312" start="31705">Broad, low-touch interventions can be effective and given low participant burden should be considered as scalable program options</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8313" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="31950" id="PMC4327187.nxml.gz-8314" start="31836">There is a need to understand optimal levels of dosage and other factors that affect mHealth intervention outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8315" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="32063" id="PMC4327187.nxml.gz-8316" start="31952">It is important to recognize that many individuals who use text messages receive large numbers of texts per day</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8317" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="32229" id="PMC4327187.nxml.gz-8318" start="32065">We did not have measures of total texts or potentially competing messages received by participants in this study, and those are important topics for future research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8319" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="32384" id="PMC4327187.nxml.gz-8320" start="32231">Delivering high doses of mHealth interventions has implications in terms of cost, participant burden, and potential “wear out” effects (ie, overexposure)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8321" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="32527" id="PMC4327187.nxml.gz-8322" start="32386">Thus, identifying optimal mHealth dosages could have potential major benefits for future programs in terms of cost effectiveness and outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8323" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="32657" id="PMC4327187.nxml.gz-8324" start="32529">Although this study does not indicate an optimal dose, it suggests the need to understand dosage thresholds and delivery methods</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8325" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="32753" id="PMC4327187.nxml.gz-8326" start="32659">Future research should include more discrete and refined dosage and other optimization studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8327" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="32952" id="PMC4327187.nxml.gz-8328" start="32755">For example, studies have examined point-of-decision prompts to increase exercise and nutrition [43], and use of mobile technologies for health interventions [11,44], but no study has combined both</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-833" type="identity">
+      <class id="optimal" label="optimal"/>
+      <span end="33361" id="PMC4327187.nxml.gz-834" start="33354">optimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8331" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="33193" id="PMC4327187.nxml.gz-8332" start="32954">Text messaging interventions can do much more than simply deliver text reminders—they can deliver right into the hands of highly targeted population the public service announcements that in years past would have appeared in mass media [45]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8333" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="33379" id="PMC4327187.nxml.gz-8334" start="33195">Future interventions can tailor text message and other mHealth message content (eg, through social media or apps) both to a specific target audience and to an optimal time for delivery</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8335" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="33688" id="PMC4327187.nxml.gz-8336" start="33381">By getting messages to a specific population group when they are at risk of engaging in unhealthy behavior (eg, teens watching TV, being exposed to junk food advertising, being sedentary and snacking at times such as after school or on weekends), interventions can influence them at the optimal time [46,47]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8337" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="33737" id="PMC4327187.nxml.gz-8338" start="33690">There are 2 important limitations of this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8339" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="33879" id="PMC4327187.nxml.gz-8340" start="33837">As a result, the study may be underpowered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8341" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34025" id="PMC4327187.nxml.gz-8342" start="33881">Despite this fact, the overall direction of results was consistent with previous text4baby studies and additionally we found a behavioral effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8343" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34146" id="PMC4327187.nxml.gz-8344" start="34027">Much of the attrition was attributable to redeployments and, thus, lack of access to participants at the Madigan clinic</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8345" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34286" id="PMC4327187.nxml.gz-8346" start="34148">Second, although we observed dosage effects, we are only able to conclude that higher levels of text messages had an effect on alcohol use</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8347" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34393" id="PMC4327187.nxml.gz-8348" start="34288">This leaves the important question of exact dosage and timing of delivery requirements for future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8349" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34474" id="PMC4327187.nxml.gz-8350" start="34395">Studies of text4baby have helped establish and expand the mHealth evidence base</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-835" type="identity">
+      <class id="optimal" label="optimal"/>
+      <span end="33675" id="PMC4327187.nxml.gz-836" start="33668">optimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8351" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34603" id="PMC4327187.nxml.gz-8352" start="34476">The demonstrated KAB and behavioral effects of this broad, low-touch program offers lessons for future scalable mHealth efforts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8353" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34753" id="PMC4327187.nxml.gz-8354" start="34605">The dose-response effects observed here suggest the need to study methods to evaluate exposure and achieve optimal dosage effects in future research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-8355" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="34944" id="PMC4327187.nxml.gz-8356" start="34755">Program dosage and optimization research should be included to address other features of the mobile phone, such as ubiquity, constant use, and potential to act as a point of decision prompt</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-837" type="identity">
+      <class id="optimal" label="optimal"/>
+      <span end="34719" id="PMC4327187.nxml.gz-838" start="34712">optimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-85" type="identity">
+      <class id="as" label="as"/>
+      <span end="17774" id="PMC4327187.nxml.gz-86" start="17772">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-859" type="identity">
+      <class id="other" label="other"/>
+      <span end="31900" id="PMC4327187.nxml.gz-860" start="31895">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-867" type="identity">
+      <class id="other_studies" label="other_studies"/>
+      <span end="31409" id="PMC4327187.nxml.gz-868" start="31396">other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-879" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="32346" id="PMC4327187.nxml.gz-880" start="32337">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-881" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="32448" id="PMC4327187.nxml.gz-882" start="32439">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-883" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="34907" id="PMC4327187.nxml.gz-884" start="34898">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-887" type="identity">
+      <class id="potentially" label="potentially"/>
+      <span end="32119" id="PMC4327187.nxml.gz-888" start="32108">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-889" type="identity">
+      <class id="predictor" label="predictor"/>
+      <span end="29946" id="PMC4327187.nxml.gz-890" start="29937">predictor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-89" type="identity">
+      <class id="as" label="as"/>
+      <span end="24620" id="PMC4327187.nxml.gz-90" start="24618">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-891" type="identity">
+      <class id="predictors" label="predictors"/>
+      <span end="17785" id="PMC4327187.nxml.gz-892" start="17775">predictors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-895" type="identity">
+      <class id="preliminary" label="preliminary"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-897" type="identity">
+      <class id="present_study" label="present_study"/>
+      <span end="8280" id="PMC4327187.nxml.gz-898" start="8267">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-899" type="identity">
+      <class id="previous" label="previous"/>
+      <span end="13932" id="PMC4327187.nxml.gz-900" start="13924">Previous</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-901" type="identity">
+      <class id="previous" label="previous"/>
+      <span end="33961" id="PMC4327187.nxml.gz-902" start="33953">previous</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-903" type="identity">
+      <class id="previous...studies" label="previous...studies"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-906" type="identity">
+      <class id="previously" label="previously"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-91" type="identity">
+      <class id="as" label="as"/>
+      <span end="24971" id="PMC4327187.nxml.gz-92" start="24969">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-914" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="4031" id="PMC4327187.nxml.gz-915" start="4024">promise</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-916" type="identity">
+      <class id="pronounced" label="pronounced"/>
+      <span end="30228" id="PMC4327187.nxml.gz-917" start="30218">pronounced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-922" type="identity">
+      <class id="public_health" label="public_health"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-924" type="identity">
+      <class id="public_health" label="public_health"/>
+      <span end="2141" id="PMC4327187.nxml.gz-925" start="2128">public health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-932" type="identity">
+      <class id="question" label="question"/>
+      <span end="34322" id="PMC4327187.nxml.gz-933" start="34314">question</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-940" type="identity">
+      <class id="recent_studies" label="recent_studies"/>
+      <span end="7040" id="PMC4327187.nxml.gz-941" start="7026">Recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-942" type="identity">
+      <class id="recent_studies" label="recent_studies"/>
+      <span end="30503" id="PMC4327187.nxml.gz-943" start="30489">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-948" type="identity">
+      <class id="reinforce" label="reinforce"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-95" type="identity">
+      <class id="as" label="as"/>
+      <span end="30232" id="PMC4327187.nxml.gz-96" start="30230">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-956" type="identity">
+      <class id="related" label="related"/>
+      <span end="31452" id="PMC4327187.nxml.gz-957" start="31445">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-962" type="identity">
+      <class id="remained" label="remained"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-964" type="identity">
+      <class id="reported" label="reported"/>
+      <span end="1640" id="PMC4327187.nxml.gz-965" start="1632">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-966" type="identity">
+      <class id="reported" label="reported"/>
+      <span end="5562" id="PMC4327187.nxml.gz-967" start="5554">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-968" type="identity">
+      <class id="reported" label="reported"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-970" type="identity">
+      <class id="reported" label="reported"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-972" type="identity">
+      <class id="reported" label="reported"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-974" type="identity">
+      <class id="reported" label="reported"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-976" type="identity">
+      <class id="reported" label="reported"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-978" type="identity">
+      <class id="reported" label="reported"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-988" type="identity">
+      <class id="requirements" label="requirements"/>
+      <span end="34374" id="PMC4327187.nxml.gz-989" start="34362">requirements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-99" type="identity">
+      <class id="as" label="as"/>
+      <span end="31383" id="PMC4327187.nxml.gz-100" start="31381">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-990" type="identity">
+      <class id="revealed" label="revealed"/>
+      <span end="20732" id="PMC4327187.nxml.gz-991" start="20724">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-994" type="identity">
+      <class id="should" label="should"/>
+      <span end="32681" id="PMC4327187.nxml.gz-995" start="32675">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-996" type="identity">
+      <class id="should_be" label="should_be"/>
+      <span end="31795" id="PMC4327187.nxml.gz-997" start="31786">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC4327187.nxml.gz-998" type="identity">
+      <class id="should_be" label="should_be"/>
+      <span end="34805" id="PMC4327187.nxml.gz-999" start="34796">should be</span>
+    </annotation>
+  </document>
+</knowtator-project>

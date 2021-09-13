@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3470091.nxml.gz" text-file="PMC3470091.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="137" id="PMC3470091.nxml.gz-1" start="0">The Efficacy and Safety of a High Dose of Vitamin D in Mothers with Gestational Diabetes Mellitus: A Randomized Controlled Clinical Trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-10" type="identity">
+      <class id="whereas" label=""/>
+      <span end="1162" id="PMC3470091.nxml.gz-10" start="1155">whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-100" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="10229" id="PMC3470091.nxml.gz-100" start="10222">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-101" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-102" type="identity">
+      <class id="whereas" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-103" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-104" type="identity">
+      <class id="did_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-105" type="identity">
+      <class id="reveal" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-106" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-107" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-108" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-109" type="identity">
+      <class id="difference" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-11" type="identity">
+      <class id="showed" label=""/>
+      <span end="1176" id="PMC3470091.nxml.gz-11" start="1170">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-110" type="identity">
+      <class id="whereas" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-111" type="identity">
+      <class id="found" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-112" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="13379" id="PMC3470091.nxml.gz-112" start="13166">If vitamin D deficiency is defined as serum concentration of 25(OH) vitamin D3 lower than 35 nmol/l,12about 80% of the mothers with GDM in the present study were suffering to some degrees from vitamin D deficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-113" type="identity">
+      <class id="defined" label=""/>
+      <span end="13200" id="PMC3470091.nxml.gz-113" start="13193">defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-114" type="identity">
+      <class id="about" label=""/>
+      <span end="13273" id="PMC3470091.nxml.gz-114" start="13268">about</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-115" type="identity">
+      <class id="present_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-116" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-117" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-118" type="identity">
+      <class id="indicates" label=""/>
+      <span end="13542" id="PMC3470091.nxml.gz-118" start="13533">indicates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-119" type="identity">
+      <class id="this" label=""/>
+      <span end="13563" id="PMC3470091.nxml.gz-119" start="13559">this</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-12" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-120" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-121" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-122" type="identity">
+      <class id="valuable" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-123" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-124" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-125" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="13823" id="PMC3470091.nxml.gz-125" start="13812">Considering</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-126" type="identity">
+      <class id="this" label=""/>
+      <span end="13962" id="PMC3470091.nxml.gz-126" start="13958">this</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-127" type="identity">
+      <class id="seems" label=""/>
+      <span end="14017" id="PMC3470091.nxml.gz-127" start="14012">seems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-128" type="identity">
+      <class id="safe" label=""/>
+      <span end="14028" id="PMC3470091.nxml.gz-128" start="14024">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-129" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14273" id="PMC3470091.nxml.gz-129" start="14060">In this study, the median concentration of the serum vitamin D in the IG raised from 24.25 to 62.10 nmol/l, which is in line with a recent survey carried out by Restorff et al.26on 33 rheumatoid arthritic patients</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-13" type="identity">
+      <class id="some" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-130" type="identity">
+      <class id="this_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-131" type="identity">
+      <class id="in_line_with" label=""/>
+      <span end="14189" id="PMC3470091.nxml.gz-131" start="14177">in line with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-132" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14467" id="PMC3470091.nxml.gz-132" start="14275">They showed that supplementation with an oral dose of 300,000 IU of vitamin D and 500-1000 mg daily of calcium led to an increase in the concentration of serum vitamin D from 15 to 81.4 nmol/l</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-133" type="identity">
+      <class id="showed" label=""/>
+      <span end="14286" id="PMC3470091.nxml.gz-133" start="14280">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-134" type="identity">
+      <class id="led_to" label=""/>
+      <span end="14392" id="PMC3470091.nxml.gz-134" start="14386">led to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-135" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14583" id="PMC3470091.nxml.gz-135" start="14469">Moreover, similar to that find by Restroff et al.26serum PTH of the IG decreased significantly by 22% in our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-136" type="identity">
+      <class id="similar_to" label=""/>
+      <span end="14489" id="PMC3470091.nxml.gz-136" start="14479">similar to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-137" type="identity">
+      <class id="our_study" label=""/>
+      <span end="14583" id="PMC3470091.nxml.gz-137" start="14574">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-138" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="14720" id="PMC3470091.nxml.gz-138" start="14585">The mechanism of PTH reduction is that an increased serum vitamin D leads to a decrease in PTH gene translation, and thus PTH secretion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-139" type="identity">
+      <class id="leads" label=""/>
+      <span end="14658" id="PMC3470091.nxml.gz-139" start="14653">leads</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-14" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1739" id="PMC3470091.nxml.gz-14" start="1619">The single 300,000 IM dose of vitamin D is regarded as an effective and safe to promptly improve vitamin D status in GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-140" type="identity">
+      <class id="thus" label=""/>
+      <span end="14706" id="PMC3470091.nxml.gz-140" start="14702">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-141" type="identity">
+      <class id="on_the_other_hand" label=""/>
+      <span end="14739" id="PMC3470091.nxml.gz-141" start="14722">On the other hand</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-142" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-143" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-144" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-145" type="identity">
+      <class id="present_study" label=""/>
+      <span end="15061" id="PMC3470091.nxml.gz-145" start="15048">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-146" type="identity">
+      <class id="similar_to" label=""/>
+      <span end="15075" id="PMC3470091.nxml.gz-146" start="15065">similar to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-147" type="identity">
+      <class id="reported" label=""/>
+      <span end="15089" id="PMC3470091.nxml.gz-147" start="15081">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-148" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="15110" id="PMC3470091.nxml.gz-148" start="15097">other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-149" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-15" type="identity">
+      <class id="regarded" label=""/>
+      <span end="1670" id="PMC3470091.nxml.gz-15" start="1662">regarded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-150" type="identity">
+      <class id="leads" label=""/>
+      <span end="15385" id="PMC3470091.nxml.gz-150" start="15380">leads</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-151" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-152" type="identity">
+      <class id="previous...studies" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-154" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="15834" id="PMC3470091.nxml.gz-154" start="15626">Previous studies,17,27of intramuscular injection of 600,000 unit of vitamin D was associated with significant increases of serum vitamin D at 1.5, 3, and 6 months, but not significant at 9 and 12 months later</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-155" type="identity">
+      <class id="associated" label=""/>
+      <span end="15718" id="PMC3470091.nxml.gz-155" start="15708">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-156" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="15797" id="PMC3470091.nxml.gz-156" start="15790">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-157" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16023" id="PMC3470091.nxml.gz-157" start="15836">In these studies,17,27as well as ours, serum calcium level considerably increased, but contrary to ours, they reported abnormal calcium level in 7% to 12% of the patients during the study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-158" type="identity">
+      <class id="these_studies" label=""/>
+      <span end="15852" id="PMC3470091.nxml.gz-158" start="15839">these studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-159" type="identity">
+      <class id="considerably" label=""/>
+      <span end="15907" id="PMC3470091.nxml.gz-159" start="15895">considerably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-16" type="identity">
+      <class id="as" label=""/>
+      <span end="1673" id="PMC3470091.nxml.gz-16" start="1671">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-160" type="identity">
+      <class id="but" label=""/>
+      <span end="15922" id="PMC3470091.nxml.gz-160" start="15919">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-161" type="identity">
+      <class id="contrary" label=""/>
+      <span end="15931" id="PMC3470091.nxml.gz-161" start="15923">contrary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-162" type="identity">
+      <class id="reported" label=""/>
+      <span end="15954" id="PMC3470091.nxml.gz-162" start="15946">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-163" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16274" id="PMC3470091.nxml.gz-163" start="16025">In another study,15administration of 600,000 IU of vitamin D was associated with a significant increase in serum vitamin D, a significant decrease in serum PTH, and hypercalcemia occurring in 4% of the subjects during 4 and 12 months of intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-164" type="identity">
+      <class id="another_study" label=""/>
+      <span end="16041" id="PMC3470091.nxml.gz-164" start="16028">another study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-165" type="identity">
+      <class id="associated" label=""/>
+      <span end="16100" id="PMC3470091.nxml.gz-165" start="16090">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-166" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-167" type="identity">
+      <class id="our_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-168" type="identity">
+      <class id="observed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-169" type="identity">
+      <class id="indicating" label=""/>
+      <span end="16330" id="PMC3470091.nxml.gz-169" start="16320">indicating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-17" type="identity">
+      <class id="effective" label=""/>
+      <span end="1686" id="PMC3470091.nxml.gz-17" start="1677">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-170" type="identity">
+      <class id="safety" label=""/>
+      <span end="16341" id="PMC3470091.nxml.gz-170" start="16335">safety</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-171" type="identity">
+      <class id="this" label=""/>
+      <span end="16364" id="PMC3470091.nxml.gz-171" start="16360">this</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-172" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-173" type="identity">
+      <class id="indicated" label=""/>
+      <span end="16419" id="PMC3470091.nxml.gz-173" start="16410">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-174" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16608" id="PMC3470091.nxml.gz-174" start="16521">The study was evaluated as more economic and effective in terms of patients’ compliance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-175" type="identity">
+      <class id="evaluated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-176" type="identity">
+      <class id="effective" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-177" type="identity">
+      <class id="our_study" label=""/>
+      <span end="16619" id="PMC3470091.nxml.gz-177" start="16610">Our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-178" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16836" id="PMC3470091.nxml.gz-178" start="16610">Our study revealed that a single high dose injection of vitamin D is more economic and effective particularly in lactating mothers who refrain from consuming oral daily doses due to postpartum care, unwillingness or depression</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-179" type="identity">
+      <class id="revealed" label=""/>
+      <span end="16628" id="PMC3470091.nxml.gz-179" start="16620">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-18" type="identity">
+      <class id="safe" label=""/>
+      <span end="1695" id="PMC3470091.nxml.gz-18" start="1691">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-180" type="identity">
+      <class id="effective" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-181" type="identity">
+      <class id="particularly" label=""/>
+      <span end="16719" id="PMC3470091.nxml.gz-181" start="16707">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-182" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17023" id="PMC3470091.nxml.gz-182" start="16838">Witham et al.24showed that single doses of 100,000 and 200,000 IU of vitamin D in diabetic type II patients increased serum vitamin D from 41 to 63 and from 48 to79 nmol./l respectively</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-183" type="identity">
+      <class id="showed" label=""/>
+      <span end="16859" id="PMC3470091.nxml.gz-183" start="16853">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-184" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17109" id="PMC3470091.nxml.gz-184" start="17025">However, they showed that the decrease of PTH did not reach statistical significance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-185" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="17032" id="PMC3470091.nxml.gz-185" start="17025">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-186" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-187" type="identity">
+      <class id="showed" label=""/>
+      <span end="17045" id="PMC3470091.nxml.gz-187" start="17039">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-188" type="identity">
+      <class id="did_not" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-189" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17360" id="PMC3470091.nxml.gz-189" start="17111">Moreover, another study,18showed that a single dose of 200,000 IU of vitamin D in the healthy youths was associated with a peak in vitamin D concentration after two weeks of treatment, but lower than that of our study at three months after treatment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-19" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2106" id="PMC3470091.nxml.gz-19" start="1962">These changes occur according to the needs for the mineralization of the fetus bones as well as adequate secretion of vitamin D in mother’s milk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-190" type="identity">
+      <class id="another_study" label=""/>
+      <span end="17134" id="PMC3470091.nxml.gz-190" start="17121">another study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-191" type="identity">
+      <class id="showed" label=""/>
+      <span end="17143" id="PMC3470091.nxml.gz-191" start="17137">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-192" type="identity">
+      <class id="associated" label=""/>
+      <span end="17226" id="PMC3470091.nxml.gz-192" start="17216">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-193" type="identity">
+      <class id="but" label=""/>
+      <span end="17299" id="PMC3470091.nxml.gz-193" start="17296">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-194" type="identity">
+      <class id="our_study" label=""/>
+      <span end="17328" id="PMC3470091.nxml.gz-194" start="17319">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-195" type="identity">
+      <class id="therefore" label=""/>
+      <span end="17371" id="PMC3470091.nxml.gz-195" start="17362">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-196" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17540" id="PMC3470091.nxml.gz-196" start="17362">Therefore, a single dose of 300,000 IU dose employed in this study is of higher effectiveness compared with an oral dose, especially in people suffering from vitamin D deficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-197" type="identity">
+      <class id="effectiveness" label=""/>
+      <span end="17455" id="PMC3470091.nxml.gz-197" start="17442">effectiveness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-198" type="identity">
+      <class id="our_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-199" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-2" type="identity">
+      <class id="safety" label=""/>
+      <span end="23" id="PMC3470091.nxml.gz-2" start="17">Safety</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-20" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="1994" id="PMC3470091.nxml.gz-20" start="1982">according to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-200" type="identity">
+      <class id="similar_to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-201" type="identity">
+      <class id="however" label=""/>
+      <span end="17676" id="PMC3470091.nxml.gz-201" start="17669">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-202" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17848" id="PMC3470091.nxml.gz-202" start="17669">However, our study is limited for not measuring urine calcium and creatinin, since these variables could confirm the presence of hypervitaminosis more exactly and more confidently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-203" type="identity">
+      <class id="our_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-204" type="identity">
+      <class id="limited" label=""/>
+      <span end="17698" id="PMC3470091.nxml.gz-204" start="17691">limited</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-205" type="identity">
+      <class id="since" label=""/>
+      <span end="17751" id="PMC3470091.nxml.gz-205" start="17746">since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-206" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-207" type="identity">
+      <class id="could" label=""/>
+      <span end="17773" id="PMC3470091.nxml.gz-207" start="17768">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-208" type="identity">
+      <class id="confirm" label=""/>
+      <span end="17781" id="PMC3470091.nxml.gz-208" start="17774">confirm</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-209" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18131" id="PMC3470091.nxml.gz-209" start="17966">Further studies are needed to evaluate the effect of postpartum supplementation of vitamin D on antirachitic factor of the mother’s milk, and infant’s health indexes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-21" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2276" id="PMC3470091.nxml.gz-21" start="2109">Due to rapid fetal development, particularly bone calcification at the terminal stages of pregnancy, there is a possibility of vitamin D deficiency to occur in mothers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-210" type="identity">
+      <class id="studies_are_needed" label=""/>
+      <span end="17992" id="PMC3470091.nxml.gz-210" start="17974">studies are needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-211" type="identity">
+      <class id="future_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-212" type="identity">
+      <class id="effect" label=""/>
+      <span end="18015" id="PMC3470091.nxml.gz-212" start="18009">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-213" type="identity">
+      <class id="factor" label=""/>
+      <span end="18081" id="PMC3470091.nxml.gz-213" start="18075">factor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-214" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-215" type="identity">
+      <class id="future_work" label=""/>
+      <span end="18176" id="PMC3470091.nxml.gz-215" start="18169">studies</span>
+      <span end="18202" id="PMC3470091.nxml.gz-216" start="18182">have to be conducted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-217" type="identity">
+      <class id="will" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-218" type="identity">
+      <class id="have_to_be" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-219" type="identity">
+      <class id="effect" label=""/>
+      <span end="18226" id="PMC3470091.nxml.gz-219" start="18220">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-22" type="identity">
+      <class id="due...to" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-220" type="identity">
+      <class id="other" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-221" type="identity">
+      <class id="factors" label=""/>
+      <span end="18308" id="PMC3470091.nxml.gz-221" start="18301">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-222" type="identity">
+      <class id="related" label=""/>
+      <span end="18316" id="PMC3470091.nxml.gz-222" start="18309">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-223" type="identity">
+      <class id="markers" label=""/>
+      <span end="18370" id="PMC3470091.nxml.gz-223" start="18363">markers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-224" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18684" id="PMC3470091.nxml.gz-224" start="18384">The findings of the study indicate that intramuscular administration of a single dose of 300,000 IU of vitamin D is effective and safe to improve vitamin D status, and to ameliorate the factors related to the health of mothers and infants, particularly in the regions with severe vitamin D deficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-225" type="identity">
+      <class id="findings" label=""/>
+      <span end="18396" id="PMC3470091.nxml.gz-225" start="18388">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-226" type="identity">
+      <class id="indicate" label=""/>
+      <span end="18418" id="PMC3470091.nxml.gz-226" start="18410">indicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-227" type="identity">
+      <class id="effective" label=""/>
+      <span end="18509" id="PMC3470091.nxml.gz-227" start="18500">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-228" type="identity">
+      <class id="safe" label=""/>
+      <span end="18518" id="PMC3470091.nxml.gz-228" start="18514">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-229" type="identity">
+      <class id="factors" label=""/>
+      <span end="18577" id="PMC3470091.nxml.gz-229" start="18570">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-230" type="identity">
+      <class id="related" label=""/>
+      <span end="18585" id="PMC3470091.nxml.gz-230" start="18578">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-231" type="identity">
+      <class id="particularly" label=""/>
+      <span end="18636" id="PMC3470091.nxml.gz-231" start="18624">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-232" type="identity">
+      <class id="severe" label=""/>
+      <span end="18663" id="PMC3470091.nxml.gz-232" start="18657">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-24" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="2153" id="PMC3470091.nxml.gz-24" start="2141">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-25" type="identity">
+      <class id="particularly" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-26" type="identity">
+      <class id="possibility" label=""/>
+      <span end="2232" id="PMC3470091.nxml.gz-26" start="2221">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-27" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2414" id="PMC3470091.nxml.gz-27" start="2278">Since, fetus and baby are both dependent upon mother for blood and milk respectively, mother’s vitamin D supplementation is highly vital</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-28" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="2283" id="PMC3470091.nxml.gz-28" start="2278">Since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-29" type="identity">
+      <class id="dependent" label=""/>
+      <span end="2318" id="PMC3470091.nxml.gz-29" start="2309">dependent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-3" type="identity">
+      <class id="trial" label=""/>
+      <span end="137" id="PMC3470091.nxml.gz-3" start="132">Trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-30" type="identity">
+      <class id="vital" label=""/>
+      <span end="2414" id="PMC3470091.nxml.gz-30" start="2409">vital</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-31" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2571" id="PMC3470091.nxml.gz-31" start="2416">Studies have indicated that during pregnancy vitamin D deficiency varies from 18% to 84%, which varies with the region under the study and type of clothing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-32" type="identity">
+      <class id="indicated" label=""/>
+      <span end="2438" id="PMC3470091.nxml.gz-32" start="2429">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-33" type="identity">
+      <class id="varies" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-34" type="identity">
+      <class id="varies" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2824" id="PMC3470091.nxml.gz-35" start="2692">This hypovitaminosis which is due to limited exposure to sun of mothers’ and their babies as well as low vitamin D intake by mothers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="2728" id="PMC3470091.nxml.gz-36" start="2722">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36843" type="identity">
+      <class id="probable_understanding"/>
+      <span end="2115" id="PMC3470091.nxml.gz-36844" start="2109">Due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36845" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36847" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36849" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36851" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36853" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36855" type="identity">
+      <class id="subject_scope"/>
+      <span end="13689" id="PMC3470091.nxml.gz-36856" start="13528">This indicates the efficacy of this procedure in dramatic improvement of vitamin D status in the mothers, especially in the region with high vitamin D deficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36857" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36859" type="identity">
+      <class id="subject_scope"/>
+      <span end="14058" id="PMC3470091.nxml.gz-36860" start="13812">Considering the range of obtained serum calcium and phosphorus in mothers, no incidence of hypercalcemia, hyperphosphatemia, or hypervitaminosis, this dosage and route of supplementation of vitamin D seems to be safe for mothers and their infants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36861" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36863" type="identity">
+      <class id="subject_scope"/>
+      <span end="15110" id="PMC3470091.nxml.gz-36864" start="15001">The increase of serum calcium in the IG in the present study is similar to that reported in the other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36865" type="identity">
+      <class id="subject_scope"/>
+      <span end="14916" id="PMC3470091.nxml.gz-36866" start="14722">On the other hand, increased serum calcium causes the intracellular calcium to attach to calcium receptors on the surface of parathyroid cells causing a change in a special form of the receptors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36867" type="identity">
+      <class id="subject_scope"/>
+      <span end="15551" id="PMC3470091.nxml.gz-36868" start="15375">This leads to the transcription of a special mRNA, which results in the translation of several proteins such as epithelial calcium channels and the proteins attached to calcium</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36869" type="identity">
+      <class id="previous...studies"/>
+      <span end="15642" id="PMC3470091.nxml.gz-36870" start="15626">Previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36871" type="identity">
+      <class id="subject_scope"/>
+      <span end="16387" id="PMC3470091.nxml.gz-36872" start="16276">In our study, no hypocalcaemia was observed indicating the safety and efficiency of this supplementation method</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36873" type="identity">
+      <class id="subject_scope"/>
+      <span end="16519" id="PMC3470091.nxml.gz-36874" start="16389">A recent study,21has indicated that administrating a high dose of vitamin D every two months was an easy and comfortable treatment</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36875" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36877" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="17929" id="PMC3470091.nxml.gz-36878" start="17915">lower accuracy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36879" type="identity">
+      <class id="subject_scope"/>
+      <span end="18370" id="PMC3470091.nxml.gz-36880" start="18133">Moreover, additional clinical trial studies will have to be conducted to determine the effect of mega doses of vitamin D on other health-related parameters such as the factors related to metabolic syndrome as well as inflammatory markers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36921" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="12" id="PMC3470091.nxml.gz-36922" start="4">Efficacy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36923" type="identity">
+      <class id="important_consideration"/>
+      <span end="3820" id="PMC3470091.nxml.gz-36924" start="3803">conspicuous value</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36925" type="identity">
+      <class id="recent_study"/>
+      <span end="16403" id="PMC3470091.nxml.gz-36926" start="16391">recent study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36927" type="identity">
+      <class id="as"/>
+      <span end="16547" id="PMC3470091.nxml.gz-36928" start="16545">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-36929" type="identity">
+      <class id="subject_scope"/>
+      <span end="17964" id="PMC3470091.nxml.gz-36930" start="17850">Moreover, serum vitamin D was measured by ELISA kit, which is of lower accuracy compared with HPLC and RIA methods</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-37" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2922" id="PMC3470091.nxml.gz-37" start="2826">These can cause vitamin D deficiency in mothers’ milk as the only source of vitamin D for babies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-38" type="identity">
+      <class id="can" label=""/>
+      <span end="2835" id="PMC3470091.nxml.gz-38" start="2832">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-39" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3012" id="PMC3470091.nxml.gz-39" start="2925">There are evidences showing the role of vitamin D in keeping normal glucose homeostasis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-4" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="415" id="PMC3470091.nxml.gz-4" start="251">This study was carried out to evaluate the efficacy of 300,000 IU vitamin D given intramuscularly on body status in new cases of gestational diabetes mellitus (GDM)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-40" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2944" id="PMC3470091.nxml.gz-40" start="2935">evidences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-41" type="identity">
+      <class id="showing" label=""/>
+      <span end="2952" id="PMC3470091.nxml.gz-41" start="2945">showing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-42" type="identity">
+      <class id="role" label=""/>
+      <span end="2961" id="PMC3470091.nxml.gz-42" start="2957">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-43" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3156" id="PMC3470091.nxml.gz-43" start="3017">Resistance to insulin and destruction of insulin secretion in human and animal models has considerably been related to vitamin D deficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-44" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="3102" id="PMC3470091.nxml.gz-44" start="3096">models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-45" type="identity">
+      <class id="considerably" label=""/>
+      <span end="3119" id="PMC3470091.nxml.gz-45" start="3107">considerably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-46" type="identity">
+      <class id="related" label=""/>
+      <span end="3132" id="PMC3470091.nxml.gz-46" start="3125">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-47" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3252" id="PMC3470091.nxml.gz-47" start="3158">Such a relation has been attributed to special receptors for vitamin D in pancreatic betacells</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-48" type="identity">
+      <class id="relation" label=""/>
+      <span end="3173" id="PMC3470091.nxml.gz-48" start="3165">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-49" type="identity">
+      <class id="has...been" label=""/>
+      <span end="3182" id="PMC3470091.nxml.gz-49" start="3174">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-5" type="identity">
+      <class id="this_study" label=""/>
+      <span end="261" id="PMC3470091.nxml.gz-5" start="251">This study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-50" type="identity">
+      <class id="attributed" label=""/>
+      <span end="3193" id="PMC3470091.nxml.gz-50" start="3183">attributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-51" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3405" id="PMC3470091.nxml.gz-51" start="3254">Moreover, vitamin D was shown to have positive effects on insulin sensitivity, and its deficiency to have negative effects on the function of betacells</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-52" type="identity">
+      <class id="was_shown" label=""/>
+      <span end="3283" id="PMC3470091.nxml.gz-52" start="3274">was shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-53" type="identity">
+      <class id="effects" label=""/>
+      <span end="3308" id="PMC3470091.nxml.gz-53" start="3301">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-54" type="identity">
+      <class id="effects" label=""/>
+      <span end="3376" id="PMC3470091.nxml.gz-54" start="3369">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-55" type="identity">
+      <class id="in_agreement" label=""/>
+      <span end="3420" id="PMC3470091.nxml.gz-55" start="3408">In agreement</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-56" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3519" id="PMC3470091.nxml.gz-56" start="3408">In agreement with this, cohort studies revealed that vitamin D had a protective effect against diabetes type II</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-57" type="identity">
+      <class id="revealed" label=""/>
+      <span end="3455" id="PMC3470091.nxml.gz-57" start="3447">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-58" type="identity">
+      <class id="protective" label=""/>
+      <span end="3487" id="PMC3470091.nxml.gz-58" start="3477">protective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-59" type="identity">
+      <class id="effect" label=""/>
+      <span end="3494" id="PMC3470091.nxml.gz-59" start="3488">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-6" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="289" id="PMC3470091.nxml.gz-6" start="278">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-60" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3820" id="PMC3470091.nxml.gz-60" start="3707">The study of vitamin D status and improving it in the lactating mothers with previous GDM is of conspicuous value</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-64" type="identity">
+      <class id="therefore" label=""/>
+      <span end="3966" id="PMC3470091.nxml.gz-64" start="3957">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-65" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4104" id="PMC3470091.nxml.gz-65" start="3957">Therefore, vitamin D supplementation in high doses has been recommended, and oral doses of 20000 or 40000 IU were associated with positive outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-66" type="identity">
+      <class id="has_been" label=""/>
+      <span end="4016" id="PMC3470091.nxml.gz-66" start="4008">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-67" type="identity">
+      <class id="recommended" label=""/>
+      <span end="4028" id="PMC3470091.nxml.gz-67" start="4017">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-68" type="identity">
+      <class id="associated" label=""/>
+      <span end="4081" id="PMC3470091.nxml.gz-68" start="4071">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-69" type="identity">
+      <class id="therefore" label=""/>
+      <span end="4314" id="PMC3470091.nxml.gz-69" start="4305">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-7" type="identity">
+      <class id="given" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-70" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4406" id="PMC3470091.nxml.gz-70" start="4305">Therefore, high doses of vitamin D, either orally or through injection, has recently been recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-71" type="identity">
+      <class id="either...or" label=""/>
+      <span end="4347" id="PMC3470091.nxml.gz-71" start="4341">either</span>
+      <span end="4357" id="PMC3470091.nxml.gz-72" start="4355">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-73" type="identity">
+      <class id="has_recently_been" label=""/>
+      <span end="4394" id="PMC3470091.nxml.gz-73" start="4377">has recently been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-74" type="identity">
+      <class id="recommended" label=""/>
+      <span end="4406" id="PMC3470091.nxml.gz-74" start="4395">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-75" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4573" id="PMC3470091.nxml.gz-75" start="4413">A single dose of vitamin D, administered parenterally, would be more effective, because it is not associated with the noncompliance associated with an oral dose</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-76" type="identity">
+      <class id="would_be" label=""/>
+      <span end="4476" id="PMC3470091.nxml.gz-76" start="4468">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-77" type="identity">
+      <class id="effective" label=""/>
+      <span end="4491" id="PMC3470091.nxml.gz-77" start="4482">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-78" type="identity">
+      <class id="because" label=""/>
+      <span end="4500" id="PMC3470091.nxml.gz-78" start="4493">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-79" type="identity">
+      <class id="associated" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-8" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1202" id="PMC3470091.nxml.gz-8" start="975">The median concentration of serum 25(OH)D3 in the IG was to 62.10 nmol/l after the intervention, showing an increase of around 158%, compared to before intervention (24.25 nmol/l) whereas the CG showed a decrease of around 4.5%</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-80" type="identity">
+      <class id="noncompliance" label=""/>
+      <span end="4544" id="PMC3470091.nxml.gz-80" start="4531">noncompliance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-81" type="identity">
+      <class id="associated" label=""/>
+      <span end="4555" id="PMC3470091.nxml.gz-81" start="4545">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-82" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4678" id="PMC3470091.nxml.gz-82" start="4575">A dose of 600,000 IU vitamin D resulted in hypercalcemia, therefore, it can not be regarded a safe dose</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-83" type="identity">
+      <class id="therefore" label=""/>
+      <span end="4642" id="PMC3470091.nxml.gz-83" start="4633">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-84" type="identity">
+      <class id="regarded" label=""/>
+      <span end="4666" id="PMC3470091.nxml.gz-84" start="4658">regarded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-85" type="identity">
+      <class id="safe" label=""/>
+      <span end="4673" id="PMC3470091.nxml.gz-85" start="4669">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-86" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4946" id="PMC3470091.nxml.gz-86" start="4681">There is no study to evaluate vitamin D status in mothers with previous GDM, and present oral vitamin D products are not fully effective,16therefore, this study was designed to evaluate the effect of intramuscular injection of 300,000 IU during a three-month period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-87" type="identity">
+      <class id="no_study" label=""/>
+      <span end="4698" id="PMC3470091.nxml.gz-87" start="4690">no study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-88" type="identity">
+      <class id="to_evaluate" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-9" type="identity">
+      <class id="showing" label=""/>
+      <span end="1079" id="PMC3470091.nxml.gz-9" start="1072">showing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-90" type="identity">
+      <class id="effective" label=""/>
+      <span end="4817" id="PMC3470091.nxml.gz-90" start="4808">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-91" type="identity">
+      <class id="therefore" label=""/>
+      <span end="4829" id="PMC3470091.nxml.gz-91" start="4820">therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-92" type="identity">
+      <class id="this_study" label=""/>
+      <span end="4841" id="PMC3470091.nxml.gz-92" start="4831">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-93" type="identity">
+      <class id="designed_to" label=""/>
+      <span end="4857" id="PMC3470091.nxml.gz-93" start="4846">designed to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-94" type="identity">
+      <class id="to_evaluate" label=""/>
+      <span end="4866" id="PMC3470091.nxml.gz-94" start="4855">to evaluate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-95" type="identity">
+      <class id="effect" label=""/>
+      <span end="4877" id="PMC3470091.nxml.gz-95" start="4871">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3470091.nxml.gz-99" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="10330" id="PMC3470091.nxml.gz-99" start="10119">There was no difference between the serum concentration of PTH of the IG and CG prior to intervention, however, serum concentration of PTH after the intervention was significantly lower in the IG than that of CG</span>
+    </annotation>
+  </document>
+</knowtator-project>

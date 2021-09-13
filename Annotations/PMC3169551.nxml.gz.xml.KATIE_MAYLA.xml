@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3169551.nxml.gz" text-file="PMC3169551.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-101" type="identity">
+      <class id="at_risk" label="at_risk"/>
+      <span end="2170" id="PMC3169551.nxml.gz-102" start="2163">at risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-123" type="identity">
+      <class id="but" label="but"/>
+      <span end="21172" id="PMC3169551.nxml.gz-124" start="21169">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-131" type="identity">
+      <class id="can" label="can"/>
+      <span end="2585" id="PMC3169551.nxml.gz-132" start="2582">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-133" type="identity">
+      <class id="cannot" label="cannot"/>
+      <span end="16535" id="PMC3169551.nxml.gz-134" start="16529">cannot</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-135" type="identity">
+      <class id="comparable" label="comparable"/>
+      <span end="22488" id="PMC3169551.nxml.gz-136" start="22478">comparable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-139" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="23210" id="PMC3169551.nxml.gz-140" start="23199">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-141" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="23282" id="PMC3169551.nxml.gz-142" start="23271">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14191" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="17190" id="PMC3169551.nxml.gz-14192" start="17178">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14193" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="17536" id="PMC3169551.nxml.gz-14194" start="17530">target</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14195" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="17935" id="PMC3169551.nxml.gz-14196" start="17931">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14199" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="18882" id="PMC3169551.nxml.gz-14200" start="18878">poor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14201" type="identity">
+      <class id="limitation" label="problem_complication"/>
+      <span end="19355" id="PMC3169551.nxml.gz-14202" start="19345">limitation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14203" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="19396" id="PMC3169551.nxml.gz-14204" start="19389">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14205" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19699" id="PMC3169551.nxml.gz-14206" start="19444">However, we considered it unethical to withhold iron-folic acid supplementation and deworming from women of reproductive age over a long period of time given the evidence from short-term studies on the efficacy of weekly iron-folic acid supplementation[8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14207" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14209" type="identity">
+      <class id="difficult_task" label="difficult_task"/>
+      <span end="20026" id="PMC3169551.nxml.gz-14210" start="20019">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14211" type="identity">
+      <class id="future_work" label="future_work"/>
+      <span end="20172" id="PMC3169551.nxml.gz-14212" start="20164">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14213" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="20593" id="PMC3169551.nxml.gz-14214" start="20588">since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14215" type="identity">
+      <class id="identified" label="identified"/>
+      <span end="20674" id="PMC3169551.nxml.gz-14216" start="20664">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14217" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="20849" id="PMC3169551.nxml.gz-14218" start="20845">Data</span>
+      <span end="20915" id="PMC3169551.nxml.gz-14219" start="20911">weak</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14220" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="21366" id="PMC3169551.nxml.gz-14221" start="21358">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14222" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="21413" id="PMC3169551.nxml.gz-14223" start="21405">research</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14224" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21420" id="PMC3169551.nxml.gz-14225" start="21265">Behrman, Alderman and Hoddinott, 2004[23], cite estimates for Nepal of $13.14 per pregnancy (based on program estimates extrapolated from a research study)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14226" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="21643" id="PMC3169551.nxml.gz-14227" start="21640">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14228" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="21773" id="PMC3169551.nxml.gz-14229" start="21769">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14230" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="21793" id="PMC3169551.nxml.gz-14231" start="21789">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14232" type="identity">
+      <class id="difficult_task" label="difficult_task"/>
+      <span end="21998" id="PMC3169551.nxml.gz-14233" start="21991">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14234" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="22174" id="PMC3169551.nxml.gz-14235" start="22167">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14238" type="identity">
+      <class id="difficult_task" label="difficult_task"/>
+      <span end="22264" id="PMC3169551.nxml.gz-14239" start="22257">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14240" type="identity">
+      <class id="future_work" label="future_work"/>
+      <span end="22280" id="PMC3169551.nxml.gz-14241" start="22273">not yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14242" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="22941" id="PMC3169551.nxml.gz-14243" start="22938">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14244" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="23308" id="PMC3169551.nxml.gz-14245" start="23301">reflect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14246" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="23536" id="PMC3169551.nxml.gz-14247" start="23529">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14248" type="identity">
+      <class id="full_unknown" label="full_unknown"/>
+      <span end="24243" id="PMC3169551.nxml.gz-14249" start="24231">non-existent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14250" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14252" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17384" id="PMC3169551.nxml.gz-14253" start="17278">Pre-pregnancy weekly supplements that contain folic acid may also decrease the risk of neural tube defects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14254" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17603" id="PMC3169551.nxml.gz-14255" start="17386">A successful supplementation program must include training of health care system workers, provision of accessible educational materials for the target group and the broader community and a reliable distribution system</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14256" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17699" id="PMC3169551.nxml.gz-14257" start="17605">Therefore these costs need to be incorporated into the overall cost of an intervention program</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14258" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17858" id="PMC3169551.nxml.gz-14259" start="17701">We have demonstrated the effective uptake of weekly iron-folic acid supplementation by 70% of woman in Yen Bai province with an annual cost of USD 0.76/woman</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14260" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18063" id="PMC3169551.nxml.gz-14261" start="17860">This compares to estimates by the National Institute of Nutrition that only 20% of pregnant women are covered by the national antenatal program of daily iron supplementation for which there is no costing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14262" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18232" id="PMC3169551.nxml.gz-14263" start="18070">The costing reported here includes distribution of supplements, health staff training, production and distribution of educational materials and regular monitoring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14264" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18311" id="PMC3169551.nxml.gz-14265" start="18234">The possible reasons for the higher uptake of the weekly supplements are many</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14266" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18364" id="PMC3169551.nxml.gz-14267" start="18313">One likely reason for the difference is convenience</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14268" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14270" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18613" id="PMC3169551.nxml.gz-14271" start="18506">Weekly supplements for women of reproductive age in the program reported here are accessed at village level</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14272" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18741" id="PMC3169551.nxml.gz-14273" start="18615">The 2009 survey identified that it took women an average of 17 minutes to access the distribution point for weekly supplements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14274" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18842" id="PMC3169551.nxml.gz-14275" start="18743">Another reason for high compliance with the weekly program was the maintenance of a reliable supply</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14276" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19031" id="PMC3169551.nxml.gz-14277" start="18844">A previous study has shown that a poor distribution system and irregular availability were the most significant environmental risk factors for taking iron supplementation continuously[19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14278" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14280" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19334" id="PMC3169551.nxml.gz-14281" start="19161">The extensive training and community education program was another positive factor which increased acceptance of the supplements as a valuable contribution to women's health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14282" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19875" id="PMC3169551.nxml.gz-14283" start="19701">A previous study in Viet Nam followed women of reproductive age receiving weekly supplements, some of whom became pregnant at various points during the 12 months of follow-up</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14284" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14286" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20308" id="PMC3169551.nxml.gz-14287" start="20130">With a larger sample, it would be possible to extend our calculations to estimate the cost per death averted with a reduction of the prevalence of severe anemia in pregnant women</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14290" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20470" id="PMC3169551.nxml.gz-14291" start="20310">The relative risk of mortality associated with a 10 g/L increase in hemoglobin is estimated as 0.75 for maternal mortality, and 0.72 for perinatal mortality[21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14292" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20629" id="PMC3169551.nxml.gz-14293" start="20472">The annual cost of USD0.76 per woman treated is consistent with a cost estimate of USD10-13 per pregnancy[22],[23], since pregnant women receive more tablets</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14294" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20843" id="PMC3169551.nxml.gz-14295" start="20631">A recent trial in northern China identified an annual cost of USD40.00 to improve antenatal, delivery and postnatal care of which 22% (USD8.80) was to supply and distribute daily supplements to pregnant women[24]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14296" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20915" id="PMC3169551.nxml.gz-14297" start="20845">Data on cost per pregnancy of daily iron supplementation is quite weak</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14298" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21263" id="PMC3169551.nxml.gz-14299" start="21035">For those countries in the Southeast Asia region (SearD) with high adult and child mortality rates, they estimate the cost as $10.12 (but as high as $46.04 per pregnancy in the low mortality countries in the Europe region, EurA)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-143" type="identity">
+      <class id="concluded" label="concluded"/>
+      <span end="3084" id="PMC3169551.nxml.gz-144" start="3075">concluded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14300" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21586" id="PMC3169551.nxml.gz-14301" start="21422">The estimated benefit:cost ratio of 6.7∶1 is similar to the median benefit:cost ratio for iron fortification estimated by Horton and Ross[6]for a range of countries</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14302" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21676" id="PMC3169551.nxml.gz-14303" start="21588">Supplementation of women is more costly per person, but has a stronger effect on anaemia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14304" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21897" id="PMC3169551.nxml.gz-14305" start="21678">However, fortification benefits both men and women while supplementation directly benefits only women and will only have large labour market benefits in countries where women's participation in the labour market is high</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14306" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14308" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22302" id="PMC3169551.nxml.gz-14309" start="22196">There have been experiments with fortification of fish sauce however this is not yet on a commercial scale</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14310" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22424" id="PMC3169551.nxml.gz-14311" start="22304">At present a supplementation program is the most feasible method for addressing iron and folate deficiencies in Viet Nam</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14312" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22600" id="PMC3169551.nxml.gz-14313" start="22426">The cost of coverage with weekly iron-folic acid is comparable to program estimates for distribution of other nutritional supplements such as twice-yearly vitamin A, and zinc</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14314" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22819" id="PMC3169551.nxml.gz-14315" start="22602">A recent survey[25]of the cost of micronutrient supplementation programs (both published and “grey” literature) identified 43 studies, of which 31 were for vitamin A, and the rest for iron (7), iodine (4) and zinc (1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14316" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22969" id="PMC3169551.nxml.gz-14317" start="22821">Mean cost per beneficiary were calculated as USD1.95 (vitamin A), USD3.64 (iodine), USD0.52 (zinc – only 1 program), but was not calculated for iron</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14318" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23110" id="PMC3169551.nxml.gz-14319" start="22971">Mean cost per person-year of “useful” coverage was estimated as USD8.53 (vitamin A) and USD0.74 (iodine) but not available for iron or zinc</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14320" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23290" id="PMC3169551.nxml.gz-14321" start="23112">Although Vitamin A capsules were less costly than iron per person (USD0.12/person/year compared to USD0.36), delivery costs for vitamin A were higher: USD1.83 compared to USD0.40</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14322" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23445" id="PMC3169551.nxml.gz-14323" start="23292">This may reflect lower coverage with volunteer health workers and lower population densities in Africa, where most costing studies of vitamin A were done</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14324" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23536" id="PMC3169551.nxml.gz-14325" start="23447">The reported cost structures of delivery for these programs were however somewhat similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14326" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14328" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24243" id="PMC3169551.nxml.gz-14329" start="24167">Program cost data for these latter two interventions are almost non-existent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14330" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24387" id="PMC3169551.nxml.gz-14331" start="24245">This study therefore fills a major gap in the cost literature, namely estimating the cost of implementing weekly iron supplementation programs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14332" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24668" id="PMC3169551.nxml.gz-14333" start="24389">It has policy significance given the recommendation to expand coverage of supplementation with weekly iron and folic acid supplements to women of reproductive age, as well as for other similar supplementation programs, such as multiple micronutrient powders and zinc for children</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14468" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="463" id="PMC3169551.nxml.gz-14469" start="455">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14470" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="1390" id="PMC3169551.nxml.gz-14471" start="1382">Based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14472" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="141" id="PMC3169551.nxml.gz-14473" start="0">Weekly Iron-Folic Acid Supplementation with Regular Deworming Is Cost-Effective in Preventing Anaemia in Women of Reproductive Age in Vietnam</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14475" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="365" id="PMC3169551.nxml.gz-14476" start="164">To estimate the cost and cost-effectiveness of a project administering de-worming and weekly iron-folic acid supplementation to control anaemia in women of reproductive age in Yen Bai province, Vietnam</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14477" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14479" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1468" id="PMC3169551.nxml.gz-14480" start="1382">Based on estimated productivity gains for adult women, the benefit:cost ratio is 6.7∶1</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14481" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1913" id="PMC3169551.nxml.gz-14482" start="1628">The study shows that weekly iron-folic acid supplementation and regular de-worming is a low-cost and cost-effective intervention and would be appropriate for population-based introduction in settings with a high prevalence of anaemia and iron deficiency and low malaria infection rates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14483" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="2075" id="PMC3169551.nxml.gz-14484" start="2069">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14485" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="2162" id="PMC3169551.nxml.gz-14486" start="2150">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14487" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="2553" id="PMC3169551.nxml.gz-14488" start="2547">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14489" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="2668" id="PMC3169551.nxml.gz-14490" start="2658">guidelines</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14491" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="3528" id="PMC3169551.nxml.gz-14492" start="3516">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14493" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14495" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="3891" id="PMC3169551.nxml.gz-14496" start="3879">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14497" type="identity">
+      <class id="difficult_task" label="difficult_task"/>
+      <span end="4294" id="PMC3169551.nxml.gz-14498" start="4287">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14499" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2028" id="PMC3169551.nxml.gz-14500" start="1929">WHO estimates suggest that globally up to 500 million women of reproductive age suffer from anaemia</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14501" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14503" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14505" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14507" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14509" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14511" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14513" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3422" id="PMC3169551.nxml.gz-14514" start="3250">However, there is no data on cost and cost-effectiveness of population-based weekly supplementation programs, and limited data on other nutritional supplementation programs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14515" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3549" id="PMC3169551.nxml.gz-14516" start="3424">In Vietnam, there has been an increasing awareness of nutritional deficiencies and anaemia, particularly in rural populations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14517" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3720" id="PMC3169551.nxml.gz-14518" start="3551">A national survey in 2000 found anaemia rates were 24.3% for non-pregnant women nationally (26.3% in rural areas), and 32.2% in pregnant women (33.8% in rural areas)[10]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14519" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14521" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4093" id="PMC3169551.nxml.gz-14522" start="3902">A study of pregnant women in the rural central highlands in 2001 identified anaemia prevalence in pregnant women, post-partum women and non-pregnant women of 53%, 62% and 54% respectively[11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14523" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14525" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4369" id="PMC3169551.nxml.gz-14526" start="4287">However the costs of potential strategies for achieving this are currently unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14527" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14531" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="5002" id="PMC3169551.nxml.gz-14532" start="4824">We report here the cost and cost-effectiveness of the de-worming and weekly iron-folic acid intervention, which has now been delivered to women in Yen Bai province since May 2006</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14533" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14537" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14539" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14541" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="6965" id="PMC3169551.nxml.gz-14542" start="6713">With evidence of the program's positive impact on women's iron status the weekly supplement program with twice-yearly de-worming was scaled up to province level (with an estimated target group of 250,000 women of reproductive age) commencing March 2008</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14543" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14545" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14549" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14551" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14555" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="14582" id="PMC3169551.nxml.gz-14556" start="14574">Assuming</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14557" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="14752" id="PMC3169551.nxml.gz-14558" start="14574">Assuming that anaemia cases prevented is the measure of effectiveness, the cost-effectiveness of the intervention is USD 4.24 per anaemia case prevented (USD133900 / (175581×18))</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14561" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="15345" id="PMC3169551.nxml.gz-14562" start="15027">These authors estimate that the productivity gains for an individual removed from anaemia are 5% in manual occupations (70% of employment in a country such as Viet Nam), and 17% in heavy manual occupations (which form 12.7% of employment in manual occupations in Viet Nam: the share of agriculture in GDP is 22.1%)[16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14563" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14565" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="16087" id="PMC3169551.nxml.gz-14566" start="16079">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14567" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16162" id="PMC3169551.nxml.gz-14568" start="16020">Hence the benefit: cost ratio is approximately 6.7∶1, just based on improvements in productivity of women of reproductive age in the workforce</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14569" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16316" id="PMC3169551.nxml.gz-14570" start="16164">This means that for each dollar invested in a weekly iron supplementation and de-worming program the monetary value in terms of productivity was USD6.70</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14571" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16557" id="PMC3169551.nxml.gz-14572" start="16318">There may be additional financial benefits associated with reductions in other health care costs such as those associated with reduced maternal and infant mortality, and a reduction in neural tube defects which cannot readily be quantified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-14573" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16741" id="PMC3169551.nxml.gz-14574" start="16559">In addition there are possible effects on reduced anaemia in children and men associated with de-worming women of reproductive age and a consequent reduction in helminth transmission</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-15" type="identity">
+      <class id="allow" label="allow"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-153" type="identity">
+      <class id="consequence" label="consequence"/>
+      <span end="4111" id="PMC3169551.nxml.gz-154" start="4100">consequence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-157" type="identity">
+      <class id="consistent" label="consistent"/>
+      <span end="20530" id="PMC3169551.nxml.gz-158" start="20520">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-159" type="identity">
+      <class id="contribution" label="contribution"/>
+      <span end="19316" id="PMC3169551.nxml.gz-160" start="19304">contribution</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-165" type="identity">
+      <class id="demonstrated" label="demonstrated"/>
+      <span end="17721" id="PMC3169551.nxml.gz-166" start="17709">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-17" type="identity">
+      <class id="although" label="although"/>
+      <span end="23120" id="PMC3169551.nxml.gz-18" start="23112">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-177" type="identity">
+      <class id="difference" label="difference"/>
+      <span end="18349" id="PMC3169551.nxml.gz-178" start="18339">difference</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-183" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="21665" id="PMC3169551.nxml.gz-184" start="21659">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-189" type="identity">
+      <class id="effective" label="effective"/>
+      <span end="3177" id="PMC3169551.nxml.gz-190" start="3168">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-19" type="identity">
+      <class id="another" label="another"/>
+      <span end="18750" id="PMC3169551.nxml.gz-20" start="18743">Another</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-193" type="identity">
+      <class id="effective" label="effective"/>
+      <span end="17735" id="PMC3169551.nxml.gz-194" start="17726">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-21" type="identity">
+      <class id="another" label="another"/>
+      <span end="19227" id="PMC3169551.nxml.gz-22" start="19220">another</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-215" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="16597" id="PMC3169551.nxml.gz-216" start="16590">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-219" type="identity">
+      <class id="estimate" label="estimate"/>
+      <span end="175" id="PMC3169551.nxml.gz-220" start="167">estimate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-227" type="identity">
+      <class id="estimate" label="estimate"/>
+      <span end="15049" id="PMC3169551.nxml.gz-228" start="15041">estimate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-229" type="identity">
+      <class id="estimate" label="estimate"/>
+      <span end="20211" id="PMC3169551.nxml.gz-230" start="20203">estimate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-23" type="identity">
+      <class id="appropriate" label="appropriate"/>
+      <span end="1781" id="PMC3169551.nxml.gz-24" start="1770">appropriate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-231" type="identity">
+      <class id="estimate" label="estimate"/>
+      <span end="20551" id="PMC3169551.nxml.gz-232" start="20543">estimate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-235" type="identity">
+      <class id="estimate" label="estimate"/>
+      <span end="21148" id="PMC3169551.nxml.gz-236" start="21140">estimate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-237" type="identity">
+      <class id="estimated" label="estimated"/>
+      <span end="1400" id="PMC3169551.nxml.gz-238" start="1391">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-247" type="identity">
+      <class id="estimated" label="estimated"/>
+      <span end="20401" id="PMC3169551.nxml.gz-248" start="20392">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-249" type="identity">
+      <class id="estimated" label="estimated"/>
+      <span end="21435" id="PMC3169551.nxml.gz-250" start="21426">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-251" type="identity">
+      <class id="estimated" label="estimated"/>
+      <span end="21540" id="PMC3169551.nxml.gz-252" start="21531">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-253" type="identity">
+      <class id="estimated" label="estimated"/>
+      <span end="23031" id="PMC3169551.nxml.gz-254" start="23022">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-255" type="identity">
+      <class id="estimates" label="estimates"/>
+      <span end="1942" id="PMC3169551.nxml.gz-256" start="1933">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-257" type="identity">
+      <class id="estimates" label="estimates"/>
+      <span end="17886" id="PMC3169551.nxml.gz-258" start="17877">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-259" type="identity">
+      <class id="estimates" label="estimates"/>
+      <span end="21322" id="PMC3169551.nxml.gz-260" start="21313">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-261" type="identity">
+      <class id="estimates" label="estimates"/>
+      <span end="21384" id="PMC3169551.nxml.gz-262" start="21375">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-263" type="identity">
+      <class id="estimates" label="estimates"/>
+      <span end="22509" id="PMC3169551.nxml.gz-264" start="22500">estimates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-265" type="identity">
+      <class id="evaluated" label="evaluated"/>
+      <span end="421" id="PMC3169551.nxml.gz-266" start="412">evaluated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-267" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="6726" id="PMC3169551.nxml.gz-268" start="6718">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-269" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="19614" id="PMC3169551.nxml.gz-270" start="19606">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-27" type="identity">
+      <class id="approximately" label="approximately"/>
+      <span end="16066" id="PMC3169551.nxml.gz-28" start="16053">approximately</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-273" type="identity">
+      <class id="factor" label="factor"/>
+      <span end="19243" id="PMC3169551.nxml.gz-274" start="19237">factor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-275" type="identity">
+      <class id="factors" label="factors"/>
+      <span end="3742" id="PMC3169551.nxml.gz-276" start="3735">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-279" type="identity">
+      <class id="feasible" label="feasible"/>
+      <span end="22361" id="PMC3169551.nxml.gz-280" start="22353">feasible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-289" type="identity">
+      <class id="found" label="found"/>
+      <span end="3582" id="PMC3169551.nxml.gz-290" start="3577">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-291" type="identity">
+      <class id="further" label="further"/>
+      <span end="2862" id="PMC3169551.nxml.gz-292" start="2855">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-295" type="identity">
+      <class id="gap" label="gap"/>
+      <span end="24283" id="PMC3169551.nxml.gz-296" start="24280">gap</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-297" type="identity">
+      <class id="generally" label="generally"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-301" type="identity">
+      <class id="given" label="given"/>
+      <span end="19601" id="PMC3169551.nxml.gz-302" start="19596">given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-303" type="identity">
+      <class id="given" label="given"/>
+      <span end="22162" id="PMC3169551.nxml.gz-304" start="22157">given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-305" type="identity">
+      <class id="given" label="given"/>
+      <span end="24421" id="PMC3169551.nxml.gz-306" start="24416">given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-314" type="identity">
+      <class id="has_been" label="has_been"/>
+      <span end="3450" id="PMC3169551.nxml.gz-315" start="3442">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-316" type="identity">
+      <class id="has_shown" label="has_shown"/>
+      <span end="18870" id="PMC3169551.nxml.gz-317" start="18861">has shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-318" type="identity">
+      <class id="have...been" label="have...been"/>
+      <span end="22211" id="PMC3169551.nxml.gz-319" start="22202">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-320" type="identity">
+      <class id="have_been" label="have_been"/>
+      <span end="2322" id="PMC3169551.nxml.gz-321" start="2313">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-322" type="identity">
+      <class id="have_to_be" label="have_to_be"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-324" type="identity">
+      <class id="hence" label="hence"/>
+      <span end="16025" id="PMC3169551.nxml.gz-325" start="16020">Hence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-326" type="identity">
+      <class id="here" label="here"/>
+      <span end="4838" id="PMC3169551.nxml.gz-327" start="4834">here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-328" type="identity">
+      <class id="here" label="here"/>
+      <span end="18095" id="PMC3169551.nxml.gz-329" start="18091">here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-330" type="identity">
+      <class id="here" label="here"/>
+      <span end="18583" id="PMC3169551.nxml.gz-331" start="18579">here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-332" type="identity">
+      <class id="however" label="however"/>
+      <span end="3257" id="PMC3169551.nxml.gz-333" start="3250">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-336" type="identity">
+      <class id="however" label="however"/>
+      <span end="21685" id="PMC3169551.nxml.gz-337" start="21678">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-344" type="identity">
+      <class id="identified" label="identified"/>
+      <span end="3977" id="PMC3169551.nxml.gz-345" start="3967">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-35" type="identity">
+      <class id="as" label="as"/>
+      <span end="4097" id="PMC3169551.nxml.gz-36" start="4095">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-350" type="identity">
+      <class id="identified" label="identified"/>
+      <span end="18641" id="PMC3169551.nxml.gz-351" start="18631">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-352" type="identity">
+      <class id="identified" label="identified"/>
+      <span end="22724" id="PMC3169551.nxml.gz-353" start="22714">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-356" type="identity">
+      <class id="impact" label="impact"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-358" type="identity">
+      <class id="impact" label="impact"/>
+      <span end="2602" id="PMC3169551.nxml.gz-359" start="2596">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-366" type="identity">
+      <class id="impact" label="impact"/>
+      <span end="6759" id="PMC3169551.nxml.gz-367" start="6753">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-384" type="identity">
+      <class id="involved" label="involved"/>
+      <span end="7776" id="PMC3169551.nxml.gz-385" start="7768">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-406" type="identity">
+      <class id="likely" label="likely"/>
+      <span end="18323" id="PMC3169551.nxml.gz-407" start="18317">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-410" type="identity">
+      <class id="limited...data" label="limited...data"/>
+      <span end="3376" id="PMC3169551.nxml.gz-411" start="3364">limited data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-412" type="identity">
+      <class id="linked" label="linked"/>
+      <span end="2329" id="PMC3169551.nxml.gz-413" start="2323">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-416" type="identity">
+      <class id="major" label="major"/>
+      <span end="24279" id="PMC3169551.nxml.gz-417" start="24274">major</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-418" type="identity">
+      <class id="may" label="may"/>
+      <span end="2450" id="PMC3169551.nxml.gz-419" start="2447">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-424" type="identity">
+      <class id="may" label="may"/>
+      <span end="17338" id="PMC3169551.nxml.gz-425" start="17335">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-426" type="identity">
+      <class id="may" label="may"/>
+      <span end="23300" id="PMC3169551.nxml.gz-427" start="23297">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-428" type="identity">
+      <class id="may" label="may"/>
+      <span end="23996" id="PMC3169551.nxml.gz-429" start="23993">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-430" type="identity">
+      <class id="may_be" label="may_be"/>
+      <span end="16330" id="PMC3169551.nxml.gz-431" start="16324">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-432" type="identity">
+      <class id="may_be" label="may_be"/>
+      <span end="19064" id="PMC3169551.nxml.gz-433" start="19058">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-434" type="identity">
+      <class id="most" label="most"/>
+      <span end="2057" id="PMC3169551.nxml.gz-435" start="2053">most</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-438" type="identity">
+      <class id="most" label="most"/>
+      <span end="22352" id="PMC3169551.nxml.gz-439" start="22348">most</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-444" type="identity">
+      <class id="must" label="must"/>
+      <span end="17427" id="PMC3169551.nxml.gz-445" start="17423">must</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-446" type="identity">
+      <class id="need_to_be" label="need_to_be"/>
+      <span end="17637" id="PMC3169551.nxml.gz-447" start="17627">need to be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-461" type="identity">
+      <class id="no_data" label="no_data"/>
+      <span end="3275" id="PMC3169551.nxml.gz-462" start="3268">no data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-465" type="identity">
+      <class id="not_available" label="not_available"/>
+      <span end="23093" id="PMC3169551.nxml.gz-466" start="23080">not available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47591" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="564" id="PMC3169551.nxml.gz-47592" start="389">Cost effectiveness was evaluated using data on programmatic costs based on two surveys in 2006 and 2009 and impact on anaemia and iron status collected in 2006, 2007, and 2008</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47593" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2173" id="PMC3169551.nxml.gz-47594" start="2030">Women and children are most vulnerable due to greater iron requirements and those in resource constrained countries are particularly at risk[1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47595" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2482" id="PMC3169551.nxml.gz-47596" start="2175">Severe maternal anaemia increases the risk of maternal and neonatal mortality and morbidity while less severe anaemia and iron deficiency have been linked to sub-optimal fetal growth, premature birth and low birth weight, as well as iron deficiency in infants[2]–[4]which may impair cognitive development[5]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47597" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2652" id="PMC3169551.nxml.gz-47598" start="2484">On a broader scale the reduced capacity for work and education due to anaemia and iron deficiency can adversely impact a population's social and economic development[6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47599" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2788" id="PMC3169551.nxml.gz-47600" start="2654">WHO guidelines recommend daily iron supplementation for pregnant women and children 6–24 months where anaemia rates are 40% or more[7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47601" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3030" id="PMC3169551.nxml.gz-47602" start="2790">A recent international expert consultation organized by WHO went further and recommended weekly supplementation with iron and folic acid for all non-pregnant women of reproductive age in areas where anaemia prevalence is greater than 20%[8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47603" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3248" id="PMC3169551.nxml.gz-47604" start="3032">A systematic review of 25 original studies concluded that this approach of weekly iron and folic acid supplementation was safe and also effective in improving haemoglobin concentration in women of reproductive age[9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47605" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3900" id="PMC3169551.nxml.gz-47606" start="3722">Contributing factors included lack of variety in the diet associated with low income, compounded by high rates of infection with soil-transmitted helminths, particularly hookworm</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47607" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="4285" id="PMC3169551.nxml.gz-47608" start="4095">As a consequence the Vietnam National Nutrition Strategy 2011–2020 has the reduction of iron deficiency anemia in children less than 5 years of age and reproductive-age women as an objective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47609" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47611" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47613" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="6638" id="PMC3169551.nxml.gz-47614" start="6296">The impact of the program on women's iron and helminth infection status in the first 12 months was assessed using structured questionnaires, stool examination and haemoglobin assessment at the field site, and blood sample analysis for ferritin, soluble Transferrin Receptor and C-Reactive Protein (to identify the presence of acute infection)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47615" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7213" id="PMC3169551.nxml.gz-47616" start="7033">The effectiveness of the distribution system and women's compliance were assessed by an independent Non-Government Organization at 10 weeks and 18 and 36 months post-implementation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47617" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7417" id="PMC3169551.nxml.gz-47618" start="7215">Structured questionnaires were administered to assess the availability of supplements at each level of the distribution chain and women's attitude about, and their history of, taking the supplements[13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47619" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7805" id="PMC3169551.nxml.gz-47620" start="7687">In addition, participating women were surveyed to assess their estimate of costs involved in accessing the supplements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47621" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="9598" id="PMC3169551.nxml.gz-47622" start="9591">imputed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47623" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="9607" id="PMC3169551.nxml.gz-47624" start="9599">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47625" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47627" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47629" type="identity">
+      <class id="estimated" label=""/>
+      <span end="15815" id="PMC3169551.nxml.gz-47630" start="15806">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47631" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17276" id="PMC3169551.nxml.gz-47632" start="17050">The provision of iron-folic acid supplements on a weekly basis for women of reproductive age is aimed at improving iron stores, particularly prior to pregnancy and during the first trimester before women access ante-natal care</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47633" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47635" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19159" id="PMC3169551.nxml.gz-47636" start="19033">Also, weekly supplements may be better tolerated, with less frequent side-effects thereby increasing acceptance and compliance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47637" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19442" id="PMC3169551.nxml.gz-47638" start="19336">The main limitation of the impact evaluation was the lack of a control arm where no intervention was given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47639" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20128" id="PMC3169551.nxml.gz-47640" start="20009">Our study did not have a sample group large or accessible enough to allow an assessment of long-term pregnancy outcomes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47641" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="22194" id="PMC3169551.nxml.gz-47642" start="21991">However, in Viet Nam fortification of cereals is not easily available for rural areas (rice, the main staple, is more costly to fortify, and less feasible to fortify given the lack of central processing)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-47643" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24165" id="PMC3169551.nxml.gz-47644" start="23926">The costs of providing weekly iron-folic acid in a program setting may also be useful for estimating costs of providing micronutrient powders for home fortification for children 6–36 months, and for therapeutic zinc for children under five</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-48701" type="identity">
+      <class id="important_consideration"/>
+      <span end="2068" id="PMC3169551.nxml.gz-48702" start="2058">vulnerable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-48703" type="identity">
+      <class id="recommend"/>
+      <span end="2678" id="PMC3169551.nxml.gz-48704" start="2669">recommend</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-48705" type="identity">
+      <class id="probable_understanding"/>
+      <span end="2819" id="PMC3169551.nxml.gz-48706" start="2813">expert</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-48707" type="identity">
+      <class id="recommended"/>
+      <span end="2878" id="PMC3169551.nxml.gz-48708" start="2867">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-48709" type="identity">
+      <class id="future_work"/>
+      <span end="4285" id="PMC3169551.nxml.gz-48710" start="4276">objective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-48711" type="identity">
+      <class id="subject_scope"/>
+      <span end="9778" id="PMC3169551.nxml.gz-48712" start="9570">Personnel costs were imputed based on information obtained from interviews with district, commune and village health workers about their total salary and the proportion of time they spent on this intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-48713" type="identity">
+      <class id="subject_scope"/>
+      <span end="16018" id="PMC3169551.nxml.gz-48714" start="15802">The estimated dollar value per capita of the productivity gains are calculated as USD1.29, i.e. $5.18 per woman of reproductive age, as compared to the cost of supplementation per woman of reproductive age of USD0.76</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-48715" type="identity">
+      <class id="probable_understanding"/>
+      <span end="17151" id="PMC3169551.nxml.gz-48716" start="17146">aimed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-48717" type="identity">
+      <class id="probable_understanding"/>
+      <span end="19122" id="PMC3169551.nxml.gz-48718" start="19115">thereby</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-48719" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="20026" id="PMC3169551.nxml.gz-48720" start="20023">not</span>
+      <span end="20073" id="PMC3169551.nxml.gz-48721" start="20067">enough</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-48722" type="identity">
+      <class id="difficult_task"/>
+      <span end="22043" id="PMC3169551.nxml.gz-48723" start="22040">not</span>
+      <span end="22060" id="PMC3169551.nxml.gz-48724" start="22051">available</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-48725" type="identity">
+      <class id="estimating"/>
+      <span end="24026" id="PMC3169551.nxml.gz-48726" start="24016">estimating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-489" type="identity">
+      <class id="only" label="only"/>
+      <span end="22925" id="PMC3169551.nxml.gz-490" start="22921">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-519" type="identity">
+      <class id="possible" label="possible"/>
+      <span end="16589" id="PMC3169551.nxml.gz-520" start="16581">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-521" type="identity">
+      <class id="possible" label="possible"/>
+      <span end="18246" id="PMC3169551.nxml.gz-522" start="18238">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-525" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="4317" id="PMC3169551.nxml.gz-526" start="4308">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-535" type="identity">
+      <class id="prevented" label="prevented"/>
+      <span end="14726" id="PMC3169551.nxml.gz-536" start="14717">prevented</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-537" type="identity">
+      <class id="previous_study" label="previous_study"/>
+      <span end="18860" id="PMC3169551.nxml.gz-538" start="18846">previous study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-539" type="identity">
+      <class id="previous_study" label="previous_study"/>
+      <span end="19717" id="PMC3169551.nxml.gz-540" start="19703">previous study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-551" type="identity">
+      <class id="reason" label="reason"/>
+      <span end="18330" id="PMC3169551.nxml.gz-552" start="18324">reason</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-553" type="identity">
+      <class id="reason" label="reason"/>
+      <span end="18757" id="PMC3169551.nxml.gz-554" start="18751">reason</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-555" type="identity">
+      <class id="reasons" label="reasons"/>
+      <span end="18254" id="PMC3169551.nxml.gz-556" start="18247">reasons</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-559" type="identity">
+      <class id="recommendation" label="recommendation"/>
+      <span end="24440" id="PMC3169551.nxml.gz-560" start="24426">recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-573" type="identity">
+      <class id="reliable" label="reliable"/>
+      <span end="17583" id="PMC3169551.nxml.gz-574" start="17575">reliable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-575" type="identity">
+      <class id="reliable" label="reliable"/>
+      <span end="18835" id="PMC3169551.nxml.gz-576" start="18827">reliable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-577" type="identity">
+      <class id="reported" label="reported"/>
+      <span end="18090" id="PMC3169551.nxml.gz-578" start="18082">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-579" type="identity">
+      <class id="reported" label="reported"/>
+      <span end="18578" id="PMC3169551.nxml.gz-580" start="18570">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-581" type="identity">
+      <class id="reported" label="reported"/>
+      <span end="23459" id="PMC3169551.nxml.gz-582" start="23451">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-585" type="identity">
+      <class id="requirements" label="requirements"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-587" type="identity">
+      <class id="risk_factors" label="risk_factors"/>
+      <span end="18982" id="PMC3169551.nxml.gz-588" start="18970">risk factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-589" type="identity">
+      <class id="safe" label="safe"/>
+      <span end="3158" id="PMC3169551.nxml.gz-590" start="3154">safe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-591" type="identity">
+      <class id="severe" label="severe"/>
+      <span end="2181" id="PMC3169551.nxml.gz-592" start="2175">Severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-593" type="identity">
+      <class id="severe" label="severe"/>
+      <span end="2284" id="PMC3169551.nxml.gz-594" start="2278">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-597" type="identity">
+      <class id="severe" label="severe"/>
+      <span end="20283" id="PMC3169551.nxml.gz-598" start="20277">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-605" type="identity">
+      <class id="shows" label="shows"/>
+      <span end="1643" id="PMC3169551.nxml.gz-606" start="1638">shows</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-611" type="identity">
+      <class id="significance" label="significance"/>
+      <span end="24415" id="PMC3169551.nxml.gz-612" start="24403">significance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-619" type="identity">
+      <class id="similar_to" label="similar_to"/>
+      <span end="21477" id="PMC3169551.nxml.gz-620" start="21467">similar to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-629" type="identity">
+      <class id="somewhat" label="somewhat"/>
+      <span end="23528" id="PMC3169551.nxml.gz-630" start="23520">somewhat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-633" type="identity">
+      <class id="strategies" label="strategies"/>
+      <span end="4328" id="PMC3169551.nxml.gz-634" start="4318">strategies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-637" type="identity">
+      <class id="suffer" label="suffer"/>
+      <span end="2015" id="PMC3169551.nxml.gz-638" start="2009">suffer</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-639" type="identity">
+      <class id="suggest" label="suggest"/>
+      <span end="1950" id="PMC3169551.nxml.gz-640" start="1943">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-657" type="identity">
+      <class id="therefore" label="therefore"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-659" type="identity">
+      <class id="therefore" label="therefore"/>
+      <span end="17614" id="PMC3169551.nxml.gz-660" start="17605">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-667" type="identity">
+      <class id="this" label="this"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-681" type="identity">
+      <class id="this_means_that" label="this_means_that"/>
+      <span end="16179" id="PMC3169551.nxml.gz-682" start="16164">This means that</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-687" type="identity">
+      <class id="to_assess" label="to_assess"/>
+      <span end="7268" id="PMC3169551.nxml.gz-688" start="7259">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-689" type="identity">
+      <class id="to_assess" label="to_assess"/>
+      <span end="7743" id="PMC3169551.nxml.gz-690" start="7734">to assess</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-693" type="identity">
+      <class id="unethical" label="unethical"/>
+      <span end="19479" id="PMC3169551.nxml.gz-694" start="19470">unethical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-695" type="identity">
+      <class id="unknown" label="unknown"/>
+      <span end="4369" id="PMC3169551.nxml.gz-696" start="4362">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-697" type="identity">
+      <class id="valuable" label="valuable"/>
+      <span end="19303" id="PMC3169551.nxml.gz-698" start="19295">valuable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-701" type="identity">
+      <class id="was_not" label="was_not"/>
+      <span end="22949" id="PMC3169551.nxml.gz-702" start="22942">was not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-715" type="identity">
+      <class id="which" label="which"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-751" type="identity">
+      <class id="will" label="will"/>
+      <span end="21788" id="PMC3169551.nxml.gz-752" start="21784">will</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-755" type="identity">
+      <class id="would_be" label="would_be"/>
+      <span end="1769" id="PMC3169551.nxml.gz-756" start="1761">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-757" type="identity">
+      <class id="would_be" label="would_be"/>
+      <span end="20163" id="PMC3169551.nxml.gz-758" start="20155">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-77" type="identity">
+      <class id="assessed" label="assessed"/>
+      <span end="6403" id="PMC3169551.nxml.gz-78" start="6395">assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-773" type="identity">
+      <class id="benefits" label="benefits"/>
+      <span end="16360" id="PMC3169551.nxml.gz-774" start="16352">benefits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-775" type="identity">
+      <class id="benefits" label="benefits"/>
+      <span end="21709" id="PMC3169551.nxml.gz-776" start="21701">benefits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-777" type="identity">
+      <class id="benefits" label="benefits"/>
+      <span end="21768" id="PMC3169551.nxml.gz-778" start="21760">benefits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-779" type="identity">
+      <class id="benefits" label="benefits"/>
+      <span end="21827" id="PMC3169551.nxml.gz-780" start="21819">benefits</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-781" type="identity">
+      <class id="efficacy" label="efficacy"/>
+      <span end="19654" id="PMC3169551.nxml.gz-782" start="19646">efficacy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-783" type="identity">
+      <class id="original" label="original"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-79" type="identity">
+      <class id="assessed" label="assessed"/>
+      <span end="7114" id="PMC3169551.nxml.gz-80" start="7106">assessed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-793" type="identity">
+      <class id="prevalence" label="prevalence"/>
+      <span end="1850" id="PMC3169551.nxml.gz-794" start="1840">prevalence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-795" type="identity">
+      <class id="prevalence" label="prevalence"/>
+      <span end="3007" id="PMC3169551.nxml.gz-796" start="2997">prevalence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-797" type="identity">
+      <class id="prevalence" label="prevalence"/>
+      <span end="3996" id="PMC3169551.nxml.gz-798" start="3986">prevalence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-799" type="identity">
+      <class id="prevalence" label="prevalence"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-809" type="identity">
+      <class id="prevalence" label="prevalence"/>
+      <span end="20273" id="PMC3169551.nxml.gz-810" start="20263">prevalence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-81" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="3790" id="PMC3169551.nxml.gz-82" start="3780">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-811" type="identity">
+      <class id="many" label="many"/>
+      <span end="18311" id="PMC3169551.nxml.gz-812" start="18307">many</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-813" type="identity">
+      <class id="globally" label="globally"/>
+      <span end="1964" id="PMC3169551.nxml.gz-814" start="1956">globally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-817" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="2217" id="PMC3169551.nxml.gz-818" start="2213">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-819" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="17361" id="PMC3169551.nxml.gz-820" start="17357">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-821" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="20327" id="PMC3169551.nxml.gz-822" start="20323">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-823" type="identity">
+      <class id="recent" label="recent"/>
+      <span end="2798" id="PMC3169551.nxml.gz-824" start="2792">recent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-825" type="identity">
+      <class id="recent" label="recent"/>
+      <span end="20639" id="PMC3169551.nxml.gz-826" start="20633">recent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-827" type="identity">
+      <class id="recent" label="recent"/>
+      <span end="22610" id="PMC3169551.nxml.gz-828" start="22604">recent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-829" type="identity">
+      <class id="intervention" label="intervention"/>
+      <span end="1756" id="PMC3169551.nxml.gz-830" start="1744">intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-83" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="16371" id="PMC3169551.nxml.gz-84" start="16361">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-831" type="identity">
+      <class id="intervention" label="intervention"/>
+      <span end="4928" id="PMC3169551.nxml.gz-832" start="4916">intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-839" type="identity">
+      <class id="intervention" label="intervention"/>
+      <span end="14687" id="PMC3169551.nxml.gz-840" start="14675">intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-843" type="identity">
+      <class id="intervention" label="intervention"/>
+      <span end="17691" id="PMC3169551.nxml.gz-844" start="17679">intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-845" type="identity">
+      <class id="currently" label="currently"/>
+      <span end="4361" id="PMC3169551.nxml.gz-846" start="4352">currently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-847" type="identity">
+      <class id="awareness" label="awareness"/>
+      <span end="3474" id="PMC3169551.nxml.gz-848" start="3465">awareness</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-849" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="24219" id="PMC3169551.nxml.gz-850" start="24206">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-85" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="16439" id="PMC3169551.nxml.gz-86" start="16429">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-853" type="identity">
+      <class id="preventing" label="preventing"/>
+      <span end="93" id="PMC3169551.nxml.gz-854" start="83">Preventing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-857" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="3074" id="PMC3169551.nxml.gz-858" start="3067">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-859" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="19638" id="PMC3169551.nxml.gz-860" start="19631">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-861" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="22735" id="PMC3169551.nxml.gz-862" start="22728">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-863" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="23422" id="PMC3169551.nxml.gz-864" start="23415">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-87" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="16647" id="PMC3169551.nxml.gz-88" start="16637">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-879" type="identity">
+      <class id="at_present" label="at_present"/>
+      <span end="22314" id="PMC3169551.nxml.gz-880" start="22304">At present</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-883" type="identity">
+      <class id="estimating" label="estimating"/>
+      <span end="24325" id="PMC3169551.nxml.gz-884" start="24315">estimating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3169551.nxml.gz-89" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="20351" id="PMC3169551.nxml.gz-90" start="20341">associated</span>
+    </annotation>
+  </document>
+</knowtator-project>

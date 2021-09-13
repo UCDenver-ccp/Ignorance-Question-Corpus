@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC5340372.nxml.gz" text-file="PMC5340372.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-100" type="identity">
+      <class id="can" label="can"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-102" type="identity">
+      <class id="can" label="can"/>
+      <span end="21939" id="PMC5340372.nxml.gz-103" start="21936">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-104" type="identity">
+      <class id="future_work" label="future_work"/>
+      <span end="22970" id="PMC5340372.nxml.gz-105" start="22967">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-106" type="identity">
+      <class id="comparable" label="comparable"/>
+      <span end="17525" id="PMC5340372.nxml.gz-107" start="17515">comparable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10733" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="56" id="PMC5340372.nxml.gz-10734" start="46">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10735" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="2954" id="PMC5340372.nxml.gz-10736" start="2945">the study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10737" type="identity">
+      <class id="recent_study" label="incomplete_evidence"/>
+      <span end="3070" id="PMC5340372.nxml.gz-10738" start="3058">recent study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10739" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="17634" id="PMC5340372.nxml.gz-10740" start="17624">suboptimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10741" type="identity">
+      <class id="important_consideration" label="0_important_consideration"/>
+      <span end="19443" id="PMC5340372.nxml.gz-10742" start="19429">worth noticing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10743" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="23410" id="PMC5340372.nxml.gz-10744" start="23404">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10745" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="23671" id="PMC5340372.nxml.gz-10746" start="23669">no</span>
+      <span end="23689" id="PMC5340372.nxml.gz-10747" start="23679">difference</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10748" type="identity">
+      <class id="important_consideration" label="problem_complication"/>
+      <span end="24382" id="PMC5340372.nxml.gz-10749" start="24372">suboptimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10750" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="139" id="PMC5340372.nxml.gz-10751" start="0">Low cord-serum 25-hydroxyvitamin D levels are associated with poor lung function performance and increased respiratory infection in infancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10752" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="250" id="PMC5340372.nxml.gz-10753" start="162">Perinatal vitamin D deficiency is associated with a higher risk of wheezing in childhood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10756" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="495" id="PMC5340372.nxml.gz-10757" start="359">The aim of this study was to investigate the impact of perinatal vitamin D levels on respiratory function and disease outcome in infancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10758" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1169" id="PMC5340372.nxml.gz-10759" start="1080"> 25(OH)D levels in maternal and cord serum were highly correlated ( r2= 0.457, p&lt; 0.0001)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10760" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1374" id="PMC5340372.nxml.gz-10761" start="1171">Infants with lower cord serum 25(OH)D levels (&lt; 13.7 ng/ml) had higher resistance of respiratory system ( p&lt; 0.01) and a higher risk of a respiratory tract infection before the age of 6 months ( p&lt; 0.01)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10762" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10764" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1721" id="PMC5340372.nxml.gz-10765" start="1519">Our study is the first to show that low cord 25(OH)D levels significantly relationship with poorer lung function performance and higher likelihood of a respiratory tract infection before 6 months of age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10768" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2114" id="PMC5340372.nxml.gz-10769" start="1861">Since the discovery that most tissues and cells have vitamin D receptors, there has been great interest in its role in the development of many diseases, such as cancer [1], cardiovascular diseases [2], infectious diseases [3], and autoimmune disease [4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10770" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2236" id="PMC5340372.nxml.gz-10771" start="2116">Camargo et al. reported an inverse correlation between prenatal vitamin D intake and recurrent wheezing of offspring [5]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10772" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2445" id="PMC5340372.nxml.gz-10773" start="2238">Measurements of vitamin D serum level 25-hydroxyvitamin D [25(OH)D] have yielded conflicting results regarding the relationship between maternal- or cord-blood levels and subsequent asthma development [6–15]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10774" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2604" id="PMC5340372.nxml.gz-10775" start="2447">However, Baiz et al. and Camargo et al. have recently shown that infants with low cord serum vitamin D levels have a higher risk of childhood wheezing [7,11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10776" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2773" id="PMC5340372.nxml.gz-10777" start="2606">Although episodes of wheezing during childhood are mostly caused by a viral respiratory infection, their detailed pathogenesis and relationship with asthma are unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10778" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="2801" id="PMC5340372.nxml.gz-10779" start="2791">classified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10780" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2940" id="PMC5340372.nxml.gz-10781" start="2775">Martinez et al. classified childhood wheezing into four distinct phenotypes: no wheezing, transient early wheezing, late-onset wheezing, and persistent wheezing [16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10784" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3191" id="PMC5340372.nxml.gz-10785" start="3056">A recent study further revealed that cord serum 25(OH)D levels were inversely correlated with the risk of transient early wheezing [11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10786" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3310" id="PMC5340372.nxml.gz-10787" start="3193">However, the relationship between vitamin D levels and respiratory function during infancy has not yet been clarified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10788" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3459" id="PMC5340372.nxml.gz-10789" start="3312">The primary purpose of this study was to investigate the effect of perinatal vitamin D levels on the performance of respiratory function in infancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10790" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3598" id="PMC5340372.nxml.gz-10791" start="3461">The secondary objective was to further clarify the effect on the risk of eczema, wheezing, and respiratory tract infections in early life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10792" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4561" id="PMC5340372.nxml.gz-10793" start="4260">Neonates born prematurely (gestational age &lt; 37 weeks), those with major birth defects or congenital structural anomalies of the upper airway, those who were hemodynamically unstable, and those with a history of severe lower airway infection with intensive care admission, were excluded from the study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10794" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="6458" id="PMC5340372.nxml.gz-10795" start="6286">Since there were few adverse events being reported, chloral hydrate has been the preferred medication for infant lung function tests for over 20 years at US and Europe [21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10796" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="6990" id="PMC5340372.nxml.gz-10797" start="6751">Infant lung function testing was performed with the Jaeger Masterscreen BabyBody Paediatrics System (CareFusion, Höchberg, Germany), which conforms with the American Thoracic Society and European Respiratory Society recommendations [22–25]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10798" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="12551" id="PMC5340372.nxml.gz-10799" start="12430">There was a significant positive correlation between maternal and cord serum 25(OH)D levels ( r2= 0.457, p&lt; 0.0001;Fig 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-108" type="identity">
+      <class id="complicated" label="complicated"/>
+      <span end="20790" id="PMC5340372.nxml.gz-109" start="20779">complicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10800" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="12790" id="PMC5340372.nxml.gz-10801" start="12553">The mean 25(OH)D level of the 71 infants who successfully underwent later infant lung function testing was 13.8 ± 6.3 ng/ml, and that of their mothers was 15.0 ± 6.1 ng/ml, which were also significantly correlated ( r2= 0.468, p&lt; 0.0001)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10802" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="12905" id="PMC5340372.nxml.gz-10803" start="12847">Correlation between maternal and cord serum 25(OH)D levels</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10804" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="13165" id="PMC5340372.nxml.gz-10805" start="12952">To compare the effect of cord 25(OH)D level on lung function at 6 months of age, we defined those with cord 25(OH)D level ≥ 13.8 ng/ml as the “high cord 25(OH)D” group, and the rest as the “low cord 25(OH)D” group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10806" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="13296" id="PMC5340372.nxml.gz-10807" start="13167">In addition, maternal 25D(OH) level ≥15.0 ng/ml was described as “high maternal 25(OH)D” and &lt;15.0 ng/ml as “low maternal 25(OH)D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10810" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="13859" id="PMC5340372.nxml.gz-10811" start="13682">After adjusting for body length and comparing with a local reference, the high cord 25(OH)D group still had significantly lower Rrs than did the low cord 25(OH)D group (Table 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10814" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="14647" id="PMC5340372.nxml.gz-10815" start="14448">Although the incidence of infant wheeze was similar between the groups, the percentage of respiratory tract infection was significantly higher in infants with a low cord serum 25(OH)D level (Table 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10818" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="15051" id="PMC5340372.nxml.gz-10819" start="14868">The analysis showed that high cord 25(OH)D was the strongest predictor of good lung function performance (Table 3), and vice versa, low cord level predicted poor lung function outcome</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10820" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="15176" id="PMC5340372.nxml.gz-10821" start="15053">Meanwhile, paternal history with allergic rhinitis and maternal smoke in pregnancy also had adverse effect on lung function</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10822" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="15316" id="PMC5340372.nxml.gz-10823" start="15178">However, low cord 25(OH)D alone was the only predicted higher probability of respiratory infection in the first 6 months of life (Table 4)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10824" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16415" id="PMC5340372.nxml.gz-10825" start="16288">A positive correlation was found between 25(OH)D levels in the serum of mother and child in this prospective birth cohort study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10826" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16567" id="PMC5340372.nxml.gz-10827" start="16417">This is the first report to show that low cord—and not maternal—serum 25(OH)D levels contribute to relatively poor lung performance at 6 months of age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10828" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16701" id="PMC5340372.nxml.gz-10829" start="16569">An increased risk for a respiratory tract infection before the age of 6 months was also found in infants with low cord 25(OH)D level</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10830" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16907" id="PMC5340372.nxml.gz-10831" start="16703">However, no differences were found in the incidence of wheeze and eczema or the rate of nasopharyngeal bacterial colonization between the groups with high and low 25(OH)D levels of mother—cord serum pairs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10832" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17094" id="PMC5340372.nxml.gz-10833" start="16909">Infants who were exclusively breastfed or had high levels of skin pigmentation, inadequate sunlight exposure, or inadequate vitamin supplement are at risk of a vitamin D deficiency [26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10834" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17256" id="PMC5340372.nxml.gz-10835" start="17096">Although a circulating level of 25(OH)D less than 20 ng/mL is defined as vitamin D deficiency [27,28], the mean levels may vary among different populations [29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10836" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17360" id="PMC5340372.nxml.gz-10837" start="17258">In previous studies, mean 25(OH)D levels were generally higher than 20 ng/ml in maternal serum [6,8,9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10838" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17440" id="PMC5340372.nxml.gz-10839" start="17362">However, cord serum levels ranged widely from 10.95 to 34.4 ng/mL [7,11–13,30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10840" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17616" id="PMC5340372.nxml.gz-10841" start="17442">In this study, the mean 25(OH)D level in the cord serum (13.8 ng/mL) was comparable with other reports, but a lower mean level in the maternal serum (15.0 ng/mL) was observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10842" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17693" id="PMC5340372.nxml.gz-10843" start="17618">These suboptimal levels were also seen in recent reports by Liao et al [31]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10844" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17806" id="PMC5340372.nxml.gz-10845" start="17695">Nevertheless, fair correlations between mother and cord blood were found in previous and this study as well [9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10846" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17956" id="PMC5340372.nxml.gz-10847" start="17808">Animal studies have found that vitamin D deficiency can cause deficits in lung function, which can be explained by a change in lung development [32]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10850" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18228" id="PMC5340372.nxml.gz-10851" start="18106">The COPSAC2000study have failed to show an association between cord 25(OH)D level and lung function at 7 years of age [33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10852" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18587" id="PMC5340372.nxml.gz-10853" start="18385">However, in contrary to these reports, a survey in Canadian children showed that both low and high vitamin D levels were related to increased risk of wheeze and reduced performance of lung function [35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10854" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18698" id="PMC5340372.nxml.gz-10855" start="18589">However, comparing to our study, the median level of cord 25(OH)D of COPSAC2000was relatively high (19 ng/ml)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10856" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18848" id="PMC5340372.nxml.gz-10857" start="18700">Furthermore, instead of measuring cord serum 25(OH)D, both KOALA and Canadian studies determined the level of 25(OH)D during preschool or school age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10858" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19117" id="PMC5340372.nxml.gz-10859" start="18850">Regarding to the relationship between 25(OH)D and lung function in adults, the HUNT study revealed that low serum 25(OH)D level was not associated with airway obstruction in most asthma adults with the exception of males with asthma but without allergic rhinitis [36]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10860" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19247" id="PMC5340372.nxml.gz-10861" start="19119">Therefore, drawing conclusions about the effects of perinatal and postnatal vitamin D status from these results can be difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10862" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19408" id="PMC5340372.nxml.gz-10863" start="19249">In this study, although cord serum 25(OH)D level was not associated with higher risk of wheeze at 6 months, it is related with increased respiratory resistance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10864" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19539" id="PMC5340372.nxml.gz-10865" start="19410">Furthermore, it is worth noticing that the increased airway resistance may result in a higher risk of wheezing in early childhood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10866" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19625" id="PMC5340372.nxml.gz-10867" start="19541">Infant lung function testing has been widely used in research and clinical practices</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10868" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20154" id="PMC5340372.nxml.gz-10869" start="20043">Measurements of resistance and forced expiration are the most commonly used maneuvers to assess airway function</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10870" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20444" id="PMC5340372.nxml.gz-10871" start="20340">By comparison, forced expiration maneuvers more closely reflect the function of the intrathoracic airway</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10874" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="20720" id="PMC5340372.nxml.gz-10875" start="20646">The fetal vitamin D status is dependent on the placental-fetal circulation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10880" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21222" id="PMC5340372.nxml.gz-10881" start="21068">Bailey et al had discovered that, after transplacental circulation, the concentration of C3-epi-25(OH)D was significant higher in infants than mother [44]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10884" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21592" id="PMC5340372.nxml.gz-10885" start="21443">Recent studies have shown that vitamin D can directly stimulate several immune cells and can promote the production of antimicrobial peptides [45–47]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10888" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21880" id="PMC5340372.nxml.gz-10889" start="21731">In asthmatic children, episodes of acute exacerbation relating to respiratory infection were also inversely associated with serum 25(OH)D levels [49]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10890" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21995" id="PMC5340372.nxml.gz-10891" start="21882">In a randomized control trial, a vitamin D supplement can even decrease the risk of seasonal flu in children [50]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10892" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22145" id="PMC5340372.nxml.gz-10893" start="21997">Because of substantial antibody levels from transplacental transmission, infants are less likely to get respiratory infection before 6 months of age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10894" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22313" id="PMC5340372.nxml.gz-10895" start="22147">Furthermore, Camargo et al. has shown that infants with low cord serum 25(OH)D levels have a higher risk of respiratory tract infection before the age of 3 months [7]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10898" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22558" id="PMC5340372.nxml.gz-10899" start="22423">More investigation is required to further understand the role of vitamin D for the prevention of respiratory tract infection in infancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10900" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22612" id="PMC5340372.nxml.gz-10901" start="22560">There are some potential limitations to our findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10906" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23034" id="PMC5340372.nxml.gz-10907" start="22886">In addition, in the regression model for analysis of predictors, the power still can achieve as high as 0.8 (alpha risk, 0.05; effect size f2, 0.15)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10908" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23262" id="PMC5340372.nxml.gz-10909" start="23036">Second, our previous report concluded that relatively low vitamin D levels were common in the PATCH population sample of children and young adults with an inverse correlation between 25(OH)D level and age being shown here [51]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10910" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10912" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10914" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23727" id="PMC5340372.nxml.gz-10915" start="23557">Third, a large percentage of infants in the low cord 25(OH)D group were male, although our previous study found no gender difference in the infant lung function test [18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10916" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10918" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24270" id="PMC5340372.nxml.gz-10919" start="24134">Therefore, defining the causal relationship between Rrs and clinical outcomes in infants with low cord serum 25(OH)D levels is difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10920" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10922" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10924" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24862" id="PMC5340372.nxml.gz-10925" start="24684">In conclusion, this study is the first to reveal that infants with low cord serum 25(OH)D levels have poorer lung function at 6 months of age compared with those with high levels</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10926" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24941" id="PMC5340372.nxml.gz-10927" start="24864">They also have a higher risk of a respiratory tract infection before this age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10928" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-10930" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-110" type="identity">
+      <class id="concluded" label="concluded"/>
+      <span end="23073" id="PMC5340372.nxml.gz-111" start="23064">concluded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-116" type="identity">
+      <class id="conclusions" label="conclusions"/>
+      <span end="19149" id="PMC5340372.nxml.gz-117" start="19138">conclusions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-118" type="identity">
+      <class id="conflicting" label="conflicting"/>
+      <span end="2330" id="PMC5340372.nxml.gz-119" start="2319">conflicting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-122" type="identity">
+      <class id="contrary" label="contrary"/>
+      <span end="18405" id="PMC5340372.nxml.gz-123" start="18397">contrary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-124" type="identity">
+      <class id="contribute" label="contribute"/>
+      <span end="16512" id="PMC5340372.nxml.gz-125" start="16502">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-126" type="identity">
+      <class id="contribute" label="contribute"/>
+      <span end="21361" id="PMC5340372.nxml.gz-127" start="21351">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-128" type="identity">
+      <class id="correlated" label="correlated"/>
+      <span end="1145" id="PMC5340372.nxml.gz-129" start="1135">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-13" type="identity">
+      <class id="although" label="although"/>
+      <span end="2614" id="PMC5340372.nxml.gz-14" start="2606">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-130" type="identity">
+      <class id="correlated" label="correlated"/>
+      <span end="3144" id="PMC5340372.nxml.gz-131" start="3134">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-132" type="identity">
+      <class id="correlated" label="correlated"/>
+      <span end="12766" id="PMC5340372.nxml.gz-133" start="12756">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-134" type="identity">
+      <class id="correlated" label="correlated"/>
+      <span end="24997" id="PMC5340372.nxml.gz-135" start="24987">correlated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-136" type="identity">
+      <class id="correlation" label="correlation"/>
+      <span end="1415" id="PMC5340372.nxml.gz-137" start="1404">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-138" type="identity">
+      <class id="correlation" label="correlation"/>
+      <span end="2162" id="PMC5340372.nxml.gz-139" start="2151">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-146" type="identity">
+      <class id="correlation" label="correlation"/>
+      <span end="12474" id="PMC5340372.nxml.gz-147" start="12463">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-148" type="identity">
+      <class id="correlation" label="correlation"/>
+      <span end="12858" id="PMC5340372.nxml.gz-149" start="12847">Correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-15" type="identity">
+      <class id="although" label="although"/>
+      <span end="14456" id="PMC5340372.nxml.gz-16" start="14448">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-150" type="identity">
+      <class id="correlation" label="correlation"/>
+      <span end="16310" id="PMC5340372.nxml.gz-151" start="16299">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-152" type="identity">
+      <class id="correlation" label="correlation"/>
+      <span end="23210" id="PMC5340372.nxml.gz-153" start="23199">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-154" type="identity">
+      <class id="correlations" label="correlations"/>
+      <span end="17726" id="PMC5340372.nxml.gz-155" start="17714">correlations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-156" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-160" type="identity">
+      <class id="crucial" label="crucial"/>
+      <span end="1757" id="PMC5340372.nxml.gz-161" start="1750">crucial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-162" type="identity">
+      <class id="defined" label="defined"/>
+      <span end="13043" id="PMC5340372.nxml.gz-163" start="13036">defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-164" type="identity">
+      <class id="defined" label="defined"/>
+      <span end="17165" id="PMC5340372.nxml.gz-165" start="17158">defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-166" type="identity">
+      <class id="defining" label="defining"/>
+      <span end="24153" id="PMC5340372.nxml.gz-167" start="24145">defining</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-17" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="17104" id="PMC5340372.nxml.gz-18" start="17096">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-172" type="identity">
+      <class id="dependent" label="dependent"/>
+      <span end="20685" id="PMC5340372.nxml.gz-173" start="20676">dependent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-174" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="13228" id="PMC5340372.nxml.gz-175" start="13219">described</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-180" type="identity">
+      <class id="difference" label="difference"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-19" type="identity">
+      <class id="although" label="although"/>
+      <span end="19272" id="PMC5340372.nxml.gz-20" start="19264">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-194" type="identity">
+      <class id="different" label="different"/>
+      <span end="1517" id="PMC5340372.nxml.gz-195" start="1508">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-200" type="identity">
+      <class id="different" label="different"/>
+      <span end="17239" id="PMC5340372.nxml.gz-201" start="17230">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-202" type="identity">
+      <class id="difficult_task" label="different"/>
+      <span end="24076" id="PMC5340372.nxml.gz-203" start="24067">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-204" type="identity">
+      <class id="difficult" label="difficult"/>
+      <span end="19247" id="PMC5340372.nxml.gz-205" start="19238">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-206" type="identity">
+      <class id="difficult" label="difficult"/>
+      <span end="24270" id="PMC5340372.nxml.gz-207" start="24261">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-208" type="identity">
+      <class id="difficult" label="difficult"/>
+      <span end="24682" id="PMC5340372.nxml.gz-209" start="24673">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-21" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="23643" id="PMC5340372.nxml.gz-22" start="23635">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-210" type="identity">
+      <class id="difficulties" label="difficulties"/>
+      <span end="22649" id="PMC5340372.nxml.gz-211" start="22637">difficulties</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-212" type="identity">
+      <class id="discovered" label="discovered"/>
+      <span end="21095" id="PMC5340372.nxml.gz-213" start="21085">discovered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-214" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="1480" id="PMC5340372.nxml.gz-215" start="1474">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-216" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="3375" id="PMC5340372.nxml.gz-217" start="3369">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-218" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="3518" id="PMC5340372.nxml.gz-219" start="3512">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-222" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="12973" id="PMC5340372.nxml.gz-223" start="12967">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-224" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="15159" id="PMC5340372.nxml.gz-225" start="15153">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-23" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="23914" id="PMC5340372.nxml.gz-24" start="23906">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-230" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="25174" id="PMC5340372.nxml.gz-231" start="25168">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-234" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="19167" id="PMC5340372.nxml.gz-235" start="19160">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-236" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="24583" id="PMC5340372.nxml.gz-237" start="24576">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-242" type="identity">
+      <class id="even" label="even"/>
+      <span end="21944" id="PMC5340372.nxml.gz-243" start="21940">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-244" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-246" type="identity">
+      <class id="exception" label="exception"/>
+      <span end="19061" id="PMC5340372.nxml.gz-247" start="19052">exception</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-248" type="identity">
+      <class id="explain" label="explain"/>
+      <span end="21298" id="PMC5340372.nxml.gz-249" start="21291">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-25" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="24405" id="PMC5340372.nxml.gz-26" start="24397">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-250" type="identity">
+      <class id="explained" label="explained"/>
+      <span end="17919" id="PMC5340372.nxml.gz-251" start="17910">explained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-254" type="identity">
+      <class id="failed" label="failed"/>
+      <span end="18137" id="PMC5340372.nxml.gz-255" start="18131">failed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-258" type="identity">
+      <class id="first" label="first"/>
+      <span end="1541" id="PMC5340372.nxml.gz-259" start="1536">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-264" type="identity">
+      <class id="first" label="first"/>
+      <span end="16434" id="PMC5340372.nxml.gz-265" start="16429">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-268" type="identity">
+      <class id="first" label="first"/>
+      <span end="24722" id="PMC5340372.nxml.gz-269" start="24717">first</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-27" type="identity">
+      <class id="although" label="alternative_options_controversy"/>
+      <span end="24951" id="PMC5340372.nxml.gz-28" start="24943">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-270" type="identity">
+      <class id="found" label="found"/>
+      <span end="1425" id="PMC5340372.nxml.gz-271" start="1420">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-272" type="identity">
+      <class id="found" label="found"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-276" type="identity">
+      <class id="found" label="found"/>
+      <span end="16320" id="PMC5340372.nxml.gz-277" start="16315">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-278" type="identity">
+      <class id="found" label="found"/>
+      <span end="16662" id="PMC5340372.nxml.gz-279" start="16657">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-282" type="identity">
+      <class id="found" label="found"/>
+      <span end="17767" id="PMC5340372.nxml.gz-283" start="17762">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-284" type="identity">
+      <class id="found" label="found"/>
+      <span end="17833" id="PMC5340372.nxml.gz-285" start="17828">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-288" type="identity">
+      <class id="found" label="found"/>
+      <span end="23668" id="PMC5340372.nxml.gz-289" start="23663">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-290" type="identity">
+      <class id="further" label="further"/>
+      <span end="3078" id="PMC5340372.nxml.gz-291" start="3071">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-292" type="identity">
+      <class id="further" label="further"/>
+      <span end="3499" id="PMC5340372.nxml.gz-293" start="3492">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-300" type="identity">
+      <class id="future_work" label="future_work"/>
+      <span end="22464" id="PMC5340372.nxml.gz-301" start="22457">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-302" type="identity">
+      <class id="future_work" label="future_work"/>
+      <span end="24557" id="PMC5340372.nxml.gz-303" start="24550">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-304" type="identity">
+      <class id="generally" label="generally"/>
+      <span end="17313" id="PMC5340372.nxml.gz-305" start="17304">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-306" type="identity">
+      <class id="generally" label="generally"/>
+      <span end="24371" id="PMC5340372.nxml.gz-307" start="24362">generally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-314" type="identity">
+      <class id="has_shown" label="has_shown"/>
+      <span end="22184" id="PMC5340372.nxml.gz-315" start="22175">has shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-318" type="identity">
+      <class id="have_shown" label="have_shown"/>
+      <span end="21468" id="PMC5340372.nxml.gz-319" start="21458">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-320" type="identity">
+      <class id="here" label="here"/>
+      <span end="23257" id="PMC5340372.nxml.gz-321" start="23253">here</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-322" type="identity">
+      <class id="anomaly_curious_finding" label="however"/>
+      <span end="259" id="PMC5340372.nxml.gz-323" start="252">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-324" type="identity">
+      <class id="however" label="however"/>
+      <span end="2454" id="PMC5340372.nxml.gz-325" start="2447">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-326" type="identity">
+      <class id="however" label="however"/>
+      <span end="3200" id="PMC5340372.nxml.gz-327" start="3193">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-33" type="identity">
+      <class id="as" label="as"/>
+      <span end="13089" id="PMC5340372.nxml.gz-34" start="13087">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-332" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="15185" id="PMC5340372.nxml.gz-333" start="15178">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-334" type="identity">
+      <class id="however" label="however"/>
+      <span end="16710" id="PMC5340372.nxml.gz-335" start="16703">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-336" type="identity">
+      <class id="however" label="however"/>
+      <span end="17369" id="PMC5340372.nxml.gz-337" start="17362">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-338" type="identity">
+      <class id="however" label="however"/>
+      <span end="18392" id="PMC5340372.nxml.gz-339" start="18385">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-340" type="identity">
+      <class id="however" label="however"/>
+      <span end="18596" id="PMC5340372.nxml.gz-341" start="18589">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-342" type="identity">
+      <class id="anomaly_curious_finding" label="however"/>
+      <span end="22322" id="PMC5340372.nxml.gz-343" start="22315">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-344" type="identity">
+      <class id="impact" label="impact"/>
+      <span end="410" id="PMC5340372.nxml.gz-345" start="404">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-346" type="identity">
+      <class id="impact" label="impact"/>
+      <span end="25054" id="PMC5340372.nxml.gz-347" start="25048">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-348" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="16999" id="PMC5340372.nxml.gz-349" start="16989">inadequate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-35" type="identity">
+      <class id="as" label="as"/>
+      <span end="13136" id="PMC5340372.nxml.gz-36" start="13134">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-350" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="17032" id="PMC5340372.nxml.gz-351" start="17022">inadequate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-352" type="identity">
+      <class id="increased_risk" label="increased_risk"/>
+      <span end="16586" id="PMC5340372.nxml.gz-353" start="16572">increased risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-354" type="identity">
+      <class id="increased_risk" label="increased_risk"/>
+      <span end="18531" id="PMC5340372.nxml.gz-355" start="18517">increased risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-356" type="identity">
+      <class id="increased_risk" label="increased_risk"/>
+      <span end="21402" id="PMC5340372.nxml.gz-357" start="21388">increased risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-358" type="identity">
+      <class id="increased_risk" label="increased_risk"/>
+      <span end="24458" id="PMC5340372.nxml.gz-359" start="24444">increased risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-364" type="identity">
+      <class id="independent" label="independent"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-368" type="identity">
+      <class id="instead" label="instead"/>
+      <span end="18720" id="PMC5340372.nxml.gz-369" start="18713">instead</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-37" type="identity">
+      <class id="as" label="as"/>
+      <span end="13231" id="PMC5340372.nxml.gz-38" start="13229">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-370" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="1964" id="PMC5340372.nxml.gz-371" start="1956">interest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-372" type="identity">
+      <class id="interpretation" label="interpretation"/>
+      <span end="20748" id="PMC5340372.nxml.gz-373" start="20734">interpretation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-382" type="identity">
+      <class id="likelihood" label="likelihood"/>
+      <span end="1665" id="PMC5340372.nxml.gz-383" start="1655">likelihood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-384" type="identity">
+      <class id="likely" label="likely"/>
+      <span end="22093" id="PMC5340372.nxml.gz-385" start="22087">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-386" type="identity">
+      <class id="limitations" label="limitations"/>
+      <span end="22596" id="PMC5340372.nxml.gz-387" start="22585">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-388" type="identity">
+      <class id="limited_evidence" label="limited_evidence"/>
+      <span end="24002" id="PMC5340372.nxml.gz-389" start="23986">limited evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-39" type="identity">
+      <class id="as" label="as"/>
+      <span end="13274" id="PMC5340372.nxml.gz-40" start="13272">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-400" type="identity">
+      <class id="may" label="may"/>
+      <span end="17218" id="PMC5340372.nxml.gz-401" start="17215">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-402" type="identity">
+      <class id="may" label="may"/>
+      <span end="19484" id="PMC5340372.nxml.gz-403" start="19481">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-404" type="identity">
+      <class id="may" label="future_prediction"/>
+      <span end="21290" id="PMC5340372.nxml.gz-405" start="21287">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-406" type="identity">
+      <class id="may_be" label="future_prediction"/>
+      <span end="20778" id="PMC5340372.nxml.gz-407" start="20772">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-408" type="identity">
+      <class id="may_be" label="future_prediction"/>
+      <span end="20881" id="PMC5340372.nxml.gz-409" start="20875">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-41" type="identity">
+      <class id="as" label="as"/>
+      <span end="17168" id="PMC5340372.nxml.gz-42" start="17166">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-410" type="identity">
+      <class id="might" label="might"/>
+      <span end="20577" id="PMC5340372.nxml.gz-411" start="20572">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-412" type="identity">
+      <class id="might" label="might"/>
+      <span end="23530" id="PMC5340372.nxml.gz-413" start="23525">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-414" type="identity">
+      <class id="might" label="might"/>
+      <span end="24663" id="PMC5340372.nxml.gz-415" start="24658">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-416" type="identity">
+      <class id="most" label="most"/>
+      <span end="1890" id="PMC5340372.nxml.gz-417" start="1886">most</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-418" type="identity">
+      <class id="most" label="most"/>
+      <span end="19028" id="PMC5340372.nxml.gz-419" start="19024">most</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-420" type="identity">
+      <class id="most_commonly" label="most_commonly"/>
+      <span end="20113" id="PMC5340372.nxml.gz-421" start="20100">most commonly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-422" type="identity">
+      <class id="mostly" label="mostly"/>
+      <span end="2663" id="PMC5340372.nxml.gz-423" start="2657">mostly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-424" type="identity">
+      <class id="nevertheless" label="nevertheless"/>
+      <span end="17707" id="PMC5340372.nxml.gz-425" start="17695">Nevertheless</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-447" type="identity">
+      <class id="not_been_investigated" label="not_been_investigated"/>
+      <span end="357" id="PMC5340372.nxml.gz-448" start="336">not been investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-449" type="identity">
+      <class id="not_yet" label="not_yet"/>
+      <span end="3295" id="PMC5340372.nxml.gz-450" start="3288">not yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-457" type="identity">
+      <class id="objective" label="objective"/>
+      <span end="3484" id="PMC5340372.nxml.gz-458" start="3475">objective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-459" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="17616" id="PMC5340372.nxml.gz-460" start="17608">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-463" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="15222" id="PMC5340372.nxml.gz-464" start="15218">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-473" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="17536" id="PMC5340372.nxml.gz-474" start="17531">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-475" type="identity">
+      <class id="our_findings" label="our_findings"/>
+      <span end="22612" id="PMC5340372.nxml.gz-476" start="22600">our findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-477" type="identity">
+      <class id="our_study" label="our_study"/>
+      <span end="1528" id="PMC5340372.nxml.gz-478" start="1519">Our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-479" type="identity">
+      <class id="our_study" label="our_study"/>
+      <span end="18620" id="PMC5340372.nxml.gz-480" start="18611">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-481" type="identity">
+      <class id="our_study" label="our_study"/>
+      <span end="23450" id="PMC5340372.nxml.gz-482" start="23441">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-483" type="identity">
+      <class id="our_study" label="our_study"/>
+      <span end="24395" id="PMC5340372.nxml.gz-484" start="24386">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-489" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="16531" id="PMC5340372.nxml.gz-490" start="16527">poor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-491" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="21369" id="PMC5340372.nxml.gz-492" start="21365">poor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-497" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="22584" id="PMC5340372.nxml.gz-498" start="22575">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-503" type="identity">
+      <class id="superficial_relationship" label="superficial_relationship"/>
+      <span end="15024" id="PMC5340372.nxml.gz-504" start="15015">predicted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-505" type="identity">
+      <class id="superficial_relationship" label="superficial_relationship"/>
+      <span end="15232" id="PMC5340372.nxml.gz-506" start="15223">predicted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-507" type="identity">
+      <class id="predictor" label="predictor"/>
+      <span end="14938" id="PMC5340372.nxml.gz-508" start="14929">predictor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-51" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="206" id="PMC5340372.nxml.gz-52" start="196">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-511" type="identity">
+      <class id="predictors" label="predictors"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-515" type="identity">
+      <class id="preferred" label="preferred"/>
+      <span end="6376" id="PMC5340372.nxml.gz-516" start="6367">preferred</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-517" type="identity">
+      <class id="previous" label="previous"/>
+      <span end="17779" id="PMC5340372.nxml.gz-518" start="17771">previous</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-519" type="identity">
+      <class id="previous" label="previous"/>
+      <span end="23056" id="PMC5340372.nxml.gz-520" start="23048">previous</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-521" type="identity">
+      <class id="previous...studies" label="previous...studies"/>
+      <span end="17277" id="PMC5340372.nxml.gz-522" start="17261">previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-525" type="identity">
+      <class id="previous_study" label="previous_study"/>
+      <span end="23662" id="PMC5340372.nxml.gz-526" start="23648">previous study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-529" type="identity">
+      <class id="probability" label="probability"/>
+      <span end="15251" id="PMC5340372.nxml.gz-530" start="15240">probability</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52964" type="identity">
+      <class id="subject_scope"/>
+      <span end="357" id="PMC5340372.nxml.gz-52965" start="252">However, the relationship between vitamin D levels and lung function in infancy has not been investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52966" type="identity">
+      <class id="subject_scope"/>
+      <span end="1517" id="PMC5340372.nxml.gz-52967" start="1388">Although a high correlation was found between maternal and cord vitamin D levels, the effect on respiratory outcome was different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52968" type="identity">
+      <class id="subject_scope"/>
+      <span end="1859" id="PMC5340372.nxml.gz-52969" start="1737">Vitamin D is crucial not only for calcium metabolism and skeletal health but also in the homeostasis of many other systems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52970" type="identity">
+      <class id="subject_scope"/>
+      <span end="3054" id="PMC5340372.nxml.gz-52971" start="2942">In the study, the majority of infants with transient early wheezing had diminished airway function in early life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52972" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52974" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="13868" id="PMC5340372.nxml.gz-52975" start="13861">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52976" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52978" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52980" type="identity">
+      <class id="subject_scope"/>
+      <span end="18104" id="PMC5340372.nxml.gz-52981" start="17958">Similarly, in a large birth cohort study, infants with low cord serum 25(OH)D had a higher risk of transient wheeze before the age of 5 years [11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52982" type="identity">
+      <class id="found"/>
+      <span end="18264" id="PMC5340372.nxml.gz-52983" start="18259">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52984" type="identity">
+      <class id="subject_scope"/>
+      <span end="20644" id="PMC5340372.nxml.gz-52985" start="20446">In this study, infants with low 25(OH)D had higher Rrs but similar VmaxFRC, which implies that low perinatal vitamin D levels might be associated with a higher resistance of the extrathoracic airway</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52986" type="identity">
+      <class id="subject_scope"/>
+      <span end="20951" id="PMC5340372.nxml.gz-52987" start="20722">Though, the interpretation of serum 25(OH)D level may be complicated by the presence of C3-epimer of 25(OH)D [C3-epi-25(OH)D], a vitamin metabolite that may be erroneously included as 25(OH)D by LC-MS and immunoassay methods [43]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52988" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52990" type="identity">
+      <class id="subject_scope"/>
+      <span end="21441" id="PMC5340372.nxml.gz-52991" start="21224">Therefore, the high concentration of C3-epi-25(OH)D in infants may explain that low cord—but not maternal—serum 25(OH)D levels contribute to poor lung function and increased risk of respiratory infection in this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52992" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52994" type="identity">
+      <class id="subject_scope"/>
+      <span end="22421" id="PMC5340372.nxml.gz-52995" start="22315">However, the exact association between single cord-serum vitamin D level and postnatal immunity is unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52996" type="identity">
+      <class id="subject_scope"/>
+      <span end="22767" id="PMC5340372.nxml.gz-52997" start="22614">First, in cause of the difficulties in performing infant lung function testing, relatively small number of mother-infant pairs was enrolled in this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-52998" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53000" type="identity">
+      <class id="subject_scope"/>
+      <span end="23436" id="PMC5340372.nxml.gz-53001" start="23264">The majority of the participants lived in Keelung, a rainy city whose inhabitants have a higher risk of vitamin D deficiency than elsewhere due to lack of sun exposure [52]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53002" type="identity">
+      <class id="subject_scope"/>
+      <span end="23555" id="PMC5340372.nxml.gz-53003" start="23438">In our study, the mean 25(OH)D level of the maternal serum was low, at 15 ng/ml, which might hinder our investigation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53004" type="identity">
+      <class id="probable_understanding"/>
+      <span end="23792" id="PMC5340372.nxml.gz-53005" start="23783">relies on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53006" type="identity">
+      <class id="subject_scope"/>
+      <span end="24132" id="PMC5340372.nxml.gz-53007" start="23906">Although this technique is relatively noninvasive and easy to perform, there is limited evidence showing that the Rrs is sensitive enough to distinguish between different groups of infants with various clinical conditions [54]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53008" type="identity">
+      <class id="subject_scope"/>
+      <span end="24395" id="PMC5340372.nxml.gz-53009" start="24272">Last, the sample size was rather small, and the vitamin D levels of the participants were generally suboptimal in our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53010" type="identity">
+      <class id="subject_scope"/>
+      <span end="24682" id="PMC5340372.nxml.gz-53011" start="24397">Although poor lung function performance and an increased risk of respiratory tract infection were related to relatively low cord serum vitamin D levels, further extrapolating the effects of vitamin D on the respiratory function of the general infant population might still be difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53012" type="identity">
+      <class id="subject_scope"/>
+      <span end="25099" id="PMC5340372.nxml.gz-53013" start="24943">Although cord vitamin D levels are strongly correlated with maternal vitamin D levels, the extent of the impact on later respiratory function is distinctive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53014" type="identity">
+      <class id="subject_scope"/>
+      <span end="25263" id="PMC5340372.nxml.gz-53015" start="25101">We believe that this study provides a clearer understanding of the effect of perinatal vitamin D levels on respiratory function and respiratory outcome in infancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53063" type="identity">
+      <class id="not_only...but_also"/>
+      <span end="1766" id="PMC5340372.nxml.gz-53064" start="1758">not only</span>
+      <span end="1818" id="PMC5340372.nxml.gz-53065" start="1810">but also</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53066" type="identity">
+      <class id="majority"/>
+      <span end="2968" id="PMC5340372.nxml.gz-53067" start="2960">majority</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53068" type="identity">
+      <class id="subject_scope"/>
+      <span end="13993" id="PMC5340372.nxml.gz-53069" start="13861">However, no differences were noted in the various parameters of lung function between high and low maternal 25(OH)D groups (Table 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53070" type="identity">
+      <class id="subject_scope"/>
+      <span end="18383" id="PMC5340372.nxml.gz-53071" start="18230">Also no association was also found between a children’s vitamin D levels and their lung function at 6–7 years of age in the KOALA birth cohort study [34]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53072" type="identity">
+      <class id="probable_understanding"/>
+      <span end="20535" id="PMC5340372.nxml.gz-53073" start="20528">implies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53074" type="identity">
+      <class id="future_work"/>
+      <span end="22837" id="PMC5340372.nxml.gz-53075" start="22832">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53076" type="identity">
+      <class id="subject_scope"/>
+      <span end="22884" id="PMC5340372.nxml.gz-53077" start="22769">In post hoc analysis of two-tail t test, the statistical power could reach 0.6 (alpha risk, 0.05; effect size, 0.5)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53078" type="identity">
+      <class id="majority"/>
+      <span end="23276" id="PMC5340372.nxml.gz-53079" start="23268">majority</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53080" type="identity">
+      <class id="difficult_task"/>
+      <span end="23537" id="PMC5340372.nxml.gz-53081" start="23531">hinder</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53082" type="identity">
+      <class id="subject_scope"/>
+      <span end="23904" id="PMC5340372.nxml.gz-53083" start="23729">Furthermore, the measurement of respiratory mechanics relies on both the absence of airflow and the invocation of the Hering—Breuer reflex while occluding the air outflow [53]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53084" type="identity">
+      <class id="future_work"/>
+      <span end="24672" id="PMC5340372.nxml.gz-53085" start="24664">still be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53086" type="identity">
+      <class id="anomaly_curious_finding"/>
+      <span end="25099" id="PMC5340372.nxml.gz-53087" start="25088">distinctive</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53088" type="identity">
+      <class id="conclusion"/>
+      <span end="24697" id="PMC5340372.nxml.gz-53089" start="24687">conclusion</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-53090" type="identity">
+      <class id="probable_understanding"/>
+      <span end="25160" id="PMC5340372.nxml.gz-53091" start="25139">clearer understanding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-535" type="identity">
+      <class id="purpose" label="purpose"/>
+      <span end="3331" id="PMC5340372.nxml.gz-536" start="3324">purpose</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-539" type="identity">
+      <class id="recent_studies" label="recent_studies"/>
+      <span end="21457" id="PMC5340372.nxml.gz-540" start="21443">Recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-541" type="identity">
+      <class id="recently" label="recently"/>
+      <span end="2500" id="PMC5340372.nxml.gz-542" start="2492">recently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-543" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="6982" id="PMC5340372.nxml.gz-544" start="6967">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-547" type="identity">
+      <class id="reflect" label="reflect"/>
+      <span end="20403" id="PMC5340372.nxml.gz-548" start="20396">reflect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-551" type="identity">
+      <class id="related" label="related"/>
+      <span end="18513" id="PMC5340372.nxml.gz-552" start="18506">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-553" type="identity">
+      <class id="related" label="related"/>
+      <span end="19370" id="PMC5340372.nxml.gz-554" start="19363">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-557" type="identity">
+      <class id="related" label="related"/>
+      <span end="24502" id="PMC5340372.nxml.gz-558" start="24495">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-559" type="identity">
+      <class id="relating" label="relating"/>
+      <span end="21793" id="PMC5340372.nxml.gz-560" start="21785">relating</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-561" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="277" id="PMC5340372.nxml.gz-562" start="265">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-563" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="1605" id="PMC5340372.nxml.gz-564" start="1593">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-565" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="2365" id="PMC5340372.nxml.gz-566" start="2353">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-567" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="2749" id="PMC5340372.nxml.gz-568" start="2737">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-569" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="3218" id="PMC5340372.nxml.gz-570" start="3206">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-57" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="20591" id="PMC5340372.nxml.gz-58" start="20581">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-573" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="18879" id="PMC5340372.nxml.gz-574" start="18867">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-575" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="24177" id="PMC5340372.nxml.gz-576" start="24165">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-577" type="identity">
+      <class id="reported" label="reported"/>
+      <span end="2139" id="PMC5340372.nxml.gz-578" start="2131">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-579" type="identity">
+      <class id="reported" label="reported"/>
+      <span end="6336" id="PMC5340372.nxml.gz-580" start="6328">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-581" type="identity">
+      <class id="required" label="required"/>
+      <span end="22453" id="PMC5340372.nxml.gz-582" start="22445">required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-583" type="identity">
+      <class id="reveal" label="reveal"/>
+      <span end="24732" id="PMC5340372.nxml.gz-584" start="24726">reveal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-585" type="identity">
+      <class id="revealed" label="revealed"/>
+      <span end="3087" id="PMC5340372.nxml.gz-586" start="3079">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-587" type="identity">
+      <class id="revealed" label="revealed"/>
+      <span end="18948" id="PMC5340372.nxml.gz-588" start="18940">revealed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-59" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="21849" id="PMC5340372.nxml.gz-60" start="21839">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-593" type="identity">
+      <class id="role" label="role"/>
+      <span end="1976" id="PMC5340372.nxml.gz-594" start="1972">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-595" type="identity">
+      <class id="role" label="role"/>
+      <span end="22484" id="PMC5340372.nxml.gz-596" start="22480">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-599" type="identity">
+      <class id="seen" label="seen"/>
+      <span end="17656" id="PMC5340372.nxml.gz-600" start="17652">seen</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-603" type="identity">
+      <class id="show" label="show"/>
+      <span end="1549" id="PMC5340372.nxml.gz-604" start="1545">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-605" type="identity">
+      <class id="show" label="show"/>
+      <span end="16449" id="PMC5340372.nxml.gz-606" start="16445">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-607" type="identity">
+      <class id="show" label="show"/>
+      <span end="18145" id="PMC5340372.nxml.gz-608" start="18141">show</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-609" type="identity">
+      <class id="showed" label="showed"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-611" type="identity">
+      <class id="showed" label="showed"/>
+      <span end="14887" id="PMC5340372.nxml.gz-612" start="14881">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-613" type="identity">
+      <class id="showed" label="showed"/>
+      <span end="18460" id="PMC5340372.nxml.gz-614" start="18454">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-615" type="identity">
+      <class id="showing" label="showing"/>
+      <span end="24010" id="PMC5340372.nxml.gz-616" start="24003">showing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-617" type="identity">
+      <class id="shown" label="shown"/>
+      <span end="2506" id="PMC5340372.nxml.gz-618" start="2501">shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-619" type="identity">
+      <class id="shown" label="shown"/>
+      <span end="23252" id="PMC5340372.nxml.gz-620" start="23247">shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-639" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="14499" id="PMC5340372.nxml.gz-640" start="14492">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-64" type="identity">
+      <class id="association" label="association"/>
+      <span end="18160" id="PMC5340372.nxml.gz-65" start="18149">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-641" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="20512" id="PMC5340372.nxml.gz-642" start="20505">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-643" type="identity">
+      <class id="incomplete_evidence" label="similarly"/>
+      <span end="17967" id="PMC5340372.nxml.gz-644" start="17958">Similarly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-647" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="6291" id="PMC5340372.nxml.gz-648" start="6286">Since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-649" type="identity">
+      <class id="small" label="small"/>
+      <span end="22710" id="PMC5340372.nxml.gz-650" start="22705">small</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-651" type="identity">
+      <class id="small" label="small"/>
+      <span end="24310" id="PMC5340372.nxml.gz-652" start="24305">small</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-659" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="13785" id="PMC5340372.nxml.gz-660" start="13780">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-661" type="identity">
+      <class id="still" label="still"/>
+      <span end="22966" id="PMC5340372.nxml.gz-662" start="22961">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-673" type="identity">
+      <class id="therefore" label="therefore"/>
+      <span end="19128" id="PMC5340372.nxml.gz-674" start="19119">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-675" type="identity">
+      <class id="therefore" label="therefore"/>
+      <span end="21233" id="PMC5340372.nxml.gz-676" start="21224">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-677" type="identity">
+      <class id="therefore" label="therefore"/>
+      <span end="24143" id="PMC5340372.nxml.gz-678" start="24134">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-679" type="identity">
+      <class id="this" label="this"/>
+      <span end="16421" id="PMC5340372.nxml.gz-680" start="16417">This</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-68" type="identity">
+      <class id="association" label="association"/>
+      <span end="22345" id="PMC5340372.nxml.gz-69" start="22334">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-688" type="identity">
+      <class id="this...study" label="this...study"/>
+      <span end="17455" id="PMC5340372.nxml.gz-689" start="17445">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-690" type="identity">
+      <class id="this...study" label="this...study"/>
+      <span end="19262" id="PMC5340372.nxml.gz-691" start="19252">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-692" type="identity">
+      <class id="this...study" label="this...study"/>
+      <span end="25127" id="PMC5340372.nxml.gz-693" start="25117">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-694" type="identity">
+      <class id="this_study" label="this_study"/>
+      <span end="380" id="PMC5340372.nxml.gz-695" start="370">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-696" type="identity">
+      <class id="this_study" label="this_study"/>
+      <span end="17794" id="PMC5340372.nxml.gz-697" start="17784">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-698" type="identity">
+      <class id="this_study" label="this_study"/>
+      <span end="20459" id="PMC5340372.nxml.gz-699" start="20449">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-7" type="identity">
+      <class id="aim" label="aim"/>
+      <span end="366" id="PMC5340372.nxml.gz-8" start="363">aim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-700" type="identity">
+      <class id="this_study" label="this_study"/>
+      <span end="21441" id="PMC5340372.nxml.gz-701" start="21431">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-704" type="identity">
+      <class id="this_study" label="this_study"/>
+      <span end="24709" id="PMC5340372.nxml.gz-705" start="24699">this study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-706" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-708" type="identity">
+      <class id="thus" label="thus"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-714" type="identity">
+      <class id="to_determine" label="to_determine"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-72" type="identity">
+      <class id="at_risk" label="at_risk"/>
+      <span end="17063" id="PMC5340372.nxml.gz-73" start="17056">at risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-720" type="identity">
+      <class id="to_investigate" label="to_investigate"/>
+      <span end="399" id="PMC5340372.nxml.gz-721" start="385">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-722" type="identity">
+      <class id="to_investigate" label="to_investigate"/>
+      <span end="3364" id="PMC5340372.nxml.gz-723" start="3350">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-726" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="21911" id="PMC5340372.nxml.gz-727" start="21906">trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-728" type="identity">
+      <class id="unclear" label="unclear"/>
+      <span end="2773" id="PMC5340372.nxml.gz-729" start="2766">unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-730" type="identity">
+      <class id="unclear" label="unclear"/>
+      <span end="22421" id="PMC5340372.nxml.gz-731" start="22414">unclear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-736" type="identity">
+      <class id="vary" label="vary"/>
+      <span end="17223" id="PMC5340372.nxml.gz-737" start="17219">vary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-74" type="identity">
+      <class id="based_on" label="based_on"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-76" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="22004" id="PMC5340372.nxml.gz-77" start="21997">Because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-766" type="identity">
+      <class id="prevention" label="prevention"/>
+      <span end="22516" id="PMC5340372.nxml.gz-767" start="22506">prevention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-770" type="identity">
+      <class id="superficial_relationship" label="superficial_relationship"/>
+      <span end="20353" id="PMC5340372.nxml.gz-771" start="20340">By comparison</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-772" type="identity">
+      <class id="reports" label="reports"/>
+      <span end="17544" id="PMC5340372.nxml.gz-773" start="17537">reports</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-774" type="identity">
+      <class id="reports" label="reports"/>
+      <span end="17674" id="PMC5340372.nxml.gz-775" start="17667">reports</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-776" type="identity">
+      <class id="reports" label="reports"/>
+      <span end="18422" id="PMC5340372.nxml.gz-777" start="18415">reports</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-78" type="identity">
+      <class id="believe" label="believe"/>
+      <span end="25111" id="PMC5340372.nxml.gz-79" start="25104">believe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-796" type="identity">
+      <class id="excluded" label="excluded"/>
+      <span end="4546" id="PMC5340372.nxml.gz-797" start="4538">excluded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-802" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-806" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="225" id="PMC5340372.nxml.gz-807" start="221">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-808" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="1303" id="PMC5340372.nxml.gz-809" start="1299">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-810" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="2575" id="PMC5340372.nxml.gz-811" start="2571">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-812" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="3158" id="PMC5340372.nxml.gz-813" start="3154">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-814" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="3530" id="PMC5340372.nxml.gz-815" start="3526">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-816" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="18053" id="PMC5340372.nxml.gz-817" start="18049">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-818" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="19333" id="PMC5340372.nxml.gz-819" start="19329">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-82" type="identity">
+      <class id="but" label="but"/>
+      <span end="17549" id="PMC5340372.nxml.gz-83" start="17546">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-820" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="19508" id="PMC5340372.nxml.gz-821" start="19504">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-822" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="21962" id="PMC5340372.nxml.gz-823" start="21958">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-824" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="22251" id="PMC5340372.nxml.gz-825" start="22247">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-830" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="23364" id="PMC5340372.nxml.gz-831" start="23360">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-832" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="24892" id="PMC5340372.nxml.gz-833" start="24888">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-834" type="identity">
+      <class id="common" label="common"/>
+      <span end="23122" id="PMC5340372.nxml.gz-835" start="23116">common</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-836" type="identity">
+      <class id="investigation" label="investigation"/>
+      <span end="22441" id="PMC5340372.nxml.gz-837" start="22428">investigation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-84" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="19086" id="PMC5340372.nxml.gz-85" start="19083">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-840" type="identity">
+      <class id="recent" label="recent"/>
+      <span end="17666" id="PMC5340372.nxml.gz-841" start="17660">recent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-854" type="identity">
+      <class id="widely_used" label="widely_used"/>
+      <span end="19590" id="PMC5340372.nxml.gz-855" start="19579">widely used</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-856" type="identity">
+      <class id="strongly" label="strongly"/>
+      <span end="24986" id="PMC5340372.nxml.gz-857" start="24978">strongly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-86" type="identity">
+      <class id="anomaly_curious_finding" label="but"/>
+      <span end="20504" id="PMC5340372.nxml.gz-87" start="20501">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-862" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="17822" id="PMC5340372.nxml.gz-863" start="17815">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-864" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="18785" id="PMC5340372.nxml.gz-865" start="18778">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-868" type="identity">
+      <class id="widely" label="widely"/>
+      <span end="17402" id="PMC5340372.nxml.gz-869" start="17396">widely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-88" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="21320" id="PMC5340372.nxml.gz-89" start="21313">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-9" type="identity">
+      <class id="alone" label="alone"/>
+      <span end="15209" id="PMC5340372.nxml.gz-10" start="15204">alone</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-90" type="identity">
+      <class id="can" label="can"/>
+      <span end="17863" id="PMC5340372.nxml.gz-91" start="17860">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-92" type="identity">
+      <class id="can" label="can"/>
+      <span end="17906" id="PMC5340372.nxml.gz-93" start="17903">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-96" type="identity">
+      <class id="can" label="can"/>
+      <span end="21487" id="PMC5340372.nxml.gz-97" start="21484">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-978" type="identity">
+      <class id="provides" label="provides"/>
+      <span end="25136" id="PMC5340372.nxml.gz-979" start="25128">provides</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5340372.nxml.gz-98" type="identity">
+      <class id="can" label="can"/>
+      <span end="21535" id="PMC5340372.nxml.gz-99" start="21532">can</span>
+    </annotation>
+  </document>
+</knowtator-project>

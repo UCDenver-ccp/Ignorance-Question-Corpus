@@ -1,0 +1,1418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC5405375.nxml.gz" text-file="PMC5405375.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10042" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="2543" id="PMC5405375.nxml.gz-10043" start="2535">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10047" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="2822" id="PMC5405375.nxml.gz-10048" start="2818">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10049" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="2719" id="PMC5405375.nxml.gz-10050" start="2700">not a valid measure</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10051" type="identity">
+      <class id="whether...or" label="alternative_options_controversy"/>
+      <span end="3664" id="PMC5405375.nxml.gz-10052" start="3657">whether</span>
+      <span end="3720" id="PMC5405375.nxml.gz-10053" start="3718">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10054" type="identity">
+      <class id="did_not" label="incomplete_evidence"/>
+      <span end="3689" id="PMC5405375.nxml.gz-10055" start="3682">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10056" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="4658" id="PMC5405375.nxml.gz-10057" start="4646">particularly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10058" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="4881" id="PMC5405375.nxml.gz-10059" start="4874">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10060" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="9378" id="PMC5405375.nxml.gz-10061" start="9370">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10063" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="13284" id="PMC5405375.nxml.gz-10064" start="13272">not aware of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10069" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="18157" id="PMC5405375.nxml.gz-10070" start="18154">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10071" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="18288" id="PMC5405375.nxml.gz-10072" start="18273">rarely observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10073" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="20767" id="PMC5405375.nxml.gz-10074" start="20756">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10075" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="20479" id="PMC5405375.nxml.gz-10076" start="20472">Whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10077" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="20935" id="PMC5405375.nxml.gz-10078" start="20924">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10079" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="23131" id="PMC5405375.nxml.gz-10080" start="23127">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10081" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="23422" id="PMC5405375.nxml.gz-10082" start="23415">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10083" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="23724" id="PMC5405375.nxml.gz-10084" start="23717">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10085" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="25013" id="PMC5405375.nxml.gz-10086" start="25008">Still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10087" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="25036" id="PMC5405375.nxml.gz-10088" start="25032">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10089" type="identity">
+      <class id="future_work" label="future_work"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10091" type="identity">
+      <class id="future_work" label="future_work"/>
+      <span end="25517" id="PMC5405375.nxml.gz-10092" start="25510">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10093" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="25567" id="PMC5405375.nxml.gz-10094" start="25562">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10095" type="identity">
+      <class id="full_unknown" label="full_unknown"/>
+      <span end="25849" id="PMC5405375.nxml.gz-10096" start="25838">cannot know</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10099" type="identity">
+      <class id="whether...or" label="alternative_options_controversy"/>
+      <span end="25857" id="PMC5405375.nxml.gz-10100" start="25850">whether</span>
+      <span end="25888" id="PMC5405375.nxml.gz-10101" start="25886">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10106" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="27590" id="PMC5405375.nxml.gz-10107" start="27580">represents</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10108" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="27859" id="PMC5405375.nxml.gz-10109" start="27851">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10110" type="identity">
+      <class id="future_prediction" label="future_prediction"/>
+      <span end="31379" id="PMC5405375.nxml.gz-10111" start="31377">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10112" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="189" id="PMC5405375.nxml.gz-10113" start="0">Impact of an Intensive Perinatal Handwashing Promotion Intervention on Maternal Handwashing Behavior in the Neonatal Period: Findings from a Randomized Controlled Trial in Rural Bangladesh
+</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10114" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="258" id="PMC5405375.nxml.gz-10115" start="199">One-quarter of neonatal deaths are attributed to infections</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10116" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="318" id="PMC5405375.nxml.gz-10117" start="260">Maternal handwashing with soap may prevent neonatal sepsis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10118" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="420" id="PMC5405375.nxml.gz-10119" start="320">We examined impact of intensive handwashing promotion on handwashing behavior of mothers of neonates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10120" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="884" id="PMC5405375.nxml.gz-10121" start="702">In the neonatal period, we observed soap and water at handwashing places and, at the end of the neonatal period, we estimated impact on maternal handwashing by structured observation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10122" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1476" id="PMC5405375.nxml.gz-10123" start="1296">Intensively promoting handwashing with soap resulted in increased availability of soap and water at handwashing places, but only a modest increase in maternal handwashing with soap</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10124" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10126" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10128" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1749" id="PMC5405375.nxml.gz-10129" start="1689">Among these, one-quarter are attributed to infectious causes</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10130" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10132" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2378" id="PMC5405375.nxml.gz-10133" start="2145">In an observational study of 23,662 infants in Nepal, Rhee and colleagues found that neonates of mothers who reported washing their hands were at 44% lower risk of mortality than neonates of mothers who did not report handwashing [2]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10134" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2533" id="PMC5405375.nxml.gz-10135" start="2380">In the same region, Mullany and colleagues found that reported caregiver handwashing was associated with a 24% lower risk of umbilical cord infection [3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10136" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10138" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3060" id="PMC5405375.nxml.gz-10139" start="2742">Indeed, reported handwashing behavior is susceptible to social desirability bias, with wealthier or more educated respondents; that is, those whose children are already at lower risk of neonatal mortality, potentially more likely to overreport handwashing behavior than less wealthy or less educated counterparts [7,8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10140" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3355" id="PMC5405375.nxml.gz-10141" start="3062">In a four-arm cluster-randomized controlled trial in Pakistan investigating the neonatal mortality effects of umbilical cord cleansing with chlorhexidine and handwashing with soap promotion separately and together, Soofi and colleagues found no benefit from promoting handwashing with soap [9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10142" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10144" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3994" id="PMC5405375.nxml.gz-10145" start="3794">Thus, there is a lack of published information regarding the efficacy of perinatal handwashing promotion interventions on maternal handwashing behavior in the neonatal period and on neonatal mortality</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10146" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4253" id="PMC5405375.nxml.gz-10147" start="3996">Greenland and colleagues found maternal handwashing in the neonatal period in Indonesia to be infrequent, with handwashing occurring typically because of discomfort (e.g., due to sticky substances) or disgust-related motivators (such as apparent smell) [10]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10148" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4503" id="PMC5405375.nxml.gz-10149" start="4255">In Bangladesh, Parveen and colleagues found that mothers perceived handwashing is an important approach to nurturing their newborns and young children and that they were more likely to practice the behavior when supported to do so by their families</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10150" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10152" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10156" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10158" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="5723" id="PMC5405375.nxml.gz-10159" start="5542">Our objective, in a randomized controlled trial in rural Bangladesh, was to investigate the impact of this intervention on the handwashing behavior of mothers in the neonatal period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10160" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="6110" id="PMC5405375.nxml.gz-10161" start="6015">The neonatal mortality rate in this area was estimated at 29.9 deaths per 1000 live births [14]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10162" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10166" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10168" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="9709" id="PMC5405375.nxml.gz-10169" start="9565">As shown in a companion qualitative investigation, this model was used to understand drivers of maternal handwashing in the neonatal period [11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10170" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="9899" id="PMC5405375.nxml.gz-10171" start="9711">Consistent with the findings from the qualitative work, behavior change communicators used an interactive approach to validate the prevalent perceived susceptibility of the neonatal period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10172" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="10974" id="PMC5405375.nxml.gz-10173" start="10799">There is prior observational evidence supporting the beneficial effect of maternal handwashing before contact with the umbilical cord for prevention of neonatal infections [3]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10174" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="11149" id="PMC5405375.nxml.gz-10175" start="10976">Otherwise, we found no clear published evidence for times at which maternal or other caregiver handwashing may prevent pathogen transfer to/from hands in low-income settings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10176" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10178" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="13363" id="PMC5405375.nxml.gz-10179" start="13229">When this study was being planned, we were not aware of data describing the observed frequency of hand cleansing before cord cleansing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10180" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="13467" id="PMC5405375.nxml.gz-10181" start="13365">Substantially more information is available regarding the frequency of hand cleansing after defecation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10182" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="13799" id="PMC5405375.nxml.gz-10183" start="13469">Thus, to estimate the required sample size for measuring the impact of handwashing promotion on maternal handwashing behavior, we assumed that the probability of observed handwashing with soap after a fecal contact event would be 0.20 in the control arm [20] and that the probability would increase to 0.40 in the intervention arm</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10184" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="13889" id="PMC5405375.nxml.gz-10185" start="13801">We also assumed one fecal contact event to be detected per 3-hour structured observation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10186" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17674" id="PMC5405375.nxml.gz-10187" start="17392">Whereas the number of years of education for the participant herself was similar in the two arms, participants in the control arm reported a mean of 7.2 years (SD 3.3) of education for the husband, compared to those in the intervention arm who reported a mean of 8.8 years (SD 12.0)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10188" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10190" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18288" id="PMC5405375.nxml.gz-10191" start="18104">Almost all participants were found to have water, but just 15 (12%) in each arm were observed to have bar soap at the main handwashing station; other types of soap were rarely observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10192" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10194" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10196" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="21797" id="PMC5405375.nxml.gz-10197" start="21635">Overall, the prevalence of handwashing with soap at both these times was low, even in the intervention group (8% before breastfeeding and 14% after fecal contact)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10198" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22478" id="PMC5405375.nxml.gz-10199" start="22150">Handwashing with soap was significantly more frequently observed in intervention arm household members overall and at the recommended times; however, handwashing with soap was infrequent in household members in both arms (handwashing at 6% of recommended times in intervention arm and 1% of recommended times in the control arm)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10200" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23285" id="PMC5405375.nxml.gz-10201" start="23010">Intensive handwashing promotion employing emotional drivers, improving convenience, and providing visual cues led to only a modest increase in the frequency of handwashing with soap among new mothers in rural Bangladesh during the first 30 days after the birth of their child</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10202" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23575" id="PMC5405375.nxml.gz-10203" start="23415">However, the overall proportion of events accompanied by handwashing was low in the intervention arm compared with the times that we recommended for handwashing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10204" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10206" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10208" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10210" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="25413" id="PMC5405375.nxml.gz-10211" start="25008">Still, the finding that only 39% of households in the intervention were found to have soap and water at a handwashing place at all five of the rapid observations suggests that maintaining handwashing materials at fixed locations at all times was difficult in the newborn period, that such maintenance had not become habitual, or that this approach to handwashing was not acceptable to our study population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10212" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10214" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="25727" id="PMC5405375.nxml.gz-10215" start="25562">While the intervention increased the frequency of handwashing, mothers and others washed hands with soap at less than 10% of the times we recommended for handwashing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10216" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26128" id="PMC5405375.nxml.gz-10217" start="25729">Since we completed structured observations at the end of the neonatal period during postnatal days 30–32, we cannot know whether handwashing was more common or less common during the early days of the newborn period, when babies may have been perceived to be particularly vulnerable but mothers may have been particularly fatigued or getting adjusted to the new household routine following the birth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10218" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10220" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10222" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10224" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27334" id="PMC5405375.nxml.gz-10225" start="27224">For busy new mothers to comply with handwashing at all the recommended times may have been extremely difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10226" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27510" id="PMC5405375.nxml.gz-10227" start="27336">Increasing evidence regarding the role of healthy intestinal, skin, and mucosal microbiota affirms that most organisms transmitted from mothers to neonates are not pathogenic</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10228" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27671" id="PMC5405375.nxml.gz-10229" start="27512">Indeed, transfer of many commensal organisms from mother to neonate represents an important element of developing healthy microbiota and immune systems [25–28]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10230" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10232" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28198" id="PMC5405375.nxml.gz-10233" start="27985">Hands get recontaminated after handwashing quickly in heavily contaminated household environments such as rural Bangladesh [29] and, thus, infrequent handwashing may contribute to pathogen transmission to neonates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10234" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28398" id="PMC5405375.nxml.gz-10235" start="28200">We do not yet understand how much handwashing of mothers and others needs to be increased, and at which times of potential pathogen transmission, in order to reduce the risk of infection in newborns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10236" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10238" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10240" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10242" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29511" id="PMC5405375.nxml.gz-10243" start="29308">Persons being observed by a stranger, such as a study data collector, may alter their behavior compared to usual practice, potentially increasing their handwashing in the presence of the observer [29,30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10244" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29651" id="PMC5405375.nxml.gz-10245" start="29513">Such reactivity may be exacerbated by the provision of handwashing materials and promotion of handwashing behavior in the intervention arm</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10246" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29714" id="PMC5405375.nxml.gz-10247" start="29653">Our observations took place at the end of the neonatal period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10248" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="29914" id="PMC5405375.nxml.gz-10249" start="29716">Handwashing behavior may have been different earlier in the newborn period, when threat perceptions may have been higher but household routines may have been disrupted by the arrival of the new baby</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10250" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10252" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30446" id="PMC5405375.nxml.gz-10253" start="30201">We found that a handwashing promotion strategy that consisted of both providing the necessary materials for handwashing and intensive behavior change communication resulted in anemic improvements in handwashing behavior among mothers of newborns</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10254" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10256" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="30957" id="PMC5405375.nxml.gz-10257" start="30733">Promotion of handwashing with soap before umbilical cord care should be emphasized in antenatal and neonatal care messaging, given existing evidence supporting prevention of umbilical cord infections by caregiver handwashing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10258" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-10260" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1031" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="17472" id="PMC5405375.nxml.gz-1032" start="17465">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1041" type="identity">
+      <class id="since" label="since"/>
+      <span end="25734" id="PMC5405375.nxml.gz-1042" start="25729">Since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1069" type="identity">
+      <class id="suggests" label="suggests"/>
+      <span end="25178" id="PMC5405375.nxml.gz-1070" start="25170">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1073" type="identity">
+      <class id="support" label="support"/>
+      <span end="31127" id="PMC5405375.nxml.gz-1074" start="31120">support</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1077" type="identity">
+      <class id="supporting" label="supporting"/>
+      <span end="10847" id="PMC5405375.nxml.gz-1078" start="10837">supporting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1079" type="identity">
+      <class id="supporting" label="supporting"/>
+      <span end="30892" id="PMC5405375.nxml.gz-1080" start="30882">supporting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1083" type="identity">
+      <class id="susceptible" label="susceptible"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-109" type="identity">
+      <class id="at_least" label="at_least"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1091" type="identity">
+      <class id="there_was_no" label="there_was_no"/>
+      <span end="3586" id="PMC5405375.nxml.gz-1092" start="3574">There was no</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1097" type="identity">
+      <class id="therefore" label="therefore"/>
+      <span end="27682" id="PMC5405375.nxml.gz-1098" start="27673">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-11" type="identity">
+      <class id="alone" label="alone"/>
+      <span end="20525" id="PMC5405375.nxml.gz-12" start="20520">alone</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-111" type="identity">
+      <class id="attributed" label="attributed"/>
+      <span end="244" id="PMC5405375.nxml.gz-112" start="234">attributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1125" type="identity">
+      <class id="thus" label="thus"/>
+      <span end="3798" id="PMC5405375.nxml.gz-1126" start="3794">Thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1129" type="identity">
+      <class id="thus" label="thus"/>
+      <span end="28122" id="PMC5405375.nxml.gz-1130" start="28118">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-113" type="identity">
+      <class id="attributed" label="attributed"/>
+      <span end="1728" id="PMC5405375.nxml.gz-114" start="1718">attributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1133" type="identity">
+      <class id="to_assess" label="to_assess"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1137" type="identity">
+      <class id="to_investigate" label="to_investigate"/>
+      <span end="5629" id="PMC5405375.nxml.gz-1138" start="5615">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1141" type="identity">
+      <class id="trial" label="trial"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1145" type="identity">
+      <class id="trial" label="trial"/>
+      <span end="5589" id="PMC5405375.nxml.gz-1146" start="5584">trial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-115" type="identity">
+      <class id="available_evidence" label="available_evidence"/>
+      <span end="26625" id="PMC5405375.nxml.gz-116" start="26607">available evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1193" type="identity">
+      <class id="whereas" label="whereas"/>
+      <span end="17399" id="PMC5405375.nxml.gz-1194" start="17392">Whereas</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1199" type="identity">
+      <class id="whether...or" label="whether"/>
+      <span end="30008" id="PMC5405375.nxml.gz-1200" start="30001">whether</span>
+      <span end="30060" id="PMC5405375.nxml.gz-40610" start="30058">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1201" type="identity">
+      <class id="whether" label="whether"/>
+      <span end="30068" id="PMC5405375.nxml.gz-1202" start="30061">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1226" type="identity">
+      <class id="which" label="which"/>
+      <span end="28303" id="PMC5405375.nxml.gz-1227" start="28298">which</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1234" type="identity">
+      <class id="while" label="while"/>
+      <span end="30453" id="PMC5405375.nxml.gz-1235" start="30448">While</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1248" type="identity">
+      <class id="would" label="would"/>
+      <span end="31119" id="PMC5405375.nxml.gz-1249" start="31114">would</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1250" type="identity">
+      <class id="would_be" label="would_be"/>
+      <span end="7046" id="PMC5405375.nxml.gz-1251" start="7038">would be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1260" type="identity">
+      <class id="0_model" label="0_model"/>
+      <span end="9626" id="PMC5405375.nxml.gz-1261" start="9621">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1262" type="identity">
+      <class id="lack_of...information" label="lack_of...information"/>
+      <span end="3818" id="PMC5405375.nxml.gz-1263" start="3811">lack of</span>
+      <span end="3840" id="PMC5405375.nxml.gz-1264" start="3829">information</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1271" type="identity">
+      <class id="benefit" label="benefit"/>
+      <span end="26537" id="PMC5405375.nxml.gz-1272" start="26530">benefit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1273" type="identity">
+      <class id="benefit" label="benefit"/>
+      <span end="28521" id="PMC5405375.nxml.gz-1274" start="28514">benefit</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1275" type="identity">
+      <class id="prevention" label="prevention"/>
+      <span end="10947" id="PMC5405375.nxml.gz-1276" start="10937">prevention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1277" type="identity">
+      <class id="prevention" label="prevention"/>
+      <span end="30903" id="PMC5405375.nxml.gz-1278" start="30893">prevention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1279" type="identity">
+      <class id="efficacy" label="efficacy"/>
+      <span end="3863" id="PMC5405375.nxml.gz-1280" start="3855">efficacy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1285" type="identity">
+      <class id="should_be_emphasized" label="should_be_emphasized"/>
+      <span end="30815" id="PMC5405375.nxml.gz-1286" start="30795">should be emphasized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1287" type="identity">
+      <class id="roughly" label="roughly"/>
+      <span end="2083" id="PMC5405375.nxml.gz-1288" start="2076">roughly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-129" type="identity">
+      <class id="because" label="because"/>
+      <span end="4970" id="PMC5405375.nxml.gz-130" start="4963">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1293" type="identity">
+      <class id="observational" label="observational"/>
+      <span end="2164" id="PMC5405375.nxml.gz-1294" start="2151">observational</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1295" type="identity">
+      <class id="observational" label="observational"/>
+      <span end="10827" id="PMC5405375.nxml.gz-1296" start="10814">observational</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1297" type="identity">
+      <class id="observational" label="observational"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-1313" type="identity">
+      <class id="efforts" label="efforts"/>
+      <span end="27106" id="PMC5405375.nxml.gz-1314" start="27099">efforts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-135" type="identity">
+      <class id="because" label="because"/>
+      <span end="29054" id="PMC5405375.nxml.gz-136" start="29047">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-137" type="identity">
+      <class id="because" label="because"/>
+      <span end="29086" id="PMC5405375.nxml.gz-138" start="29079">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-147" type="identity">
+      <class id="but" label="but"/>
+      <span end="26015" id="PMC5405375.nxml.gz-148" start="26012">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-149" type="identity">
+      <class id="but" label="but"/>
+      <span end="29840" id="PMC5405375.nxml.gz-150" start="29837">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-151" type="identity">
+      <class id="but" label="but"/>
+      <span end="30112" id="PMC5405375.nxml.gz-152" start="30109">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-153" type="identity">
+      <class id="but_only" label="but_only"/>
+      <span end="1424" id="PMC5405375.nxml.gz-154" start="1416">but only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-159" type="identity">
+      <class id="can" label="can"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-163" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="17601" id="PMC5405375.nxml.gz-164" start="17590">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-169" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="28823" id="PMC5405375.nxml.gz-170" start="28812">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-171" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="29414" id="PMC5405375.nxml.gz-172" start="29403">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-189" type="identity">
+      <class id="conflicting" label="conflicting"/>
+      <span end="4985" id="PMC5405375.nxml.gz-190" start="4974">conflicting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-191" type="identity">
+      <class id="consistent" label="consistent"/>
+      <span end="9721" id="PMC5405375.nxml.gz-192" start="9711">Consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-197" type="identity">
+      <class id="consistently" label="consistently"/>
+      <span end="2617" id="PMC5405375.nxml.gz-198" start="2605">consistently</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-199" type="identity">
+      <class id="constraints" label="constraints"/>
+      <span end="29074" id="PMC5405375.nxml.gz-200" start="29063">constraints</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-201" type="identity">
+      <class id="contribute" label="contribute"/>
+      <span end="28161" id="PMC5405375.nxml.gz-202" start="28151">contribute</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-209" type="identity">
+      <class id="described" label="described"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-217" type="identity">
+      <class id="despite" label="despite"/>
+      <span end="24406" id="PMC5405375.nxml.gz-218" start="24399">Despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-225" type="identity">
+      <class id="did_not" label="did_not"/>
+      <span end="3766" id="PMC5405375.nxml.gz-226" start="3759">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-227" type="identity">
+      <class id="did_not" label="did_not"/>
+      <span end="29934" id="PMC5405375.nxml.gz-228" start="29927">did not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-241" type="identity">
+      <class id="different" label="different"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-243" type="identity">
+      <class id="different" label="different"/>
+      <span end="29760" id="PMC5405375.nxml.gz-244" start="29751">different</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-245" type="identity">
+      <class id="difficult" label="difficult"/>
+      <span end="25263" id="PMC5405375.nxml.gz-246" start="25254">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-247" type="identity">
+      <class id="difficult" label="difficult"/>
+      <span end="27334" id="PMC5405375.nxml.gz-248" start="27325">difficult</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-267" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="10869" id="PMC5405375.nxml.gz-268" start="10863">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-271" type="identity">
+      <class id="effective" label="effective"/>
+      <span end="31389" id="PMC5405375.nxml.gz-272" start="31380">effective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-273" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="3168" id="PMC5405375.nxml.gz-274" start="3161">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-275" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="28608" id="PMC5405375.nxml.gz-276" start="28601">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-306" type="identity">
+      <class id="estimated" label="estimated"/>
+      <span end="827" id="PMC5405375.nxml.gz-307" start="818">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-308" type="identity">
+      <class id="estimated" label="estimated"/>
+      <span end="1623" id="PMC5405375.nxml.gz-309" start="1614">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-310" type="identity">
+      <class id="estimated" label="estimated"/>
+      <span end="6069" id="PMC5405375.nxml.gz-311" start="6060">estimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-326" type="identity">
+      <class id="even" label="even"/>
+      <span end="21717" id="PMC5405375.nxml.gz-327" start="21713">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-330" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="10836" id="PMC5405375.nxml.gz-331" start="10828">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-332" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="11023" id="PMC5405375.nxml.gz-333" start="11015">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-334" type="identity">
+      <class id="examined" label="examined"/>
+      <span end="331" id="PMC5405375.nxml.gz-335" start="323">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-336" type="identity">
+      <class id="existing_evidence" label="existing_evidence"/>
+      <span end="30881" id="PMC5405375.nxml.gz-337" start="30864">existing evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-346" type="identity">
+      <class id="extremely" label="extremely"/>
+      <span end="27324" id="PMC5405375.nxml.gz-347" start="27315">extremely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-354" type="identity">
+      <class id="finding" label="finding"/>
+      <span end="25026" id="PMC5405375.nxml.gz-355" start="25019">finding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-356" type="identity">
+      <class id="findings" label="findings"/>
+      <span end="133" id="PMC5405375.nxml.gz-357" start="125">Findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-358" type="identity">
+      <class id="findings" label="findings"/>
+      <span end="9739" id="PMC5405375.nxml.gz-359" start="9731">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-360" type="identity">
+      <class id="findings" label="findings"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-364" type="identity">
+      <class id="found" label="found"/>
+      <span end="2224" id="PMC5405375.nxml.gz-365" start="2219">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-366" type="identity">
+      <class id="found" label="found"/>
+      <span end="2428" id="PMC5405375.nxml.gz-367" start="2423">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-368" type="identity">
+      <class id="found" label="found"/>
+      <span end="3303" id="PMC5405375.nxml.gz-369" start="3298">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-370" type="identity">
+      <class id="found" label="found"/>
+      <span end="4026" id="PMC5405375.nxml.gz-371" start="4021">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-372" type="identity">
+      <class id="found" label="found"/>
+      <span end="4298" id="PMC5405375.nxml.gz-373" start="4293">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-374" type="identity">
+      <class id="found" label="found"/>
+      <span end="10995" id="PMC5405375.nxml.gz-375" start="10990">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-378" type="identity">
+      <class id="found" label="found"/>
+      <span end="24275" id="PMC5405375.nxml.gz-379" start="24270">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-380" type="identity">
+      <class id="found" label="found"/>
+      <span end="25085" id="PMC5405375.nxml.gz-381" start="25080">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-384" type="identity">
+      <class id="found" label="found"/>
+      <span end="30209" id="PMC5405375.nxml.gz-385" start="30204">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-392" type="identity">
+      <class id="given" label="given"/>
+      <span end="4664" id="PMC5405375.nxml.gz-393" start="4659">given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-396" type="identity">
+      <class id="given" label="given"/>
+      <span end="28760" id="PMC5405375.nxml.gz-397" start="28755">given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-398" type="identity">
+      <class id="given" label="given"/>
+      <span end="30863" id="PMC5405375.nxml.gz-399" start="30858">given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-400" type="identity">
+      <class id="have...been" label="have...been"/>
+      <span end="28718" id="PMC5405375.nxml.gz-401" start="28709">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-402" type="identity">
+      <class id="have...been" label="have...been"/>
+      <span end="29829" id="PMC5405375.nxml.gz-403" start="29820">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-404" type="identity">
+      <class id="have...been" label="have...been"/>
+      <span end="29873" id="PMC5405375.nxml.gz-405" start="29864">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40424" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40426" type="identity">
+      <class id="likely"/>
+      <span end="977" id="PMC5405375.nxml.gz-40427" start="971">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40428" type="identity">
+      <class id="subject_scope"/>
+      <span end="1583" id="PMC5405375.nxml.gz-40429" start="1478">Novel approaches to motivating handwashing behavior to protect newborns should be developed and evaluated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40430" type="identity">
+      <class id="subject_scope"/>
+      <span end="1687" id="PMC5405375.nxml.gz-40431" start="1602">In 2013, an estimated 2.8 million deaths occurred in the neonatal period globally [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40432" type="identity">
+      <class id="subject_scope"/>
+      <span end="2143" id="PMC5405375.nxml.gz-40433" start="1963">With the current complement and pace of public health efforts, neonatal sepsis is projected to continue to cause roughly 123,000 preventable deaths per 1000 live births in 2030 [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40434" type="identity">
+      <class id="subject_scope"/>
+      <span end="2740" id="PMC5405375.nxml.gz-40435" start="2535">Although these results are provocative, reported handwashing behavior consistently exaggerates observed handwashing behavior and so reported handwashing behavior is not a valid measure of handwashing [4–6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40436" type="identity">
+      <class id="whether"/>
+      <span end="3728" id="PMC5405375.nxml.gz-40437" start="3721">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40438" type="identity">
+      <class id="subject_scope"/>
+      <span end="3792" id="PMC5405375.nxml.gz-40439" start="3574">There was no assessment of handwashing behavior measures and thus, it is not clear whether the intervention did not affect handwashing behavior or whether improved handwashing behavior did not reduce neonatal mortality</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40440" type="identity">
+      <class id="subject_scope"/>
+      <span end="4810" id="PMC5405375.nxml.gz-40441" start="4505">Not having necessary materials for washing hands in close proximity was an important barrier to maternal handwashing in the neonatal period, particularly given prevalent social expectations regarding mothers and newborns staying almost exclusively in just 1-2 rooms or immediately outside the home [11,12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40442" type="identity">
+      <class id="subject_scope"/>
+      <span end="5089" id="PMC5405375.nxml.gz-40443" start="4812">A barrier to maternal handwashing in rural Bangladesh was the lack of self-efficacy on the part of the mother to prioritize and carry out the behavior because of conflicting opinions from her in-laws, who may drive decision-making regarding childcare and household expenditures</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40444" type="identity">
+      <class id="subject_scope"/>
+      <span end="5540" id="PMC5405375.nxml.gz-40445" start="5325">We developed an intensive intervention to improve maternal handwashing behavior during the neonatal period, addressing several of the key barriers and motivators identified by Parveen and colleagues, described above</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40446" type="identity">
+      <class id="subject_scope"/>
+      <span end="7085" id="PMC5405375.nxml.gz-40447" start="6947">We included primiparous mothers for the handwashing study because we anticipated that they would be at a uniquely teachable moment [15,16]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40448" type="identity">
+      <class id="subject_scope"/>
+      <span end="9563" id="PMC5405375.nxml.gz-40449" start="9323">The behavior change communication strategy was based on a theoretical model constructed a priori that included concepts of the Health Belief Model and the heuristic model for teachable moments, described by McBride and colleagues [13,15,18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40450" type="identity">
+      <class id="probable_understanding"/>
+      <span end="9249" id="PMC5405375.nxml.gz-40451" start="9237">patterned on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40452" type="identity">
+      <class id="recommended"/>
+      <span end="11176" id="PMC5405375.nxml.gz-40453" start="11165">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40454" type="identity">
+      <class id="possible"/>
+      <span end="11208" id="PMC5405375.nxml.gz-40455" start="11200">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40456" type="identity">
+      <class id="consistent"/>
+      <span end="11403" id="PMC5405375.nxml.gz-40457" start="11393">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40458" type="identity">
+      <class id="recommended"/>
+      <span end="11468" id="PMC5405375.nxml.gz-40459" start="11457">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40462" type="identity">
+      <class id="subject_scope"/>
+      <span end="17785" id="PMC5405375.nxml.gz-40463" start="17676">Access to a deep tubewell was also somewhat different between the two groups (59% controls, 68% intervention)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40464" type="identity">
+      <class id="likely"/>
+      <span end="18984" id="PMC5405375.nxml.gz-40465" start="18978">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40466" type="identity">
+      <class id="likely"/>
+      <span end="20184" id="PMC5405375.nxml.gz-40467" start="20178">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40468" type="identity">
+      <class id="subject_scope"/>
+      <span end="20848" id="PMC5405375.nxml.gz-40469" start="20472">Whereas the frequency of handwashing with water alone was similar in the two groups (mean 1.6 events in intervention arm, 1.5 events in control arm), mothers in the intervention arm washed their hands with soap with a mean of 0.82 times (SD 1.2) during the 3-hour observation period, compared to 0.20 times by mothers in the control arm (RD 0.61, 95% CI = 0.37–0.86) (Table 2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40470" type="identity">
+      <class id="subject_scope"/>
+      <span end="21023" id="PMC5405375.nxml.gz-40471" start="20850">During the 3-hour structured observations, 45% in the intervention group, compared to 17% in the control group, were observed to wash hands with soap and water at least once</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40472" type="identity">
+      <class id="likely"/>
+      <span end="21081" id="PMC5405375.nxml.gz-40473" start="21075">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40474" type="identity">
+      <class id="recommended"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40476" type="identity">
+      <class id="full_unknown"/>
+      <span end="21920" id="PMC5405375.nxml.gz-40477" start="21918">No</span>
+      <span end="21961" id="PMC5405375.nxml.gz-40478" start="21953">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40479" type="identity">
+      <class id="subject_scope"/>
+      <span end="23973" id="PMC5405375.nxml.gz-40480" start="23577">Handwashing with soap was significantly higher before breastfeeding and after fecal contact among intervention mothers than among controls; however, washing with soap after fecal contact was less common than the prevalence of this behavior observed among mothers of young children in Bangladesh and elsewhere, underscoring the substantial barriers to handwashing faced by mothers of neonates [21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40481" type="identity">
+      <class id="subject_scope"/>
+      <span end="24397" id="PMC5405375.nxml.gz-40482" start="24243">Curtis and colleagues have found that mothers and other caregivers commonly report that they wash hands out of a wish to nurture their young children [22]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40483" type="identity">
+      <class id="subject_scope"/>
+      <span end="24605" id="PMC5405375.nxml.gz-40484" start="24399">Despite employing nurture as a primary driver of handwashing behavior and including in the intervention all secondary caregivers, not only the mother, there was limited behavioral impact of the intervention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40485" type="identity">
+      <class id="sought"/>
+      <span end="24616" id="PMC5405375.nxml.gz-40486" start="24610">sought</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40487" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40489" type="identity">
+      <class id="subject_scope"/>
+      <span end="25560" id="PMC5405375.nxml.gz-40490" start="25415">Hand cleansing technology that does not necessitate as frequent replenishment may be needed to further improve hand hygiene in the newborn period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40491" type="identity">
+      <class id="subject_scope"/>
+      <span end="26334" id="PMC5405375.nxml.gz-40492" start="26130">Mothers in several low-income countries have indicated that their responsibilities increase in the postnatal period, often without increased support for household or child care activities from others [12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40493" type="identity">
+      <class id="recommended"/>
+      <span end="26350" id="PMC5405375.nxml.gz-40494" start="26339">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40495" type="identity">
+      <class id="subject_scope"/>
+      <span end="26990" id="PMC5405375.nxml.gz-40496" start="26500">Observational findings of the benefit of washing hands before contact with the umbilical stump [3] and the available evidence that a number of Gram positive organisms that colonize the nasopharynx and Gram negative organisms found in stool are commonly associated with sepsis in neonates and young infants [23,24] drove the decision-making regarding recommendation of handwashing after respiratory secretion contact, before umbilical cord care, before breastfeeding, and after fecal contact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40497" type="identity">
+      <class id="subject_scope"/>
+      <span end="27222" id="PMC5405375.nxml.gz-40498" start="26992">Handwashing with food preparation was added in order to stay consistent with typical handwashing promotion efforts in Bangladesh and to facilitate the development of maternal handwashing behavior relevant to postneonatal morbidity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40499" type="identity">
+      <class id="increasing...evidence"/>
+      <span end="27355" id="PMC5405375.nxml.gz-40500" start="27336">Increasing evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40501" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40503" type="identity">
+      <class id="subject_scope"/>
+      <span end="27983" id="PMC5405375.nxml.gz-40504" start="27673">Therefore, recommendations regarding the optimal times to interrupt pathogen transmission, while preserving the transfer of healthy microbiota to neonates, should be articulated based on an increased understanding of the mechanisms of transmission of pathogenic and commensal organisms from mothers to neonates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40505" type="identity">
+      <class id="subject_scope"/>
+      <span end="28642" id="PMC5405375.nxml.gz-40506" start="28400">There may also be a role for hand cleansing options that are waterless or that can confer residual bacteriostatic benefit to improve the convenience and thereby the frequency of hand cleansing, or the effects of even infrequent hand cleansing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40507" type="identity">
+      <class id="subject_scope"/>
+      <span end="28843" id="PMC5405375.nxml.gz-40508" start="28644">We restricted our study to primiparous mothers, since they might have been more susceptible to behavior change given their relatively larger change in self-definition, compared to multiparous mothers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40509" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40511" type="identity">
+      <class id="subject_scope"/>
+      <span end="29241" id="PMC5405375.nxml.gz-40512" start="28845">However, this sample may have decreased the representativeness of our study; mothers with a newborn who also have infants or older children to care for may be less likely to change handwashing behavior because of time constraints, or because their current pregnancy does not lead to a dramatic alteration of their self-definition or role in the family and society since they already have children</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40513" type="identity">
+      <class id="subject_scope"/>
+      <span end="30182" id="PMC5405375.nxml.gz-40514" start="29916">Lastly, we did not perform a formal process evaluation, a process that can elucidate whether the intervention was not implemented as designed or whether the implementation proceeded as planned but the intervention was not efficacious in changing behavior as intended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40515" type="identity">
+      <class id="subject_scope"/>
+      <span end="30731" id="PMC5405375.nxml.gz-40516" start="30448">While mothers in the intervention arm were significantly more likely to maintain needed handwashing materials in the places where they spent time with their newborns, and more frequently washed their hands, handwashing with soap was observed at a minority of the times we recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40517" type="identity">
+      <class id="subject_scope"/>
+      <span end="31209" id="PMC5405375.nxml.gz-40518" start="30959">Understanding the extent to which hand hygiene behavior of mothers and other caregivers needs to improve at other times of potential pathogen transmission would support the development of feasible guidance on handwashing to reduce neonatal infections</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40519" type="identity">
+      <class id="subject_scope"/>
+      <span end="31446" id="PMC5405375.nxml.gz-40520" start="31211">Novel and feasible approaches to motivating handwashing behavior change among mothers and other caregivers to protect newborns should be developed and evaluated and, if effective, their impacts on neonatal health should be investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40521" type="identity">
+      <class id="subject_scope"/>
+      <span end="1085" id="PMC5405375.nxml.gz-40522" start="886">Among 253 women enrolled, intervention households were between 5.7 and 15.2 times as likely as control households to have soap and water present at the handwashing station in the baby's sleeping area</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40523" type="identity">
+      <class id="future_work"/>
+      <span end="1494" id="PMC5405375.nxml.gz-40524" start="1478">Novel approaches</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40525" type="identity">
+      <class id="important_consideration"/>
+      <span end="1683" id="PMC5405375.nxml.gz-40526" start="1675">globally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40527" type="identity">
+      <class id="future_prediction"/>
+      <span end="2054" id="PMC5405375.nxml.gz-40528" start="2045">projected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40529" type="identity">
+      <class id="alternative_options_controversy"/>
+      <span end="2573" id="PMC5405375.nxml.gz-40530" start="2562">provocative</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40531" type="identity">
+      <class id="problem_complication"/>
+      <span end="2629" id="PMC5405375.nxml.gz-40532" start="2618">exaggerates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40533" type="identity">
+      <class id="difficult_task"/>
+      <span end="4597" id="PMC5405375.nxml.gz-40534" start="4590">barrier</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40535" type="identity">
+      <class id="difficult_task"/>
+      <span end="4821" id="PMC5405375.nxml.gz-40536" start="4814">barrier</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40537" type="identity">
+      <class id="difficult_task"/>
+      <span end="5472" id="PMC5405375.nxml.gz-40538" start="5463">barriers </span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40539" type="identity">
+      <class id="question_answered_by_this_work"/>
+      <span end="5337" id="PMC5405375.nxml.gz-40540" start="5328">developed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40541" type="identity">
+      <class id="future_prediction"/>
+      <span end="7028" id="PMC5405375.nxml.gz-40542" start="7016">anticipated </span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40543" type="identity">
+      <class id="subject_scope"/>
+      <span end="9321" id="PMC5405375.nxml.gz-40544" start="9144">Both intervention and control participants received maternal and neonatal health counseling, patterned on information delivered in Projahnmo [17] (see visit schedule inFigure 1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40545" type="identity">
+      <class id="0_model"/>
+      <span end="9398" id="PMC5405375.nxml.gz-40546" start="9393">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40547" type="identity">
+      <class id="0_model"/>
+      <span end="9493" id="PMC5405375.nxml.gz-40548" start="9488">model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40549" type="identity">
+      <class id="0_model"/>
+      <span end="9469" id="PMC5405375.nxml.gz-40550" start="9464">Model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40551" type="identity">
+      <class id="theoretical"/>
+      <span end="9392" id="PMC5405375.nxml.gz-40552" start="9381">theoretical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40553" type="identity">
+      <class id="probable_understanding"/>
+      <span end="9487" id="PMC5405375.nxml.gz-40554" start="9478">heuristic</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40555" type="identity">
+      <class id="subject_scope"/>
+      <span end="11383" id="PMC5405375.nxml.gz-40556" start="11151">Therefore, we recommended the following times of possible pathogen transmission to the neonate for handwashing with soap: after respiratory secretion contact, before umbilical cord care, before breastfeeding, and after fecal contact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40557" type="identity">
+      <class id="subject_scope"/>
+      <span end="11514" id="PMC5405375.nxml.gz-40558" start="11385">To stay consistent with typical handwashing promotion messages, we also recommended handwashing with soap before food preparation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40559" type="identity">
+      <class id="somewhat"/>
+      <span end="17719" id="PMC5405375.nxml.gz-40560" start="17711">somewhat</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40561" type="identity">
+      <class id="subject_scope"/>
+      <span end="19098" id="PMC5405375.nxml.gz-40562" start="18862">At all five assessments made during the neonatal period, households in the intervention arm were 3 or more times as likely as households in the control arm to have at least one handwashing station observed to have soap and water present</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40563" type="identity">
+      <class id="subject_scope"/>
+      <span end="20292" id="PMC5405375.nxml.gz-40564" start="20067">Across the five visits made in the neonatal period, intervention households were between 5.7 and 15.2 times as likely as control households to have soap and water present at the handwashing station in the baby's sleeping area</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40565" type="identity">
+      <class id="subject_scope"/>
+      <span end="21228" id="PMC5405375.nxml.gz-40566" start="21025">Mothers in the intervention arm were 3.9 times as likely as those in the control arm to be observed washing their hands at the times recommended as part of the handwashing intervention (95% CI 1.23–2.02)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40567" type="identity">
+      <class id="given"/>
+      <span end="21968" id="PMC5405375.nxml.gz-40568" start="21963">given</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40569" type="identity">
+      <class id="subject_scope"/>
+      <span end="22043" id="PMC5405375.nxml.gz-40570" start="21918">No umbilical cord care events were observed, given that observations were conducted after the typical time of cord separation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40571" type="identity">
+      <class id="important_consideration"/>
+      <span end="23924" id="PMC5405375.nxml.gz-40572" start="23904">substantial barriers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40573" type="identity">
+      <class id="probable_understanding"/>
+      <span end="24318" id="PMC5405375.nxml.gz-40574" start="24310">commonly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40575" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="24567" id="PMC5405375.nxml.gz-40576" start="24560">limited</span>
+      <span end="24585" id="PMC5405375.nxml.gz-40577" start="24579">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40578" type="identity">
+      <class id="subject_scope"/>
+      <span end="24802" id="PMC5405375.nxml.gz-40579" start="24607">We sought to increase the convenience of handwashing by providing soap and handwashing stations and encouraged maintenance of soap and water at handwashing locations throughout the newborn period</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40580" type="identity">
+      <class id="future_work"/>
+      <span end="25506" id="PMC5405375.nxml.gz-40581" start="25493">may be needed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40582" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="26148" id="PMC5405375.nxml.gz-40583" start="26141">several</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40584" type="identity">
+      <class id="subject_scope"/>
+      <span end="26498" id="PMC5405375.nxml.gz-40585" start="26336">We recommended handwashing after respiratory secretion contact, before umbilical cord care, before breastfeeding, after fecal contact, and before food preparation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40586" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="26522" id="PMC5405375.nxml.gz-40587" start="26500">Observational findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40588" type="identity">
+      <class id="probable_understanding"/>
+      <span end="26819" id="PMC5405375.nxml.gz-40589" start="26814">drove</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40590" type="identity">
+      <class id="recommendation"/>
+      <span end="26864" id="PMC5405375.nxml.gz-40591" start="26850">recommendation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40592" type="identity">
+      <class id="consistent"/>
+      <span end="27063" id="PMC5405375.nxml.gz-40593" start="27053">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40594" type="identity">
+      <class id="future_prediction"/>
+      <span end="27138" id="PMC5405375.nxml.gz-40595" start="27125">to facilitate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40596" type="identity">
+      <class id="probable_understanding"/>
+      <span end="27434" id="PMC5405375.nxml.gz-40597" start="27427">affirms</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40598" type="identity">
+      <class id="probable_understanding"/>
+      <span end="27886" id="PMC5405375.nxml.gz-40599" start="27863">increased understanding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-406" type="identity">
+      <class id="have_been" label="have_been"/>
+      <span end="26037" id="PMC5405375.nxml.gz-407" start="26028">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40600" type="identity">
+      <class id="or"/>
+      <span end="28474" id="PMC5405375.nxml.gz-40601" start="28471">or </span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40602" type="identity">
+      <class id="or"/>
+      <span end="28597" id="PMC5405375.nxml.gz-40603" start="28594">or </span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40604" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="28657" id="PMC5405375.nxml.gz-40605" start="28647">restricted</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40606" type="identity">
+      <class id="likely"/>
+      <span end="29015" id="PMC5405375.nxml.gz-40607" start="29009">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40608" type="identity">
+      <class id="or"/>
+      <span end="29078" id="PMC5405375.nxml.gz-40609" start="29076">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40611" type="identity">
+      <class id="future_prediction"/>
+      <span end="30182" id="PMC5405375.nxml.gz-40612" start="30171">as intended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40613" type="identity">
+      <class id="likely"/>
+      <span end="30516" id="PMC5405375.nxml.gz-40614" start="30510">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40615" type="identity">
+      <class id="observed"/>
+      <span end="30689" id="PMC5405375.nxml.gz-40616" start="30681">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40617" type="identity">
+      <class id="recommended"/>
+      <span end="30731" id="PMC5405375.nxml.gz-40618" start="30720">recommended</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40619" type="identity">
+      <class id="future_work"/>
+      <span end="30972" id="PMC5405375.nxml.gz-40620" start="30959">Understanding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40621" type="identity">
+      <class id="future_work"/>
+      <span end="31146" id="PMC5405375.nxml.gz-40622" start="31128">the development of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40623" type="identity">
+      <class id="future_work"/>
+      <span end="31164" id="PMC5405375.nxml.gz-40624" start="31156">guidance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40625" type="identity">
+      <class id="future_work"/>
+      <span end="31216" id="PMC5405375.nxml.gz-40626" start="31211">Novel</span>
+      <span end="31240" id="PMC5405375.nxml.gz-40627" start="31230">approaches</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40628" type="identity">
+      <class id="feasible"/>
+      <span end="31155" id="PMC5405375.nxml.gz-40629" start="31147">feasible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-40630" type="identity">
+      <class id="feasible"/>
+      <span end="31229" id="PMC5405375.nxml.gz-40631" start="31221">feasible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-408" type="identity">
+      <class id="have_been" label="have_been"/>
+      <span end="27314" id="PMC5405375.nxml.gz-409" start="27305">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-410" type="identity">
+      <class id="have_been" label="have_been"/>
+      <span end="29750" id="PMC5405375.nxml.gz-411" start="29741">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-412" type="identity">
+      <class id="how" label="how"/>
+      <span end="28228" id="PMC5405375.nxml.gz-413" start="28225">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-414" type="identity">
+      <class id="however" label="however"/>
+      <span end="22298" id="PMC5405375.nxml.gz-415" start="22291">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-420" type="identity">
+      <class id="however" label="however"/>
+      <span end="28852" id="PMC5405375.nxml.gz-421" start="28845">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-422" type="identity">
+      <class id="identified" label="identified"/>
+      <span end="5497" id="PMC5405375.nxml.gz-423" start="5487">identified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-438" type="identity">
+      <class id="impact" label="impact"/>
+      <span end="6" id="PMC5405375.nxml.gz-439" start="0">Impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-440" type="identity">
+      <class id="impact" label="impact"/>
+      <span end="338" id="PMC5405375.nxml.gz-441" start="332">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-442" type="identity">
+      <class id="impact" label="impact"/>
+      <span end="834" id="PMC5405375.nxml.gz-443" start="828">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-444" type="identity">
+      <class id="impact" label="impact"/>
+      <span end="5640" id="PMC5405375.nxml.gz-445" start="5634">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-446" type="identity">
+      <class id="impact" label="impact"/>
+      <span end="13536" id="PMC5405375.nxml.gz-447" start="13530">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-448" type="identity">
+      <class id="impact" label="impact"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-450" type="identity">
+      <class id="impacts" label="impacts"/>
+      <span end="31404" id="PMC5405375.nxml.gz-451" start="31397">impacts</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-454" type="identity">
+      <class id="important" label="important"/>
+      <span end="4589" id="PMC5405375.nxml.gz-455" start="4580">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-456" type="identity">
+      <class id="important" label="important"/>
+      <span end="27603" id="PMC5405375.nxml.gz-457" start="27594">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-468" type="identity">
+      <class id="increasing...evidence" label="increasing...evidence"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-473" type="identity">
+      <class id="indicated" label="indicated"/>
+      <span end="26184" id="PMC5405375.nxml.gz-474" start="26175">indicated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-481" type="identity">
+      <class id="information" label="information"/>
+      <span end="13395" id="PMC5405375.nxml.gz-482" start="13384">information</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-491" type="identity">
+      <class id="key" label="key"/>
+      <span end="5462" id="PMC5405375.nxml.gz-492" start="5459">key</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-503" type="identity">
+      <class id="led_to" label="led_to"/>
+      <span end="23126" id="PMC5405375.nxml.gz-504" start="23120">led to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-513" type="identity">
+      <class id="less_common" label="less_common"/>
+      <span end="23779" id="PMC5405375.nxml.gz-514" start="23768">less common</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-519" type="identity">
+      <class id="likely" label="likely"/>
+      <span end="2971" id="PMC5405375.nxml.gz-520" start="2965">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-543" type="identity">
+      <class id="may" label="may"/>
+      <span end="294" id="PMC5405375.nxml.gz-544" start="291">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-545" type="identity">
+      <class id="may" label="may"/>
+      <span end="5020" id="PMC5405375.nxml.gz-546" start="5017">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-547" type="identity">
+      <class id="may" label="may"/>
+      <span end="11086" id="PMC5405375.nxml.gz-548" start="11083">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-549" type="identity">
+      <class id="may" label="may"/>
+      <span end="25961" id="PMC5405375.nxml.gz-550" start="25958">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-551" type="identity">
+      <class id="may" label="may"/>
+      <span end="26027" id="PMC5405375.nxml.gz-552" start="26024">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-553" type="identity">
+      <class id="may" label="may"/>
+      <span end="27304" id="PMC5405375.nxml.gz-554" start="27301">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-555" type="identity">
+      <class id="may" label="may"/>
+      <span end="28150" id="PMC5405375.nxml.gz-556" start="28147">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-557" type="identity">
+      <class id="may" label="may"/>
+      <span end="28409" id="PMC5405375.nxml.gz-558" start="28406">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-559" type="identity">
+      <class id="may" label="may"/>
+      <span end="28869" id="PMC5405375.nxml.gz-560" start="28866">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-561" type="identity">
+      <class id="may" label="may"/>
+      <span end="29381" id="PMC5405375.nxml.gz-562" start="29378">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-563" type="identity">
+      <class id="may" label="may"/>
+      <span end="29740" id="PMC5405375.nxml.gz-564" start="29737">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-565" type="identity">
+      <class id="may" label="may"/>
+      <span end="29819" id="PMC5405375.nxml.gz-566" start="29816">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-567" type="identity">
+      <class id="may" label="may"/>
+      <span end="29863" id="PMC5405375.nxml.gz-568" start="29860">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-571" type="identity">
+      <class id="may_be" label="may_be"/>
+      <span end="29003" id="PMC5405375.nxml.gz-572" start="28997">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-573" type="identity">
+      <class id="may_be" label="may_be"/>
+      <span end="29535" id="PMC5405375.nxml.gz-574" start="29529">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-575" type="identity">
+      <class id="might" label="might"/>
+      <span end="28708" id="PMC5405375.nxml.gz-576" start="28703">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-597" type="identity">
+      <class id="needed" label="needed"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-601" type="identity">
+      <class id="needs" label="needs"/>
+      <span end="28273" id="PMC5405375.nxml.gz-602" start="28268">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-603" type="identity">
+      <class id="important_consideration" label="needs"/>
+      <span end="31052" id="PMC5405375.nxml.gz-604" start="31047">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-671" type="identity">
+      <class id="no_clear" label="no_clear"/>
+      <span end="11004" id="PMC5405375.nxml.gz-672" start="10996">no clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-677" type="identity">
+      <class id="not...clear" label="not...clear"/>
+      <span end="3656" id="PMC5405375.nxml.gz-678" start="3647">not clear</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-681" type="identity">
+      <class id="not_yet" label="not_yet"/>
+      <span end="28213" id="PMC5405375.nxml.gz-682" start="28206">not yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-699" type="identity">
+      <class id="objective" label="objective"/>
+      <span end="5555" id="PMC5405375.nxml.gz-700" start="5546">objective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-739" type="identity">
+      <class id="observations" label="observations"/>
+      <span end="25771" id="PMC5405375.nxml.gz-740" start="25759">observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-741" type="identity">
+      <class id="observations" label="observations"/>
+      <span end="29669" id="PMC5405375.nxml.gz-742" start="29657">observations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-811" type="identity">
+      <class id="optimal" label="optimal"/>
+      <span end="27721" id="PMC5405375.nxml.gz-812" start="27714">optimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-843" type="identity">
+      <class id="otherwise" label="otherwise"/>
+      <span end="10985" id="PMC5405375.nxml.gz-844" start="10976">Otherwise</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-87" type="identity">
+      <class id="as_shown" label="as_shown"/>
+      <span end="9573" id="PMC5405375.nxml.gz-88" start="9565">As shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-879" type="identity">
+      <class id="potentially" label="potentially"/>
+      <span end="2959" id="PMC5405375.nxml.gz-880" start="2948">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-881" type="identity">
+      <class id="potentially" label="potentially"/>
+      <span end="29442" id="PMC5405375.nxml.gz-882" start="29431">potentially</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-901" type="identity">
+      <class id="public_health" label="public_health"/>
+      <span end="2016" id="PMC5405375.nxml.gz-902" start="2003">public health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-909" type="identity">
+      <class id="recommendations" label="recommendations"/>
+      <span end="27699" id="PMC5405375.nxml.gz-910" start="27684">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-93" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="2479" id="PMC5405375.nxml.gz-94" start="2469">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-945" type="identity">
+      <class id="relevant_to" label="relevant_to"/>
+      <span end="27199" id="PMC5405375.nxml.gz-946" start="27188">relevant to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-95" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="26763" id="PMC5405375.nxml.gz-96" start="26753">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-97" type="identity">
+      <class id="assumed" label="assumed"/>
+      <span end="13606" id="PMC5405375.nxml.gz-98" start="13599">assumed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-983" type="identity">
+      <class id="role" label="role"/>
+      <span end="27374" id="PMC5405375.nxml.gz-984" start="27370">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-985" type="identity">
+      <class id="role" label="role"/>
+      <span end="28424" id="PMC5405375.nxml.gz-986" start="28420">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-99" type="identity">
+      <class id="assumed" label="assumed"/>
+      <span end="13816" id="PMC5405375.nxml.gz-100" start="13809">assumed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-993" type="identity">
+      <class id="should_be" label="should_be"/>
+      <span end="1559" id="PMC5405375.nxml.gz-994" start="1550">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-995" type="identity">
+      <class id="should_be" label="should_be"/>
+      <span end="27838" id="PMC5405375.nxml.gz-996" start="27829">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-997" type="identity">
+      <class id="should_be" label="should_be"/>
+      <span end="31347" id="PMC5405375.nxml.gz-998" start="31338">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5405375.nxml.gz-999" type="identity">
+      <class id="should_be" label="should_be"/>
+      <span end="31433" id="PMC5405375.nxml.gz-1000" start="31424">should be</span>
+    </annotation>
+  </document>
+</knowtator-project>

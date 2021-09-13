@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC3424155.nxml.gz" text-file="PMC3424155.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-1" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="184" id="PMC3424155.nxml.gz-1" start="102">There is a high prevalence of vitamin D insufficiency in women of reproductive age</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-10" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1185" id="PMC3424155.nxml.gz-10" start="1002">At 6 months of age, F1-VitD- mice exhibited more glomeruli, while F2-VitD- mice exhibited the same number of glomeruli as F2-SC mice, but fewer glomeruli compared to the F1-VitD group</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-100" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18284" id="PMC3424155.nxml.gz-100" start="18128">At 10 days of age, generation contributed significantly to KM ( P&lt;0.0001), but there was no interaction between diet and generation ( P&gt;0.05; two-way ANOVA)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-101" type="identity">
+      <class id="contributed" label=""/>
+      <span end="18169" id="PMC3424155.nxml.gz-101" start="18158">contributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-105" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18686" id="PMC3424155.nxml.gz-105" start="18547">Diet affected the GD in 10-day-old offspring ( P&lt;0.0001), but there was no interaction between diet and generation ( P&gt;0.05; two-way ANOVA)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-106" type="identity">
+      <class id="affected" label=""/>
+      <span end="18560" id="PMC3424155.nxml.gz-106" start="18552">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-108" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="18864" id="PMC3424155.nxml.gz-108" start="18688">Immature glomeruli normally begin to disappear at this age, but the F1-VitD- mice had 150% more immature glomeruli and 25% more mature glomeruli than the F1-SC mice ( P&lt;0.0001)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-109" type="identity">
+      <class id="normally" label=""/>
+      <span end="18715" id="PMC3424155.nxml.gz-109" start="18707">normally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-11" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="1067" id="PMC3424155.nxml.gz-11" start="1062">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-110" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="18751" id="PMC3424155.nxml.gz-110" start="18748">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-113" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19864" id="PMC3424155.nxml.gz-113" start="19713">Diet significantly affected the GD at 6 months of age ( P  = 0.0008), but there was no interaction between diet and generation ( P&gt;0.05; two-way ANOVA)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-114" type="identity">
+      <class id="affected" label=""/>
+      <span end="19740" id="PMC3424155.nxml.gz-114" start="19732">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-115" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-116" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="20286" id="PMC3424155.nxml.gz-116" start="20100">Both diet ( P  = 0.001) and generation ( P  = 0.04) affected the number of glomeruli at 6 months of age, but there was no interaction between diet and generation ( P&gt;0.05; two-way ANOVA)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-117" type="identity">
+      <class id="affected" label=""/>
+      <span end="20160" id="PMC3424155.nxml.gz-117" start="20152">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-118" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-119" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="21323" id="PMC3424155.nxml.gz-119" start="21316">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-12" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="1139" id="PMC3424155.nxml.gz-12" start="1136">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-120" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="21509" id="PMC3424155.nxml.gz-120" start="21316">However, the 24 h urine output, adjusted for BM, was significant lower (−60%; P  = 0.004) in the F1-VitD- mice than the F1-SC mice, even without differences in water intake between these groups</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-121" type="identity">
+      <class id="even" label=""/>
+      <span end="21452" id="PMC3424155.nxml.gz-121" start="21448">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-124" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="23795" id="PMC3424155.nxml.gz-124" start="23788">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-125" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23948" id="PMC3424155.nxml.gz-125" start="23788">However, at 6 month of age, in both the F1 and F2 generations, the VitD- mice had significantly higher values of renin expression than the SC mice ( P  = 0.001)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-126" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24074" id="PMC3424155.nxml.gz-126" start="23950">AT1r expression was significantly higher at 6 months of age than at weaning only in F1-VitD- offspring ( P  = 0.0007,Fig. 9)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-127" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="24030" id="PMC3424155.nxml.gz-127" start="24026">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-128" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-13" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1270" id="PMC3424155.nxml.gz-13" start="1187">Both diet and generation account for the total variation in the number of glomeruli</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-130" type="identity">
+      <class id="therefore" label=""/>
+      <span end="25090" id="PMC3424155.nxml.gz-130" start="25081">Therefore</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-131" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25255" id="PMC3424155.nxml.gz-131" start="25081">Therefore, podocin expression was significantly different between the F1 and F2 generations among VitD- offspring at weaning ( P  = 0.02) and at 6 months of age ( P  = 0.004)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-132" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-133" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-134" type="identity">
+      <class id="importance" label=""/>
+      <span end="26015" id="PMC3424155.nxml.gz-134" start="26005">importance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-135" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="26023" id="PMC3424155.nxml.gz-135" start="26016">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-136" type="identity">
+      <class id="however" label=""/>
+      <span end="26126" id="PMC3424155.nxml.gz-136" start="26119">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-137" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26219" id="PMC3424155.nxml.gz-137" start="26119">However, vitamin D insufficiency is still under-recognized and under-treated, despite its prevalence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-138" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-139" type="identity">
+      <class id="still" label=""/>
+      <span end="26160" id="PMC3424155.nxml.gz-139" start="26155">still</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-14" type="identity">
+      <class id="account_for" label=""/>
+      <span end="1223" id="PMC3424155.nxml.gz-14" start="1212">account for</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-140" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="26177" id="PMC3424155.nxml.gz-140" start="26161">under-recognized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-141" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="26195" id="PMC3424155.nxml.gz-141" start="26182">under-treated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-142" type="identity">
+      <class id="despite" label=""/>
+      <span end="26204" id="PMC3424155.nxml.gz-142" start="26197">despite</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-143" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-144" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-145" type="identity">
+      <class id="recent...study" label=""/>
+      <span end="26235" id="PMC3424155.nxml.gz-145" start="26223">recent study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-146" type="identity">
+      <class id="reported" label=""/>
+      <span end="26272" id="PMC3424155.nxml.gz-146" start="26264">reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-147" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="26282" id="PMC3424155.nxml.gz-147" start="26278">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-148" type="identity">
+      <class id="optimal" label=""/>
+      <span end="26301" id="PMC3424155.nxml.gz-148" start="26294">optimal</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-149" type="identity">
+      <class id="present_study" label=""/>
+      <span end="26346" id="PMC3424155.nxml.gz-149" start="26333">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-15" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1400" id="PMC3424155.nxml.gz-15" start="1272">Decreases in urine output and podocin expression and increases in urea and creatinine in the urine were observed in F1 offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-150" type="identity">
+      <class id="led_to" label=""/>
+      <span end="26392" id="PMC3424155.nxml.gz-150" start="26386">led to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-151" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-152" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-153" type="identity">
+      <class id="not_only...but_also" label=""/>
+      <span end="26628" id="PMC3424155.nxml.gz-153" start="26620">not only</span>
+      <span end="26655" id="PMC3424155.nxml.gz-154" start="26647">but also</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-155" type="identity">
+      <class id="affected" label=""/>
+      <span end="26686" id="PMC3424155.nxml.gz-155" start="26678">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-156" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-157" type="identity">
+      <class id="normally" label=""/>
+      <span end="26775" id="PMC3424155.nxml.gz-157" start="26767">normally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-158" type="identity">
+      <class id="previous...studies" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-16" type="identity">
+      <class id="observed" label=""/>
+      <span end="1384" id="PMC3424155.nxml.gz-16" start="1376">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-160" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27141" id="PMC3424155.nxml.gz-160" start="26972">Previous studies in rodents have shown that the restriction of vitamin D for a period of six weeks prior to mating assures vitamin D deficiency during pregnancy[13],[22]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-161" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="27010" id="PMC3424155.nxml.gz-161" start="27000">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-162" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-163" type="identity">
+      <class id="has_been" label=""/>
+      <span end="27222" id="PMC3424155.nxml.gz-163" start="27214">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-164" type="identity">
+      <class id="associated" label=""/>
+      <span end="27233" id="PMC3424155.nxml.gz-164" start="27223">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-165" type="identity">
+      <class id="could_be" label=""/>
+      <span end="27316" id="PMC3424155.nxml.gz-165" start="27308">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-166" type="identity">
+      <class id="linked" label=""/>
+      <span end="27323" id="PMC3424155.nxml.gz-166" start="27317">linked</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-167" type="identity">
+      <class id="potential" label=""/>
+      <span end="27340" id="PMC3424155.nxml.gz-167" start="27331">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-168" type="identity">
+      <class id="role" label=""/>
+      <span end="27345" id="PMC3424155.nxml.gz-168" start="27341">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-169" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27599" id="PMC3424155.nxml.gz-169" start="27400">Maternal nutrient restriction causes adiposity in offspring[26], and recent data suggest that maternal vitamin D deficiency affects adiposity, although the mechanisms are not yet fully understood[23]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-17" type="identity">
+      <class id="these_findings" label=""/>
+      <span end="1428" id="PMC3424155.nxml.gz-17" start="1414">These findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-170" type="identity">
+      <class id="recent_data" label=""/>
+      <span end="27480" id="PMC3424155.nxml.gz-170" start="27469">recent data</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-171" type="identity">
+      <class id="suggest" label=""/>
+      <span end="27488" id="PMC3424155.nxml.gz-171" start="27481">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-172" type="identity">
+      <class id="affects" label=""/>
+      <span end="27531" id="PMC3424155.nxml.gz-172" start="27524">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-173" type="identity">
+      <class id="although" label=""/>
+      <span end="27551" id="PMC3424155.nxml.gz-173" start="27543">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-174" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-175" type="identity">
+      <class id="not_yet" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-176" type="identity">
+      <class id="incomplete_evidence" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-177" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27650" id="PMC3424155.nxml.gz-177" start="27601">In the present study, adiposity was not the focus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-178" type="identity">
+      <class id="present_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-179" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="27659" id="PMC3424155.nxml.gz-179" start="27652">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-18" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="1625" id="PMC3424155.nxml.gz-18" start="1414">These findings demonstrate that maternal vitamin D deficiency accompanies changes in the renal expression of important factors that may retard the maturation of glomeruli by extending the period of nephrogenesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-180" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27820" id="PMC3424155.nxml.gz-180" start="27652">However, there was a significant increase in BM in both generations of VitD- offspring at six months of age, but the BM was higher only in the F2-VitD- group at weaning</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-181" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="27764" id="PMC3424155.nxml.gz-181" start="27761">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-182" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="27787" id="PMC3424155.nxml.gz-182" start="27783">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-183" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="28106" id="PMC3424155.nxml.gz-183" start="28099">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-184" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28279" id="PMC3424155.nxml.gz-184" start="28099">However, at three months of age, the VitD- groups in both the F1 and F2 generations showed a tendency toward increased BM, although the difference was not statistically significant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-185" type="identity">
+      <class id="showed" label=""/>
+      <span end="28189" id="PMC3424155.nxml.gz-185" start="28183">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-186" type="identity">
+      <class id="tendency" label=""/>
+      <span end="28200" id="PMC3424155.nxml.gz-186" start="28192">tendency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-187" type="identity">
+      <class id="although" label=""/>
+      <span end="28230" id="PMC3424155.nxml.gz-187" start="28222">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-188" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28344" id="PMC3424155.nxml.gz-188" start="28281">The small sample size of the groups could explain these results</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-189" type="identity">
+      <class id="small" label=""/>
+      <span end="28290" id="PMC3424155.nxml.gz-189" start="28285">small</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-19" type="identity">
+      <class id="demonstrate" label=""/>
+      <span end="1440" id="PMC3424155.nxml.gz-19" start="1429">demonstrate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-190" type="identity">
+      <class id="could" label=""/>
+      <span end="28322" id="PMC3424155.nxml.gz-190" start="28317">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-191" type="identity">
+      <class id="explain" label=""/>
+      <span end="28330" id="PMC3424155.nxml.gz-191" start="28323">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-192" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28563" id="PMC3424155.nxml.gz-192" start="28346">In rats, it has been observed that maternal vitamin D deficiency leads to a significant increase in the number of glomeruli, which is a unique and important effect of vitamin D restriction during fetal development[13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-193" type="identity">
+      <class id="observed" label=""/>
+      <span end="28375" id="PMC3424155.nxml.gz-193" start="28367">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-194" type="identity">
+      <class id="leads" label=""/>
+      <span end="28416" id="PMC3424155.nxml.gz-194" start="28411">leads</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-195" type="identity">
+      <class id="unique" label=""/>
+      <span end="28488" id="PMC3424155.nxml.gz-195" start="28482">unique</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-196" type="identity">
+      <class id="important" label=""/>
+      <span end="28502" id="PMC3424155.nxml.gz-196" start="28493">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-197" type="identity">
+      <class id="effect" label=""/>
+      <span end="28509" id="PMC3424155.nxml.gz-197" start="28503">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-198" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28729" id="PMC3424155.nxml.gz-198" start="28565">To understand this result, it should be emphasized that nephrogenesis in rodents, unlike in humans, continues after delivery for the first 10 days of postnatal life</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-199" type="identity">
+      <class id="this" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-2" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="155" id="PMC3424155.nxml.gz-2" start="142">insufficiency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-20" type="identity">
+      <class id="important" label=""/>
+      <span end="1532" id="PMC3424155.nxml.gz-20" start="1523">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-200" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="28615" id="PMC3424155.nxml.gz-200" start="28595">should be emphasized</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-201" type="identity">
+      <class id="unlike" label=""/>
+      <span end="28653" id="PMC3424155.nxml.gz-201" start="28647">unlike</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-202" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28813" id="PMC3424155.nxml.gz-202" start="28731">This period is roughly comparable to the third gestational trimester of humans[27]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-203" type="identity">
+      <class id="comparable" label=""/>
+      <span end="28764" id="PMC3424155.nxml.gz-203" start="28754">comparable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-204" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29070" id="PMC3424155.nxml.gz-204" start="28815">Experimental models have demonstrated that blocking the RAS during development causes changes in the glomerular vasculature that affects the normal maturity of the kidney, although the RAS cascade during kidney development is not fully understood[28],[29]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-205" type="identity">
+      <class id="models" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-206" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="28834" id="PMC3424155.nxml.gz-206" start="28828">models</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-207" type="identity">
+      <class id="demonstrated" label=""/>
+      <span end="28852" id="PMC3424155.nxml.gz-207" start="28840">demonstrated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-208" type="identity">
+      <class id="affects" label=""/>
+      <span end="28951" id="PMC3424155.nxml.gz-208" start="28944">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-209" type="identity">
+      <class id="although" label=""/>
+      <span end="28995" id="PMC3424155.nxml.gz-209" start="28987">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-21" type="identity">
+      <class id="factors" label=""/>
+      <span end="1540" id="PMC3424155.nxml.gz-21" start="1533">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-211" type="identity">
+      <class id="not_fully_understood" label=""/>
+      <span end="29061" id="PMC3424155.nxml.gz-211" start="29041">not fully understood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-212" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29248" id="PMC3424155.nxml.gz-212" start="29072">Research suggests that vitamin D is important for differentiation and maturation during cell proliferation[9]and that it down-regulates renin gene expression in the kidneys[13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-213" type="identity">
+      <class id="suggests" label=""/>
+      <span end="29089" id="PMC3424155.nxml.gz-213" start="29081">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-214" type="identity">
+      <class id="important" label=""/>
+      <span end="29117" id="PMC3424155.nxml.gz-214" start="29108">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-215" type="identity">
+      <class id="however" label=""/>
+      <span end="29257" id="PMC3424155.nxml.gz-215" start="29250">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-216" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29455" id="PMC3424155.nxml.gz-216" start="29250">However, in the present study, renin expression was significantly higher at six months of age in both the F1 and F2 generations, and AT1r expression was higher in F1-VitD- offspring than in F1-SC offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-217" type="identity">
+      <class id="present_study" label=""/>
+      <span end="29279" id="PMC3424155.nxml.gz-217" start="29266">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-219" type="identity">
+      <class id="as" label=""/>
+      <span end="29504" id="PMC3424155.nxml.gz-219" start="29502">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-22" type="identity">
+      <class id="may" label=""/>
+      <span end="1549" id="PMC3424155.nxml.gz-22" start="1546">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-220" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="29662" id="PMC3424155.nxml.gz-220" start="29551">WT1 is expressed in the metanephric blastema and probably plays a key role in podocyte differentiation[12],[30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-221" type="identity">
+      <class id="probably" label=""/>
+      <span end="29608" id="PMC3424155.nxml.gz-221" start="29600">probably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-222" type="identity">
+      <class id="key" label=""/>
+      <span end="29620" id="PMC3424155.nxml.gz-222" start="29617">key</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-223" type="identity">
+      <class id="role" label=""/>
+      <span end="29625" id="PMC3424155.nxml.gz-223" start="29621">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-224" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-225" type="identity">
+      <class id="question_answered_by_this_work" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-226" type="identity">
+      <class id="observed" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-227" type="identity">
+      <class id="although" label=""/>
+      <span end="29816" id="PMC3424155.nxml.gz-227" start="29808">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-228" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30041" id="PMC3424155.nxml.gz-228" start="29808">Although the VitD- offspring in the present study did not show a reduction in WT1 expression, maternal vitamin D deficiency did alter the ratio of immature-to-mature glomeruli at birth by extending the period of glomerular maturation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-229" type="identity">
+      <class id="present_study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-23" type="identity">
+      <class id="extending" label=""/>
+      <span end="1597" id="PMC3424155.nxml.gz-23" start="1588">extending</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-230" type="identity">
+      <class id="extending" label=""/>
+      <span end="30005" id="PMC3424155.nxml.gz-230" start="29996">extending</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-231" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30191" id="PMC3424155.nxml.gz-231" start="30043">Maternal vitamin D deficiency may also have contributed to an increased number of glomeruli, thus producing smaller glomeruli than in animals fed SC</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-232" type="identity">
+      <class id="may" label=""/>
+      <span end="30076" id="PMC3424155.nxml.gz-232" start="30073">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-233" type="identity">
+      <class id="contributed" label=""/>
+      <span end="30098" id="PMC3424155.nxml.gz-233" start="30087">contributed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-234" type="identity">
+      <class id="thus" label=""/>
+      <span end="30140" id="PMC3424155.nxml.gz-234" start="30136">thus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-235" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30351" id="PMC3424155.nxml.gz-235" start="30193">Indeed, the smaller glomeruli could explain the high BP observed among F1-VitD- offspring and the strong tendency toward high BP observed in the F2 generation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-236" type="identity">
+      <class id="could" label=""/>
+      <span end="30228" id="PMC3424155.nxml.gz-236" start="30223">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-237" type="identity">
+      <class id="explain" label=""/>
+      <span end="30236" id="PMC3424155.nxml.gz-237" start="30229">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-238" type="identity">
+      <class id="observed" label=""/>
+      <span end="30257" id="PMC3424155.nxml.gz-238" start="30249">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-239" type="identity">
+      <class id="tendency" label=""/>
+      <span end="30306" id="PMC3424155.nxml.gz-239" start="30298">tendency</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-24" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-240" type="identity">
+      <class id="observed" label=""/>
+      <span end="30330" id="PMC3424155.nxml.gz-240" start="30322">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-241" type="identity">
+      <class id="previous" label=""/>
+      <span end="30361" id="PMC3424155.nxml.gz-241" start="30353">Previous</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-242" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30491" id="PMC3424155.nxml.gz-242" start="30353">Previous research has documented a negative correlation between the number of glomeruli and BP levels in humans[31]and in rodents[27],[32]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-243" type="identity">
+      <class id="documented" label=""/>
+      <span end="30385" id="PMC3424155.nxml.gz-243" start="30375">documented</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-244" type="identity">
+      <class id="correlation" label=""/>
+      <span end="30408" id="PMC3424155.nxml.gz-244" start="30397">correlation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-245" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30590" id="PMC3424155.nxml.gz-245" start="30493">This finding is consistent with the high renin and AT1r expressions observed in the present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-247" type="identity">
+      <class id="finding" label=""/>
+      <span end="30505" id="PMC3424155.nxml.gz-247" start="30498">finding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-248" type="identity">
+      <class id="consistent" label=""/>
+      <span end="30519" id="PMC3424155.nxml.gz-248" start="30509">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-249" type="identity">
+      <class id="observed" label=""/>
+      <span end="30569" id="PMC3424155.nxml.gz-249" start="30561">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-25" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-251" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30705" id="PMC3424155.nxml.gz-251" start="30592">Activation of the RAS may play a significant role in the development of mechanisms that lead to kidney damage[33]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-252" type="identity">
+      <class id="may" label=""/>
+      <span end="30617" id="PMC3424155.nxml.gz-252" start="30614">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-253" type="identity">
+      <class id="role" label=""/>
+      <span end="30641" id="PMC3424155.nxml.gz-253" start="30637">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-254" type="identity">
+      <class id="lead_to" label=""/>
+      <span end="30687" id="PMC3424155.nxml.gz-254" start="30680">lead to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-255" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="30947" id="PMC3424155.nxml.gz-255" start="30858">Two hypotheses are currently proposed to explain the progression of chronic renal disease</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-256" type="identity">
+      <class id="hypotheses" label=""/>
+      <span end="30872" id="PMC3424155.nxml.gz-256" start="30862">hypotheses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-257" type="identity">
+      <class id="proposed" label=""/>
+      <span end="30895" id="PMC3424155.nxml.gz-257" start="30887">proposed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-258" type="identity">
+      <class id="explain" label=""/>
+      <span end="30906" id="PMC3424155.nxml.gz-258" start="30899">explain</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-259" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31027" id="PMC3424155.nxml.gz-259" start="30949">The results of the present study are consistent with the “overload hypothesis”</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-26" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-261" type="identity">
+      <class id="consistent" label=""/>
+      <span end="30996" id="PMC3424155.nxml.gz-261" start="30986">consistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-262" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="31026" id="PMC3424155.nxml.gz-262" start="31016">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-263" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31219" id="PMC3424155.nxml.gz-263" start="31029">This hypothesis suggests that structural and functional adaptations are associated with glomerular hypertension, hyperfiltration, and hypertrophy partially compensated for nephron losses[34]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-264" type="identity">
+      <class id="hypothesis" label=""/>
+      <span end="31044" id="PMC3424155.nxml.gz-264" start="31034">hypothesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-265" type="identity">
+      <class id="suggests" label=""/>
+      <span end="31053" id="PMC3424155.nxml.gz-265" start="31045">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-266" type="identity">
+      <class id="associated" label=""/>
+      <span end="31111" id="PMC3424155.nxml.gz-266" start="31101">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-267" type="identity">
+      <class id="partially" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-268" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31412" id="PMC3424155.nxml.gz-268" start="31221">Podocin provides the structural organization of the slit diaphragm and the regulation of filtration function and seems to be involved in the alteration of the glomerular basement membrane[35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-269" type="identity">
+      <class id="seems" label=""/>
+      <span end="31339" id="PMC3424155.nxml.gz-269" start="31334">seems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-27" type="identity">
+      <class id="likely" label=""/>
+      <span end="1806" id="PMC3424155.nxml.gz-27" start="1800">likely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-270" type="identity">
+      <class id="involved" label=""/>
+      <span end="31354" id="PMC3424155.nxml.gz-270" start="31346">involved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-271" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31707" id="PMC3424155.nxml.gz-271" start="31414">Nephrin is expressed late in the process of podocyte differentiation and is a locus for the formation of the slit diaphragm, foot process maintenance and physical integrity in vivo , but it is dispensable for cell survival and has little impact on gene regulation during glomerular development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-272" type="identity">
+      <class id="but" label=""/>
+      <span end="31600" id="PMC3424155.nxml.gz-272" start="31597">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-273" type="identity">
+      <class id="little" label=""/>
+      <span end="31651" id="PMC3424155.nxml.gz-273" start="31645">little</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-274" type="identity">
+      <class id="impact" label=""/>
+      <span end="31658" id="PMC3424155.nxml.gz-274" start="31652">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-278" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="31964" id="PMC3424155.nxml.gz-278" start="31786">In the present study, vitamin D restriction during nephrogenesis reduced podocin expression in the F1 generation from weaning until six months of age but not in the F2 generation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-28" type="identity">
+      <class id="related" label=""/>
+      <span end="1814" id="PMC3424155.nxml.gz-28" start="1807">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-280" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="31943" id="PMC3424155.nxml.gz-280" start="31936">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-281" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32124" id="PMC3424155.nxml.gz-281" start="31966">Such effects should be evaluated because podocin serves in the structural organization of the slit diaphragm and the regulation of its filtration function[35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-282" type="identity">
+      <class id="effects" label=""/>
+      <span end="31978" id="PMC3424155.nxml.gz-282" start="31971">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-283" type="identity">
+      <class id="should_be" label=""/>
+      <span end="31988" id="PMC3424155.nxml.gz-283" start="31979">should be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-284" type="identity">
+      <class id="probable_understanding" label=""/>
+      <span end="32006" id="PMC3424155.nxml.gz-284" start="31999">because</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-285" type="identity">
+      <class id="because" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-286" type="identity">
+      <class id="superficial_relationship" label=""/>
+      <span end="32021" id="PMC3424155.nxml.gz-286" start="32015">serves</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-287" type="identity">
+      <class id="although" label=""/>
+      <span end="32134" id="PMC3424155.nxml.gz-287" start="32126">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-288" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32336" id="PMC3424155.nxml.gz-288" start="32126">Although the mature animals did not show significant proteinuria, maternal vitamin D deficiency altered podocin expression in the F1 generation from weaning until six months of age, but not in the F2 generation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-289" type="identity">
+      <class id="show" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-29" type="identity">
+      <class id="as" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-290" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="32315" id="PMC3424155.nxml.gz-290" start="32308">but not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-291" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32443" id="PMC3424155.nxml.gz-291" start="32338">The question of how developmental programming passes to subsequent generations deserves further attention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-292" type="identity">
+      <class id="question" label=""/>
+      <span end="32350" id="PMC3424155.nxml.gz-292" start="32342">question</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-293" type="identity">
+      <class id="how" label=""/>
+      <span end="32357" id="PMC3424155.nxml.gz-293" start="32354">how</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-294" type="identity">
+      <class id="future_work" label=""/>
+      <span end="32443" id="PMC3424155.nxml.gz-294" start="32426">further attention</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-295" type="identity">
+      <class id="further" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-296" type="identity">
+      <class id="attention" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-297" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32627" id="PMC3424155.nxml.gz-297" start="32445">Intense maternal protein restriction, for example, leads to chronic diseases in adult life, affecting both the F1 and F2 generations[37],[38], and reaching even the F3 generation[39]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-298" type="identity">
+      <class id="leads" label=""/>
+      <span end="32501" id="PMC3424155.nxml.gz-298" start="32496">leads</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-299" type="identity">
+      <class id="affecting" label=""/>
+      <span end="32546" id="PMC3424155.nxml.gz-299" start="32537">affecting</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-3" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="751" id="PMC3424155.nxml.gz-3" start="612">However, at all ages, both F1 and F2 VitD- mice had shorter glomerular diameters, and diet played a significant role in the total variation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-30" type="identity">
+      <class id="public_health" label=""/>
+      <span end="1870" id="PMC3424155.nxml.gz-30" start="1857">public health</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-300" type="identity">
+      <class id="even" label=""/>
+      <span end="32605" id="PMC3424155.nxml.gz-300" start="32601">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-301" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-302" type="identity">
+      <class id="explanation" label=""/>
+      <span end="32652" id="PMC3424155.nxml.gz-302" start="32641">explanation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-303" type="identity">
+      <class id="seems" label=""/>
+      <span end="32658" id="PMC3424155.nxml.gz-303" start="32653">seems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-304" type="identity">
+      <class id="limitations" label=""/>
+      <span end="32759" id="PMC3424155.nxml.gz-304" start="32748">limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-305" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="32940" id="PMC3424155.nxml.gz-305" start="32761">The major aim of the study was to investigate glomerular development and renal structure at birth, 10 days and adulthood in mice born to mothers fed a diet restricted in vitamin D</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-306" type="identity">
+      <class id="major" label=""/>
+      <span end="32770" id="PMC3424155.nxml.gz-306" start="32765">major</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-307" type="identity">
+      <class id="aim" label=""/>
+      <span end="32774" id="PMC3424155.nxml.gz-307" start="32771">aim</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-308" type="identity">
+      <class id="to_investigate" label=""/>
+      <span end="32806" id="PMC3424155.nxml.gz-308" start="32792">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-309" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33241" id="PMC3424155.nxml.gz-309" start="32942">Although, we examined other variables, such as body mass and 24 h urine, the present study was not designed to investigate renal functional and metabolic consequences but rather was designed to answer the question of whether there were structural, glomerular alterations or transgenerational effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-31" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="1878" id="PMC3424155.nxml.gz-31" start="1871">problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-310" type="identity">
+      <class id="alternative_options_controversy" label=""/>
+      <span end="32950" id="PMC3424155.nxml.gz-310" start="32942">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-311" type="identity">
+      <class id="although" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-312" type="identity">
+      <class id="examined" label=""/>
+      <span end="32963" id="PMC3424155.nxml.gz-312" start="32955">examined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-313" type="identity">
+      <class id="other" label=""/>
+      <span end="32969" id="PMC3424155.nxml.gz-313" start="32964">other</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-314" type="identity">
+      <class id="superficial_relationship" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-315" type="identity">
+      <class id="present_study" label=""/>
+      <span end="33032" id="PMC3424155.nxml.gz-315" start="33019">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-316" type="identity">
+      <class id="not_designed_to" label=""/>
+      <span end="33052" id="PMC3424155.nxml.gz-316" start="33037">not designed to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-317" type="identity">
+      <class id="important_consideration" label=""/>
+      <span end="33108" id="PMC3424155.nxml.gz-317" start="33096">consequences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-318" type="identity">
+      <class id="but" label=""/>
+      <span end="33112" id="PMC3424155.nxml.gz-318" start="33109">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-319" type="identity">
+      <class id="rather" label=""/>
+      <span end="33119" id="PMC3424155.nxml.gz-319" start="33113">rather</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-32" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2001" id="PMC3424155.nxml.gz-32" start="1880">The prevalence of vitamin D insufficiency is high even in sunny climates, such as Brazil's, principally in adolescents[4]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-320" type="identity">
+      <class id="designed_to" label=""/>
+      <span end="33135" id="PMC3424155.nxml.gz-320" start="33124">designed to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-321" type="identity">
+      <class id="question" label=""/>
+      <span end="33155" id="PMC3424155.nxml.gz-321" start="33147">question</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-322" type="identity">
+      <class id="whether" label=""/>
+      <span end="33166" id="PMC3424155.nxml.gz-322" start="33159">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-323" type="identity">
+      <class id="effects" label=""/>
+      <span end="33241" id="PMC3424155.nxml.gz-323" start="33234">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-324" type="identity">
+      <class id="further_studies" label=""/>
+      <span end="33258" id="PMC3424155.nxml.gz-324" start="33243">Further studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-325" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33363" id="PMC3424155.nxml.gz-325" start="33243">Further studies are necessary to clarify the impact of maternal vitamin D restriction on the renal function of offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-326" type="identity">
+      <class id="necessary" label=""/>
+      <span end="33272" id="PMC3424155.nxml.gz-326" start="33263">necessary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-327" type="identity">
+      <class id="to_clarify" label=""/>
+      <span end="33283" id="PMC3424155.nxml.gz-327" start="33273">to clarify</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-328" type="identity">
+      <class id="impact" label=""/>
+      <span end="33294" id="PMC3424155.nxml.gz-328" start="33288">impact</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-329" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33559" id="PMC3424155.nxml.gz-329" start="33365">Furthermore, the literature shows some relationship between vitamin D deficiency and adipose tissue development, and other studies should evaluate such effects, and the transgenerational effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-33" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-330" type="identity">
+      <class id="shows" label=""/>
+      <span end="33398" id="PMC3424155.nxml.gz-330" start="33393">shows</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-331" type="identity">
+      <class id="some" label=""/>
+      <span end="33403" id="PMC3424155.nxml.gz-331" start="33399">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-332" type="identity">
+      <class id="relationship" label=""/>
+      <span end="33416" id="PMC3424155.nxml.gz-332" start="33404">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-333" type="identity">
+      <class id="other_studies" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-334" type="identity">
+      <class id="future_work" label=""/>
+      <span end="33495" id="PMC3424155.nxml.gz-334" start="33482">other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-335" type="identity">
+      <class id="should" label=""/>
+      <span end="33502" id="PMC3424155.nxml.gz-335" start="33496">should</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-336" type="identity">
+      <class id="effects" label=""/>
+      <span end="33524" id="PMC3424155.nxml.gz-336" start="33517">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-337" type="identity">
+      <class id="effects" label=""/>
+      <span end="33559" id="PMC3424155.nxml.gz-337" start="33552">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-338" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33737" id="PMC3424155.nxml.gz-338" start="33561">In conclusion, the present findings provide insight into the relationship between maternal vitamin D deficiency and the occurrence of a greater number of glomeruli in offspring</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-339" type="identity">
+      <class id="findings" label=""/>
+      <span end="33596" id="PMC3424155.nxml.gz-339" start="33588">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-34" type="identity">
+      <class id="even" label=""/>
+      <span end="1934" id="PMC3424155.nxml.gz-34" start="1930">even</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-340" type="identity">
+      <class id="insight" label=""/>
+      <span end="33612" id="PMC3424155.nxml.gz-340" start="33605">insight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-341" type="identity">
+      <class id="relationship" label=""/>
+      <span end="33634" id="PMC3424155.nxml.gz-341" start="33622">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-342" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="33927" id="PMC3424155.nxml.gz-342" start="33739">Maternal vitamin D deficiency is accompanied by changes in the renal expression of podocin, renin and AT1 receptors, and it delays the maturity of the glomeruli, by extending nephrogenesis</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-343" type="identity">
+      <class id="accompanied" label=""/>
+      <span end="33783" id="PMC3424155.nxml.gz-343" start="33772">accompanied</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-344" type="identity">
+      <class id="extending" label=""/>
+      <span end="33913" id="PMC3424155.nxml.gz-344" start="33904">extending</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-345" type="identity">
+      <class id="these_findings" label=""/>
+      <span end="33943" id="PMC3424155.nxml.gz-345" start="33929">These findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-346" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="34011" id="PMC3424155.nxml.gz-346" start="33929">These findings are more pronounced in F1 progeny, but F2 progeny are also affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-347" type="identity">
+      <class id="pronounced" label=""/>
+      <span end="33963" id="PMC3424155.nxml.gz-347" start="33953">pronounced</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-348" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="33982" id="PMC3424155.nxml.gz-348" start="33979">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-349" type="identity">
+      <class id="affected" label=""/>
+      <span end="34011" id="PMC3424155.nxml.gz-349" start="34003">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-35" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2127" id="PMC3424155.nxml.gz-35" start="2003">Vitamin D is critical for the development of the nervous system[5],[6]and immunological functions[7]during fetal development</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36" type="identity">
+      <class id="critical" label=""/>
+      <span end="2024" id="PMC3424155.nxml.gz-36" start="2016">critical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36809" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36811" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36813" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36815" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36817" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36819" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36821" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36823" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36825" type="identity">
+      <class id="subject_scope"/>
+      <span end="26117" id="PMC3424155.nxml.gz-36826" start="25894">Micronutrient deficiency during development, such as maternal vitamin D deficiency, is a subject of increasing importance because of the nutritional deficiencies caused by excessive consumption of junk food during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36827" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36829" type="identity">
+      <class id="subject_scope"/>
+      <span end="26752" id="PMC3424155.nxml.gz-36830" start="26607">Furthermore, not only the F1 generation but also the F2 generation was affected by the gestational vitamin D deficiency of the F0 generation mice</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36831" type="identity">
+      <class id="subject_scope"/>
+      <span end="26970" id="PMC3424155.nxml.gz-36832" start="26754">Vitamin D is normally stored in the liver and adipose tissue, and after six weeks on a restricted diet, the vitamin D levels were extremely reduced without alteration of calcium or phosphate levels in the rodents[21]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36833" type="identity">
+      <class id="previous...studies"/>
+      <span end="26988" id="PMC3424155.nxml.gz-36834" start="26972">Previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36835" type="identity">
+      <class id="subject_scope"/>
+      <span end="27398" id="PMC3424155.nxml.gz-36836" start="27143">Vitamin D deficiency during the third trimester of pregnancy in humans has been associated with cardiovascular disease, diabetes and obesity in offspring[23], which could be linked to the potential role of vitamin D in the regulation of adiposity[24],[25]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36837" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36839" type="identity">
+      <class id="subject_scope"/>
+      <span end="29549" id="PMC3424155.nxml.gz-36840" start="29457">Kidney organogenesis is begun and maintained as a result of a series of regulatory molecules</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36841" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36896" type="identity">
+      <class id="subject_scope"/>
+      <span end="1000" id="PMC3424155.nxml.gz-36897" start="865">Immature glomeruli begin to disappear at 10 days, but at this age, F1-VitD- mice had more immature and mature glomeruli than F1-SC mice</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36898" type="identity">
+      <class id="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36900" type="identity">
+      <class id="subject_scope"/>
+      <span end="1878" id="PMC3424155.nxml.gz-36901" start="1778">This insufficiency is likely related to diet[3]and is gaining recognition as a public health problem</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36902" type="identity">
+      <class id="subject_scope"/>
+      <span end="26324" id="PMC3424155.nxml.gz-36903" start="26221">A recent study of pregnant women in Europe reported that only 12% had an optimal level of vitamin D[20]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36904" type="identity">
+      <class id="subject_scope"/>
+      <span end="26540" id="PMC3424155.nxml.gz-36905" start="26326">In the present study, maternal vitamin D deficiency in mice led to significant changes in kidney development in the offspring, such as retardation of glomerular maturation and an increase in the number of glomeruli</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36906" type="identity">
+      <class id="extremely"/>
+      <span end="26893" id="PMC3424155.nxml.gz-36907" start="26884">extremely</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36908" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="27376" id="PMC3424155.nxml.gz-36909" start="27366">regulation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36910" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="27574" id="PMC3424155.nxml.gz-36912" start="27571">not</span>
+      <span end="27595" id="PMC3424155.nxml.gz-36911" start="27579">fully understood</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36913" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="27650" id="PMC3424155.nxml.gz-36914" start="27637">not the focus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36915" type="identity">
+      <class id="probable_understanding"/>
+      <span end="28753" id="PMC3424155.nxml.gz-36916" start="28746">roughly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36917" type="identity">
+      <class id="subject_scope"/>
+      <span end="32716" id="PMC3424155.nxml.gz-36918" start="32629">Part of the explanation seems to be decreased global methylation in these offspring[40]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-36919" type="identity">
+      <class id="subject_scope"/>
+      <span end="32759" id="PMC3424155.nxml.gz-36920" start="32718">The present study has certain limitations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-37" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2240" id="PMC3424155.nxml.gz-37" start="2129">Vitamin D during the pregnancy is important to both maternal skeletal preservation and fetal skeletal formation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-38" type="identity">
+      <class id="important" label=""/>
+      <span end="2172" id="PMC3424155.nxml.gz-38" start="2163">important</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-39" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2437" id="PMC3424155.nxml.gz-39" start="2242">However, new evidence suggests that vitamin D could be vital to normal fetal development and that vitamin D restriction in this period may affect chronic disease susceptibility post-natal life[8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-4" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="619" id="PMC3424155.nxml.gz-4" start="612">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-40" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="2249" id="PMC3424155.nxml.gz-40" start="2242">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-41" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-42" type="identity">
+      <class id="new" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-43" type="identity">
+      <class id="incomplete_evidence" label=""/>
+      <span end="2263" id="PMC3424155.nxml.gz-43" start="2251">new evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-44" type="identity">
+      <class id="suggests" label=""/>
+      <span end="2272" id="PMC3424155.nxml.gz-44" start="2264">suggests</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-45" type="identity">
+      <class id="could_be" label=""/>
+      <span end="2296" id="PMC3424155.nxml.gz-45" start="2288">could be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-46" type="identity">
+      <class id="vital" label=""/>
+      <span end="2302" id="PMC3424155.nxml.gz-46" start="2297">vital</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-47" type="identity">
+      <class id="may" label=""/>
+      <span end="2380" id="PMC3424155.nxml.gz-47" start="2377">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-48" type="identity">
+      <class id="affect" label=""/>
+      <span end="2387" id="PMC3424155.nxml.gz-48" start="2381">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-49" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2615" id="PMC3424155.nxml.gz-49" start="2439">Furthermore, recent studies have shown that this restriction can generate “genomic imprinting” in the fetus, which is related to the genesis of chronic diseases in adulthood[9]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-5" type="identity">
+      <class id="however" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-50" type="identity">
+      <class id="recent_studies" label=""/>
+      <span end="2466" id="PMC3424155.nxml.gz-50" start="2452">recent studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-51" type="identity">
+      <class id="have_shown" label=""/>
+      <span end="2477" id="PMC3424155.nxml.gz-51" start="2467">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-52" type="identity">
+      <class id="this" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-53" type="identity">
+      <class id="can" label=""/>
+      <span end="2503" id="PMC3424155.nxml.gz-53" start="2500">can</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-54" type="identity">
+      <class id="related" label=""/>
+      <span end="2564" id="PMC3424155.nxml.gz-54" start="2557">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-55" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2813" id="PMC3424155.nxml.gz-55" start="2617">Moreover, vitamin D is associated with premature births, obesity and renal dysfunction in adulthood, making it more than an essential fat-soluble vitamin responsible for calcium metabolism[9],[10]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-56" type="identity">
+      <class id="associated" label=""/>
+      <span end="2650" id="PMC3424155.nxml.gz-56" start="2640">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-57" type="identity">
+      <class id="essential" label=""/>
+      <span end="2750" id="PMC3424155.nxml.gz-57" start="2741">essential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-58" type="identity">
+      <class id="responsible" label=""/>
+      <span end="2782" id="PMC3424155.nxml.gz-58" start="2771">responsible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-59" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2955" id="PMC3424155.nxml.gz-59" start="2815">Normal development of the kidney is a highly complex process that requires precise cellular proliferation, differentiation and apoptosis[11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-6" type="identity">
+      <class id="role" label=""/>
+      <span end="728" id="PMC3424155.nxml.gz-6" start="724">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-60" type="identity">
+      <class id="complex" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-61" type="identity">
+      <class id="requires" label=""/>
+      <span end="2889" id="PMC3424155.nxml.gz-61" start="2881">requires</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-62" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3172" id="PMC3424155.nxml.gz-62" start="2957">Among the essential regulators of kidney development are components of the renin-angiotensin system (RAS), podocin (a critical component of the glomerular slit diaphragm) and the Wilms' tumor suppressor gene WT1[12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-63" type="identity">
+      <class id="essential" label=""/>
+      <span end="2976" id="PMC3424155.nxml.gz-63" start="2967">essential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-64" type="identity">
+      <class id="critical" label=""/>
+      <span end="3083" id="PMC3424155.nxml.gz-64" start="3075">critical</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-65" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3439" id="PMC3424155.nxml.gz-65" start="3174">Vitamin D restriction during pregnancy and throughout lactation in rats is associated with an increased number of glomeruli and decreased renal corpuscle size among offspring, although the causes and consequences of this abnormal kidney phenotype remain unknown[13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-66" type="identity">
+      <class id="associated" label=""/>
+      <span end="3259" id="PMC3424155.nxml.gz-66" start="3249">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-67" type="identity">
+      <class id="although" label=""/>
+      <span end="3358" id="PMC3424155.nxml.gz-67" start="3350">although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-68" type="identity">
+      <class id="consequences" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-69" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-7" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-70" type="identity">
+      <class id="remain" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-71" type="identity">
+      <class id="full_unknown" label=""/>
+      <span end="3435" id="PMC3424155.nxml.gz-71" start="3421">remain unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-72" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3547" id="PMC3424155.nxml.gz-72" start="3441">Therefore, the adverse effects of vitamin D restriction during kidney development need further exploration</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-73" type="identity">
+      <class id="therefore" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-74" type="identity">
+      <class id="effects" label=""/>
+      <span end="3471" id="PMC3424155.nxml.gz-74" start="3464">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-75" type="identity">
+      <class id="need" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-76" type="identity">
+      <class id="important_consideration" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-77" type="identity">
+      <class id="future_work" label=""/>
+      <span end="3535" id="PMC3424155.nxml.gz-77" start="3523">need further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-78" type="identity">
+      <class id="further" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-79" type="identity">
+      <class id="this_study" label=""/>
+      <span end="3559" id="PMC3424155.nxml.gz-79" start="3549">This study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-8" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="918" id="PMC3424155.nxml.gz-8" start="915">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-80" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3714" id="PMC3424155.nxml.gz-80" start="3549">This study investigates the effects of maternal vitamin D deficiency on glomerular development in early postnatal life and its effects on renal structure at maturity</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-81" type="identity">
+      <class id="effects" label=""/>
+      <span end="3584" id="PMC3424155.nxml.gz-81" start="3577">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-82" type="identity">
+      <class id="effects" label=""/>
+      <span end="3683" id="PMC3424155.nxml.gz-82" start="3676">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-83" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3803" id="PMC3424155.nxml.gz-83" start="3716">This study focuses on the F1 and F2 generations after F0 maternal vitamin D restriction</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-84" type="identity">
+      <class id="this...study" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-86" type="identity">
+      <class id="this_study" label=""/>
+      <span end="3726" id="PMC3424155.nxml.gz-86" start="3716">This study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-87" type="identity">
+      <class id="focuses" label=""/>
+      <span end="3734" id="PMC3424155.nxml.gz-87" start="3727">focuses</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-88" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-89" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-9" type="identity">
+      <class id="this" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-90" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-91" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-92" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-93" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-94" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16253" id="PMC3424155.nxml.gz-94" start="16126">Diet significantly affected KM ( P  = 0.006), but there was no interaction between diet and generation ( P&gt;0.05; two-way ANOVA)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-95" type="identity">
+      <class id="affected" label=""/>
+      <span end="16153" id="PMC3424155.nxml.gz-95" start="16145">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-96" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-97" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16671" id="PMC3424155.nxml.gz-97" start="16522">Both diet ( P&lt;0.0001) and generation ( P  = 0.003) affected the GD, but there was no interaction between diet and generation ( P&gt;0.05; two-way ANOVA)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-98" type="identity">
+      <class id="affected" label=""/>
+      <span end="16581" id="PMC3424155.nxml.gz-98" start="16573">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC3424155.nxml.gz-99" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+    </annotation>
+  </document>
+</knowtator-project>

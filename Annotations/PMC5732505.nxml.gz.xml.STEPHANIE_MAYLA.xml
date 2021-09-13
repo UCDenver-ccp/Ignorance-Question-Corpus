@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<knowtator-project>
+  <document id="PMC5732505.nxml.gz" text-file="PMC5732505.nxml.gz.txt">
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1" type="identity">
+      <class id="about" label="about"/>
+      <span end="22735" id="PMC5732505.nxml.gz-2" start="22730">about</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1000" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="25145" id="PMC5732505.nxml.gz-1001" start="25141">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1002" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="26955" id="PMC5732505.nxml.gz-1003" start="26951">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1004" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="28815" id="PMC5732505.nxml.gz-1005" start="28811">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1006" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="28903" id="PMC5732505.nxml.gz-1007" start="28899">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1008" type="identity">
+      <class id="common" label="common"/>
+      <span end="2475" id="PMC5732505.nxml.gz-1009" start="2469">common</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1020" type="identity">
+      <class id="interventions" label="interventions"/>
+      <span end="25051" id="PMC5732505.nxml.gz-1021" start="25038">interventions</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1022" type="identity">
+      <class id="biomarkers" label="biomarkers"/>
+      <span end="26601" id="PMC5732505.nxml.gz-1023" start="26591">biomarkers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1024" type="identity">
+      <class id="high-risk" label="high-risk"/>
+      <span end="3782" id="PMC5732505.nxml.gz-1025" start="3773">high-risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1034" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="3689" id="PMC5732505.nxml.gz-1035" start="3682">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1036" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="3757" id="PMC5732505.nxml.gz-1037" start="3750">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1038" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="7392" id="PMC5732505.nxml.gz-1039" start="7385">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1040" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="27630" id="PMC5732505.nxml.gz-1041" start="27623">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1042" type="identity">
+      <class id="studies" label="studies"/>
+      <span end="27703" id="PMC5732505.nxml.gz-1043" start="27696">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-105" type="identity">
+      <class id="association" label="association"/>
+      <span end="1657" id="PMC5732505.nxml.gz-106" start="1646">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1058" type="identity">
+      <class id="imputed" label="imputed"/>
+      <span end="11599" id="PMC5732505.nxml.gz-1059" start="11592">imputed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1076" type="identity">
+      <class id="low" label="low"/>
+      <span end="9184" id="PMC5732505.nxml.gz-1077" start="9181">low</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1088" type="identity">
+      <class id="imputation" label="imputation"/>
+      <span end="11389" id="PMC5732505.nxml.gz-1089" start="11379">Imputation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1090" type="identity">
+      <class id="imputation" label="imputation"/>
+      <span end="11691" id="PMC5732505.nxml.gz-1091" start="11681">Imputation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1092" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="23984" id="PMC5732505.nxml.gz-1093" start="23971">other studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-11" type="identity">
+      <class id="superficial_relationship" label="superficial_relationship"/>
+      <span end="11653" id="PMC5732505.nxml.gz-12" start="11641">according to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1106" type="identity">
+      <class id="suboptimal" label="suboptimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1108" type="identity">
+      <class id="suboptimal" label="suboptimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-111" type="identity">
+      <class id="association" label="association"/>
+      <span end="18984" id="PMC5732505.nxml.gz-112" start="18973">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1110" type="identity">
+      <class id="suboptimal" label="suboptimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1114" type="identity">
+      <class id="suboptimal" label="suboptimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1116" type="identity">
+      <class id="suboptimal" label="suboptimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1128" type="identity">
+      <class id="suboptimal" label="suboptimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-113" type="identity">
+      <class id="association" label="association"/>
+      <span end="19261" id="PMC5732505.nxml.gz-114" start="19250">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1130" type="identity">
+      <class id="no...difference" label="no...difference"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1135" type="identity">
+      <class id="no...difference" label="no...difference"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-1137" type="identity">
+      <class id="no...difference" label="no...difference"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-115" type="identity">
+      <class id="association" label="association"/>
+      <span end="23001" id="PMC5732505.nxml.gz-116" start="22990">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-119" type="identity">
+      <class id="association" label="association"/>
+      <span end="24062" id="PMC5732505.nxml.gz-120" start="24051">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-121" type="identity">
+      <class id="association" label="association"/>
+      <span end="24734" id="PMC5732505.nxml.gz-122" start="24723">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-123" type="identity">
+      <class id="association" label="association"/>
+      <span end="25260" id="PMC5732505.nxml.gz-124" start="25249">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-125" type="identity">
+      <class id="association" label="association"/>
+      <span end="25321" id="PMC5732505.nxml.gz-126" start="25310">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-127" type="identity">
+      <class id="association" label="association"/>
+      <span end="25381" id="PMC5732505.nxml.gz-128" start="25370">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12814" type="identity">
+      <class id="due_to" label="problem_complication"/>
+      <span end="9178" id="PMC5732505.nxml.gz-12815" start="9172">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12816" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="9724" id="PMC5732505.nxml.gz-12817" start="9709">retrospectively</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12818" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="16306" id="PMC5732505.nxml.gz-12819" start="16292">No differences</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12820" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="19377" id="PMC5732505.nxml.gz-12821" start="19363">did not change</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12822" type="identity">
+      <class id="whether...and" label="whether...and"/>
+      <span end="22441" id="PMC5732505.nxml.gz-12823" start="22434">whether</span>
+      <span end="22496" id="PMC5732505.nxml.gz-12824" start="22493">and</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12825" type="identity">
+      <class id="superficial_relationship" label="superficial_relationship"/>
+      <span end="24509" id="PMC5732505.nxml.gz-12826" start="24501">co-exist</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12827" type="identity">
+      <class id="whether...or" label="whether"/>
+      <span end="26083" id="PMC5732505.nxml.gz-12828" start="26076">whether</span>
+      <span end="26126" id="PMC5732505.nxml.gz-57483" start="26124">or</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12829" type="identity">
+      <class id="difficult_task" label="problem_complication"/>
+      <span end="27677" id="PMC5732505.nxml.gz-12830" start="27667">complicate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12831" type="identity">
+      <class id="future_work" label="future_work"/>
+      <span end="28798" id="PMC5732505.nxml.gz-12832" start="28779">trials are required</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12833" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="251" id="PMC5732505.nxml.gz-12834" start="92">Maternal vitamin D status has been associated with both gestational diabetes mellitus (GDM) and fetal growth restriction, however, the evidence is inconsistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12835" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="348" id="PMC5732505.nxml.gz-12836" start="253">In Finland, maternal vitamin D status has improved considerably due to national health policies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12837" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12839" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12841" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12843" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1307" id="PMC5732505.nxml.gz-12844" start="1185">Regression analysis confirmed no association between oral glucose tolerance test results and maternal 25(OH)D ( P  &gt; 0.53)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12845" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12847" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1671" id="PMC5732505.nxml.gz-12848" start="1469">However, mothers with optimal UCB 25(OH)D had newborns with smaller head circumference than those with suboptimal 25(OH)D ( P  = 0.003), which was further confirmed as a linear association ( P  = 0.024)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12849" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1806" id="PMC5732505.nxml.gz-12850" start="1686">Maternal vitamin D concentration was similar in mothers with and without GDM in a mostly vitamin D sufficient population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12851" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="1887" id="PMC5732505.nxml.gz-12852" start="1808">Associations between maternal vitamin D status and birth size were inconsistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12853" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2054" id="PMC5732505.nxml.gz-12854" start="1889">A sufficient maternal vitamin D status, specified as 25(OH)D above 50 nmol/L, may be a threshold above which the physiological requirements of pregnancy are achieved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12855" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2508" id="PMC5732505.nxml.gz-12856" start="2351">Vitamin D deficiency, defined as a circulating 25-hydroxy vitamin D (25(OH)D) concentration below 50 nmol/L, has been common among Finnish pregnant women [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12857" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12859" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12861" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="2989" id="PMC5732505.nxml.gz-12862" start="2929">GDM is the most common pregnancy complication in Europe [11]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12863" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3074" id="PMC5732505.nxml.gz-12864" start="2991">In Finland, the prevalence of GDM has increased from 6% in 2008 to 11% in 2014 [12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12865" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3276" id="PMC5732505.nxml.gz-12866" start="3076">GDM increases the risk of adverse pregnancy and neonatal outcomes, and the risk of obesity, metabolic syndrome, diabetes, and cardiovascular disease in later life both of the mother and the child [13]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12867" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3372" id="PMC5732505.nxml.gz-12868" start="3278">Fetal growth may have later health implications also within the normal-birth-weight range [14]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12873" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="3929" id="PMC5732505.nxml.gz-12874" start="3737">Case-control studies often focus on high-risk groups, for example women who are overweight and sedentary, which are independent risk factors for vitamin D deficiency as well (for example [16])</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12875" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="4211" id="PMC5732505.nxml.gz-12876" start="3931">The objectives of the present study were to compare 25(OH)D concentration at two consecutive time points between mothers with and without GDM, and to investigate associations between maternal factors and infant’s birth size, and the potential role of 25(OH)D concentration therein</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12881" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="7216" id="PMC5732505.nxml.gz-12882" start="7029">We defined vitamin D deficiency as 25(OH)D &lt; 50 nmol/L, and vitamin D sufficiency as 25(OH)D ≥ 50 nmol/L, since a concentration of ≥50 nmol/L is considered sufficient for bone health [17]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12883" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="7397" id="PMC5732505.nxml.gz-12884" start="7218">Suboptimal vitamin D status was defined as 25(OH)D &lt; 80 nmol/L, and optimal vitamin D status as 25(OH)D ≥ 80 nmol/L, as has been suggested based on calcium absorption studies [18]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12885" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="8816" id="PMC5732505.nxml.gz-12886" start="8548">Total GWG was categorised into inadequate, adequate and excessive based on national recommendations by prepregnancy BMI: recommended GWG for underweight mothers was 12.5–18.0 kg, for normal weight 11.5–16.0 kg, for overweight 7.0–11.5 kg, and for obese 5.0–9.0 kg [19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12887" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="9233" id="PMC5732505.nxml.gz-12888" start="8976">Education was re-categorised into ‘lower’ and ‘higher’ education (lower = lower or upper secondary or post-secondary non-tertiary education, higher = first or second stage of tertiary education), due to a low number of subjects in other education categories</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12889" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12891" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="10086" id="PMC5732505.nxml.gz-12892" start="10002">The diagnosis of GDM was based on a two-hour 75 g oral glucose tolerance test (OGTT)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12893" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="10285" id="PMC5732505.nxml.gz-12894" start="10088">According to the national guidelines, GDM was diagnosed if the OGTT results exceeded cut-offs for one or more values: fasting plasma glucose ≥5.3 mmol/l, 1-h ≥ 10.0 mmol/l and 2-h ≥ 8.6 mmol/l [19]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12895" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="10667" id="PMC5732505.nxml.gz-12896" start="10474">In general, screening for GDM depends on a presence of risk factors according to national recommendations [19] and based on these, OGTT was performed on 490 (54.5%) of the participating mothers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12897" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="11377" id="PMC5732505.nxml.gz-12898" start="11330">The data included partially missing information</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12899" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="11518" id="PMC5732505.nxml.gz-12900" start="11379">Imputation of missing values for education ( n  = 12) and parity ( n  = 2) were conducted using the median value in subgroups by GDM status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-129" type="identity">
+      <class id="association" label="association"/>
+      <span end="26379" id="PMC5732505.nxml.gz-130" start="26368">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12901" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="11679" id="PMC5732505.nxml.gz-12902" start="11520">Missing data on prepregnancy smoking as number of cigarettes daily were imputed as a median value (= zero) by GDM status according to smoking status ( n  = 22)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12903" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="11817" id="PMC5732505.nxml.gz-12904" start="11681">Imputation of missing values for GWG at 12 gestational weeks was conducted using a mean value of two consecutive measurements ( n  = 12)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12905" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12909" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="15714" id="PMC5732505.nxml.gz-12910" start="15516">Majority (95%) of the mothers took vitamin D supplements during pregnancy, most of them were highly educated (75% had at least a bachelor level education), and 73% had normal weight before pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12911" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12913" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16678" id="PMC5732505.nxml.gz-12914" start="16447">We investigated whether pregnancy 25(OH)D concentration differed between mothers with ( n  = 81) and without GDM ( n  = 639) (Fig. 1) in a crude model and in a model adjusted for season, maternal age, education and prepregnancy BMI</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12915" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="16844" id="PMC5732505.nxml.gz-12916" start="16680">Adjusted analysis confirmed no difference in mean ± SEM pregnancy 25(OH)D concentration between GDM and non-GDM mothers (81.7 ± 2.3 vs 81.7 ± 0.8 nmol/L, P  = 0.99)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12917" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17031" id="PMC5732505.nxml.gz-12918" start="16846">Similarly in UCB, the adjusted analysis showed no difference in 25(OH)D concentrations in infants born to women with and without GDM (79.1 ± 2.3 vs 80.1 ± 0.8 nmol/L, P  = 0.69) (Fig.1)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12919" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17254" id="PMC5732505.nxml.gz-12920" start="17033">These results remained when only those who had undergone OGTT were included: pregnancy and UCB 25(OH)D concentrations were similar in GDM ( n  = 80) and non-GDM mothers ( n  = 323) ( P  = 0.94 and P  = 0.43, respectively)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12921" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12923" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="17863" id="PMC5732505.nxml.gz-12924" start="17728">We further tested for possible associations between pregnancy 25(OH)D concentration and OGTT results with a univariate regression model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12929" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18263" id="PMC5732505.nxml.gz-12930" start="18096">The prevalence of vitamin D deficiency [25(OH)D &lt; 50 nmol/L] during pregnancy was similar between mothers with or without GDM [4.9% (4/81) vs 3.3% (21/642), P  = 0.51]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12931" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="18715" id="PMC5732505.nxml.gz-12932" start="18612">The effect of maternal factors on birth size in fully adjusted models is presented in Table 2and Fig. 2</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12933" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19062" id="PMC5732505.nxml.gz-12934" start="18822">As compared to mothers with suboptimal pregnancy 25(OH)D, mothers with optimal pregnancy 25(OH)D had heavier newborns ( P  = 0.010), but this positive association was not verified in linear regression (B 0.00; 95% CI -0.00, 0.01; P =  0.16)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12937" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="19347" id="PMC5732505.nxml.gz-12938" start="19201">Further, linear regression confirmed the inverse association between UCB 25(OH)D and head circumference (B -1.74; 95% CI -3.25, −0.23; P =  0.024)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12939" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12941" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22588" id="PMC5732505.nxml.gz-12942" start="22386">The primary focus of this work was to determine whether 25(OH)D concentration differs between mothers with and without GDM, and whether vitamin D status affects birth size in normal-birth-weight infants</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12943" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22817" id="PMC5732505.nxml.gz-12944" start="22641">Almost all mother-child pairs (97%) were vitamin D sufficient [25(OH)D ≥ 50 nmol/L], and about half of the mother-child pairs had optimal vitamin D status [25(OH)D ≥ 80 nmol/L]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12945" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="22890" id="PMC5732505.nxml.gz-12946" start="22819">Maternal 25(OH)D concentrations were similar in GDM and non-GDM mothers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12947" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23079" id="PMC5732505.nxml.gz-12948" start="22892">Interestingly, pregnancy vitamin D status associated positively with birth weight, but an inverse association was observed between newborn vitamin D status and head circumference at birth</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12949" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23240" id="PMC5732505.nxml.gz-12950" start="23081">Lu et al. (2016) concluded in their meta-analysis that maternal vitamin D insufficiency (&lt; 50 nmol/L or &lt;75 nmol/L) was associated with greater risk of GDM [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12951" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12953" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23712" id="PMC5732505.nxml.gz-12954" start="23543">However, we observed that vitamin D deficiency at delivery was more prevalent in mothers with GDM compared with non-GDM mothers, but this was not marked during pregnancy</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12955" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23856" id="PMC5732505.nxml.gz-12956" start="23714">This finding was possibly confounded by smoking, which was more prevalent in the deficient GDM mothers compared with deficient non-GDM mothers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12957" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="23950" id="PMC5732505.nxml.gz-12958" start="23858">Nevertheless due to small number of deficient mothers we could not investigate this reliably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12959" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24110" id="PMC5732505.nxml.gz-12960" start="23952">In accordance with other studies, our results imply that in a vitamin D sufficient population, the association between 25(OH)D and GDM may not exist [8,21,22]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12961" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24290" id="PMC5732505.nxml.gz-12962" start="24112">Similarly, Josefson et al. (2016) stated that maternal fasting glucose or GDM status was not associated with pregnancy 25(OH)D, which in their study was on average 93 nmol/L [23]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12963" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="24446" id="PMC5732505.nxml.gz-12964" start="24292">GDM is a multifactorial disease involving various risk factors, for example lifestyle factors, obesity, rapid weight gain and predisposing genetic factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12965" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12967" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12969" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12971" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12973" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12975" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="25575" id="PMC5732505.nxml.gz-12976" start="25438">Harvey et al. (2014) concluded that modest evidence exist for a positive relation between maternal vitamin D status and birth weight [31]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12977" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12979" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12981" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26060" id="PMC5732505.nxml.gz-12982" start="25906">However, the clinical relevance, if any, of the inverse relationship between maternal vitamin D status and head circumference at birth remains unexplained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12983" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12985" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12987" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26488" id="PMC5732505.nxml.gz-12988" start="26316">A possible explanation for this might be a U-shaped association between maternal vitamin D concentration and fetal outcomes in a population with sufficient vitamin D status</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12989" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26619" id="PMC5732505.nxml.gz-12990" start="26490">We have previously suggested the U-shaped association between 25(OH)D concentration and inflammatory biomarkers in cord blood [5]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12991" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26828" id="PMC5732505.nxml.gz-12992" start="26621">We have collected a homogenous cohort of Caucasian mothers from the capital region of Finland representing mothers without regular medication and their newborns who were born at term with normal birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12993" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="26969" id="PMC5732505.nxml.gz-12994" start="26830">In many previous studies, participants had various ethnic backgrounds which could affect both vitamin D status and their risk of GDM [7,38]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12995" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12997" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27239" id="PMC5732505.nxml.gz-12998" start="27141">However, a multi-centre study might have resulted in a wider variety of socio-economic backgrounds</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-12999" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27398" id="PMC5732505.nxml.gz-13000" start="27241">A challenge in previous studies on vitamin D status and GDM has been the lack of relevant adjustments, for example adjustments for BMI and smoking status [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-13" type="identity">
+      <class id="affect" label="affect"/>
+      <span end="26918" id="PMC5732505.nxml.gz-14" start="26912">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-13001" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27524" id="PMC5732505.nxml.gz-13002" start="27400">In the present study, we have systematically investigated confounders between groups, and adjusted for those when applicable</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-13003" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-13005" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="27866" id="PMC5732505.nxml.gz-13006" start="27705">A further limitation is that the OGTT was not performed on all mothers, and a slight possibility exists that the actual prevalence of GDM might be underestimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-13007" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-13009" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-13011" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28284" id="PMC5732505.nxml.gz-13012" start="28159">In summary, maternal vitamin D concentration was similar in mothers with and without GDM in a vitamin D sufficient population</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-13013" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28380" id="PMC5732505.nxml.gz-13014" start="28286">Furthermore, we found an inverse association between UCB 25(OH)D and infant head circumference</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-13015" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-13017" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28653" id="PMC5732505.nxml.gz-13018" start="28484">Sufficient maternal vitamin D status, specified as 25(OH)D above 50 nmol/L, seems a threshold value, above which the physiological requirements of pregnancy are achieved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-13019" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28746" id="PMC5732505.nxml.gz-13020" start="28655">Our findings suggest that an adequate maternal vitamin status have been achieved in Finland</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-13021" type="identity">
+      <class id="subject_scope" label="subject_scope"/>
+      <span end="28910" id="PMC5732505.nxml.gz-13022" start="28748">However, randomised controlled trials are required in specific risk groups of vitamin D deficiency to clarify if vitamin D supplementation affects the risk of GDM</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-131" type="identity">
+      <class id="association" label="association"/>
+      <span end="26543" id="PMC5732505.nxml.gz-132" start="26532">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-133" type="identity">
+      <class id="association" label="association"/>
+      <span end="28330" id="PMC5732505.nxml.gz-134" start="28319">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-135" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="1820" id="PMC5732505.nxml.gz-136" start="1808">Associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-137" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="4105" id="PMC5732505.nxml.gz-138" start="4093">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-141" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="17771" id="PMC5732505.nxml.gz-142" start="17759">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-143" type="identity">
+      <class id="associations" label="associations"/>
+      <span end="24876" id="PMC5732505.nxml.gz-144" start="24864">associations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-147" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="3668" id="PMC5732505.nxml.gz-148" start="3660">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-149" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="7365" id="PMC5732505.nxml.gz-150" start="7357">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-15" type="identity">
+      <class id="affect" label="affect"/>
+      <span end="27650" id="PMC5732505.nxml.gz-16" start="27644">affect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-151" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="8622" id="PMC5732505.nxml.gz-152" start="8614">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-153" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="10035" id="PMC5732505.nxml.gz-154" start="10027">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-155" type="identity">
+      <class id="based_on" label="based_on"/>
+      <span end="10597" id="PMC5732505.nxml.gz-156" start="10589">based on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-161" type="identity">
+      <class id="problem_complication" label="bias"/>
+      <span end="3735" id="PMC5732505.nxml.gz-162" start="3731">bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-163" type="identity">
+      <class id="but" label="but"/>
+      <span end="2755" id="PMC5732505.nxml.gz-164" start="2752">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-165" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="3458" id="PMC5732505.nxml.gz-166" start="3455">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-17" type="identity">
+      <class id="affected" label="affected"/>
+      <span end="2830" id="PMC5732505.nxml.gz-18" start="2822">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-171" type="identity">
+      <class id="but" label="but"/>
+      <span end="18958" id="PMC5732505.nxml.gz-172" start="18955">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-173" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="22978" id="PMC5732505.nxml.gz-174" start="22975">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-175" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="23675" id="PMC5732505.nxml.gz-176" start="23672">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-177" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="25286" id="PMC5732505.nxml.gz-178" start="25283">but</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-179" type="identity">
+      <class id="cannot_be" label="cannot_be"/>
+      <span end="28134" id="PMC5732505.nxml.gz-180" start="28125">cannot be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-181" type="identity">
+      <class id="challenge" label="challenge"/>
+      <span end="24583" id="PMC5732505.nxml.gz-182" start="24574">challenge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-183" type="identity">
+      <class id="challenge" label="challenge"/>
+      <span end="27252" id="PMC5732505.nxml.gz-184" start="27243">challenge</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-185" type="identity">
+      <class id="compared_to" label="compared_to"/>
+      <span end="18836" id="PMC5732505.nxml.gz-186" start="18825">compared to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-187" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="2974" id="PMC5732505.nxml.gz-188" start="2962">complication</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-193" type="identity">
+      <class id="concluded" label="concluded"/>
+      <span end="23107" id="PMC5732505.nxml.gz-194" start="23098">concluded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-195" type="identity">
+      <class id="concluded" label="concluded"/>
+      <span end="25468" id="PMC5732505.nxml.gz-196" start="25459">concluded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-209" type="identity">
+      <class id="confirmed" label="confirmed"/>
+      <span end="1214" id="PMC5732505.nxml.gz-210" start="1205">confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-21" type="identity">
+      <class id="affects" label="affects"/>
+      <span end="22546" id="PMC5732505.nxml.gz-22" start="22539">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-211" type="identity">
+      <class id="confirmed" label="confirmed"/>
+      <span end="1633" id="PMC5732505.nxml.gz-212" start="1624">confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-213" type="identity">
+      <class id="confirmed" label="confirmed"/>
+      <span end="16707" id="PMC5732505.nxml.gz-214" start="16698">confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-215" type="identity">
+      <class id="confirmed" label="confirmed"/>
+      <span end="19237" id="PMC5732505.nxml.gz-216" start="19228">confirmed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-217" type="identity">
+      <class id="confounded" label="confounded"/>
+      <span end="23750" id="PMC5732505.nxml.gz-218" start="23740">confounded</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-219" type="identity">
+      <class id="confounders" label="confounders"/>
+      <span end="23351" id="PMC5732505.nxml.gz-220" start="23340">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-221" type="identity">
+      <class id="confounders" label="confounders"/>
+      <span end="27469" id="PMC5732505.nxml.gz-222" start="27458">confounders</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-223" type="identity">
+      <class id="confounding_factors" label="confounding_factors"/>
+      <span end="24703" id="PMC5732505.nxml.gz-224" start="24684">confounding factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-225" type="identity">
+      <class id="considerably" label="considerably"/>
+      <span end="316" id="PMC5732505.nxml.gz-226" start="304">considerably</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-229" type="identity">
+      <class id="considered" label="considered"/>
+      <span end="28464" id="PMC5732505.nxml.gz-230" start="28454">considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-23" type="identity">
+      <class id="affects" label="affects"/>
+      <span end="28894" id="PMC5732505.nxml.gz-24" start="28887">affects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-231" type="identity">
+      <class id="contrary" label="contrary"/>
+      <span end="24846" id="PMC5732505.nxml.gz-232" start="24838">contrary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-233" type="identity">
+      <class id="could" label="could"/>
+      <span end="26911" id="PMC5732505.nxml.gz-234" start="26906">could</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-235" type="identity">
+      <class id="could...not" label="could...not"/>
+      <span end="23924" id="PMC5732505.nxml.gz-236" start="23915">could not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-237" type="identity">
+      <class id="defined" label="defined"/>
+      <span end="2380" id="PMC5732505.nxml.gz-238" start="2373">defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-239" type="identity">
+      <class id="defined" label="defined"/>
+      <span end="7039" id="PMC5732505.nxml.gz-240" start="7032">defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-241" type="identity">
+      <class id="defined" label="defined"/>
+      <span end="7257" id="PMC5732505.nxml.gz-242" start="7250">defined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-243" type="identity">
+      <class id="defining" label="defining"/>
+      <span end="27552" id="PMC5732505.nxml.gz-244" start="27544">defining</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-245" type="identity">
+      <class id="depends_on" label="depends_on"/>
+      <span end="10514" id="PMC5732505.nxml.gz-246" start="10504">depends on</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-25" type="identity">
+      <class id="almost_all" label="almost_all"/>
+      <span end="22651" id="PMC5732505.nxml.gz-26" start="22641">Almost all</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-263" type="identity">
+      <class id="discovered" label="discovered"/>
+      <span end="25793" id="PMC5732505.nxml.gz-264" start="25783">discovered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-265" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="323" id="PMC5732505.nxml.gz-266" start="317">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-267" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="2525" id="PMC5732505.nxml.gz-268" start="2519">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-269" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="18622" id="PMC5732505.nxml.gz-270" start="18616">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-27" type="identity">
+      <class id="alternative_options_controversy" label="incomplete_evidence"/>
+      <span end="24942" id="PMC5732505.nxml.gz-28" start="24934">Although</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-273" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="24618" id="PMC5732505.nxml.gz-274" start="24612">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-275" type="identity">
+      <class id="effect" label="effect"/>
+      <span end="25108" id="PMC5732505.nxml.gz-276" start="25102">effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-277" type="identity">
+      <class id="effects" label="effects"/>
+      <span end="19521" id="PMC5732505.nxml.gz-278" start="19514">effects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-281" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="235" id="PMC5732505.nxml.gz-282" start="227">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-283" type="identity">
+      <class id="evidence" label="evidence"/>
+      <span end="2768" id="PMC5732505.nxml.gz-284" start="2760">evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-285" type="identity">
+      <class id="explanation" label="explanation"/>
+      <span end="26338" id="PMC5732505.nxml.gz-286" start="26327">explanation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-287" type="identity">
+      <class id="factors" label="factors"/>
+      <span end="4130" id="PMC5732505.nxml.gz-288" start="4123">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-289" type="identity">
+      <class id="factors" label="factors"/>
+      <span end="18642" id="PMC5732505.nxml.gz-290" start="18635">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-3" type="identity">
+      <class id="according_to" label="according_to"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-303" type="identity">
+      <class id="factors" label="factors"/>
+      <span end="24482" id="PMC5732505.nxml.gz-304" start="24475">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-305" type="identity">
+      <class id="factors" label="factors"/>
+      <span end="24782" id="PMC5732505.nxml.gz-306" start="24775">factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-307" type="identity">
+      <class id="few" label="few"/>
+      <span end="25037" id="PMC5732505.nxml.gz-308" start="25034">few</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-309" type="identity">
+      <class id="finding" label="finding"/>
+      <span end="23726" id="PMC5732505.nxml.gz-310" start="23719">finding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-311" type="identity">
+      <class id="finding" label="finding"/>
+      <span end="28420" id="PMC5732505.nxml.gz-312" start="28413">finding</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-313" type="identity">
+      <class id="findings" label="findings"/>
+      <span end="3591" id="PMC5732505.nxml.gz-314" start="3583">findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-329" type="identity">
+      <class id="focus" label="focus"/>
+      <span end="22403" id="PMC5732505.nxml.gz-330" start="22398">focus</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-331" type="identity">
+      <class id="found" label="found"/>
+      <span end="28307" id="PMC5732505.nxml.gz-332" start="28302">found</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-333" type="identity">
+      <class id="further" label="further"/>
+      <span end="1623" id="PMC5732505.nxml.gz-334" start="1616">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-335" type="identity">
+      <class id="further" label="further"/>
+      <span end="17738" id="PMC5732505.nxml.gz-336" start="17731">further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-337" type="identity">
+      <class id="further" label="further"/>
+      <span end="19208" id="PMC5732505.nxml.gz-338" start="19201">Further</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-343" type="identity">
+      <class id="future_studies" label="future_studies"/>
+      <span end="26196" id="PMC5732505.nxml.gz-344" start="26182">future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-345" type="identity">
+      <class id="future_studies" label="future_studies"/>
+      <span end="28482" id="PMC5732505.nxml.gz-346" start="28468">future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-347" type="identity">
+      <class id="guidelines" label="guidelines"/>
+      <span end="10124" id="PMC5732505.nxml.gz-348" start="10114">guidelines</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-35" type="identity">
+      <class id="as" label="as"/>
+      <span end="1636" id="PMC5732505.nxml.gz-36" start="1634">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-351" type="identity">
+      <class id="has...been" label="has...been"/>
+      <span end="27309" id="PMC5732505.nxml.gz-352" start="27301">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-353" type="identity">
+      <class id="has_been" label="has_been"/>
+      <span end="126" id="PMC5732505.nxml.gz-354" start="118">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-355" type="identity">
+      <class id="has_been" label="has_been"/>
+      <span end="2468" id="PMC5732505.nxml.gz-356" start="2460">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-357" type="identity">
+      <class id="has_been" label="has_been"/>
+      <span end="2694" id="PMC5732505.nxml.gz-358" start="2686">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-359" type="identity">
+      <class id="has_been" label="has_been"/>
+      <span end="2879" id="PMC5732505.nxml.gz-360" start="2871">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-361" type="identity">
+      <class id="has_been" label="has_been"/>
+      <span end="3413" id="PMC5732505.nxml.gz-362" start="3405">has been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-363" type="identity">
+      <class id="has_been_suggested" label="has_been_suggested"/>
+      <span end="7356" id="PMC5732505.nxml.gz-364" start="7338">has been suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-365" type="identity">
+      <class id="have_been" label="have_been"/>
+      <span end="28726" id="PMC5732505.nxml.gz-366" start="28717">have been</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-367" type="identity">
+      <class id="have_been_reported" label="have_been_reported"/>
+      <span end="24924" id="PMC5732505.nxml.gz-368" start="24906">have been reported</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-369" type="identity">
+      <class id="incomplete_evidence" label="have_not"/>
+      <span end="25091" id="PMC5732505.nxml.gz-370" start="25083">have not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-37" type="identity">
+      <class id="as" label="as"/>
+      <span end="1941" id="PMC5732505.nxml.gz-38" start="1939">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-371" type="identity">
+      <class id="incomplete_evidence" label="have_not"/>
+      <span end="25729" id="PMC5732505.nxml.gz-372" start="25721">have not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-373" type="identity">
+      <class id="have_shown" label="have_shown"/>
+      <span end="25608" id="PMC5732505.nxml.gz-374" start="25598">have shown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-375" type="identity">
+      <class id="however" label="however"/>
+      <span end="221" id="PMC5732505.nxml.gz-376" start="214">however</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-377" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="1476" id="PMC5732505.nxml.gz-378" start="1469">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-379" type="identity">
+      <class id="however" label="however"/>
+      <span end="2517" id="PMC5732505.nxml.gz-380" start="2510">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-385" type="identity">
+      <class id="however" label="however"/>
+      <span end="23249" id="PMC5732505.nxml.gz-386" start="23242">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-387" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="23550" id="PMC5732505.nxml.gz-388" start="23543">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-389" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="25913" id="PMC5732505.nxml.gz-390" start="25906">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-39" type="identity">
+      <class id="as" label="as"/>
+      <span end="2383" id="PMC5732505.nxml.gz-40" start="2381">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-391" type="identity">
+      <class id="however" label="however"/>
+      <span end="27148" id="PMC5732505.nxml.gz-392" start="27141">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-393" type="identity">
+      <class id="however" label="however"/>
+      <span end="28073" id="PMC5732505.nxml.gz-394" start="28066">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-395" type="identity">
+      <class id="however" label="however"/>
+      <span end="28755" id="PMC5732505.nxml.gz-396" start="28748">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-409" type="identity">
+      <class id="implications" label="implications"/>
+      <span end="3325" id="PMC5732505.nxml.gz-410" start="3313">implications</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-411" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="24003" id="PMC5732505.nxml.gz-412" start="23998">imply</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-413" type="identity">
+      <class id="in_accordance" label="in_accordance"/>
+      <span end="23965" id="PMC5732505.nxml.gz-414" start="23952">In accordance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-415" type="identity">
+      <class id="in_accordance" label="in_accordance"/>
+      <span end="28030" id="PMC5732505.nxml.gz-416" start="28017">in accordance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-417" type="identity">
+      <class id="in_agreement" label="in_agreement"/>
+      <span end="25751" id="PMC5732505.nxml.gz-418" start="25739">In agreement</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-419" type="identity">
+      <class id="in_general" label="in_general"/>
+      <span end="10484" id="PMC5732505.nxml.gz-420" start="10474">In general</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-423" type="identity">
+      <class id="in_summary" label="in_summary"/>
+      <span end="28169" id="PMC5732505.nxml.gz-424" start="28159">In summary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-433" type="identity">
+      <class id="inconsistent" label="inconsistent"/>
+      <span end="251" id="PMC5732505.nxml.gz-434" start="239">inconsistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-435" type="identity">
+      <class id="inconsistent" label="inconsistent"/>
+      <span end="1887" id="PMC5732505.nxml.gz-436" start="1875">inconsistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-437" type="identity">
+      <class id="inconsistent" label="inconsistent"/>
+      <span end="2784" id="PMC5732505.nxml.gz-438" start="2772">inconsistent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-439" type="identity">
+      <class id="independent" label="independent"/>
+      <span end="3864" id="PMC5732505.nxml.gz-440" start="3853">independent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-443" type="identity">
+      <class id="independent" label="independent"/>
+      <span end="19513" id="PMC5732505.nxml.gz-444" start="19502">independent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-447" type="identity">
+      <class id="independent" label="independent"/>
+      <span end="24611" id="PMC5732505.nxml.gz-448" start="24600">independent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-455" type="identity">
+      <class id="interestingly" label="interestingly"/>
+      <span end="22905" id="PMC5732505.nxml.gz-456" start="22892">Interestingly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-461" type="identity">
+      <class id="investigated" label="investigated"/>
+      <span end="16462" id="PMC5732505.nxml.gz-462" start="16450">investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-463" type="identity">
+      <class id="investigated" label="investigated"/>
+      <span end="27457" id="PMC5732505.nxml.gz-464" start="27445">investigated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-465" type="identity">
+      <class id="is_considered" label="is_considered"/>
+      <span end="7184" id="PMC5732505.nxml.gz-466" start="7171">is considered</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-467" type="identity">
+      <class id="it_is_possible" label="it_is_possible"/>
+      <span end="24634" id="PMC5732505.nxml.gz-468" start="24620">It is possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-469" type="identity">
+      <class id="problem_complication" label="problem_complication"/>
+      <span end="27321" id="PMC5732505.nxml.gz-470" start="27314">lack of</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-471" type="identity">
+      <class id="limitation" label="limitation"/>
+      <span end="27725" id="PMC5732505.nxml.gz-472" start="27715">limitation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-473" type="identity">
+      <class id="majority" label="majority"/>
+      <span end="15524" id="PMC5732505.nxml.gz-474" start="15516">Majority</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-475" type="identity">
+      <class id="many...studies" label="many...studies"/>
+      <span end="26837" id="PMC5732505.nxml.gz-476" start="26833">many</span>
+      <span end="26854" id="PMC5732505.nxml.gz-477" start="26847">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-478" type="identity">
+      <class id="many_studies" label="many_studies"/>
+      <span end="24862" id="PMC5732505.nxml.gz-479" start="24850">many studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-480" type="identity">
+      <class id="may" label="may"/>
+      <span end="3294" id="PMC5732505.nxml.gz-481" start="3291">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-482" type="identity">
+      <class id="may" label="may"/>
+      <span end="3700" id="PMC5732505.nxml.gz-483" start="3697">may</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-486" type="identity">
+      <class id="may_be" label="may_be"/>
+      <span end="1973" id="PMC5732505.nxml.gz-487" start="1967">may be</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-488" type="identity">
+      <class id="might" label="might"/>
+      <span end="26353" id="PMC5732505.nxml.gz-489" start="26348">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-49" type="identity">
+      <class id="as" label="as"/>
+      <span end="7063" id="PMC5732505.nxml.gz-50" start="7061">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-490" type="identity">
+      <class id="might" label="might"/>
+      <span end="27176" id="PMC5732505.nxml.gz-491" start="27171">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-492" type="identity">
+      <class id="might" label="might"/>
+      <span end="27643" id="PMC5732505.nxml.gz-493" start="27638">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-494" type="identity">
+      <class id="might" label="might"/>
+      <span end="27848" id="PMC5732505.nxml.gz-495" start="27843">might</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-498" type="identity">
+      <class id="missing" label="missing"/>
+      <span end="11365" id="PMC5732505.nxml.gz-499" start="11358">missing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-500" type="identity">
+      <class id="missing" label="missing"/>
+      <span end="11400" id="PMC5732505.nxml.gz-501" start="11393">missing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-502" type="identity">
+      <class id="missing" label="missing"/>
+      <span end="11527" id="PMC5732505.nxml.gz-503" start="11520">Missing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-504" type="identity">
+      <class id="missing" label="missing"/>
+      <span end="11702" id="PMC5732505.nxml.gz-505" start="11695">missing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-506" type="identity">
+      <class id="missing" label="missing"/>
+      <span end="11826" id="PMC5732505.nxml.gz-507" start="11819">Missing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-51" type="identity">
+      <class id="as" label="as"/>
+      <span end="7113" id="PMC5732505.nxml.gz-52" start="7111">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-514" type="identity">
+      <class id="modest_evidence" label="modest_evidence"/>
+      <span end="25489" id="PMC5732505.nxml.gz-515" start="25474">modest evidence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-516" type="identity">
+      <class id="most" label="most"/>
+      <span end="15595" id="PMC5732505.nxml.gz-517" start="15591">most</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-518" type="identity">
+      <class id="most_common" label="most_common"/>
+      <span end="2951" id="PMC5732505.nxml.gz-519" start="2940">most common</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-520" type="identity">
+      <class id="mostly" label="mostly"/>
+      <span end="1774" id="PMC5732505.nxml.gz-521" start="1768">mostly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-522" type="identity">
+      <class id="difficult_task" label="difficult_task"/>
+      <span end="24315" id="PMC5732505.nxml.gz-523" start="24301">multifactorial</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-526" type="identity">
+      <class id="needs" label="needs"/>
+      <span end="26163" id="PMC5732505.nxml.gz-527" start="26158">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-528" type="identity">
+      <class id="needs" label="needs"/>
+      <span end="28447" id="PMC5732505.nxml.gz-529" start="28442">needs</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-53" type="identity">
+      <class id="as" label="as"/>
+      <span end="7260" id="PMC5732505.nxml.gz-54" start="7258">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-530" type="identity">
+      <class id="nevertheless" label="nevertheless"/>
+      <span end="23870" id="PMC5732505.nxml.gz-531" start="23858">Nevertheless</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54949" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="579" id="PMC5732505.nxml.gz-54950" start="350">Our objective was to compare maternal 25-hydroxy vitamin D concentrations [25(OH)D] between mothers with and without GDM, and to investigate if an association existed between maternal vitamin D concentration and infant birth size</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54951" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54953" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54955" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54957" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54959" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2663" id="PMC5732505.nxml.gz-54960" start="2510">However, due to recent changes in national health policies, intake of vitamin D has increased resulting in decreasing rates of vitamin D deficiency [2–5]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54961" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2790" id="PMC5732505.nxml.gz-54962" start="2665">Vitamin D deficiency has been associated with gestational diabetes mellitus (GDM) [6], but the evidence is inconsistent [7,8]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54963" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54965" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="2927" id="PMC5732505.nxml.gz-54966" start="2792">Of all pregnancies, 1–14% are affected by GDM [9], and globally GDM prevalence has been increasing in line with increasing obesity [10]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54967" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3569" id="PMC5732505.nxml.gz-54968" start="3374">Poor maternal vitamin D status has been related to fetal growth restriction [15] but it is unknown whether maternal vitamin D status associates with birth size in infants with normal birth weight</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54969" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="3735" id="PMC5732505.nxml.gz-54970" start="3571">Many of the findings regarding the relationship between vitamin D deficiency and GDM are based on case-control studies, which may include a potential selection bias</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54971" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54973" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="7027" id="PMC5732505.nxml.gz-54974" start="6886">We employed UCB 25(OH)D to reflect both the maternal vitamin D status at the end of pregnancy and the newborn’s vitamin D status at birth [1]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54975" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="9753" id="PMC5732505.nxml.gz-54976" start="9663">These data and the duration of pregnancy were retrospectively collected from birth records</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54977" type="identity">
+      <class id="affected" label=""/>
+      <span end="11146" id="PMC5732505.nxml.gz-54978" start="11138">affected</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54979" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54981" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="11869" id="PMC5732505.nxml.gz-54982" start="11819">Missing values of other variables were not imputed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54983" type="identity">
+      <class id="subject_scope" label=""/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54985" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="16445" id="PMC5732505.nxml.gz-54986" start="16292">No differences between the groups were observed in several other characteristics, including GWG, duration of gestation, and supplemental vitamin D intake</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54987" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="17618" id="PMC5732505.nxml.gz-54988" start="17542">Maternal 25(OH)D concentrations were similar between non-GDM and GDM mothers</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54989" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="18272" id="PMC5732505.nxml.gz-54990" start="18265">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54991" type="identity">
+      <class id="anomaly_curious_finding" label=""/>
+      <span end="18415" id="PMC5732505.nxml.gz-54992" start="18408">However</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54993" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19199" id="PMC5732505.nxml.gz-54994" start="19064">Newborn head circumference was larger in those with suboptimal UBC 25(OH)D compared with mothers with optimal UCB 25(OH)D ( P  = 0.003)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54995" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19462" id="PMC5732505.nxml.gz-54996" start="19349">These results did not change after adjusting for mode of delivery (vaginal, vacuum assisted or caesarean section)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54997" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="19553" id="PMC5732505.nxml.gz-54998" start="19464">Prepregnancy BMI, GWG, and parity had independent effects on birth size (Table2and Fig.2)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-54999" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23365" id="PMC5732505.nxml.gz-55000" start="23242">However, they suggested that this applied only in developed countries and when no adjustments for confounders were made [6]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55" type="identity">
+      <class id="as" label="as"/>
+      <span end="7313" id="PMC5732505.nxml.gz-56" start="7311">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55001" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="23541" id="PMC5732505.nxml.gz-55002" start="23367">In our study, maternal vitamin D concentrations were similar in non-GDM and GDM mothers, and there was no linear association between vitamin D concentrations and OGTT results</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55005" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24618" id="PMC5732505.nxml.gz-55006" start="24448">Furthermore, some of these factors are related to or co-exist with poor vitamin D status [24,25], which further increases the challenge when dissecting independent effect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55007" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24831" id="PMC5732505.nxml.gz-55008" start="24620">It is possible that in previous studies where no adjustment for confounding factors was performed, the association between 25(OH)D and GDM reflects shared factors such as an unhealthy lifestyle or adiposity [26]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55009" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="24932" id="PMC5732505.nxml.gz-55010" start="24833">Yet, contrary to many studies, associations between high 25(OH)D and GDM have been reported [27,28]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55011" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25157" id="PMC5732505.nxml.gz-55012" start="24934">Although a biological mechanism between low vitamin D status and diabetes is plausible [29], only a few interventions have been conducted, and these have not proved an effect of vitamin D supplementation on risk of GDM [30]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55013" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25436" id="PMC5732505.nxml.gz-55014" start="25159">Maternal vitamin D status associated with birth size: pregnancy 25(OH)D showed a positive association towards birth weight, but UCB 25(OH)D an inverse association with head circumference, while only the inverse association with head circumference was verified with linear model</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55015" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25737" id="PMC5732505.nxml.gz-55016" start="25577">Some earlier studies have shown that severe maternal vitamin D deficiency associates with smaller head circumference at birth [32,33], yet some have not [34,35]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55017" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="25904" id="PMC5732505.nxml.gz-55018" start="25739">In agreement with our findings, others have discovered that mothers with higher vitamin D concentration have infants with smaller head circumference at birth [36,37]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55019" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="26196" id="PMC5732505.nxml.gz-55020" start="26062">It is unknown whether this reflects differences in brain size or in skull bones’ structure, and needs to be explored in future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55023" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27139" id="PMC5732505.nxml.gz-55024" start="26971">A strength of the present study lies in the recruitment of subjects, which took place in a single hospital, enabled standardised data collection and covered all seasons</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55025" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27703" id="PMC5732505.nxml.gz-55026" start="27526">The threshold for defining vitamin D deficiency and the diagnostic criteria for GDM vary between studies, which might affect the results and complicate the comparison of studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55027" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="27976" id="PMC5732505.nxml.gz-55028" start="27868">Yet, our main results were repeated in a subgroup analysis of only those women to whom an OGTT was performed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55029" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28064" id="PMC5732505.nxml.gz-55030" start="27978">In addition, the prevalence of GDM was in accordance with the national statistics [12]</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55031" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28145" id="PMC5732505.nxml.gz-55032" start="28066">However, in a cross-sectional setting causal relationships cannot be determined</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-55033" type="identity">
+      <class id="subject_scope" label=""/>
+      <span end="28482" id="PMC5732505.nxml.gz-55034" start="28382">The clinical relevance of this finding remains unsolved and needs to be considered in future studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-569" type="identity">
+      <class id="objective" label="objective"/>
+      <span end="363" id="PMC5732505.nxml.gz-570" start="354">objective</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57" type="identity">
+      <class id="as" label="as"/>
+      <span end="7337" id="PMC5732505.nxml.gz-58" start="7335">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-571" type="identity">
+      <class id="objectives" label="objectives"/>
+      <span end="3945" id="PMC5732505.nxml.gz-572" start="3935">objectives</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-573" type="identity">
+      <class id="observed" label="observed"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57451" type="identity">
+      <class id="if"/>
+      <span end="493" id="PMC5732505.nxml.gz-57452" start="491">if</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57453" type="identity">
+      <class id="association"/>
+      <span end="508" id="PMC5732505.nxml.gz-57454" start="497">association</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57455" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="2616" id="PMC5732505.nxml.gz-57456" start="2604">resulting in</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57457" type="identity">
+      <class id="superficial_relationship"/>
+      <span end="2903" id="PMC5732505.nxml.gz-57458" start="2891">in line with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57459" type="identity">
+      <class id="whether"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57461" type="identity">
+      <class id="subject_scope"/>
+      <span end="11178" id="PMC5732505.nxml.gz-57462" start="11110">Season with four categories affected maternal 25(OH)D concentrations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57463" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="11869" id="PMC5732505.nxml.gz-57464" start="11858">not imputed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57465" type="identity">
+      <class id="subject_scope"/>
+      <span end="18405" id="PMC5732505.nxml.gz-57466" start="18265">However, more GDM mothers were vitamin D deficient at the delivery compared with non-GDM mothers [7.4% (6/81) vs 2.8% (18/642) ( P  = 0.042)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57467" type="identity">
+      <class id="subject_scope"/>
+      <span end="18569" id="PMC5732505.nxml.gz-57468" start="18408">However, of these six deficient GDM-mothers five (83%) were smokers, and correspondingly in non-GDM mothers four out of eighteen were smokers (24%) ( P  = 0.018)</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57469" type="identity">
+      <class id="alternative_options_controversy"/>
+      <span end="19152" id="PMC5732505.nxml.gz-57470" start="19139">compared with</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57471" type="identity">
+      <class id="due_to"/>
+      <span end="23877" id="PMC5732505.nxml.gz-57472" start="23871">due to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57473" type="identity">
+      <class id="problem_complication"/>
+      <span end="24668" id="PMC5732505.nxml.gz-57474" start="24666">no</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57475" type="identity">
+      <class id="alternative_options_controversy"/>
+      <span end="24836" id="PMC5732505.nxml.gz-57476" start="24833">Yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57477" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="25418" id="PMC5732505.nxml.gz-57478" start="25410">verified</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57479" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="25777" id="PMC5732505.nxml.gz-57480" start="25771">others</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57481" type="identity">
+      <class id="reflects"/>
+      <span end="26097" id="PMC5732505.nxml.gz-57482" start="26089">reflects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57484" type="identity">
+      <class id="important_consideration"/>
+      <span end="26981" id="PMC5732505.nxml.gz-57485" start="26973">strength</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57486" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="27903" id="PMC5732505.nxml.gz-57487" start="27895">repeated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-57488" type="identity">
+      <class id="incomplete_evidence"/>
+      <span end="28437" id="PMC5732505.nxml.gz-57489" start="28429">unsolved</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-575" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="16339" id="PMC5732505.nxml.gz-576" start="16331">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-579" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="23014" id="PMC5732505.nxml.gz-580" start="23006">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-581" type="identity">
+      <class id="observed" label="observed"/>
+      <span end="23563" id="PMC5732505.nxml.gz-582" start="23555">observed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-583" type="identity">
+      <class id="often" label="often"/>
+      <span end="3763" id="PMC5732505.nxml.gz-584" start="3758">often</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-587" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="17065" id="PMC5732505.nxml.gz-588" start="17061">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-589" type="identity">
+      <class id="only" label="only"/>
+      <span end="23288" id="PMC5732505.nxml.gz-590" start="23284">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-591" type="identity">
+      <class id="only" label="only"/>
+      <span end="25031" id="PMC5732505.nxml.gz-592" start="25027">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-593" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="25357" id="PMC5732505.nxml.gz-594" start="25353">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-595" type="identity">
+      <class id="only" label="only"/>
+      <span end="27934" id="PMC5732505.nxml.gz-596" start="27930">only</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-597" type="identity">
+      <class id="optimal" label="optimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-599" type="identity">
+      <class id="optimal" label="optimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-601" type="identity">
+      <class id="optimal" label="optimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-605" type="identity">
+      <class id="optimal" label="optimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-607" type="identity">
+      <class id="optimal" label="optimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-609" type="identity">
+      <class id="optimal" label="optimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-621" type="identity">
+      <class id="optimal" label="optimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-623" type="identity">
+      <class id="optimal" label="optimal"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-635" type="identity">
+      <class id="our_findings" label="our_findings"/>
+      <span end="25769" id="PMC5732505.nxml.gz-636" start="25757">our findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-637" type="identity">
+      <class id="our_findings" label="our_findings"/>
+      <span end="28667" id="PMC5732505.nxml.gz-638" start="28655">Our findings</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-641" type="identity">
+      <class id="our_study" label="our_study"/>
+      <span end="23379" id="PMC5732505.nxml.gz-642" start="23370">our study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-645" type="identity">
+      <class id="plausible" label="plausible"/>
+      <span end="25020" id="PMC5732505.nxml.gz-646" start="25011">plausible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-649" type="identity">
+      <class id="important_consideration" label="important_consideration"/>
+      <span end="3378" id="PMC5732505.nxml.gz-650" start="3374">Poor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-65" type="identity">
+      <class id="as" label="as"/>
+      <span end="11559" id="PMC5732505.nxml.gz-66" start="11557">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-651" type="identity">
+      <class id="important_consideration" label="poor"/>
+      <span end="24519" id="PMC5732505.nxml.gz-652" start="24515">poor</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-653" type="identity">
+      <class id="possibility" label="possibility"/>
+      <span end="27801" id="PMC5732505.nxml.gz-654" start="27790">possibility</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-655" type="identity">
+      <class id="possible" label="possible"/>
+      <span end="17758" id="PMC5732505.nxml.gz-656" start="17750">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-657" type="identity">
+      <class id="possible" label="possible"/>
+      <span end="26326" id="PMC5732505.nxml.gz-658" start="26318">possible</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-659" type="identity">
+      <class id="possibly" label="possibly"/>
+      <span end="23739" id="PMC5732505.nxml.gz-660" start="23731">possibly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-661" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="3720" id="PMC5732505.nxml.gz-662" start="3711">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-663" type="identity">
+      <class id="potential" label="potential"/>
+      <span end="4173" id="PMC5732505.nxml.gz-664" start="4164">potential</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-665" type="identity">
+      <class id="present_study" label="present_study"/>
+      <span end="3966" id="PMC5732505.nxml.gz-666" start="3953">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-667" type="identity">
+      <class id="present_study" label="present_study"/>
+      <span end="27002" id="PMC5732505.nxml.gz-668" start="26989">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-669" type="identity">
+      <class id="present_study" label="present_study"/>
+      <span end="27420" id="PMC5732505.nxml.gz-670" start="27407">present study</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-67" type="identity">
+      <class id="as" label="as"/>
+      <span end="11602" id="PMC5732505.nxml.gz-68" start="11600">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-671" type="identity">
+      <class id="alternative_options_controversy" label="previous...studies"/>
+      <span end="24659" id="PMC5732505.nxml.gz-672" start="24643">previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-673" type="identity">
+      <class id="previous...studies" label="previous...studies"/>
+      <span end="27272" id="PMC5732505.nxml.gz-674" start="27256">previous studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-677" type="identity">
+      <class id="previously" label="previously"/>
+      <span end="26508" id="PMC5732505.nxml.gz-678" start="26498">previously</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-687" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="8647" id="PMC5732505.nxml.gz-688" start="8632">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-689" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="10579" id="PMC5732505.nxml.gz-690" start="10564">recommendations</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-7" type="identity">
+      <class id="according_to" label="according_to"/>
+      <span end="10100" id="PMC5732505.nxml.gz-8" start="10088">According to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-701" type="identity">
+      <class id="probable_understanding" label="reflect"/>
+      <span end="6920" id="PMC5732505.nxml.gz-702" start="6913">reflect</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-703" type="identity">
+      <class id="reflects" label="reflects"/>
+      <span end="24767" id="PMC5732505.nxml.gz-704" start="24759">reflects</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-705" type="identity">
+      <class id="related" label="related"/>
+      <span end="3421" id="PMC5732505.nxml.gz-706" start="3414">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-709" type="identity">
+      <class id="related" label="related"/>
+      <span end="24494" id="PMC5732505.nxml.gz-710" start="24487">related</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-711" type="identity">
+      <class id="relation" label="relation"/>
+      <span end="25519" id="PMC5732505.nxml.gz-712" start="25511">relation</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-713" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="3618" id="PMC5732505.nxml.gz-714" start="3606">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-715" type="identity">
+      <class id="relationship" label="relationship"/>
+      <span end="25974" id="PMC5732505.nxml.gz-716" start="25962">relationship</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-717" type="identity">
+      <class id="relationships" label="relationships"/>
+      <span end="28124" id="PMC5732505.nxml.gz-718" start="28111">relationships</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-719" type="identity">
+      <class id="relevance" label="relevance"/>
+      <span end="25937" id="PMC5732505.nxml.gz-720" start="25928">relevance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-721" type="identity">
+      <class id="relevance" label="relevance"/>
+      <span end="28404" id="PMC5732505.nxml.gz-722" start="28395">relevance</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-723" type="identity">
+      <class id="relevant" label="relevant"/>
+      <span end="27330" id="PMC5732505.nxml.gz-724" start="27322">relevant</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-725" type="identity">
+      <class id="remained" label="remained"/>
+      <span end="17055" id="PMC5732505.nxml.gz-726" start="17047">remained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-727" type="identity">
+      <class id="remains" label="remains"/>
+      <span end="26048" id="PMC5732505.nxml.gz-728" start="26041">remains</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-729" type="identity">
+      <class id="remains" label="remains"/>
+      <span end="28428" id="PMC5732505.nxml.gz-730" start="28421">remains</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-735" type="identity">
+      <class id="representing" label="representing"/>
+      <span end="26727" id="PMC5732505.nxml.gz-736" start="26715">representing</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-739" type="identity">
+      <class id="requirements" label="requirements"/>
+      <span end="2028" id="PMC5732505.nxml.gz-740" start="2016">requirements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-741" type="identity">
+      <class id="requirements" label="requirements"/>
+      <span end="28627" id="PMC5732505.nxml.gz-742" start="28615">requirements</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-745" type="identity">
+      <class id="risk_factors" label="risk_factors"/>
+      <span end="3877" id="PMC5732505.nxml.gz-746" start="3865">risk factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-747" type="identity">
+      <class id="risk_factors" label="risk_factors"/>
+      <span end="10541" id="PMC5732505.nxml.gz-748" start="10529">risk factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-749" type="identity">
+      <class id="risk_factors" label="risk_factors"/>
+      <span end="24354" id="PMC5732505.nxml.gz-750" start="24342">risk factors</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-75" type="identity">
+      <class id="as" label="as"/>
+      <span end="18824" id="PMC5732505.nxml.gz-76" start="18822">As</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-751" type="identity">
+      <class id="role" label="role"/>
+      <span end="4178" id="PMC5732505.nxml.gz-752" start="4174">role</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-753" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="28565" id="PMC5732505.nxml.gz-754" start="28560">seems</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-755" type="identity">
+      <class id="seen" label="seen"/>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-757" type="identity">
+      <class id="severe" label="severe"/>
+      <span end="25620" id="PMC5732505.nxml.gz-758" start="25614">severe</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-759" type="identity">
+      <class id="showed" label="showed"/>
+      <span end="16892" id="PMC5732505.nxml.gz-760" start="16886">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-761" type="identity">
+      <class id="showed" label="showed"/>
+      <span end="25237" id="PMC5732505.nxml.gz-762" start="25231">showed</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-769" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="1730" id="PMC5732505.nxml.gz-770" start="1723">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-773" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="17163" id="PMC5732505.nxml.gz-774" start="17156">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-775" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="17586" id="PMC5732505.nxml.gz-776" start="17579">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-777" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="18185" id="PMC5732505.nxml.gz-778" start="18178">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-779" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="22863" id="PMC5732505.nxml.gz-780" start="22856">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-781" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="23427" id="PMC5732505.nxml.gz-782" start="23420">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-783" type="identity">
+      <class id="similar" label="similar"/>
+      <span end="28215" id="PMC5732505.nxml.gz-784" start="28208">similar</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-785" type="identity">
+      <class id="similarly" label="similarly"/>
+      <span end="16855" id="PMC5732505.nxml.gz-786" start="16846">Similarly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-787" type="identity">
+      <class id="incomplete_evidence" label="incomplete_evidence"/>
+      <span end="24121" id="PMC5732505.nxml.gz-788" start="24112">Similarly</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-789" type="identity">
+      <class id="probable_understanding" label="probable_understanding"/>
+      <span end="7140" id="PMC5732505.nxml.gz-790" start="7135">since</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-791" type="identity">
+      <class id="small" label="small"/>
+      <span end="23883" id="PMC5732505.nxml.gz-792" start="23878">small</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-793" type="identity">
+      <class id="some" label="some"/>
+      <span end="24465" id="PMC5732505.nxml.gz-794" start="24461">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-795" type="identity">
+      <class id="some" label="some"/>
+      <span end="25720" id="PMC5732505.nxml.gz-796" start="25716">some</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-797" type="identity">
+      <class id="some...studies" label="some...studies"/>
+      <span end="25581" id="PMC5732505.nxml.gz-798" start="25577">Some</span>
+      <span end="25597" id="PMC5732505.nxml.gz-799" start="25590">studies</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-800" type="identity">
+      <class id="stated" label="stated"/>
+      <span end="24152" id="PMC5732505.nxml.gz-801" start="24146">stated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-802" type="identity">
+      <class id="suggest" label="suggest"/>
+      <span end="28675" id="PMC5732505.nxml.gz-803" start="28668">suggest</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-804" type="identity">
+      <class id="suggested" label="suggested"/>
+      <span end="23265" id="PMC5732505.nxml.gz-805" start="23256">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-806" type="identity">
+      <class id="suggested" label="suggested"/>
+      <span end="26518" id="PMC5732505.nxml.gz-807" start="26509">suggested</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-81" type="identity">
+      <class id="as" label="as"/>
+      <span end="28534" id="PMC5732505.nxml.gz-82" start="28532">as</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-837" type="identity">
+      <class id="to_clarify" label="to_clarify"/>
+      <span end="28857" id="PMC5732505.nxml.gz-838" start="28847">to clarify</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-839" type="identity">
+      <class id="to_determine" label="to_determine"/>
+      <span end="22433" id="PMC5732505.nxml.gz-840" start="22421">to determine</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-841" type="identity">
+      <class id="to_investigate" label="to_investigate"/>
+      <span end="490" id="PMC5732505.nxml.gz-842" start="476">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-843" type="identity">
+      <class id="to_investigate" label="to_investigate"/>
+      <span end="4092" id="PMC5732505.nxml.gz-844" start="4078">to investigate</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-85" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="137" id="PMC5732505.nxml.gz-86" start="127">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-851" type="identity">
+      <class id="underestimated" label="underestimated"/>
+      <span end="27866" id="PMC5732505.nxml.gz-852" start="27852">underestimated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-853" type="identity">
+      <class id="unexplained" label="unexplained"/>
+      <span end="26060" id="PMC5732505.nxml.gz-854" start="26049">unexplained</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-855" type="identity">
+      <class id="unknown" label="unknown"/>
+      <span end="3472" id="PMC5732505.nxml.gz-856" start="3465">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-857" type="identity">
+      <class id="unknown" label="unknown"/>
+      <span end="26075" id="PMC5732505.nxml.gz-858" start="26068">unknown</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-863" type="identity">
+      <class id="vary" label="vary"/>
+      <span end="27614" id="PMC5732505.nxml.gz-864" start="27610">vary</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-865" type="identity">
+      <class id="was_not" label="was_not"/>
+      <span end="18992" id="PMC5732505.nxml.gz-866" start="18985">was not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-87" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="2705" id="PMC5732505.nxml.gz-88" start="2695">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-871" type="identity">
+      <class id="was_not" label="was_not"/>
+      <span end="27750" id="PMC5732505.nxml.gz-872" start="27743">was not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-889" type="identity">
+      <class id="explicit_question" label="explicit_question"/>
+      <span end="3480" id="PMC5732505.nxml.gz-890" start="3473">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-89" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="22944" id="PMC5732505.nxml.gz-90" start="22934">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-891" type="identity">
+      <class id="whether" label="whether"/>
+      <span end="22521" id="PMC5732505.nxml.gz-892" start="22514">whether</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-893" type="identity">
+      <class id="whether...and" label="whether...and"/>
+      <span end="16470" id="PMC5732505.nxml.gz-894" start="16463">whether</span>
+      <span end="16547" id="PMC5732505.nxml.gz-895" start="16544">and</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-9" type="identity">
+      <class id="according_to" label="according_to"/>
+      <span end="10554" id="PMC5732505.nxml.gz-10" start="10542">according to</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-91" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="23211" id="PMC5732505.nxml.gz-92" start="23201">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-928" type="identity">
+      <class id="anomaly_curious_finding" label="anomaly_curious_finding"/>
+      <span end="25352" id="PMC5732505.nxml.gz-929" start="25347">while</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-932" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="25715" id="PMC5732505.nxml.gz-933" start="25712">yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-934" type="identity">
+      <class id="alternative_options_controversy" label="alternative_options_controversy"/>
+      <span end="27871" id="PMC5732505.nxml.gz-935" start="27868">Yet</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-95" type="identity">
+      <class id="associated" label="associated"/>
+      <span end="25195" id="PMC5732505.nxml.gz-96" start="25185">associated</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-966" type="identity">
+      <class id="prevalent" label="prevalent"/>
+      <span end="23620" id="PMC5732505.nxml.gz-967" start="23611">prevalent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-968" type="identity">
+      <class id="prevalent" label="prevalent"/>
+      <span end="23787" id="PMC5732505.nxml.gz-969" start="23778">prevalent</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-97" type="identity">
+      <class id="associates" label="associates"/>
+      <span end="3517" id="PMC5732505.nxml.gz-98" start="3507">associates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-970" type="identity">
+      <class id="prevalence" label="prevalence"/>
+      <span end="2870" id="PMC5732505.nxml.gz-971" start="2860">prevalence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-972" type="identity">
+      <class id="prevalence" label="prevalence"/>
+      <span end="3017" id="PMC5732505.nxml.gz-973" start="3007">prevalence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-976" type="identity">
+      <class id="prevalence" label="prevalence"/>
+      <span end="18110" id="PMC5732505.nxml.gz-977" start="18100">prevalence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-978" type="identity">
+      <class id="prevalence" label="prevalence"/>
+      <span end="27835" id="PMC5732505.nxml.gz-979" start="27825">prevalence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-980" type="identity">
+      <class id="prevalence" label="prevalence"/>
+      <span end="28005" id="PMC5732505.nxml.gz-981" start="27995">prevalence</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-982" type="identity">
+      <class id="may_not" label="may_not"/>
+      <span end="24094" id="PMC5732505.nxml.gz-983" start="24087">may not</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-984" type="identity">
+      <class id="many" label="many"/>
+      <span end="3575" id="PMC5732505.nxml.gz-985" start="3571">Many</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-988" type="identity">
+      <class id="globally" label="globally"/>
+      <span end="2855" id="PMC5732505.nxml.gz-989" start="2847">globally</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-99" type="identity">
+      <class id="associates" label="associates"/>
+      <span end="25661" id="PMC5732505.nxml.gz-100" start="25651">associates</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-992" type="identity">
+      <class id="several" label="several"/>
+      <span end="16350" id="PMC5732505.nxml.gz-993" start="16343">several</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-994" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="3098" id="PMC5732505.nxml.gz-995" start="3094">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-996" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="3155" id="PMC5732505.nxml.gz-997" start="3151">risk</span>
+    </annotation>
+    <annotation annotator="Default" id="PMC5732505.nxml.gz-998" type="identity">
+      <class id="risk" label="risk"/>
+      <span end="23229" id="PMC5732505.nxml.gz-999" start="23225">risk</span>
+    </annotation>
+  </document>
+</knowtator-project>
