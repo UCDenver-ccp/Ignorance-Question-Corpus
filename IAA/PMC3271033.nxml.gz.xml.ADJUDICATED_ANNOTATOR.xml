@@ -1,0 +1,1565 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC3271033.nxml.gz" text-file="PMC3271033.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-1" type="identity">
+         <class id="effects"/>
+         <span end="7" id="PMC3271033.nxml.gz-1" start="0">Effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-2" type="identity">
+         <class id="subject_scope"/>
+         <span end="117" id="PMC3271033.nxml.gz-2" start="0">Effects of ethnicity and vitamin D supplementation on vitamin D status and changes in bone mineral content in infants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-3" type="identity">
+         <class id="to_evaluate"/>
+         <span end="161" id="PMC3271033.nxml.gz-3" start="150">To evaluate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-4" type="identity">
+         <class id="subject_scope"/>
+         <span end="335" id="PMC3271033.nxml.gz-4" start="150">To evaluate the effects on serum 25(OH)D and bone mineralization of supplementation of breast-fed Hispanic and non-Hispanic Caucasian infants with vitamin D in infants in Houston, Texas</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-5" type="identity">
+         <class id="effects"/>
+         <span end="173" id="PMC3271033.nxml.gz-5" start="166">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-6" type="identity">
+         <class id="subject_scope"/>
+         <span end="1227" id="PMC3271033.nxml.gz-6" start="1079">Low cord 25(OH)D levels are seen in Hispanic infants, but their functional significance is uncertain related to bone health in a southern US setting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-7" type="identity">
+         <class id="seen"/>
+         <span end="1111" id="PMC3271033.nxml.gz-7" start="1107">seen</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-8" type="identity">
+         <class id="but"/>
+         <span end="1136" id="PMC3271033.nxml.gz-8" start="1133">but</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-9" type="identity">
+         <class id="significance"/>
+         <span end="1166" id="PMC3271033.nxml.gz-9" start="1154">significance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-10" type="identity">
+         <class id="uncertain"/>
+         <span end="1179" id="PMC3271033.nxml.gz-10" start="1170">uncertain</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-11" type="identity">
+         <class id="related"/>
+         <span end="1187" id="PMC3271033.nxml.gz-11" start="1180">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-12" type="identity">
+         <class id="subject_scope"/>
+         <span end="1413" id="PMC3271033.nxml.gz-12" start="1229">Daily vitamin D intake of 400 IU during the first months of life appears adequate to increase serum 25(OH)D and support BMC increases despite low initial 25(OH)D levels in some infants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-13" type="identity">
+         <class id="appears"/>
+         <span end="1301" id="PMC3271033.nxml.gz-13" start="1294">appears</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-14" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1348" id="PMC3271033.nxml.gz-14" start="1341">support</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-15" type="identity">
+         <class id="support"/>
+         <span end="1348" id="PMC3271033.nxml.gz-15" start="1341">support</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-16" type="identity">
+         <class id="despite"/>
+         <span end="1370" id="PMC3271033.nxml.gz-16" start="1363">despite</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-17" type="identity">
+         <class id="subject_scope"/>
+         <span end="1703" id="PMC3271033.nxml.gz-17" start="1563">The recommended dose of 400 IU (10 micrograms) daily for infants was established based on typical amounts in a teaspoon of cod liver oil [1]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-18" type="identity">
+         <class id="established"/>
+         <span end="1643" id="PMC3271033.nxml.gz-18" start="1632">established</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-19" type="identity">
+         <class id="probable_understanding"/>
+         <span end="1652" id="PMC3271033.nxml.gz-19" start="1644">based on</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-20" type="identity">
+         <class id="based_on"/>
+         <span end="1652" id="PMC3271033.nxml.gz-20" start="1644">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-21" type="identity">
+         <class id="subject_scope"/>
+         <span end="1943" id="PMC3271033.nxml.gz-21" start="1705">This recommendation has recently been reaffirmed as being appropriate by both the Institute of Medicine [2] and the American Academy of Pediatrics [3] whereas the Endocrine Society considers the 400 IU to be a minimum appropriate dose [4]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-22" type="identity">
+         <class id="has_recently_been"/>
+         <span end="1742" id="PMC3271033.nxml.gz-22" start="1725">has recently been</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-23" type="identity">
+         <class id="probable_understanding"/>
+         <span end="1753" id="PMC3271033.nxml.gz-23" start="1743">reaffirmed</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-24" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1753" id="PMC3271033.nxml.gz-24" start="1743">reaffirmed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-25" type="identity">
+         <class id="whereas"/>
+         <span end="1863" id="PMC3271033.nxml.gz-25" start="1856">whereas</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-26" type="identity">
+         <class id="probable_understanding"/>
+         <span end="1895" id="PMC3271033.nxml.gz-26" start="1886">considers</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-27" type="identity">
+         <class id="important_consideration"/>
+         <span end="1895" id="PMC3271033.nxml.gz-27" start="1886">considers</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-28" type="identity">
+         <class id="although"/>
+         <span end="1953" id="PMC3271033.nxml.gz-28" start="1945">Although</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-29" type="identity">
+         <class id="subject_scope"/>
+         <span end="2192" id="PMC3271033.nxml.gz-29" start="1945">Although the dose of 400 IU daily is used for both breast-fed and formula-fed babies, vitamin D-deficient rickets is extremely rare in formula-fed infants primarily due to the mandatory addition of vitamin D to infant formulas in the United States</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-30" type="identity">
+         <class id="subject_scope"/>
+         <span end="2427" id="PMC3271033.nxml.gz-30" start="2194">Formula-fed infants typically consume 300-500 IU/day from their formula and therefore generally meet the current recommendations without an additional oral supplement of vitamin D drops especially after the first 6 to 8 weeks of life</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-31" type="identity">
+         <class id="therefore"/>
+         <span end="2279" id="PMC3271033.nxml.gz-31" start="2270">therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-32" type="identity">
+         <class id="generally"/>
+         <span end="2289" id="PMC3271033.nxml.gz-32" start="2280">generally</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-33" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="2390" id="PMC3271033.nxml.gz-33" start="2380">especially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-34" type="identity">
+         <class id="subject_scope"/>
+         <span end="2588" id="PMC3271033.nxml.gz-34" start="2429">The relatively greater calcium and phosphorus concentration in US infant formulas compared to human milk may also be protective against rickets in some infants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-35" type="identity">
+         <class id="may"/>
+         <span end="2537" id="PMC3271033.nxml.gz-35" start="2534">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-36" type="identity">
+         <class id="protective"/>
+         <span end="2556" id="PMC3271033.nxml.gz-36" start="2546">protective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-37" type="identity">
+         <class id="remarkably"/>
+         <span end="2600" id="PMC3271033.nxml.gz-37" start="2590">Remarkably</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-38" type="identity">
+         <class id="subject_scope"/>
+         <span end="2755" id="PMC3271033.nxml.gz-38" start="2590">Remarkably, few data have looked at modern techniques of assessing bone mineral status and compared it to vitamin D levels and supplementation in this population [5]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-39" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2610" id="PMC3271033.nxml.gz-39" start="2602">few data</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-40" type="identity">
+         <class id="few"/>
+         <span end="2605" id="PMC3271033.nxml.gz-40" start="2602">few</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-41" type="identity">
+         <class id="looked_at"/>
+         <span end="2625" id="PMC3271033.nxml.gz-41" start="2616">looked at</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-42" type="identity">
+         <class id="subject_scope"/>
+         <span end="2933" id="PMC3271033.nxml.gz-42" start="2757">Serum 25-hydroxyvitamin D (25(OH)D) is accepted as the best marker of vitamin D status although it may serve primarily as a marker of exposure rather than clinical outcomes [2]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-43" type="identity">
+         <class id="accepted"/>
+         <span end="2804" id="PMC3271033.nxml.gz-43" start="2796">accepted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-44" type="identity">
+         <class id="best"/>
+         <span end="2816" id="PMC3271033.nxml.gz-44" start="2812">best</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-45" type="identity">
+         <class id="marker"/>
+         <span end="2823" id="PMC3271033.nxml.gz-45" start="2817">marker</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-46" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="2852" id="PMC3271033.nxml.gz-46" start="2844">although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-47" type="identity">
+         <class id="may"/>
+         <span end="2859" id="PMC3271033.nxml.gz-47" start="2856">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-48" type="identity">
+         <class id="primarily"/>
+         <span end="2875" id="PMC3271033.nxml.gz-48" start="2866">primarily</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-49" type="identity">
+         <class id="marker"/>
+         <span end="2887" id="PMC3271033.nxml.gz-49" start="2881">marker</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-50" type="identity">
+         <class id="rather"/>
+         <span end="2906" id="PMC3271033.nxml.gz-50" start="2900">rather</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-51" type="identity">
+         <class id="subject_scope"/>
+         <span end="3043" id="PMC3271033.nxml.gz-51" start="2934">There are few data that correlate serum 25(OH)D levels with functional outcomes in newborns and small infants</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-52" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2952" id="PMC3271033.nxml.gz-52" start="2944">few data</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-53" type="identity">
+         <class id="few"/>
+         <span end="2947" id="PMC3271033.nxml.gz-53" start="2944">few</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-54" type="identity">
+         <class id="correlate"/>
+         <span end="2967" id="PMC3271033.nxml.gz-54" start="2958">correlate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-55" type="identity">
+         <class id="subject_scope"/>
+         <span end="3177" id="PMC3271033.nxml.gz-55" start="3045">Neonatal serum 25(OH)D levels reflect a range of in utero factors, most significant of these being the maternal vitamin D status [6]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-56" type="identity">
+         <class id="reflect"/>
+         <span end="3082" id="PMC3271033.nxml.gz-56" start="3075">reflect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-57" type="identity">
+         <class id="factors"/>
+         <span end="3110" id="PMC3271033.nxml.gz-57" start="3103">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-58" type="identity">
+         <class id="subject_scope"/>
+         <span end="3341" id="PMC3271033.nxml.gz-58" start="3179">Although calcium and phosphorus are transported transplacentally without vitamin D, the effects of low vitamin D in utero or shortly after birth are uncertain [7]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-59" type="identity">
+         <class id="although"/>
+         <span end="3187" id="PMC3271033.nxml.gz-59" start="3179">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-60" type="identity">
+         <class id="effects"/>
+         <span end="3274" id="PMC3271033.nxml.gz-60" start="3267">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-61" type="identity">
+         <class id="uncertain"/>
+         <span end="3337" id="PMC3271033.nxml.gz-61" start="3328">uncertain</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-62" type="identity">
+         <class id="this_study"/>
+         <span end="3353" id="PMC3271033.nxml.gz-62" start="3343">This study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-63" type="identity">
+         <class id="subject_scope"/>
+         <span end="3582" id="PMC3271033.nxml.gz-63" start="3343">This study was conducted to evaluate early life bone mineral content (BMC) and the effects of three months of vitamin D supplementation in breast-fed Hispanic and non-Hispanic Caucasian (henceforth, &quot;Caucasian&quot;) infants on vitamin D levels</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-64" type="identity">
+         <class id="conducted"/>
+         <span end="3367" id="PMC3271033.nxml.gz-64" start="3358">conducted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-65" type="identity">
+         <class id="to_evaluate"/>
+         <span end="3379" id="PMC3271033.nxml.gz-65" start="3368">to evaluate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-66" type="identity">
+         <class id="effects"/>
+         <span end="3433" id="PMC3271033.nxml.gz-66" start="3426">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-67" type="identity">
+         <class id="subject_scope"/>
+         <span end="3837" id="PMC3271033.nxml.gz-67" start="3584">We hypothesized that 25(OH)D would be lower in Hispanic than Caucasian newborns but that these differences would not be substantial enough to be related closely to BMC and bone mineral density (BMD) or their changes during the first three months of life</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-68" type="identity">
+         <class id="hypothesized"/>
+         <span end="3599" id="PMC3271033.nxml.gz-68" start="3587">hypothesized</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-69" type="identity">
+         <class id="would_be"/>
+         <span end="3621" id="PMC3271033.nxml.gz-69" start="3613">would be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-70" type="identity">
+         <class id="but"/>
+         <span end="3667" id="PMC3271033.nxml.gz-70" start="3664">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-71" type="identity">
+         <class id="would"/>
+         <span end="3696" id="PMC3271033.nxml.gz-71" start="3691">would</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-72" type="identity">
+         <class id="related"/>
+         <span end="3736" id="PMC3271033.nxml.gz-72" start="3729">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-73" type="identity">
+         <class id="however"/>
+         <span end="4049" id="PMC3271033.nxml.gz-73" start="4042">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-74" type="identity">
+         <class id="subject_scope"/>
+         <span end="4249" id="PMC3271033.nxml.gz-74" start="4042">However, the relationship between vitamin D status and bone-related outcomes in supplemented infants provides information about the effects of these cord levels and vitamin D supplementation in early infancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-75" type="identity">
+         <class id="relationship"/>
+         <span end="4067" id="PMC3271033.nxml.gz-75" start="4055">relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-76" type="identity">
+         <class id="information"/>
+         <span end="4163" id="PMC3271033.nxml.gz-76" start="4152">information</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-77" type="identity">
+         <class id="effects"/>
+         <span end="4181" id="PMC3271033.nxml.gz-77" start="4174">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-78" type="identity">
+         <class id="subject_scope"/>
+         <span end="4395" id="PMC3271033.nxml.gz-78" start="4251">Furthermore, few data have evaluated Hispanic infants who may be at high-risk for low vitamin D status due to poor maternal vitamin D intake [4]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-79" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="4272" id="PMC3271033.nxml.gz-79" start="4264">few data</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-80" type="identity">
+         <class id="few"/>
+         <span end="4267" id="PMC3271033.nxml.gz-80" start="4264">few</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-81" type="identity">
+         <class id="evaluated"/>
+         <span end="4287" id="PMC3271033.nxml.gz-81" start="4278">evaluated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-82" type="identity">
+         <class id="may_be"/>
+         <span end="4315" id="PMC3271033.nxml.gz-82" start="4309">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-83" type="identity">
+         <class id="probable_understanding"/>
+         <span end="4360" id="PMC3271033.nxml.gz-83" start="4354">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-84" type="identity">
+         <class id="poor"/>
+         <span end="4365" id="PMC3271033.nxml.gz-84" start="4361">poor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-85" type="identity">
+         <class id="subject_scope"/>
+         <span end="6812" id="PMC3271033.nxml.gz-85" start="6585">Other lifestyle and dress habits were not evaluated, and all participants were observed by the study staff for typical Western-style US clothing (sleeveless or short-sleeved shirts in the summer, jackets or coats in the winter)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-86" type="identity">
+         <class id="not_evaluated"/>
+         <span end="6636" id="PMC3271033.nxml.gz-86" start="6623">not evaluated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-87" type="identity">
+         <class id="subject_scope"/>
+         <span end="9163" id="PMC3271033.nxml.gz-87" start="9027">Differences markedly less than are less likely to be biologically relevant and this study was not designed to identify small differences</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-88" type="identity">
+         <class id="less"/>
+         <span end="9066" id="PMC3271033.nxml.gz-88" start="9062">less</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-89" type="identity">
+         <class id="likely"/>
+         <span end="9073" id="PMC3271033.nxml.gz-89" start="9067">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-90" type="identity">
+         <class id="this_study"/>
+         <span end="9116" id="PMC3271033.nxml.gz-90" start="9106">this study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-91" type="identity">
+         <class id="not_designed_to"/>
+         <span end="9136" id="PMC3271033.nxml.gz-91" start="9121">not designed to</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-92" type="identity">
+         <class id="difficult_task"/>
+         <span end="9163" id="PMC3271033.nxml.gz-92" start="9152">differences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-93" type="identity">
+         <class id="subject_scope"/>
+         <span end="9824" id="PMC3271033.nxml.gz-93" start="9578">Statistical analysis was not applied to the relative change in serum 25(OH)D values with low baseline versus high baseline data as there is currently no accepted optimal approach for such an evaluation as reviewed recently by Tu and Gilthorpe [8]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-94" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="9739" id="PMC3271033.nxml.gz-94" start="9728">no accepted</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-95" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="9739" id="PMC3271033.nxml.gz-95" start="9728">no accepted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-96" type="identity">
+         <class id="recently"/>
+         <span end="9800" id="PMC3271033.nxml.gz-96" start="9792">recently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-97" type="identity">
+         <class id="subject_scope"/>
+         <span end="10574" id="PMC3271033.nxml.gz-97" start="10483">We evaluated the relationship between cord blood 25(OH)D and BMC and BMD at one week of age</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-98" type="identity">
+         <class id="evaluated"/>
+         <span end="10495" id="PMC3271033.nxml.gz-98" start="10486">evaluated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-99" type="identity">
+         <class id="relationship"/>
+         <span end="10512" id="PMC3271033.nxml.gz-99" start="10500">relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-100" type="identity">
+         <class id="subject_scope"/>
+         <span end="10757" id="PMC3271033.nxml.gz-100" start="10662">BMC was highly correlated to body weight (r = 0.86, p &lt; 0.001) as was BMD (r = 0.56, p &lt; 0.001)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-101" type="identity">
+         <class id="correlated"/>
+         <span end="10687" id="PMC3271033.nxml.gz-101" start="10677">correlated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-102" type="identity">
+         <class id="subject_scope"/>
+         <span end="10975" id="PMC3271033.nxml.gz-102" start="10759">BMC was significantly related to length at one week (r = 0.61, p &lt; 0.001) however, in multivariate analysis including weight and length, only weight was significant, p &lt; 0.001 and length was not significant, p = 0.87</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-103" type="identity">
+         <class id="related"/>
+         <span end="10788" id="PMC3271033.nxml.gz-103" start="10781">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-104" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="10840" id="PMC3271033.nxml.gz-104" start="10833">however</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-105" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="10900" id="PMC3271033.nxml.gz-105" start="10896">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-106" type="identity">
+         <class id="subject_scope"/>
+         <span end="11086" id="PMC3271033.nxml.gz-106" start="10977">Length was similar between Hispanic and Caucasians, 50.3 ± 2.1 cm versus 50.5 ± 2.0 cm respectively, p = 0.72</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-107" type="identity">
+         <class id="similar"/>
+         <span end="10995" id="PMC3271033.nxml.gz-107" start="10988">similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-108" type="identity">
+         <class id="subject_scope"/>
+         <span end="12057" id="PMC3271033.nxml.gz-108" start="11945">Prenatal vitamin supplement composition varied by brand; however, most brands included 200 IU vitamin D per pill</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-109" type="identity">
+         <class id="difficult_task"/>
+         <span end="11991" id="PMC3271033.nxml.gz-109" start="11985">varied</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-110" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="11991" id="PMC3271033.nxml.gz-110" start="11985">varied</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-111" type="identity">
+         <class id="however"/>
+         <span end="12009" id="PMC3271033.nxml.gz-111" start="12002">however</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-112" type="identity">
+         <class id="subject_scope"/>
+         <span end="12323" id="PMC3271033.nxml.gz-112" start="12174">Overall compliance with the vitamin D drops was excellent with 90% of the drops given overall based on measurement of the volume of returned droppers</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-113" type="identity">
+         <class id="based_on"/>
+         <span end="12276" id="PMC3271033.nxml.gz-113" start="12268">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-114" type="identity">
+         <class id="subject_scope"/>
+         <span end="12432" id="PMC3271033.nxml.gz-114" start="12325">There was no relationship between compliance and outcome so this was not further considered in the analysis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-115" type="identity">
+         <class id="was_not"/>
+         <span end="12397" id="PMC3271033.nxml.gz-115" start="12390">was not</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-116" type="identity">
+         <class id="considered"/>
+         <span end="12416" id="PMC3271033.nxml.gz-116" start="12406">considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-117" type="identity">
+         <class id="of_note"/>
+         <span end="12752" id="PMC3271033.nxml.gz-117" start="12745">Of note</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-118" type="identity">
+         <class id="subject_scope"/>
+         <span end="12852" id="PMC3271033.nxml.gz-118" start="12745">Of note is that the BMC and BMD were greater in Hispanic infants at three months but not at one week of age</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-119" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="12833" id="PMC3271033.nxml.gz-119" start="12826">but not</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3271033.nxml.gz-120" type="identity">
+         <class id="subject_scope"/>
+         <span end="13390" id="PMC3271033.nxml.gz-120" start="13145">When body weight at three months was included as a covariate in this analysis, changes in BMC remained significant, p = 0.03, but changes in BMD were not (p = 0.06). Overall, there was no relationship between changes in 25(OH)D and BMC (Figure1)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-121" type="identity">
+         <class id="probable_understanding"/>
+         <span end="13247" id="PMC3271033.nxml.gz-121" start="13239">remained</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-122" type="identity">
+         <class id="remained"/>
+         <span end="13247" id="PMC3271033.nxml.gz-122" start="13239">remained</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-123" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="13274" id="PMC3271033.nxml.gz-123" start="13271">but</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-124" type="identity">
+         <class id="subject_scope"/>
+         <span end="15008" id="PMC3271033.nxml.gz-124" start="14897">We further evaluated the relationship between cord 25(OH)D and outcomes using a general linear regression model</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-125" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="14917" id="PMC3271033.nxml.gz-125" start="14908">evaluated</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-126" type="identity">
+         <class id="subject_scope"/>
+         <span end="15328" id="PMC3271033.nxml.gz-126" start="15101">There was no significant effect of the percent of human milk provided on outcomes including change in BMC (p = 0.89) or change in 25(OH)D (p = 0.25) so all data were analyzed without amount of human milk included as a covariate</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-127" type="identity">
+         <class id="analyzed"/>
+         <span end="15275" id="PMC3271033.nxml.gz-127" start="15267">analyzed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-128" type="identity">
+         <class id="subject_scope"/>
+         <span end="15501" id="PMC3271033.nxml.gz-128" start="15330">We found that cord 25(OH)D (dependent variable) was not significantly related to BMC and BMD as shown before, and was not closely related to BMC at three months (p = 0.10)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-129" type="identity">
+         <class id="found"/>
+         <span end="15338" id="PMC3271033.nxml.gz-129" start="15333">found</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-130" type="identity">
+         <class id="subject_scope"/>
+         <span end="15831" id="PMC3271033.nxml.gz-130" start="15720">We considered infants with cord 25(OH)D below 20 ng/mL compared to those above 20 ng/mL regardless of ethnicity</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-131" type="identity">
+         <class id="considered"/>
+         <span end="15733" id="PMC3271033.nxml.gz-131" start="15723">considered</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-132" type="identity">
+         <class id="compared_to"/>
+         <span end="15786" id="PMC3271033.nxml.gz-132" start="15775">compared to</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-133" type="identity">
+         <class id="regardless_of"/>
+         <span end="15821" id="PMC3271033.nxml.gz-133" start="15808">regardless of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-134" type="identity">
+         <class id="subject_scope"/>
+         <span end="16529" id="PMC3271033.nxml.gz-134" start="16303">We found 25(OH)D levels &lt; 20 ng/mL to be common in the cord blood of infants in a southern climate in the United States representing about 60% of the infants in our study, with about 20% of the infants having values ≤ 10 ng/mL</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-135" type="identity">
+         <class id="found"/>
+         <span end="16311" id="PMC3271033.nxml.gz-135" start="16306">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-136" type="identity">
+         <class id="representing"/>
+         <span end="16435" id="PMC3271033.nxml.gz-136" start="16423">representing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-137" type="identity">
+         <class id="about"/>
+         <span end="16441" id="PMC3271033.nxml.gz-137" start="16436">about</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-138" type="identity">
+         <class id="our_study"/>
+         <span end="16473" id="PMC3271033.nxml.gz-138" start="16464">our study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-139" type="identity">
+         <class id="about"/>
+         <span end="16485" id="PMC3271033.nxml.gz-139" start="16480">about</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-140" type="identity">
+         <class id="however"/>
+         <span end="16538" id="PMC3271033.nxml.gz-140" start="16531">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-141" type="identity">
+         <class id="subject_scope"/>
+         <span end="16702" id="PMC3271033.nxml.gz-141" start="16531">However, we did not identify any specific physiological consequences of these cord 25(OH)D levels for bone mineralization at birth as evidenced by initial DXA measurements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-142" type="identity">
+         <class id="did_not"/>
+         <span end="16550" id="PMC3271033.nxml.gz-142" start="16543">did not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-143" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="16559" id="PMC3271033.nxml.gz-143" start="16551">identify</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-144" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="16674" id="PMC3271033.nxml.gz-144" start="16665">evidenced</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-145" type="identity">
+         <class id="subject_scope"/>
+         <span end="16998" id="PMC3271033.nxml.gz-145" start="16704">Supplementation with 400 IU/day of vitamin D to these infants led to a relatively greater increase in those who were born with the lowest vitamin D status and there was no suggestion of any bone mineral outcome deficits at one week or three months of age in infants with low cord 25(OH)D levels</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-146" type="identity">
+         <class id="led_to"/>
+         <span end="16772" id="PMC3271033.nxml.gz-146" start="16766">led to</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-147" type="identity">
+         <class id="suggestion"/>
+         <span end="16886" id="PMC3271033.nxml.gz-147" start="16876">suggestion</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-148" type="identity">
+         <class id="subject_scope"/>
+         <span end="17215" id="PMC3271033.nxml.gz-148" start="17099">We note that our study was of limited size however, and that larger studies are needed in diverse global populations</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-149" type="identity">
+         <class id="note"/>
+         <span end="17106" id="PMC3271033.nxml.gz-149" start="17102">note</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-150" type="identity">
+         <class id="limited"/>
+         <span end="17136" id="PMC3271033.nxml.gz-150" start="17129">limited</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3271033.nxml.gz-151" type="identity">
+         <class id="studies...are_needed"/>
+         <span end="17185" id="PMC3271033.nxml.gz-151" start="17167">studies are needed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-152" type="identity">
+         <class id="our_study"/>
+         <span end="17226" id="PMC3271033.nxml.gz-152" start="17217">Our study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-153" type="identity">
+         <class id="subject_scope"/>
+         <span end="17351" id="PMC3271033.nxml.gz-153" start="17217">Our study did not have the ability to identify the effects of small amounts of formula or other nutritional differences between groups</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-154" type="identity">
+         <class id="difficult_task"/>
+         <span end="17234" id="PMC3271033.nxml.gz-154" start="17227">did not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-155" type="identity">
+         <class id="effects"/>
+         <span end="17275" id="PMC3271033.nxml.gz-155" start="17268">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-156" type="identity">
+         <class id="other"/>
+         <span end="17312" id="PMC3271033.nxml.gz-156" start="17307">other</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-157" type="identity">
+         <class id="difficult_task"/>
+         <span end="17336" id="PMC3271033.nxml.gz-157" start="17325">differences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-158" type="identity">
+         <class id="subject_scope"/>
+         <span end="17546" id="PMC3271033.nxml.gz-158" start="17353">The close relationships between weight and length and initial BMC imply that calcium transfer across the placenta is closely related to overall nutrient transfer and not to vitamin D status (7)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-159" type="identity">
+         <class id="relationships"/>
+         <span end="17376" id="PMC3271033.nxml.gz-159" start="17363">relationships</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-160" type="identity">
+         <class id="probable_understanding"/>
+         <span end="17424" id="PMC3271033.nxml.gz-160" start="17419">imply</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-161" type="identity">
+         <class id="related"/>
+         <span end="17485" id="PMC3271033.nxml.gz-161" start="17478">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-162" type="identity">
+         <class id="of_note"/>
+         <span end="17555" id="PMC3271033.nxml.gz-162" start="17548">Of note</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-163" type="identity">
+         <class id="subject_scope"/>
+         <span end="17688" id="PMC3271033.nxml.gz-163" start="17548">Of note is that few subjects had a cord 25(OH)D &lt; 6 ng/mL, a value found in studies in pregnant women and newborns in the Middle East [9,10]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-164" type="identity">
+         <class id="found"/>
+         <span end="17620" id="PMC3271033.nxml.gz-164" start="17615">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-165" type="identity">
+         <class id="subject_scope"/>
+         <span end="17842" id="PMC3271033.nxml.gz-165" start="17690">Neonatal rickets and hypocalcemia have been reported in some, but not all infants with cord or maternal 25(OH)D values &lt; 6-10 ng/mL from the Middle East</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-166" type="identity">
+         <class id="have_been_reported"/>
+         <span end="17742" id="PMC3271033.nxml.gz-166" start="17724">have been reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-167" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="17750" id="PMC3271033.nxml.gz-167" start="17746">some</span>
+         <span end="17763" id="PMC3271033.nxml.gz-168" start="17752">but not all</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-169" type="identity">
+         <class id="subject_scope"/>
+         <span end="18056" id="PMC3271033.nxml.gz-169" start="17844">These extremely low values are not commonly reported in the United States, although we speculate that an increasing number of cases may be reported in the future due to increased awareness of vitamin D deficiency</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-170" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="17887" id="PMC3271033.nxml.gz-170" start="17875">not commonly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-171" type="identity">
+         <class id="although"/>
+         <span end="17927" id="PMC3271033.nxml.gz-171" start="17919">although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-172" type="identity">
+         <class id="speculate"/>
+         <span end="17940" id="PMC3271033.nxml.gz-172" start="17931">speculate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-173" type="identity">
+         <class id="number_of"/>
+         <span end="17969" id="PMC3271033.nxml.gz-173" start="17960">number of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-174" type="identity">
+         <class id="may_be"/>
+         <span end="17982" id="PMC3271033.nxml.gz-174" start="17976">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-175" type="identity">
+         <class id="future_prediction"/>
+         <span end="18005" id="PMC3271033.nxml.gz-175" start="17999">future</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-176" type="identity">
+         <class id="probable_understanding"/>
+         <span end="18012" id="PMC3271033.nxml.gz-176" start="18006">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-177" type="identity">
+         <class id="increased_awareness"/>
+         <span end="18032" id="PMC3271033.nxml.gz-177" start="18013">increased awareness</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-178" type="identity">
+         <class id="subject_scope"/>
+         <span end="18228" id="PMC3271033.nxml.gz-178" start="18058">There are very few data on 25(OH)D in cord blood in the Hispanic population and no data looking specifically at the relative increase over time based on cord 25(OH)D [11]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-179" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="18081" id="PMC3271033.nxml.gz-179" start="18073">few data</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-180" type="identity">
+         <class id="few"/>
+         <span end="18076" id="PMC3271033.nxml.gz-180" start="18073">few</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-181" type="identity">
+         <class id="no_data"/>
+         <span end="18145" id="PMC3271033.nxml.gz-181" start="18138">no data</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-182" type="identity">
+         <class id="based_on"/>
+         <span end="18210" id="PMC3271033.nxml.gz-182" start="18202">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-183" type="identity">
+         <class id="subject_scope"/>
+         <span end="18421" id="PMC3271033.nxml.gz-183" start="18230">We did not have PTH values on the cord blood but PTH values at three months of age were not correlated significantly with 25(OH)D values at birth or three months or with bone mineral outcomes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-184" type="identity">
+         <class id="did_not"/>
+         <span end="18240" id="PMC3271033.nxml.gz-184" start="18233">did not</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-185" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="18278" id="PMC3271033.nxml.gz-185" start="18275">but</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-186" type="identity">
+         <class id="but"/>
+         <span end="18278" id="PMC3271033.nxml.gz-186" start="18275">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-187" type="identity">
+         <class id="subject_scope"/>
+         <span end="18540" id="PMC3271033.nxml.gz-187" start="18423">Differences in 25(OH)D between Hispanic and Caucasian infants may be related to lifestyle including sunshine exposure</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-188" type="identity">
+         <class id="may_be"/>
+         <span end="18491" id="PMC3271033.nxml.gz-188" start="18485">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-189" type="identity">
+         <class id="related"/>
+         <span end="18499" id="PMC3271033.nxml.gz-189" start="18492">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-190" type="identity">
+         <class id="subject_scope"/>
+         <span end="18666" id="PMC3271033.nxml.gz-190" start="18542">These were not evaluated in this study but there are no clear cultural reasons to expect a substantial difference in Houston</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-191" type="identity">
+         <class id="not_evaluated"/>
+         <span end="18566" id="PMC3271033.nxml.gz-191" start="18553">not evaluated</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-192" type="identity">
+         <class id="not...but"/>
+         <span end="18556" id="PMC3271033.nxml.gz-192" start="18553">not</span>
+         <span end="18584" id="PMC3271033.nxml.gz-193" start="18581">but</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-194" type="identity">
+         <class id="probable_understanding"/>
+         <span end="18584" id="PMC3271033.nxml.gz-194" start="18581">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-195" type="identity">
+         <class id="no_clear"/>
+         <span end="18603" id="PMC3271033.nxml.gz-195" start="18595">no clear</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-196" type="identity">
+         <class id="reasons"/>
+         <span end="18620" id="PMC3271033.nxml.gz-196" start="18613">reasons</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-197" type="identity">
+         <class id="expect"/>
+         <span end="18630" id="PMC3271033.nxml.gz-197" start="18624">expect</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-198" type="identity">
+         <class id="difference"/>
+         <span end="18655" id="PMC3271033.nxml.gz-198" start="18645">difference</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-199" type="identity">
+         <class id="of_note"/>
+         <span end="18785" id="PMC3271033.nxml.gz-199" start="18778">Of note</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-200" type="identity">
+         <class id="subject_scope"/>
+         <span end="19000" id="PMC3271033.nxml.gz-200" start="18778">Of note is that in that study, about 10% of infants with these very low 25(OH)D levels had evidence of hypocalcemia although none had physical symptoms and it is not clear if there was a true cause and effect in this group</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-201" type="identity">
+         <class id="about"/>
+         <span end="18814" id="PMC3271033.nxml.gz-201" start="18809">about</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-202" type="identity">
+         <class id="evidence"/>
+         <span end="18877" id="PMC3271033.nxml.gz-202" start="18869">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-203" type="identity">
+         <class id="although"/>
+         <span end="18902" id="PMC3271033.nxml.gz-203" start="18894">although</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-204" type="identity">
+         <class id="none"/>
+         <span end="18907" id="PMC3271033.nxml.gz-204" start="18903">none</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-205" type="identity">
+         <class id="not_clear"/>
+         <span end="18949" id="PMC3271033.nxml.gz-205" start="18940">not clear</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-206" type="identity">
+         <class id="although"/>
+         <span end="19010" id="PMC3271033.nxml.gz-206" start="19002">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-207" type="identity">
+         <class id="subject_scope"/>
+         <span end="19183" id="PMC3271033.nxml.gz-207" start="19002">Although there was a trend in that study towards a relative increase in 25(OH)D in infants with lower baseline values who received supplementation, this was not clearly demonstrated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-208" type="identity">
+         <class id="trend"/>
+         <span end="19028" id="PMC3271033.nxml.gz-208" start="19023">trend</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-209" type="identity">
+         <class id="full_unknown"/>
+         <span end="19170" id="PMC3271033.nxml.gz-209" start="19159">not clearly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-210" type="identity">
+         <class id="demonstrated"/>
+         <span end="19183" id="PMC3271033.nxml.gz-210" start="19171">demonstrated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-211" type="identity">
+         <class id="subject_scope"/>
+         <span end="19379" id="PMC3271033.nxml.gz-211" start="19185">In the United States, median values for 25(OH)D in a northern setting in the first days of life were 17 ng/mL with 58% of infants &lt; 20 ng/mL, results very similar to those seen in our study [13]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-212" type="identity">
+         <class id="similar_to"/>
+         <span end="19350" id="PMC3271033.nxml.gz-212" start="19340">similar to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-213" type="identity">
+         <class id="seen"/>
+         <span end="19361" id="PMC3271033.nxml.gz-213" start="19357">seen</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-214" type="identity">
+         <class id="subject_scope"/>
+         <span end="19456" id="PMC3271033.nxml.gz-214" start="19381">We found similar ionized calcium levels in Hispanic and Caucasians at birth</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-215" type="identity">
+         <class id="found"/>
+         <span end="19389" id="PMC3271033.nxml.gz-215" start="19384">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-216" type="identity">
+         <class id="similar"/>
+         <span end="19397" id="PMC3271033.nxml.gz-216" start="19390">similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-217" type="identity">
+         <class id="subject_scope"/>
+         <span end="19626" id="PMC3271033.nxml.gz-217" start="19458">There is some suggestion that late hypocalcemic tetany is more common in Hispanic infants, although this is not well demonstrated due to the limited published data [14]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-218" type="identity">
+         <class id="some"/>
+         <span end="19471" id="PMC3271033.nxml.gz-218" start="19467">some</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-219" type="identity">
+         <class id="suggestion"/>
+         <span end="19482" id="PMC3271033.nxml.gz-219" start="19472">suggestion</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-220" type="identity">
+         <class id="more_common"/>
+         <span end="19527" id="PMC3271033.nxml.gz-220" start="19516">more common</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-221" type="identity">
+         <class id="although"/>
+         <span end="19557" id="PMC3271033.nxml.gz-221" start="19549">although</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-222" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="19587" id="PMC3271033.nxml.gz-222" start="19566">not well demonstrated</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-223" type="identity">
+         <class id="demonstrated"/>
+         <span end="19587" id="PMC3271033.nxml.gz-223" start="19575">demonstrated</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-224" type="identity">
+         <class id="due_to"/>
+         <span end="19594" id="PMC3271033.nxml.gz-224" start="19588">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-225" type="identity">
+         <class id="limited...data"/>
+         <span end="19606" id="PMC3271033.nxml.gz-225" start="19599">limited</span>
+         <span end="19621" id="PMC3271033.nxml.gz-226" start="19617">data</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-227" type="identity">
+         <class id="subject_scope"/>
+         <span end="19785" id="PMC3271033.nxml.gz-227" start="19628">Regardless, serum calcium in the cord blood and in the first days of life is likely controlled by a variety of factors, of which vitamin D is only one factor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-228" type="identity">
+         <class id="likely"/>
+         <span end="19711" id="PMC3271033.nxml.gz-228" start="19705">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-229" type="identity">
+         <class id="variety"/>
+         <span end="19735" id="PMC3271033.nxml.gz-229" start="19728">variety</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-230" type="identity">
+         <class id="factors"/>
+         <span end="19746" id="PMC3271033.nxml.gz-230" start="19739">factors</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-231" type="identity">
+         <class id="which"/>
+         <span end="19756" id="PMC3271033.nxml.gz-231" start="19751">which</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-232" type="identity">
+         <class id="only"/>
+         <span end="19774" id="PMC3271033.nxml.gz-232" start="19770">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-233" type="identity">
+         <class id="factor"/>
+         <span end="19785" id="PMC3271033.nxml.gz-233" start="19779">factor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-234" type="identity">
+         <class id="limited"/>
+         <span end="19794" id="PMC3271033.nxml.gz-234" start="19787">Limited</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-235" type="identity">
+         <class id="subject_scope"/>
+         <span end="19854" id="PMC3271033.nxml.gz-235" start="19787">Limited previous research is generally consistent with our findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-236" type="identity">
+         <class id="previous"/>
+         <span end="19803" id="PMC3271033.nxml.gz-236" start="19795">previous</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-237" type="identity">
+         <class id="generally"/>
+         <span end="19825" id="PMC3271033.nxml.gz-237" start="19816">generally</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-238" type="identity">
+         <class id="consistent"/>
+         <span end="19836" id="PMC3271033.nxml.gz-238" start="19826">consistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-239" type="identity">
+         <class id="our_findings"/>
+         <span end="19854" id="PMC3271033.nxml.gz-239" start="19842">our findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-240" type="identity">
+         <class id="subject_scope"/>
+         <span end="20050" id="PMC3271033.nxml.gz-240" start="19856">Park et al [15] studied Korean infants at 2 to 5 months of age and found no relationship between 25(OH)D level and BMC assessed by DXA even though many of the infants had very low 25(OH)D levels</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-241" type="identity">
+         <class id="found"/>
+         <span end="19928" id="PMC3271033.nxml.gz-241" start="19923">found</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-242" type="identity">
+         <class id="assessed"/>
+         <span end="19983" id="PMC3271033.nxml.gz-242" start="19975">assessed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-243" type="identity">
+         <class id="even_though"/>
+         <span end="20002" id="PMC3271033.nxml.gz-243" start="19991">even though</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-244" type="identity">
+         <class id="subject_scope"/>
+         <span end="20139" id="PMC3271033.nxml.gz-244" start="20052">They speculated that this is due primarily to passive absorption of calcium at this age</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-245" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20067" id="PMC3271033.nxml.gz-245" start="20057">speculated</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-246" type="identity">
+         <class id="speculate"/>
+         <span end="20066" id="PMC3271033.nxml.gz-246" start="20057">speculate</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-247" type="identity">
+         <class id="probable_understanding"/>
+         <span end="20084" id="PMC3271033.nxml.gz-247" start="20081">due</span>
+         <span end="20098" id="PMC3271033.nxml.gz-248" start="20095">to </span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-249" type="identity">
+         <class id="primarily"/>
+         <span end="20094" id="PMC3271033.nxml.gz-249" start="20085">primarily</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-250" type="identity">
+         <class id="subject_scope"/>
+         <span end="20256" id="PMC3271033.nxml.gz-250" start="20141">It has been suggested but is not proven that early life calcium absorption is primarily non-vitamin D dependent [2]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-251" type="identity">
+         <class id="has_been_suggested"/>
+         <span end="20162" id="PMC3271033.nxml.gz-251" start="20144">has been suggested</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-252" type="identity">
+         <class id="but"/>
+         <span end="20166" id="PMC3271033.nxml.gz-252" start="20163">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-253" type="identity">
+         <class id="not...proven"/>
+         <span end="20180" id="PMC3271033.nxml.gz-253" start="20170">not proven</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-254" type="identity">
+         <class id="primarily"/>
+         <span end="20228" id="PMC3271033.nxml.gz-254" start="20219">primarily</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-255" type="identity">
+         <class id="dependent"/>
+         <span end="20252" id="PMC3271033.nxml.gz-255" start="20243">dependent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-256" type="identity">
+         <class id="however"/>
+         <span end="20265" id="PMC3271033.nxml.gz-256" start="20258">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-257" type="identity">
+         <class id="subject_scope"/>
+         <span end="20458" id="PMC3271033.nxml.gz-257" start="20258">However, it is likely that by three months of age, vitamin D has a key role in calcium absorption, especially in breast-fed infants with a relatively low calcium intake compared to formula-fed infants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-258" type="identity">
+         <class id="likely"/>
+         <span end="20279" id="PMC3271033.nxml.gz-258" start="20273">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-259" type="identity">
+         <class id="key"/>
+         <span end="20328" id="PMC3271033.nxml.gz-259" start="20325">key</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-260" type="identity">
+         <class id="role"/>
+         <span end="20333" id="PMC3271033.nxml.gz-260" start="20329">role</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-261" type="identity">
+         <class id="compared_to"/>
+         <span end="20438" id="PMC3271033.nxml.gz-261" start="20427">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-262" type="identity">
+         <class id="subject_scope"/>
+         <span end="20600" id="PMC3271033.nxml.gz-262" start="20460">Whether the greater bioavailability of calcium from human milk compared to formula affects the needed level of 25(OH)D by infants is unknown</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3271033.nxml.gz-263" type="identity">
+         <class id="whether"/>
+         <span end="20467" id="PMC3271033.nxml.gz-263" start="20460">Whether</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-264" type="identity">
+         <class id="compared_to"/>
+         <span end="20534" id="PMC3271033.nxml.gz-264" start="20523">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-265" type="identity">
+         <class id="affects"/>
+         <span end="20550" id="PMC3271033.nxml.gz-265" start="20543">affects</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-266" type="identity">
+         <class id="important_consideration"/>
+         <span end="20561" id="PMC3271033.nxml.gz-266" start="20555">needed</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-267" type="identity">
+         <class id="needed"/>
+         <span end="20561" id="PMC3271033.nxml.gz-267" start="20555">needed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-268" type="identity">
+         <class id="unknown"/>
+         <span end="20600" id="PMC3271033.nxml.gz-268" start="20593">unknown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-269" type="identity">
+         <class id="subject_scope"/>
+         <span end="20758" id="PMC3271033.nxml.gz-269" start="20602">Greer et al [16] found an increase in 25(OH)D from 24 to 39 ng/mL at three months of age with the provision of 400 IU/day of vitamin D to breast-fed infants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-270" type="identity">
+         <class id="found"/>
+         <span end="20624" id="PMC3271033.nxml.gz-270" start="20619">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-271" type="identity">
+         <class id="subject_scope"/>
+         <span end="20855" id="PMC3271033.nxml.gz-271" start="20760">These results are similar to ours, with slightly higher 25(OH)D values found in the Greer study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-272" type="identity">
+         <class id="similar_to"/>
+         <span end="20788" id="PMC3271033.nxml.gz-272" start="20778">similar to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-273" type="identity">
+         <class id="found"/>
+         <span end="20836" id="PMC3271033.nxml.gz-273" start="20831">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-274" type="identity">
+         <class id="subject_scope"/>
+         <span end="21040" id="PMC3271033.nxml.gz-274" start="20857">Direct comparisons however of 25(OH)D values between studies conducted in the past and recent studies should be done with caution due to well-documented variations in assay techniques</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-275" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20939" id="PMC3271033.nxml.gz-275" start="20910">studies conducted in the past</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-276" type="identity">
+         <class id="recent_studies"/>
+         <span end="20958" id="PMC3271033.nxml.gz-276" start="20944">recent studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-277" type="identity">
+         <class id="should_be"/>
+         <span end="20968" id="PMC3271033.nxml.gz-277" start="20959">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-278" type="identity">
+         <class id="caution"/>
+         <span end="20986" id="PMC3271033.nxml.gz-278" start="20979">caution</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-279" type="identity">
+         <class id="due...to"/>
+         <span end="20993" id="PMC3271033.nxml.gz-279" start="20987">due to</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-280" type="identity">
+         <class id="probable_understanding"/>
+         <span end="21009" id="PMC3271033.nxml.gz-280" start="20994">well-documented</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-281" type="identity">
+         <class id="documented"/>
+         <span end="21009" id="PMC3271033.nxml.gz-281" start="20999">documented</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-282" type="identity">
+         <class id="variations"/>
+         <span end="21020" id="PMC3271033.nxml.gz-282" start="21010">variations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-283" type="identity">
+         <class id="therefore"/>
+         <span end="21051" id="PMC3271033.nxml.gz-283" start="21042">Therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-284" type="identity">
+         <class id="subject_scope"/>
+         <span end="21331" id="PMC3271033.nxml.gz-284" start="21042">Therefore, in considering early vitamin D supplementation, the question becomes whether there is physiological benefit to rapid replenishment with vitamin D (e.g. high doses of vitamin D in early life) with or without monitoring of 25(OH)D levels or whether the 400 IU/day dose is adequate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-285" type="identity">
+         <class id="question"/>
+         <span end="21113" id="PMC3271033.nxml.gz-285" start="21105">question</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-286" type="identity">
+         <class id="explicit_question"/>
+         <span end="21129" id="PMC3271033.nxml.gz-286" start="21122">whether</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-287" type="identity">
+         <class id="whether"/>
+         <span end="21129" id="PMC3271033.nxml.gz-287" start="21122">whether</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-288" type="identity">
+         <class id="benefit"/>
+         <span end="21160" id="PMC3271033.nxml.gz-288" start="21153">benefit</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-289" type="identity">
+         <class id="whether"/>
+         <span end="21299" id="PMC3271033.nxml.gz-289" start="21292">whether</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-290" type="identity">
+         <class id="subject_scope"/>
+         <span end="21454" id="PMC3271033.nxml.gz-290" start="21333">Our data, from this small dataset, can only be used to partially answer this question specifically related to bone health</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-291" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="21366" id="PMC3271033.nxml.gz-291" start="21353">small dataset</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-292" type="identity">
+         <class id="only"/>
+         <span end="21376" id="PMC3271033.nxml.gz-292" start="21372">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-293" type="identity">
+         <class id="partially"/>
+         <span end="21397" id="PMC3271033.nxml.gz-293" start="21388">partially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-294" type="identity">
+         <class id="question"/>
+         <span end="21418" id="PMC3271033.nxml.gz-294" start="21410">question</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-295" type="identity">
+         <class id="related"/>
+         <span end="21439" id="PMC3271033.nxml.gz-295" start="21432">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-296" type="identity">
+         <class id="however"/>
+         <span end="21463" id="PMC3271033.nxml.gz-296" start="21456">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-297" type="identity">
+         <class id="subject_scope"/>
+         <span end="21591" id="PMC3271033.nxml.gz-297" start="21456">However, it appears that, at least in a southern US setting, 400 IU/day is adequate for infants regardless of vitamin D status at birth</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-298" type="identity">
+         <class id="appears"/>
+         <span end="21475" id="PMC3271033.nxml.gz-298" start="21468">appears</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-299" type="identity">
+         <class id="at_least"/>
+         <span end="21490" id="PMC3271033.nxml.gz-299" start="21482">at least</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-300" type="identity">
+         <class id="regardless_of"/>
+         <span end="21565" id="PMC3271033.nxml.gz-300" start="21552">regardless of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-301" type="identity">
+         <class id="subject_scope"/>
+         <span end="21814" id="PMC3271033.nxml.gz-301" start="21593">We cannot rule out the possibility that a small number of infants will be hypocalcemic in the first weeks of life with this approach, but, this appears to be uncommon and may be more related to PTH function than vitamin D</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-302" type="identity">
+         <class id="cannot_rule_out"/>
+         <span end="21611" id="PMC3271033.nxml.gz-302" start="21596">cannot rule out</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-303" type="identity">
+         <class id="possibility"/>
+         <span end="21627" id="PMC3271033.nxml.gz-303" start="21616">possibility</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-304" type="identity">
+         <class id="small"/>
+         <span end="21640" id="PMC3271033.nxml.gz-304" start="21635">small</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-305" type="identity">
+         <class id="number_of"/>
+         <span end="21650" id="PMC3271033.nxml.gz-305" start="21641">number of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-306" type="identity">
+         <class id="will"/>
+         <span end="21663" id="PMC3271033.nxml.gz-306" start="21659">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-307" type="identity">
+         <class id="but"/>
+         <span end="21730" id="PMC3271033.nxml.gz-307" start="21727">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-308" type="identity">
+         <class id="appears_to_be"/>
+         <span end="21750" id="PMC3271033.nxml.gz-308" start="21737">appears to be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-309" type="identity">
+         <class id="uncommon"/>
+         <span end="21759" id="PMC3271033.nxml.gz-309" start="21751">uncommon</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-310" type="identity">
+         <class id="may_be"/>
+         <span end="21770" id="PMC3271033.nxml.gz-310" start="21764">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-311" type="identity">
+         <class id="related"/>
+         <span end="21783" id="PMC3271033.nxml.gz-311" start="21776">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-312" type="identity">
+         <class id="subject_scope"/>
+         <span end="21922" id="PMC3271033.nxml.gz-312" start="21816">Further research is needed relative to the etiology of symptomatic hypocalcemia in the first weeks of life</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-313" type="identity">
+         <class id="research_is_needed"/>
+         <span end="21842" id="PMC3271033.nxml.gz-313" start="21824">research is needed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-314" type="identity">
+         <class id="subject_scope"/>
+         <span end="22058" id="PMC3271033.nxml.gz-314" start="21924">Studies in adults have found a greater increase in 25(OH)D levels in subjects who started at a lower level before supplementation [17]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-315" type="identity">
+         <class id="found"/>
+         <span end="21952" id="PMC3271033.nxml.gz-315" start="21947">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-316" type="identity">
+         <class id="similar"/>
+         <span end="22067" id="PMC3271033.nxml.gz-316" start="22060">Similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-317" type="identity">
+         <class id="subject_scope"/>
+         <span end="22123" id="PMC3271033.nxml.gz-317" start="22060">Similar data are not readily available in pediatric populations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-318" type="identity">
+         <class id="difficult_task"/>
+         <span end="22098" id="PMC3271033.nxml.gz-318" start="22077">not readily available</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-319" type="identity">
+         <class id="caution"/>
+         <span end="22132" id="PMC3271033.nxml.gz-319" start="22125">Caution</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-320" type="identity">
+         <class id="subject_scope"/>
+         <span end="22223" id="PMC3271033.nxml.gz-320" start="22125">Caution should be used in interpreting any results for changes in 25(OH)D based on baseline levels</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-321" type="identity">
+         <class id="important_consideration"/>
+         <span end="22142" id="PMC3271033.nxml.gz-321" start="22133">should be</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-322" type="identity">
+         <class id="should_be"/>
+         <span end="22142" id="PMC3271033.nxml.gz-322" start="22133">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-323" type="identity">
+         <class id="interpreting"/>
+         <span end="22163" id="PMC3271033.nxml.gz-323" start="22151">interpreting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-324" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="22207" id="PMC3271033.nxml.gz-324" start="22199">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-325" type="identity">
+         <class id="subject_scope"/>
+         <span end="22370" id="PMC3271033.nxml.gz-325" start="22225">It has been suggested that these results may reflect a regression to the mean phenomenon or may be related in part to measurement variability (8)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-326" type="identity">
+         <class id="has_been_suggested"/>
+         <span end="22246" id="PMC3271033.nxml.gz-326" start="22228">has been suggested</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-327" type="identity">
+         <class id="may"/>
+         <span end="22269" id="PMC3271033.nxml.gz-327" start="22266">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-328" type="identity">
+         <class id="reflect"/>
+         <span end="22277" id="PMC3271033.nxml.gz-328" start="22270">reflect</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-329" type="identity">
+         <class id="or"/>
+         <span end="22316" id="PMC3271033.nxml.gz-329" start="22314">or</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-330" type="identity">
+         <class id="may_be"/>
+         <span end="22323" id="PMC3271033.nxml.gz-330" start="22317">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-331" type="identity">
+         <class id="related"/>
+         <span end="22331" id="PMC3271033.nxml.gz-331" start="22324">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-332" type="identity">
+         <class id="in_part"/>
+         <span end="22339" id="PMC3271033.nxml.gz-332" start="22332">in part</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-333" type="identity">
+         <class id="variability"/>
+         <span end="22366" id="PMC3271033.nxml.gz-333" start="22355">variability</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-334" type="identity">
+         <class id="however"/>
+         <span end="22379" id="PMC3271033.nxml.gz-334" start="22372">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-335" type="identity">
+         <class id="subject_scope"/>
+         <span end="22569" id="PMC3271033.nxml.gz-335" start="22372">However, the findings in our study appear meaningful in that the provision of vitamin D at a dose of 400 IU/day led to mean values that were above 30 ng/mL regardless of starting value or ethnicity</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-336" type="identity">
+         <class id="findings"/>
+         <span end="22393" id="PMC3271033.nxml.gz-336" start="22385">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-337" type="identity">
+         <class id="our_study"/>
+         <span end="22406" id="PMC3271033.nxml.gz-337" start="22397">our study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-338" type="identity">
+         <class id="appear"/>
+         <span end="22413" id="PMC3271033.nxml.gz-338" start="22407">appear</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-339" type="identity">
+         <class id="meaningful"/>
+         <span end="22424" id="PMC3271033.nxml.gz-339" start="22414">meaningful</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-340" type="identity">
+         <class id="led_to"/>
+         <span end="22490" id="PMC3271033.nxml.gz-340" start="22484">led to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-341" type="identity">
+         <class id="regardless_of"/>
+         <span end="22541" id="PMC3271033.nxml.gz-341" start="22528">regardless of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-342" type="identity">
+         <class id="subject_scope"/>
+         <span end="22745" id="PMC3271033.nxml.gz-342" start="22571">The 30 ng/mL target is well above that likely to be needed for adequate vitamin D status in the newborn based upon the recent recommendations of the Institute of Medicine [2]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-343" type="identity">
+         <class id="future_prediction"/>
+         <span end="22629" id="PMC3271033.nxml.gz-343" start="22610">likely to be needed</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-344" type="identity">
+         <class id="likely"/>
+         <span end="22616" id="PMC3271033.nxml.gz-344" start="22610">likely</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-345" type="identity">
+         <class id="important_consideration"/>
+         <span end="22629" id="PMC3271033.nxml.gz-345" start="22623">needed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-346" type="identity">
+         <class id="based_upon"/>
+         <span end="22685" id="PMC3271033.nxml.gz-346" start="22675">based upon</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-347" type="identity">
+         <class id="important_consideration"/>
+         <span end="22712" id="PMC3271033.nxml.gz-347" start="22697">recommendations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-348" type="identity">
+         <class id="subject_scope"/>
+         <span end="22856" id="PMC3271033.nxml.gz-348" start="22747">The effects of maternal vitamin D deficiency are complex and may extend beyond bone health effects in infants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-349" type="identity">
+         <class id="effects"/>
+         <span end="22758" id="PMC3271033.nxml.gz-349" start="22751">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-350" type="identity">
+         <class id="complex"/>
+         <span end="22803" id="PMC3271033.nxml.gz-350" start="22796">complex</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-351" type="identity">
+         <class id="may"/>
+         <span end="22811" id="PMC3271033.nxml.gz-351" start="22808">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-352" type="identity">
+         <class id="extend"/>
+         <span end="22818" id="PMC3271033.nxml.gz-352" start="22812">extend</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-353" type="identity">
+         <class id="effects"/>
+         <span end="22845" id="PMC3271033.nxml.gz-353" start="22838">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-354" type="identity">
+         <class id="subject_scope"/>
+         <span end="22993" id="PMC3271033.nxml.gz-354" start="22858">Provision of all pregnant and lactating women with the Recommended Daily Allowance of 600 IU/day is an important public health strategy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-355" type="identity">
+         <class id="important"/>
+         <span end="22970" id="PMC3271033.nxml.gz-355" start="22961">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-356" type="identity">
+         <class id="public_health"/>
+         <span end="22984" id="PMC3271033.nxml.gz-356" start="22971">public health</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-357" type="identity">
+         <class id="strategy"/>
+         <span end="22993" id="PMC3271033.nxml.gz-357" start="22985">strategy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-358" type="identity">
+         <class id="subject_scope"/>
+         <span end="23071" id="PMC3271033.nxml.gz-358" start="22995">Nonetheless, such supplements are not universally consumed by the population</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-359" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="23006" id="PMC3271033.nxml.gz-359" start="22995">Nonetheless</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3271033.nxml.gz-360" type="identity">
+         <class id="nonetheless"/>
+         <span end="23006" id="PMC3271033.nxml.gz-360" start="22995">Nonetheless</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-361" type="identity">
+         <class id="subject_scope"/>
+         <span end="23210" id="PMC3271033.nxml.gz-361" start="23073">The Hispanic community may be at higher risk due to darker skin pigmentation, greater obesity, lower dairy intake and less supplement use</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-362" type="identity">
+         <class id="may_be"/>
+         <span end="23102" id="PMC3271033.nxml.gz-362" start="23096">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-363" type="identity">
+         <class id="subject_scope"/>
+         <span end="23329" id="PMC3271033.nxml.gz-363" start="23212">It has been suggested that all Hispanics and all pregnant and lactating women have their 25(OH)D levels monitored [4]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-364" type="identity">
+         <class id="has_been_suggested"/>
+         <span end="23233" id="PMC3271033.nxml.gz-364" start="23215">has been suggested</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-365" type="identity">
+         <class id="of_note"/>
+         <span end="23338" id="PMC3271033.nxml.gz-365" start="23331">Of note</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-366" type="identity">
+         <class id="subject_scope"/>
+         <span end="23469" id="PMC3271033.nxml.gz-366" start="23331">Of note is that 25(OH)D levels in a southern United States climate are low despite sunshine exposure year round at the latitude in Houston</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-367" type="identity">
+         <class id="despite"/>
+         <span end="23413" id="PMC3271033.nxml.gz-367" start="23406">despite</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-368" type="identity">
+         <class id="subject_scope"/>
+         <span end="23656" id="PMC3271033.nxml.gz-368" start="23471">Furthermore, there is a seasonal dependence of 25(OH)D levels although we did not have enough subjects to identify the degree to which this seasonal dependence was affected by ethnicity</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-369" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="23514" id="PMC3271033.nxml.gz-369" start="23504">dependence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-370" type="identity">
+         <class id="did_not"/>
+         <span end="23552" id="PMC3271033.nxml.gz-370" start="23545">did not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-371" type="identity">
+         <class id="the_degree_to_which"/>
+         <span end="23605" id="PMC3271033.nxml.gz-371" start="23586">the degree to which</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-372" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="23630" id="PMC3271033.nxml.gz-372" start="23620">dependence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-373" type="identity">
+         <class id="affected"/>
+         <span end="23643" id="PMC3271033.nxml.gz-373" start="23635">affected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-374" type="identity">
+         <class id="subject_scope"/>
+         <span end="23861" id="PMC3271033.nxml.gz-374" start="23658">We had previously shown a seasonal dependence of 25(OH)D levels in prepubertal girls in Houston [18] with no differences in calcium absorption or kinetics between Hispanic and Caucasian prepubertal girls</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-375" type="identity">
+         <class id="previously_shown"/>
+         <span end="23681" id="PMC3271033.nxml.gz-375" start="23665">previously shown</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-376" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="23703" id="PMC3271033.nxml.gz-376" start="23693">dependence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-377" type="identity">
+         <class id="thus"/>
+         <span end="23867" id="PMC3271033.nxml.gz-377" start="23863">Thus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-378" type="identity">
+         <class id="subject_scope"/>
+         <span end="23994" id="PMC3271033.nxml.gz-378" start="23863">Thus, it is clear that a southern US location is not protective against seasonal deficiency of vitamin D or low cord 25(OH)D levels</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-379" type="identity">
+         <class id="it_is_clear"/>
+         <span end="23880" id="PMC3271033.nxml.gz-379" start="23869">it is clear</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-380" type="identity">
+         <class id="subject_scope"/>
+         <span end="24123" id="PMC3271033.nxml.gz-380" start="24008">We found that low 25(OH)D levels are common in newborns in a southern US climate, especially among Hispanic infants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-381" type="identity">
+         <class id="found"/>
+         <span end="24016" id="PMC3271033.nxml.gz-381" start="24011">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-382" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="24100" id="PMC3271033.nxml.gz-382" start="24090">especially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-383" type="identity">
+         <class id="our_findings"/>
+         <span end="24245" id="PMC3271033.nxml.gz-383" start="24233">Our findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-384" type="identity">
+         <class id="subject_scope"/>
+         <span end="24452" id="PMC3271033.nxml.gz-384" start="24233">Our findings support current guidelines to begin vitamin D supplementation of 400 IU/day to all breast-fed infants in the first week of life and to further encourage the provision of adequate vitamin D to pregnant women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-385" type="identity">
+         <class id="support"/>
+         <span end="24253" id="PMC3271033.nxml.gz-385" start="24246">support</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-386" type="identity">
+         <class id="guidelines"/>
+         <span end="24272" id="PMC3271033.nxml.gz-386" start="24262">guidelines</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-387" type="identity">
+         <class id="future_work"/>
+         <span end="24388" id="PMC3271033.nxml.gz-387" start="24381">further</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-388" type="identity">
+         <class id="encourage"/>
+         <span end="24398" id="PMC3271033.nxml.gz-388" start="24389">encourage</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-389" type="identity">
+         <class id="subject_scope"/>
+         <span end="24623" id="PMC3271033.nxml.gz-389" start="24454">Larger studies are needed in diverse populations at various latitudes to further characterize the relationship between vitamin D supplementation and bone mineral content</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3271033.nxml.gz-390" type="identity">
+         <class id="larger...studies"/>
+         <span end="24468" id="PMC3271033.nxml.gz-390" start="24454">Larger studies</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3271033.nxml.gz-391" type="identity">
+         <class id="are_needed"/>
+         <span end="24479" id="PMC3271033.nxml.gz-391" start="24469">are needed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-392" type="identity">
+         <class id="future_work"/>
+         <span end="24534" id="PMC3271033.nxml.gz-392" start="24527">further</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3271033.nxml.gz-393" type="identity">
+         <class id="relationship"/>
+         <span end="24564" id="PMC3271033.nxml.gz-393" start="24552">relationship</span>
+      </annotation>
+   </document>
+</knowtator-project>

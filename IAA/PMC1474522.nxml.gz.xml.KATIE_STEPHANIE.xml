@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC1474522.nxml.gz" text-file="PMC1474522.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC1474522.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="85" id="PMC1474522.nxml.gz-1" start="0">Lesions of testis and epididymis associated with prenatal diethylstilbestrol exposure</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1474522.nxml.gz-2" type="identity">
+         <class id="associated"/>
+         <span end="43" id="PMC1474522.nxml.gz-2" start="33">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1474522.nxml.gz-3" type="identity">
+         <class id="subject_scope"/>
+         <span end="493" id="PMC1474522.nxml.gz-3" start="316">Hyperplasia of the rete testis and Müllerian duct structures were found in many of the DES-treated male mice, as was a low but significant number of reproductive tract neoplasms</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1474522.nxml.gz-4" type="identity">
+         <class id="found"/>
+         <span end="387" id="PMC1474522.nxml.gz-4" start="382">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1474522.nxml.gz-5" type="identity">
+         <class id="as"/>
+         <span end="428" id="PMC1474522.nxml.gz-5" start="426">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1474522.nxml.gz-6" type="identity">
+         <class id="but"/>
+         <span end="442" id="PMC1474522.nxml.gz-6" start="439">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1474522.nxml.gz-7" type="identity">
+         <class id="number_of"/>
+         <span end="464" id="PMC1474522.nxml.gz-7" start="455">number of</span>
+      </annotation>
+   </document>
+</knowtator-project>

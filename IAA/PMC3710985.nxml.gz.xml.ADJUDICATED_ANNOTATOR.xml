@@ -1,0 +1,2276 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC3710985.nxml.gz" text-file="PMC3710985.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="515" id="PMC3710985.nxml.gz-1" start="317">The few available studies investigating the reproductive safety of SGAs did not reach conclusive results, and none have compared monotherapy with polytherapy involving other psychotropic medications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-2" type="identity">
+         <class id="few...studies"/>
+         <span end="324" id="PMC3710985.nxml.gz-2" start="321">few</span>
+         <span end="342" id="PMC3710985.nxml.gz-3" start="335">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-4" type="identity">
+         <class id="safety"/>
+         <span end="380" id="PMC3710985.nxml.gz-4" start="374">safety</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-5" type="identity">
+         <class id="not...conclusive"/>
+         <span end="396" id="PMC3710985.nxml.gz-5" start="393">not</span>
+         <span end="413" id="PMC3710985.nxml.gz-6" start="403">conclusive</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-7" type="identity">
+         <class id="none"/>
+         <span end="431" id="PMC3710985.nxml.gz-7" start="427">none</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-8" type="identity">
+         <class id="subject_scope"/>
+         <span end="1760" id="PMC3710985.nxml.gz-8" start="1544">The exposed neonates were more likely to be born premature, were admitted more often to the neonatal intensive care unit, presented with poor neonatal adaptation signs and had higher rates of congenital malformations</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-9" type="identity">
+         <class id="likely"/>
+         <span end="1581" id="PMC3710985.nxml.gz-9" start="1575">likely</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-10" type="identity">
+         <class id="subject_scope"/>
+         <span end="1848" id="PMC3710985.nxml.gz-10" start="1762">All the aforementioned neonatal outcomes were found mainly in the polytherapy subgroup</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-11" type="identity">
+         <class id="mainly"/>
+         <span end="1820" id="PMC3710985.nxml.gz-11" start="1814">mainly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-12" type="identity">
+         <class id="subject_scope"/>
+         <span end="2015" id="PMC3710985.nxml.gz-12" start="1863">The use of SGAs in polytherapy was prevalent in the assessed cohort and was associated with adverse pregnancy outcomes for both the mother and the child</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-13" type="identity">
+         <class id="associated"/>
+         <span end="1949" id="PMC3710985.nxml.gz-13" start="1939">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-14" type="identity">
+         <class id="subject_scope"/>
+         <span end="2106" id="PMC3710985.nxml.gz-14" start="2017">In utero exposure to SGA monotherapy appears to be associated with less risk to the fetus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-15" type="identity">
+         <class id="appears_to_be"/>
+         <span end="2067" id="PMC3710985.nxml.gz-15" start="2054">appears to be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-16" type="identity">
+         <class id="associated"/>
+         <span end="2078" id="PMC3710985.nxml.gz-16" start="2068">associated</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-17" type="identity">
+         <class id="risk"/>
+         <span end="2093" id="PMC3710985.nxml.gz-17" start="2089">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-18" type="identity">
+         <class id="subject_scope"/>
+         <span end="2315" id="PMC3710985.nxml.gz-18" start="2108">Future research should focus on polytherapy in pregnancy in order to define its reproductive safety and to separate the effects of medication exposure, underlying psychopathology and associated comorbidities</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-19" type="identity">
+         <class id="future_research"/>
+         <span end="2123" id="PMC3710985.nxml.gz-19" start="2108">Future research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-20" type="identity">
+         <class id="should"/>
+         <span end="2130" id="PMC3710985.nxml.gz-20" start="2124">should</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-21" type="identity">
+         <class id="safety"/>
+         <span end="2207" id="PMC3710985.nxml.gz-21" start="2201">safety</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-22" type="identity">
+         <class id="effects"/>
+         <span end="2235" id="PMC3710985.nxml.gz-22" start="2228">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-23" type="identity">
+         <class id="underlying"/>
+         <span end="2270" id="PMC3710985.nxml.gz-23" start="2260">underlying</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-24" type="identity">
+         <class id="associated"/>
+         <span end="2301" id="PMC3710985.nxml.gz-24" start="2291">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-25" type="identity">
+         <class id="to_investigate"/>
+         <span end="2386" id="PMC3710985.nxml.gz-25" start="2372">To investigate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-26" type="identity">
+         <class id="subject_scope"/>
+         <span end="2478" id="PMC3710985.nxml.gz-26" start="2372">To investigate the reproductive safety of the second-generation (atypical) antipsychotic (SGA) medications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-27" type="identity">
+         <class id="safety"/>
+         <span end="2410" id="PMC3710985.nxml.gz-27" start="2404">safety</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-28" type="identity">
+         <class id="subject_scope"/>
+         <span end="2816" id="PMC3710985.nxml.gz-28" start="2624">The use of SGAs in polytherapy in pregnant women with mental health disorders is presently a common practice and is associated with adverse pregnancy outcomes for both the mother and the child</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-29" type="identity">
+         <class id="common_practice"/>
+         <span end="2732" id="PMC3710985.nxml.gz-29" start="2717">common practice</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-30" type="identity">
+         <class id="associated"/>
+         <span end="2750" id="PMC3710985.nxml.gz-30" start="2740">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-31" type="identity">
+         <class id="subject_scope"/>
+         <span end="2907" id="PMC3710985.nxml.gz-31" start="2818">In utero exposure to SGA monotherapy appears to be associated with less risk to the fetus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-32" type="identity">
+         <class id="appears_to_be"/>
+         <span end="2868" id="PMC3710985.nxml.gz-32" start="2855">appears to be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-33" type="identity">
+         <class id="associated"/>
+         <span end="2879" id="PMC3710985.nxml.gz-33" start="2869">associated</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-34" type="identity">
+         <class id="risk"/>
+         <span end="2894" id="PMC3710985.nxml.gz-34" start="2890">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-35" type="identity">
+         <class id="subject_scope"/>
+         <span end="3077" id="PMC3710985.nxml.gz-35" start="2909">The reproductive safety of antipsychotic medications should be studied in the reality of polytherapy, associated comorbidities and environmental and genetic confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-36" type="identity">
+         <class id="safety"/>
+         <span end="2932" id="PMC3710985.nxml.gz-36" start="2926">safety</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-37" type="identity">
+         <class id="should_be"/>
+         <span end="2971" id="PMC3710985.nxml.gz-37" start="2962">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-38" type="identity">
+         <class id="associated"/>
+         <span end="3021" id="PMC3710985.nxml.gz-38" start="3011">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-39" type="identity">
+         <class id="at_present"/>
+         <span end="3229" id="PMC3710985.nxml.gz-39" start="3219">At present</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-40" type="identity">
+         <class id="subject_scope"/>
+         <span end="3434" id="PMC3710985.nxml.gz-40" start="3219">At present, the largest study to investigate pregnancy outcomes following the maternal use of SGA in monotherapy and in polytherapy, identifying risk behaviours and factors associated with adverse pregnancy outcomes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-41" type="identity">
+         <class id="to_investigate"/>
+         <span end="3263" id="PMC3710985.nxml.gz-41" start="3249">to investigate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-42" type="identity">
+         <class id="identifying"/>
+         <span end="3363" id="PMC3710985.nxml.gz-42" start="3352">identifying</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-43" type="identity">
+         <class id="factors"/>
+         <span end="3391" id="PMC3710985.nxml.gz-43" start="3384">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-44" type="identity">
+         <class id="associated"/>
+         <span end="3402" id="PMC3710985.nxml.gz-44" start="3392">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-45" type="identity">
+         <class id="subject_scope"/>
+         <span end="3606" id="PMC3710985.nxml.gz-45" start="3436">Inability to address confounding by indication and separate the effects of maternal mental illness and its severity from psychotropic pharmacotherapy on pregnancy outcome</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-46" type="identity">
+         <class id="difficult_task"/>
+         <span end="3445" id="PMC3710985.nxml.gz-46" start="3436">Inability</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-47" type="identity">
+         <class id="confounding"/>
+         <span end="3468" id="PMC3710985.nxml.gz-47" start="3457">confounding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-48" type="identity">
+         <class id="effects"/>
+         <span end="3507" id="PMC3710985.nxml.gz-48" start="3500">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-49" type="identity">
+         <class id="subject_scope"/>
+         <span end="3935" id="PMC3710985.nxml.gz-49" start="3608">The women who contacted Motherisk tended to be middle to upper middle class, whereas a smaller proportion of callers came from the lower socioeconomic and/or immigrant population; however, this may not affect the generalisability of the results, as their outcomes may be confounded by other factors unrelated to the drug effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-50" type="identity">
+         <class id="tended"/>
+         <span end="3648" id="PMC3710985.nxml.gz-50" start="3642">tended</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-51" type="identity">
+         <class id="whereas"/>
+         <span end="3692" id="PMC3710985.nxml.gz-51" start="3685">whereas</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-52" type="identity">
+         <class id="smaller"/>
+         <span end="3702" id="PMC3710985.nxml.gz-52" start="3695">smaller</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-53" type="identity">
+         <class id="may_not"/>
+         <span end="3809" id="PMC3710985.nxml.gz-53" start="3802">may not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-54" type="identity">
+         <class id="affect"/>
+         <span end="3816" id="PMC3710985.nxml.gz-54" start="3810">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-55" type="identity">
+         <class id="generalisability"/>
+         <span end="3837" id="PMC3710985.nxml.gz-55" start="3821">generalisability</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-56" type="identity">
+         <class id="as"/>
+         <span end="3856" id="PMC3710985.nxml.gz-56" start="3854">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-57" type="identity">
+         <class id="may_be"/>
+         <span end="3878" id="PMC3710985.nxml.gz-57" start="3872">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-58" type="identity">
+         <class id="confounded"/>
+         <span end="3889" id="PMC3710985.nxml.gz-58" start="3879">confounded</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-59" type="identity">
+         <class id="factors"/>
+         <span end="3906" id="PMC3710985.nxml.gz-59" start="3899">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-60" type="identity">
+         <class id="effect"/>
+         <span end="3935" id="PMC3710985.nxml.gz-60" start="3929">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-61" type="identity">
+         <class id="although"/>
+         <span end="3945" id="PMC3710985.nxml.gz-61" start="3937">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-62" type="identity">
+         <class id="subject_scope"/>
+         <span end="4054" id="PMC3710985.nxml.gz-62" start="3937">Although the women were recruited prospectively, there are potential limitations in the retrospectivity of a database</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-63" type="identity">
+         <class id="potential"/>
+         <span end="4005" id="PMC3710985.nxml.gz-63" start="3996">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-64" type="identity">
+         <class id="problem_complication"/>
+         <span end="4017" id="PMC3710985.nxml.gz-64" start="4006">limitations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-65" type="identity">
+         <class id="subject_scope"/>
+         <span end="4176" id="PMC3710985.nxml.gz-65" start="4056">The sample size necessary to define a twofold increase of malformation rates of 1–3% above the baseline was insufficient</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-66" type="identity">
+         <class id="problem_complication"/>
+         <span end="4176" id="PMC3710985.nxml.gz-66" start="4164">insufficient</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-67" type="identity">
+         <class id="subject_scope"/>
+         <span end="4287" id="PMC3710985.nxml.gz-67" start="4192">Psychiatric disorders are among the most common pathologies affecting women of childbearing age</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-68" type="identity">
+         <class id="most_common"/>
+         <span end="4239" id="PMC3710985.nxml.gz-68" start="4228">most common</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-69" type="identity">
+         <class id="affecting"/>
+         <span end="4261" id="PMC3710985.nxml.gz-69" start="4252">affecting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-70" type="identity">
+         <class id="recent"/>
+         <span end="4295" id="PMC3710985.nxml.gz-70" start="4289">Recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-71" type="identity">
+         <class id="subject_scope"/>
+         <span end="4437" id="PMC3710985.nxml.gz-71" start="4289">Recent estimates of the prevalence of psychiatric disorders in pregnancy range from 14% to 30.5%1–3and include mood, anxiety and psychotic disorders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-72" type="identity">
+         <class id="estimates"/>
+         <span end="4305" id="PMC3710985.nxml.gz-72" start="4296">estimates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-73" type="identity">
+         <class id="prevalence"/>
+         <span end="4323" id="PMC3710985.nxml.gz-73" start="4313">prevalence</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3710985.nxml.gz-74" type="identity">
+         <class id="subject_scope"/>
+         <span end="4540" id="PMC3710985.nxml.gz-74" start="4440">4Untreated mental illness during pregnancy is associated with risks to both the mother and the child</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-75" type="identity">
+         <class id="associated"/>
+         <span end="4496" id="PMC3710985.nxml.gz-75" start="4486">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-76" type="identity">
+         <class id="risks"/>
+         <span end="4507" id="PMC3710985.nxml.gz-76" start="4502">risks</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-77" type="identity">
+         <class id="subject_scope"/>
+         <span end="4680" id="PMC3710985.nxml.gz-77" start="4542">Uncontrolled schizophrenia, depression and bipolar disorder have all been associated with an increased risk for adverse pregnancy outcomes</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-78" type="identity">
+         <class id="important_consideration"/>
+         <span end="4554" id="PMC3710985.nxml.gz-78" start="4542">Uncontrolled</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-79" type="identity">
+         <class id="uncontrolled"/>
+         <span end="4554" id="PMC3710985.nxml.gz-79" start="4542">Uncontrolled</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-80" type="identity">
+         <class id="have...been"/>
+         <span end="4606" id="PMC3710985.nxml.gz-80" start="4602">have</span>
+         <span end="4615" id="PMC3710985.nxml.gz-81" start="4611">been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-82" type="identity">
+         <class id="associated"/>
+         <span end="4626" id="PMC3710985.nxml.gz-82" start="4616">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-83" type="identity">
+         <class id="increased_risk"/>
+         <span end="4649" id="PMC3710985.nxml.gz-83" start="4635">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-84" type="identity">
+         <class id="subject_scope"/>
+         <span end="4848" id="PMC3710985.nxml.gz-84" start="4684">The risks associated with uncontrolled mental illness often lead physicians to recommend maintenance of treatment with psychotropic medications throughout gestation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-85" type="identity">
+         <class id="risks"/>
+         <span end="4693" id="PMC3710985.nxml.gz-85" start="4688">risks</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-86" type="identity">
+         <class id="associated"/>
+         <span end="4704" id="PMC3710985.nxml.gz-86" start="4694">associated</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-87" type="identity">
+         <class id="important_consideration"/>
+         <span end="4722" id="PMC3710985.nxml.gz-87" start="4710">uncontrolled</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-88" type="identity">
+         <class id="uncontrolled"/>
+         <span end="4722" id="PMC3710985.nxml.gz-88" start="4710">uncontrolled</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-89" type="identity">
+         <class id="subject_scope"/>
+         <span end="4949" id="PMC3710985.nxml.gz-89" start="4850">Antipsychotics have been utilised in the treatment of psychiatric disorders for a number of decades</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-90" type="identity">
+         <class id="number_of"/>
+         <span end="4941" id="PMC3710985.nxml.gz-90" start="4932">number of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-91" type="identity">
+         <class id="while"/>
+         <span end="4956" id="PMC3710985.nxml.gz-91" start="4951">While</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-92" type="identity">
+         <class id="subject_scope"/>
+         <span end="5252" id="PMC3710985.nxml.gz-92" start="4951">While the initial drugs, now referred to as first-generation antipsychotics (FGAs), demonstrated a profound effect on treatment outcomes, this group of medications is not only associated with serious extrapyramidal complications, but is also known to induce hyperprolactinaemia and to affect fertility</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-93" type="identity">
+         <class id="demonstrated"/>
+         <span end="5047" id="PMC3710985.nxml.gz-93" start="5035">demonstrated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-94" type="identity">
+         <class id="important_consideration"/>
+         <span end="5058" id="PMC3710985.nxml.gz-94" start="5050">profound</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-95" type="identity">
+         <class id="effect"/>
+         <span end="5065" id="PMC3710985.nxml.gz-95" start="5059">effect</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-96" type="identity">
+         <class id="not_only...but...also"/>
+         <span end="5126" id="PMC3710985.nxml.gz-96" start="5118">not only</span>
+         <span end="5184" id="PMC3710985.nxml.gz-97" start="5181">but</span>
+         <span end="5192" id="PMC3710985.nxml.gz-98" start="5188">also</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-99" type="identity">
+         <class id="associated"/>
+         <span end="5137" id="PMC3710985.nxml.gz-99" start="5127">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-100" type="identity">
+         <class id="serious"/>
+         <span end="5150" id="PMC3710985.nxml.gz-100" start="5143">serious</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-101" type="identity">
+         <class id="important_consideration"/>
+         <span end="5179" id="PMC3710985.nxml.gz-101" start="5166">complications</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-102" type="identity">
+         <class id="but"/>
+         <span end="5184" id="PMC3710985.nxml.gz-102" start="5181">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-103" type="identity">
+         <class id="known"/>
+         <span end="5198" id="PMC3710985.nxml.gz-103" start="5193">known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-104" type="identity">
+         <class id="affect"/>
+         <span end="5242" id="PMC3710985.nxml.gz-104" start="5236">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-105" type="identity">
+         <class id="subject_scope"/>
+         <span end="5418" id="PMC3710985.nxml.gz-105" start="5254">The existing literature on pregnancy outcomes following exposure to FGAs has not shown a significantly increased risk for malformations above the baseline incidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-106" type="identity">
+         <class id="existing_literature"/>
+         <span end="5277" id="PMC3710985.nxml.gz-106" start="5258">existing literature</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-107" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="5334" id="PMC3710985.nxml.gz-107" start="5327">has not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-108" type="identity">
+         <class id="conversely"/>
+         <span end="5430" id="PMC3710985.nxml.gz-108" start="5420">Conversely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-109" type="identity">
+         <class id="subject_scope"/>
+         <span end="5609" id="PMC3710985.nxml.gz-109" start="5420">Conversely, many FGAs (including haloperidol, chlorpromazine, fluphenazine, thioridazine) have been associated with perinatal complications, particularly when exposure is later in pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-110" type="identity">
+         <class id="many"/>
+         <span end="5436" id="PMC3710985.nxml.gz-110" start="5432">many</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-111" type="identity">
+         <class id="associated"/>
+         <span end="5530" id="PMC3710985.nxml.gz-111" start="5520">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-112" type="identity">
+         <class id="important_consideration"/>
+         <span end="5559" id="PMC3710985.nxml.gz-112" start="5546">complications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-113" type="identity">
+         <class id="particularly"/>
+         <span end="5573" id="PMC3710985.nxml.gz-113" start="5561">particularly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-114" type="identity">
+         <class id="conclusions"/>
+         <span end="5800" id="PMC3710985.nxml.gz-114" start="5789">Conclusions</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-115" type="identity">
+         <class id="subject_scope"/>
+         <span end="5888" id="PMC3710985.nxml.gz-115" start="5789">Conclusions regarding other FGAs are limited due to either poor methodology or incomplete reporting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-116" type="identity">
+         <class id="limited"/>
+         <span end="5833" id="PMC3710985.nxml.gz-116" start="5826">limited</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-117" type="identity">
+         <class id="due_to"/>
+         <span end="5840" id="PMC3710985.nxml.gz-117" start="5834">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-118" type="identity">
+         <class id="either...or"/>
+         <span end="5847" id="PMC3710985.nxml.gz-118" start="5841">either</span>
+         <span end="5867" id="PMC3710985.nxml.gz-119" start="5865">or</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-120" type="identity">
+         <class id="poor"/>
+         <span end="5852" id="PMC3710985.nxml.gz-120" start="5848">poor</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-121" type="identity">
+         <class id="problem_complication"/>
+         <span end="5878" id="PMC3710985.nxml.gz-121" start="5868">incomplete</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-122" type="identity">
+         <class id="incomplete"/>
+         <span end="5878" id="PMC3710985.nxml.gz-122" start="5868">incomplete</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-123" type="identity">
+         <class id="although"/>
+         <span end="5898" id="PMC3710985.nxml.gz-123" start="5890">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-124" type="identity">
+         <class id="subject_scope"/>
+         <span end="6051" id="PMC3710985.nxml.gz-124" start="5890">Although the reproductive safety of FGAs is as yet unconfirmed, the adverse side effect profile necessitated the development of newer medications in recent years</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-125" type="identity">
+         <class id="safety"/>
+         <span end="5922" id="PMC3710985.nxml.gz-125" start="5916">safety</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-126" type="identity">
+         <class id="as_yet"/>
+         <span end="5940" id="PMC3710985.nxml.gz-126" start="5934">as yet</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-127" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="5952" id="PMC3710985.nxml.gz-127" start="5941">unconfirmed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-128" type="identity">
+         <class id="the_development_of"/>
+         <span end="6017" id="PMC3710985.nxml.gz-128" start="5999">the development of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-129" type="identity">
+         <class id="subject_scope"/>
+         <span end="6636" id="PMC3710985.nxml.gz-129" start="6373">Furthermore, deinstitutionalisation, the destigmatisation of mental illness and the improved side effect profile of SGAs, particularly the reduced incidence of hyperprolactinaemia in most SGAs, have all contributed to increased fertility rates among treated women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-130" type="identity">
+         <class id="important_consideration"/>
+         <span end="6507" id="PMC3710985.nxml.gz-130" start="6495">particularly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-131" type="identity">
+         <class id="contributed"/>
+         <span end="6587" id="PMC3710985.nxml.gz-131" start="6576">contributed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-132" type="identity">
+         <class id="while"/>
+         <span end="6882" id="PMC3710985.nxml.gz-132" start="6877">While</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-133" type="identity">
+         <class id="subject_scope"/>
+         <span end="7133" id="PMC3710985.nxml.gz-133" start="6877">While SGAs readily cross the placenta,14the existing studies that have investigated the reproductive safety of these agents did not reach conclusive results due to the methodological limitations, small sample sizes and failure to assess SGAs in monotherapy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-134" type="identity">
+         <class id="studies"/>
+         <span end="6937" id="PMC3710985.nxml.gz-134" start="6930">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-135" type="identity">
+         <class id="safety"/>
+         <span end="6984" id="PMC3710985.nxml.gz-135" start="6978">safety</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-136" type="identity">
+         <class id="not...conclusive"/>
+         <span end="7008" id="PMC3710985.nxml.gz-136" start="7005">not</span>
+         <span end="7025" id="PMC3710985.nxml.gz-137" start="7015">conclusive</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-138" type="identity">
+         <class id="due_to"/>
+         <span end="7040" id="PMC3710985.nxml.gz-138" start="7034">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-139" type="identity">
+         <class id="problem_complication"/>
+         <span end="7071" id="PMC3710985.nxml.gz-139" start="7060">limitations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-140" type="identity">
+         <class id="small"/>
+         <span end="7078" id="PMC3710985.nxml.gz-140" start="7073">small</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-141" type="identity">
+         <class id="problem_complication"/>
+         <span end="7103" id="PMC3710985.nxml.gz-141" start="7096">failure</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-142" type="identity">
+         <class id="subject_scope"/>
+         <span end="7367" id="PMC3710985.nxml.gz-142" start="7135">The meagre body of literature regarding pregnancy outcomes following the maternal use of SGAs has produced conflicting findings, which may be attributed to the different methodologies and inadequate control for confounding variables</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-143" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="7145" id="PMC3710985.nxml.gz-143" start="7139">meagre</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-144" type="identity">
+         <class id="conflicting"/>
+         <span end="7253" id="PMC3710985.nxml.gz-144" start="7242">conflicting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-145" type="identity">
+         <class id="findings"/>
+         <span end="7262" id="PMC3710985.nxml.gz-145" start="7254">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-146" type="identity">
+         <class id="may_be"/>
+         <span end="7276" id="PMC3710985.nxml.gz-146" start="7270">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-147" type="identity">
+         <class id="attributed"/>
+         <span end="7287" id="PMC3710985.nxml.gz-147" start="7277">attributed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-148" type="identity">
+         <class id="different"/>
+         <span end="7304" id="PMC3710985.nxml.gz-148" start="7295">different</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-149" type="identity">
+         <class id="inadequate"/>
+         <span end="7333" id="PMC3710985.nxml.gz-149" start="7323">inadequate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-150" type="identity">
+         <class id="confounding"/>
+         <span end="7357" id="PMC3710985.nxml.gz-150" start="7346">confounding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-151" type="identity">
+         <class id="subject_scope"/>
+         <span end="7569" id="PMC3710985.nxml.gz-151" start="7370">A number of studies have found that exposure to SGAs is associated with a significantly increased risk of low birth weight16–18and small for gestational age infants, in comparison to healthy controls</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-152" type="identity">
+         <class id="number_of_studies"/>
+         <span end="7389" id="PMC3710985.nxml.gz-152" start="7372">number of studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-153" type="identity">
+         <class id="found"/>
+         <span end="7400" id="PMC3710985.nxml.gz-153" start="7395">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-154" type="identity">
+         <class id="associated"/>
+         <span end="7436" id="PMC3710985.nxml.gz-154" start="7426">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-155" type="identity">
+         <class id="increased_risk"/>
+         <span end="7472" id="PMC3710985.nxml.gz-155" start="7458">increased risk</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3710985.nxml.gz-156" type="identity">
+         <class id="subject_scope"/>
+         <span end="7830" id="PMC3710985.nxml.gz-156" start="7569">.17Conversely, Lin et al 17found that the risk of low birth weight, preterm births and small/large for gestational age (LGA) infants did not differ between women with schizophrenia receiving SGAs and those with the disorder who did not use an antipsychotic drug</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-157" type="identity">
+         <class id="conversely"/>
+         <span end="7582" id="PMC3710985.nxml.gz-157" start="7572">Conversely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-158" type="identity">
+         <class id="found"/>
+         <span end="7601" id="PMC3710985.nxml.gz-158" start="7596">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-159" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="7709" id="PMC3710985.nxml.gz-159" start="7702">did not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-160" type="identity">
+         <class id="in_contrast"/>
+         <span end="7843" id="PMC3710985.nxml.gz-160" start="7832">In contrast</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-161" type="identity">
+         <class id="subject_scope"/>
+         <span end="7974" id="PMC3710985.nxml.gz-161" start="7832">In contrast, Newham et al 19found that neonates exposed to SGAs (n=25) were significantly more likely to be LGA compared with healthy controls</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-162" type="identity">
+         <class id="found"/>
+         <span end="7865" id="PMC3710985.nxml.gz-162" start="7860">found</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-163" type="identity">
+         <class id="likely"/>
+         <span end="7933" id="PMC3710985.nxml.gz-163" start="7927">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-164" type="identity">
+         <class id="subject_scope"/>
+         <span end="8292" id="PMC3710985.nxml.gz-164" start="7976">Furthermore, a large study utilising data from the Swedish Medical Birth Register reported an increased risk of congenital malformations associated with exposure to either a typical antipsychotic or SGA; however, this finding failed to reach statistical significance after controlling for exposure to anticonvulsants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-165" type="identity">
+         <class id="reported"/>
+         <span end="8066" id="PMC3710985.nxml.gz-165" start="8058">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-166" type="identity">
+         <class id="increased_risk"/>
+         <span end="8084" id="PMC3710985.nxml.gz-166" start="8070">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-167" type="identity">
+         <class id="associated"/>
+         <span end="8123" id="PMC3710985.nxml.gz-167" start="8113">associated</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-168" type="identity">
+         <class id="either"/>
+         <span end="8147" id="PMC3710985.nxml.gz-168" start="8141">either</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-169" type="identity">
+         <class id="however"/>
+         <span end="8187" id="PMC3710985.nxml.gz-169" start="8180">however</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-170" type="identity">
+         <class id="finding"/>
+         <span end="8201" id="PMC3710985.nxml.gz-170" start="8194">finding</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-171" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="8208" id="PMC3710985.nxml.gz-171" start="8202">failed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-172" type="identity">
+         <class id="another"/>
+         <span end="8303" id="PMC3710985.nxml.gz-172" start="8296">Another</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-173" type="identity">
+         <class id="subject_scope"/>
+         <span end="8412" id="PMC3710985.nxml.gz-173" start="8296">Another growing concern is the increased use of multiple psychotropic medications in the treatment of mental illness</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-174" type="identity">
+         <class id="important_consideration"/>
+         <span end="8311" id="PMC3710985.nxml.gz-174" start="8304">growing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-175" type="identity">
+         <class id="important_consideration"/>
+         <span end="8319" id="PMC3710985.nxml.gz-175" start="8312">concern</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-176" type="identity">
+         <class id="subject_scope"/>
+         <span end="8662" id="PMC3710985.nxml.gz-176" start="8414">A number of studies have shown a significant rise in the incidence of polytherapy with two or more antidepressants, antipsychotics and sedative-hypnotics, as well as an increase in the concomitant prescription of an antidepressant and antipsychotic</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-177" type="identity">
+         <class id="number_of_studies"/>
+         <span end="8433" id="PMC3710985.nxml.gz-177" start="8416">number of studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-178" type="identity">
+         <class id="have_shown"/>
+         <span end="8444" id="PMC3710985.nxml.gz-178" start="8434">have shown</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3710985.nxml.gz-179" type="identity">
+         <class id="subject_scope"/>
+         <span end="8903" id="PMC3710985.nxml.gz-179" start="8670">24Although polytherapy involving SGAs and other psychotropic medications appears to be increasingly common, no study until now has directly compared the reproductive safety of SGA monotherapy versus polytherapy with other medications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-180" type="identity">
+         <class id="although"/>
+         <span end="8680" id="PMC3710985.nxml.gz-180" start="8672">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-181" type="identity">
+         <class id="appears_to_be"/>
+         <span end="8756" id="PMC3710985.nxml.gz-181" start="8743">appears to be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-182" type="identity">
+         <class id="no_study"/>
+         <span end="8786" id="PMC3710985.nxml.gz-182" start="8778">no study</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-183" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="8818" id="PMC3710985.nxml.gz-183" start="8810">compared</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-184" type="identity">
+         <class id="safety"/>
+         <span end="8842" id="PMC3710985.nxml.gz-184" start="8836">safety</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-185" type="identity">
+         <class id="subject_scope"/>
+         <span end="9149" id="PMC3710985.nxml.gz-185" start="8905">We aimed to investigate the pregnancy outcomes of women receiving SGAs relative to a comparison group of matched healthy controls and to compare the outcomes of antipsychotic monotherapy with polytherapy involving other psychotropic medications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-186" type="identity">
+         <class id="aimed"/>
+         <span end="8913" id="PMC3710985.nxml.gz-186" start="8908">aimed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-187" type="identity">
+         <class id="to_investigate"/>
+         <span end="8928" id="PMC3710985.nxml.gz-187" start="8914">to investigate</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-188" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="9049" id="PMC3710985.nxml.gz-188" start="9039">to compare</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-189" type="identity">
+         <class id="subject_scope"/>
+         <span end="10112" id="PMC3710985.nxml.gz-189" start="9887">Women who were exposed to teratogenic medications unrelated to their psychiatric disorder treatment, such as acutane, or who abused substances (eg, alcohol, marijuana, cocaine, heroin, etc) were excluded from the study cohort</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-190" type="identity">
+         <class id="excluded"/>
+         <span end="10090" id="PMC3710985.nxml.gz-190" start="10082">excluded</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-191" type="identity">
+         <class id="subject_scope"/>
+         <span end="10733" id="PMC3710985.nxml.gz-191" start="10448">Fertility-assisted pregnancies, twin/triplet pregnancies or pregnancies with known outcomes at the initial time of contact (eg, contacted Motherisk following the birth, reported abnormal pregnancy screening tests and/or ultrasounds) were excluded from the exposed and comparison groups</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-192" type="identity">
+         <class id="excluded"/>
+         <span end="10694" id="PMC3710985.nxml.gz-192" start="10686">excluded</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-193" type="identity">
+         <class id="subject_scope"/>
+         <span end="10888" id="PMC3710985.nxml.gz-193" start="10735">Moreover, control women who reported a history of psychiatric disorders or who were exposed in their current pregnancy to a known teratogen were excluded</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-194" type="identity">
+         <class id="excluded"/>
+         <span end="10888" id="PMC3710985.nxml.gz-194" start="10880">excluded</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-195" type="identity">
+         <class id="subject_scope"/>
+         <span end="13665" id="PMC3710985.nxml.gz-195" start="13455">The majority of women in the exposed group reported taking quetiapine (69.9%), followed by olanzapine (16.5%), risperidone (10.5%), aripiprazole (1.5%), paliperidone (0.8%) and quetiapine plus olanzapine (0.8%)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-196" type="identity">
+         <class id="majority"/>
+         <span end="13467" id="PMC3710985.nxml.gz-196" start="13459">majority</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-197" type="identity">
+         <class id="subject_scope"/>
+         <span end="13834" id="PMC3710985.nxml.gz-197" start="13667">The most common indications for psychotropic medication use were bipolar disorder (36.8%), depression (27.1%), anxiety and depression (9.8%) and sleep disorders (9.8%)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-198" type="identity">
+         <class id="most_common"/>
+         <span end="13682" id="PMC3710985.nxml.gz-198" start="13671">most common</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-199" type="identity">
+         <class id="subject_scope"/>
+         <span end="15672" id="PMC3710985.nxml.gz-199" start="15495">The exposed women weighed significantly more than the controls prior to conception (p&lt;0.001); however, the two groups did not differ with respect to weight gain during pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-200" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="15596" id="PMC3710985.nxml.gz-200" start="15589">however</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-201" type="identity">
+         <class id="subject_scope"/>
+         <span end="16302" id="PMC3710985.nxml.gz-201" start="16224">The only significant predictor found was group affiliation (p&lt;0.001; Otable 2)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-202" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="16232" id="PMC3710985.nxml.gz-202" start="16228">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-203" type="identity">
+         <class id="predictor"/>
+         <span end="16254" id="PMC3710985.nxml.gz-203" start="16245">predictor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-204" type="identity">
+         <class id="found"/>
+         <span end="16260" id="PMC3710985.nxml.gz-204" start="16255">found</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-205" type="identity">
+         <class id="subject_scope"/>
+         <span end="18285" id="PMC3710985.nxml.gz-205" start="18134">Exposed neonates were approximately two and a half times more likely to be premature (gestational age &lt;37 weeks) compared with controls (10.6% vs 4.3%)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-206" type="identity">
+         <class id="likely"/>
+         <span end="18202" id="PMC3710985.nxml.gz-206" start="18196">likely</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-207" type="identity">
+         <class id="subject_scope"/>
+         <span end="18517" id="PMC3710985.nxml.gz-207" start="18387">We found a significant correlation (at the 0.01 level, two-tailed) between maternal pre-pregnancy weight and neonatal birth weight</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-208" type="identity">
+         <class id="found"/>
+         <span end="18395" id="PMC3710985.nxml.gz-208" start="18390">found</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-209" type="identity">
+         <class id="correlation"/>
+         <span end="18421" id="PMC3710985.nxml.gz-209" start="18410">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-210" type="identity">
+         <class id="subject_scope"/>
+         <span end="18986" id="PMC3710985.nxml.gz-210" start="18901">Maternal pre-pregnancy weight was the only significant predictor identified (p=0.015)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-211" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="18943" id="PMC3710985.nxml.gz-211" start="18939">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-212" type="identity">
+         <class id="predictor"/>
+         <span end="18965" id="PMC3710985.nxml.gz-212" start="18956">predictor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-213" type="identity">
+         <class id="identified"/>
+         <span end="18976" id="PMC3710985.nxml.gz-213" start="18966">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-214" type="identity">
+         <class id="although"/>
+         <span end="18996" id="PMC3710985.nxml.gz-214" start="18988">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-215" type="identity">
+         <class id="subject_scope"/>
+         <span end="19179" id="PMC3710985.nxml.gz-215" start="18988">Although not statistically significant, the rate of major malformations reported in the exposed group was approximately two and a half times higher than in the comparison group (6.2% vs 2.6%)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-216" type="identity">
+         <class id="reported"/>
+         <span end="19068" id="PMC3710985.nxml.gz-216" start="19060">reported</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-217" type="identity">
+         <class id="approximately"/>
+         <span end="19107" id="PMC3710985.nxml.gz-217" start="19094">approximately</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-218" type="identity">
+         <class id="subject_scope"/>
+         <span end="21261" id="PMC3710985.nxml.gz-218" start="21099">It is important to note that the vast majority of the reported differences between the exposed and comparison groups were found in patients exposed to polytherapy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-219" type="identity">
+         <class id="important_to_note"/>
+         <span end="21122" id="PMC3710985.nxml.gz-219" start="21105">important to note</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-220" type="identity">
+         <class id="vast"/>
+         <span end="21136" id="PMC3710985.nxml.gz-220" start="21132">vast</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-221" type="identity">
+         <class id="majority"/>
+         <span end="21145" id="PMC3710985.nxml.gz-221" start="21137">majority</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-222" type="identity">
+         <class id="reported"/>
+         <span end="21161" id="PMC3710985.nxml.gz-222" start="21153">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-223" type="identity">
+         <class id="found"/>
+         <span end="21226" id="PMC3710985.nxml.gz-223" start="21221">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-224" type="identity">
+         <class id="although"/>
+         <span end="23140" id="PMC3710985.nxml.gz-224" start="23132">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-225" type="identity">
+         <class id="subject_scope"/>
+         <span end="23419" id="PMC3710985.nxml.gz-225" start="23132">Although not reaching statistical significance, more women receiving monotherapy breastfed compared with those receiving polytherapy, and women in the polytherapy group were approximately twice as likely to suffer from hypertension (12.5% vs 5.4%) and gestational diabetes (9.4% vs 5.4%)</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-226" type="identity">
+         <class id="approximately"/>
+         <span end="23319" id="PMC3710985.nxml.gz-226" start="23306">approximately</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-227" type="identity">
+         <class id="likely"/>
+         <span end="23335" id="PMC3710985.nxml.gz-227" start="23329">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-228" type="identity">
+         <class id="although"/>
+         <span end="23772" id="PMC3710985.nxml.gz-228" start="23764">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-229" type="identity">
+         <class id="subject_scope"/>
+         <span end="23929" id="PMC3710985.nxml.gz-229" start="23764">Although not statistically significant, it is clinically relevant to report that approximately twice as many neonates exposed to polytherapy were LGA (13.6% vs 6.5%)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-230" type="identity">
+         <class id="relevant"/>
+         <span end="23829" id="PMC3710985.nxml.gz-230" start="23821">relevant</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-231" type="identity">
+         <class id="approximately"/>
+         <span end="23858" id="PMC3710985.nxml.gz-231" start="23845">approximately</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-232" type="identity">
+         <class id="subject_scope"/>
+         <span end="24138" id="PMC3710985.nxml.gz-232" start="23931">All seven major malformations occurring in the exposed group were associated with maternal polytherapy, which reached 8.4% for this subgroup, and no major malformations were reported in the monotherapy group</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-233" type="identity">
+         <class id="associated"/>
+         <span end="24007" id="PMC3710985.nxml.gz-233" start="23997">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-234" type="identity">
+         <class id="subject_scope"/>
+         <span end="24590" id="PMC3710985.nxml.gz-234" start="24461">The observed rate of PNA signs in the monotherapy group was similar to that reported in the healthy comparison group (4% vs 5.2%)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-235" type="identity">
+         <class id="observed"/>
+         <span end="24473" id="PMC3710985.nxml.gz-235" start="24465">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-236" type="identity">
+         <class id="similar_to"/>
+         <span end="24531" id="PMC3710985.nxml.gz-236" start="24521">similar to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-237" type="identity">
+         <class id="reported"/>
+         <span end="24545" id="PMC3710985.nxml.gz-237" start="24537">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-238" type="identity">
+         <class id="at_present"/>
+         <span end="24913" id="PMC3710985.nxml.gz-238" start="24903">At present</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-239" type="identity">
+         <class id="subject_scope"/>
+         <span end="25077" id="PMC3710985.nxml.gz-239" start="24903">At present, this is one of the largest studies to investigate pregnancy outcomes following maternal use of SGA monotherapy and polytherapy with other psychotropic medications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-240" type="identity">
+         <class id="studies"/>
+         <span end="24949" id="PMC3710985.nxml.gz-240" start="24942">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-241" type="identity">
+         <class id="to_investigate"/>
+         <span end="24964" id="PMC3710985.nxml.gz-241" start="24950">to investigate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-242" type="identity">
+         <class id="subject_scope"/>
+         <span end="25310" id="PMC3710985.nxml.gz-242" start="25079">Our data support an increasing trend in the use of SGAs to treat a variety of psychiatric disorders, with bipolar disorder and depression being reported as the two leading indications and quetiapine being the one most commonly used</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-243" type="identity">
+         <class id="support"/>
+         <span end="25095" id="PMC3710985.nxml.gz-243" start="25088">support</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-244" type="identity">
+         <class id="trend"/>
+         <span end="25115" id="PMC3710985.nxml.gz-244" start="25110">trend</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-245" type="identity">
+         <class id="reported"/>
+         <span end="25231" id="PMC3710985.nxml.gz-245" start="25223">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-246" type="identity">
+         <class id="subject_scope"/>
+         <span end="25507" id="PMC3710985.nxml.gz-246" start="25312">We found that 76% (n=101) of women were exposed to SGAs throughout pregnancy and 72% of the assessed cohort received psychotropic drugs in polytherapy, which is in agreement with previous reports</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-247" type="identity">
+         <class id="found"/>
+         <span end="25320" id="PMC3710985.nxml.gz-247" start="25315">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-248" type="identity">
+         <class id="in_agreement"/>
+         <span end="25485" id="PMC3710985.nxml.gz-248" start="25473">in agreement</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-249" type="identity">
+         <class id="previous"/>
+         <span end="25499" id="PMC3710985.nxml.gz-249" start="25491">previous</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-250" type="identity">
+         <class id="reports"/>
+         <span end="25507" id="PMC3710985.nxml.gz-250" start="25500">reports</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-251" type="identity">
+         <class id="subject_scope"/>
+         <span end="25633" id="PMC3710985.nxml.gz-251" start="25516">Frye et al 23stated that the proportion of polytherapy treatment increased from 3.3% in 1974–1979 to 44% in 1990–1995</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-252" type="identity">
+         <class id="stated"/>
+         <span end="25535" id="PMC3710985.nxml.gz-252" start="25529">stated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-253" type="identity">
+         <class id="recent_studies"/>
+         <span end="25650" id="PMC3710985.nxml.gz-253" start="25636">Recent studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-254" type="identity">
+         <class id="subject_scope"/>
+         <span end="25733" id="PMC3710985.nxml.gz-254" start="25636">Recent studies indicate that this trend towards polytherapy continues to rise, reaching up to 80%</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-255" type="identity">
+         <class id="indicate"/>
+         <span end="25659" id="PMC3710985.nxml.gz-255" start="25651">indicate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-256" type="identity">
+         <class id="trend"/>
+         <span end="25675" id="PMC3710985.nxml.gz-256" start="25670">trend</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-257" type="identity">
+         <class id="interestingly"/>
+         <span end="25749" id="PMC3710985.nxml.gz-257" start="25736">Interestingly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-258" type="identity">
+         <class id="subject_scope"/>
+         <span end="25879" id="PMC3710985.nxml.gz-258" start="25736">Interestingly, Centorrino and colleagues maintained that there are no apparent advantages in opting for treatments with multiple antipsychotics</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-259" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="25814" id="PMC3710985.nxml.gz-259" start="25803">no apparent</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-260" type="identity">
+         <class id="apparent"/>
+         <span end="25814" id="PMC3710985.nxml.gz-260" start="25806">apparent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-261" type="identity">
+         <class id="these_findings"/>
+         <span end="26013" id="PMC3710985.nxml.gz-261" start="25999">These findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-262" type="identity">
+         <class id="subject_scope"/>
+         <span end="26177" id="PMC3710985.nxml.gz-262" start="25999">These findings are consistent with recent reports of increased polytherapy involving antipsychotics and antidepressants in the USA,20as well as in other cohorts of pregnant women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-263" type="identity">
+         <class id="consistent"/>
+         <span end="26028" id="PMC3710985.nxml.gz-263" start="26018">consistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-264" type="identity">
+         <class id="recent"/>
+         <span end="26040" id="PMC3710985.nxml.gz-264" start="26034">recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-265" type="identity">
+         <class id="reports"/>
+         <span end="26048" id="PMC3710985.nxml.gz-265" start="26041">reports</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-266" type="identity">
+         <class id="subject_scope"/>
+         <span end="26409" id="PMC3710985.nxml.gz-266" start="26187">We found that women in the exposed and comparison groups differed significantly with respect to a number of characteristics and behaviours that are known to be associated with increased risks for adverse pregnancy outcomes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-267" type="identity">
+         <class id="found"/>
+         <span end="26195" id="PMC3710985.nxml.gz-267" start="26190">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-268" type="identity">
+         <class id="known"/>
+         <span end="26340" id="PMC3710985.nxml.gz-268" start="26335">known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-269" type="identity">
+         <class id="associated"/>
+         <span end="26357" id="PMC3710985.nxml.gz-269" start="26347">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-270" type="identity">
+         <class id="important_consideration"/>
+         <span end="26378" id="PMC3710985.nxml.gz-270" start="26363">increased risks</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-271" type="identity">
+         <class id="subject_scope"/>
+         <span end="26581" id="PMC3710985.nxml.gz-271" start="26411">Exposed women weighed significantly more prior to becoming pregnant, although body mass index could not be calculated due to the lack of available data on maternal height</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-272" type="identity">
+         <class id="problem_complication"/>
+         <span end="26488" id="PMC3710985.nxml.gz-272" start="26480">although</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-273" type="identity">
+         <class id="due_to"/>
+         <span end="26535" id="PMC3710985.nxml.gz-273" start="26529">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-274" type="identity">
+         <class id="lack_of...data"/>
+         <span end="26547" id="PMC3710985.nxml.gz-274" start="26540">lack of</span>
+         <span end="26562" id="PMC3710985.nxml.gz-275" start="26558">data</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-276" type="identity">
+         <class id="subject_scope"/>
+         <span end="26665" id="PMC3710985.nxml.gz-276" start="26583">This finding is consistent with reports of significant weight gain induced by SGAs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-277" type="identity">
+         <class id="finding"/>
+         <span end="26595" id="PMC3710985.nxml.gz-277" start="26588">finding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-278" type="identity">
+         <class id="consistent"/>
+         <span end="26609" id="PMC3710985.nxml.gz-278" start="26599">consistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-279" type="identity">
+         <class id="reports"/>
+         <span end="26622" id="PMC3710985.nxml.gz-279" start="26615">reports</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-280" type="identity">
+         <class id="subject_scope"/>
+         <span end="26830" id="PMC3710985.nxml.gz-280" start="26671">There were no differences in maternal weight gain during pregnancy, and as such, more consideration should be given to the management of preconceptional weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-281" type="identity">
+         <class id="consideration"/>
+         <span end="26770" id="PMC3710985.nxml.gz-281" start="26757">consideration</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-282" type="identity">
+         <class id="should_be"/>
+         <span end="26780" id="PMC3710985.nxml.gz-282" start="26771">should be</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-283" type="identity">
+         <class id="subject_scope"/>
+         <span end="26996" id="PMC3710985.nxml.gz-283" start="26832">In addition, significantly higher proportions of exposed women smoked more cigarettes during pregnancy and were less likely to breastfeed and take prenatal vitamins</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-284" type="identity">
+         <class id="likely"/>
+         <span end="26955" id="PMC3710985.nxml.gz-284" start="26949">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-285" type="identity">
+         <class id="subject_scope"/>
+         <span end="27177" id="PMC3710985.nxml.gz-285" start="26998">The increased proportion of preterm deliveries observed in the exposed group may be influenced by maternal pre-pregnancy weight, as was reported in a recent paper by Khatibi et al</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-286" type="identity">
+         <class id="observed"/>
+         <span end="27053" id="PMC3710985.nxml.gz-286" start="27045">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-287" type="identity">
+         <class id="may_be"/>
+         <span end="27081" id="PMC3710985.nxml.gz-287" start="27075">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-288" type="identity">
+         <class id="influenced"/>
+         <span end="27092" id="PMC3710985.nxml.gz-288" start="27082">influenced</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-289" type="identity">
+         <class id="as"/>
+         <span end="27129" id="PMC3710985.nxml.gz-289" start="27127">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-290" type="identity">
+         <class id="reported"/>
+         <span end="27142" id="PMC3710985.nxml.gz-290" start="27134">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-291" type="identity">
+         <class id="recent"/>
+         <span end="27154" id="PMC3710985.nxml.gz-291" start="27148">recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-292" type="identity">
+         <class id="subject_scope"/>
+         <span end="27489" id="PMC3710985.nxml.gz-292" start="27181">Moreover, in agreement with a recent population-based cohort study that reported an increased incidence of gestational diabetes in mothers taking SGAs during pregnancy,28the exposed women in our cohort experienced more associated comorbidities, including hypertension, gestational diabetes and hypothyroidism</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-293" type="identity">
+         <class id="in_agreement"/>
+         <span end="27203" id="PMC3710985.nxml.gz-293" start="27191">in agreement</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3710985.nxml.gz-294" type="identity">
+         <class id="recent...study"/>
+         <span end="27217" id="PMC3710985.nxml.gz-294" start="27211">recent</span>
+         <span end="27247" id="PMC3710985.nxml.gz-295" start="27242">study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-296" type="identity">
+         <class id="reported"/>
+         <span end="27261" id="PMC3710985.nxml.gz-296" start="27253">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-297" type="identity">
+         <class id="although"/>
+         <span end="27499" id="PMC3710985.nxml.gz-297" start="27491">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-298" type="identity">
+         <class id="subject_scope"/>
+         <span end="27591" id="PMC3710985.nxml.gz-298" start="27491">Although these latter findings were not statistically significant, they may be of clinical relevance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-299" type="identity">
+         <class id="findings"/>
+         <span end="27521" id="PMC3710985.nxml.gz-299" start="27513">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-300" type="identity">
+         <class id="may_be"/>
+         <span end="27569" id="PMC3710985.nxml.gz-300" start="27563">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-301" type="identity">
+         <class id="relevance"/>
+         <span end="27591" id="PMC3710985.nxml.gz-301" start="27582">relevance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-302" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="27600" id="PMC3710985.nxml.gz-302" start="27593">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-303" type="identity">
+         <class id="subject_scope"/>
+         <span end="27675" id="PMC3710985.nxml.gz-303" start="27593">However, the exposed group did have a significantly increased rate of LGA neonates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-304" type="identity">
+         <class id="subject_scope"/>
+         <span end="27933" id="PMC3710985.nxml.gz-304" start="27677">It is of interest to note that, in spite of the large proportion of exposed women who exhibited characteristics commonly associated with risk for small for gestational age neonates (eg, smoking, hypertension), an increased rate of LGA neonates was observed</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-305" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="27702" id="PMC3710985.nxml.gz-305" start="27686">interest to note</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-306" type="identity">
+         <class id="note"/>
+         <span end="27702" id="PMC3710985.nxml.gz-306" start="27698">note</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-307" type="identity">
+         <class id="in_spite"/>
+         <span end="27717" id="PMC3710985.nxml.gz-307" start="27709">in spite</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-308" type="identity">
+         <class id="commonly"/>
+         <span end="27797" id="PMC3710985.nxml.gz-308" start="27789">commonly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-309" type="identity">
+         <class id="observed"/>
+         <span end="27933" id="PMC3710985.nxml.gz-309" start="27925">observed</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3710985.nxml.gz-310" type="identity">
+         <class id="subject_scope"/>
+         <span end="28132" id="PMC3710985.nxml.gz-310" start="27935">Such results may be considered in context with exposure to psychotropic drugs. Moreover, the exposed neonates were admitted more often to the NICU, and a greater proportion presented with PNA signs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-311" type="identity">
+         <class id="may_be"/>
+         <span end="27954" id="PMC3710985.nxml.gz-311" start="27948">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-312" type="identity">
+         <class id="considered"/>
+         <span end="27965" id="PMC3710985.nxml.gz-312" start="27955">considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-313" type="identity">
+         <class id="although"/>
+         <span end="28253" id="PMC3710985.nxml.gz-313" start="28245">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-314" type="identity">
+         <class id="subject_scope"/>
+         <span end="28430" id="PMC3710985.nxml.gz-314" start="28245">Although 14.3% of exposed mothers were also taking an antiepileptic drug, primarily lamotrigine, the reported malformations were not found among those infants exposed to anticonvulsants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-315" type="identity">
+         <class id="reported"/>
+         <span end="28354" id="PMC3710985.nxml.gz-315" start="28346">reported</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-316" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="28383" id="PMC3710985.nxml.gz-316" start="28374">not found</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-317" type="identity">
+         <class id="found"/>
+         <span end="28383" id="PMC3710985.nxml.gz-317" start="28378">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-318" type="identity">
+         <class id="subject_scope"/>
+         <span end="28580" id="PMC3710985.nxml.gz-318" start="28432">The present report is one of the first to compare the pregnancy outcomes of women receiving SGA monotherapy with those receiving SGAs in polytherapy</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-319" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="28443" id="PMC3710985.nxml.gz-319" start="28436">present</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-320" type="identity">
+         <class id="first"/>
+         <span end="28470" id="PMC3710985.nxml.gz-320" start="28465">first</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-321" type="identity">
+         <class id="although"/>
+         <span end="28590" id="PMC3710985.nxml.gz-321" start="28582">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-322" type="identity">
+         <class id="subject_scope"/>
+         <span end="28954" id="PMC3710985.nxml.gz-322" start="28582">Although women from both the monotherapy and polytherapy subgroups did not differ in their age at conception, pre-pregnancy weight, pregnancy weight gain and neonatal birth weight, the women exposed to polytherapy took fewer vitamins, smoked more cigarettes, experienced a significantly shorter gestation, tended to breastfeed less and delivered twice as many LGA neonates</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-323" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="28656" id="PMC3710985.nxml.gz-323" start="28649">did not</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-324" type="identity">
+         <class id="subject_scope"/>
+         <span end="29387" id="PMC3710985.nxml.gz-324" start="29259">Neonates exposed to polytherapy were five times more likely to present with PNA signs compared with those exposed to monotherapy</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-325" type="identity">
+         <class id="likely"/>
+         <span end="29318" id="PMC3710985.nxml.gz-325" start="29312">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-326" type="identity">
+         <class id="although"/>
+         <span end="29482" id="PMC3710985.nxml.gz-326" start="29474">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-327" type="identity">
+         <class id="subject_scope"/>
+         <span end="29730" id="PMC3710985.nxml.gz-327" start="29474">Although some of these differences did not reach statistical significance (table 4), it appears that polytherapy with SGAs and other psychotropic medications may be associated with a higher risk for adverse pregnancy outcomes, compared with SGA monotherapy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-328" type="identity">
+         <class id="appears"/>
+         <span end="29569" id="PMC3710985.nxml.gz-328" start="29562">appears</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-329" type="identity">
+         <class id="may_be"/>
+         <span end="29638" id="PMC3710985.nxml.gz-329" start="29632">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-330" type="identity">
+         <class id="associated"/>
+         <span end="29649" id="PMC3710985.nxml.gz-330" start="29639">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-331" type="identity">
+         <class id="risk"/>
+         <span end="29668" id="PMC3710985.nxml.gz-331" start="29664">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-332" type="identity">
+         <class id="subject_scope"/>
+         <span end="29961" id="PMC3710985.nxml.gz-332" start="29732">The reported results should be considered with caution, given the small sample size of our cohort and that previously published case reports have observed healthy outcomes in neonates/infants prenatally exposed to SGA polytherapy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-333" type="identity">
+         <class id="reported"/>
+         <span end="29744" id="PMC3710985.nxml.gz-333" start="29736">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-334" type="identity">
+         <class id="should_be"/>
+         <span end="29762" id="PMC3710985.nxml.gz-334" start="29753">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-335" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="29773" id="PMC3710985.nxml.gz-335" start="29763">considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-336" type="identity">
+         <class id="caution"/>
+         <span end="29786" id="PMC3710985.nxml.gz-336" start="29779">caution</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-337" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="29793" id="PMC3710985.nxml.gz-337" start="29788">given</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-338" type="identity">
+         <class id="small...cohort"/>
+         <span end="29803" id="PMC3710985.nxml.gz-338" start="29798">small</span>
+         <span end="29829" id="PMC3710985.nxml.gz-339" start="29823">cohort</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-340" type="identity">
+         <class id="previously"/>
+         <span end="29849" id="PMC3710985.nxml.gz-340" start="29839">previously</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-341" type="identity">
+         <class id="reports"/>
+         <span end="29872" id="PMC3710985.nxml.gz-341" start="29865">reports</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-342" type="identity">
+         <class id="observed"/>
+         <span end="29886" id="PMC3710985.nxml.gz-342" start="29878">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-343" type="identity">
+         <class id="subject_scope"/>
+         <span end="30105" id="PMC3710985.nxml.gz-343" start="29968">Maternal pre-pregnancy characteristics and behavioural risk factors may be considered when interpreting the findings of the present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-344" type="identity">
+         <class id="risk_factors"/>
+         <span end="30035" id="PMC3710985.nxml.gz-344" start="30023">risk factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-345" type="identity">
+         <class id="may_be"/>
+         <span end="30042" id="PMC3710985.nxml.gz-345" start="30036">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-346" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="30053" id="PMC3710985.nxml.gz-346" start="30043">considered</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-347" type="identity">
+         <class id="interpreting"/>
+         <span end="30071" id="PMC3710985.nxml.gz-347" start="30059">interpreting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-348" type="identity">
+         <class id="findings"/>
+         <span end="30084" id="PMC3710985.nxml.gz-348" start="30076">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-349" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="30105" id="PMC3710985.nxml.gz-349" start="30092">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-350" type="identity">
+         <class id="subject_scope"/>
+         <span end="30273" id="PMC3710985.nxml.gz-350" start="30107">For example, maternal pre-pregnancy weight, specifically being overweight or obese, has been shown to be independently associated with an elevated risk for LGA births</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-351" type="identity">
+         <class id="has_been_shown"/>
+         <span end="30205" id="PMC3710985.nxml.gz-351" start="30191">has been shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-352" type="identity">
+         <class id="independently"/>
+         <span end="30225" id="PMC3710985.nxml.gz-352" start="30212">independently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-353" type="identity">
+         <class id="associated"/>
+         <span end="30236" id="PMC3710985.nxml.gz-353" start="30226">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-354" type="identity">
+         <class id="risk"/>
+         <span end="30258" id="PMC3710985.nxml.gz-354" start="30254">risk</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3710985.nxml.gz-355" type="identity">
+         <class id="subject_scope"/>
+         <span end="30517" id="PMC3710985.nxml.gz-355" start="30277">38Although this study is the first to corroborate Newham et al 's19report of increased risks of LGA deliveries in women exposed to SGAs, the study design was not able to adequately separate the effect of pre-pregnancy weight on this outcome</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-356" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="30287" id="PMC3710985.nxml.gz-356" start="30279">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-357" type="identity">
+         <class id="first"/>
+         <span end="30311" id="PMC3710985.nxml.gz-357" start="30306">first</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-358" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="30326" id="PMC3710985.nxml.gz-358" start="30315">corroborate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-359" type="identity">
+         <class id="important_consideration"/>
+         <span end="30369" id="PMC3710985.nxml.gz-359" start="30354">increased risks</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-360" type="identity">
+         <class id="was_not"/>
+         <span end="30438" id="PMC3710985.nxml.gz-360" start="30431">was not</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-361" type="identity">
+         <class id="difficult_task"/>
+         <span end="30443" id="PMC3710985.nxml.gz-361" start="30435">not able</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-362" type="identity">
+         <class id="effect"/>
+         <span end="30477" id="PMC3710985.nxml.gz-362" start="30471">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-363" type="identity">
+         <class id="thus"/>
+         <span end="30523" id="PMC3710985.nxml.gz-363" start="30519">Thus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-364" type="identity">
+         <class id="subject_scope"/>
+         <span end="30667" id="PMC3710985.nxml.gz-364" start="30519">Thus, it is unclear whether exposure to SGAs may cause fetal-weight gain directly or indirectly by inducing maternal weight gain prior to conception</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-365" type="identity">
+         <class id="unclear"/>
+         <span end="30538" id="PMC3710985.nxml.gz-365" start="30531">unclear</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3710985.nxml.gz-366" type="identity">
+         <class id="whether...or"/>
+         <span end="30546" id="PMC3710985.nxml.gz-366" start="30539">whether</span>
+         <span end="30603" id="PMC3710985.nxml.gz-367" start="30601">or</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-368" type="identity">
+         <class id="may"/>
+         <span end="30567" id="PMC3710985.nxml.gz-368" start="30564">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-369" type="identity">
+         <class id="nevertheless"/>
+         <span end="30681" id="PMC3710985.nxml.gz-369" start="30669">Nevertheless</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-370" type="identity">
+         <class id="subject_scope"/>
+         <span end="30872" id="PMC3710985.nxml.gz-370" start="30669">Nevertheless, the findings are in contrast to a previously published study which found that in utero exposure to SGAs was associated with a significantly elevated risk of small for gestational age births</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-371" type="identity">
+         <class id="findings"/>
+         <span end="30695" id="PMC3710985.nxml.gz-371" start="30687">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-372" type="identity">
+         <class id="in_contrast_to"/>
+         <span end="30714" id="PMC3710985.nxml.gz-372" start="30700">in contrast to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-373" type="identity">
+         <class id="previously"/>
+         <span end="30727" id="PMC3710985.nxml.gz-373" start="30717">previously</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-374" type="identity">
+         <class id="found"/>
+         <span end="30755" id="PMC3710985.nxml.gz-374" start="30750">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-375" type="identity">
+         <class id="associated"/>
+         <span end="30801" id="PMC3710985.nxml.gz-375" start="30791">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-376" type="identity">
+         <class id="risk"/>
+         <span end="30836" id="PMC3710985.nxml.gz-376" start="30832">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-377" type="identity">
+         <class id="however"/>
+         <span end="30882" id="PMC3710985.nxml.gz-377" start="30875">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-378" type="identity">
+         <class id="subject_scope"/>
+         <span end="31053" id="PMC3710985.nxml.gz-378" start="30875">However, it is possible that this difference may be due to the lack of control of potential confounders, such as maternal indication for smoking or substance use during pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-379" type="identity">
+         <class id="it_is_possible"/>
+         <span end="30898" id="PMC3710985.nxml.gz-379" start="30884">it is possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-380" type="identity">
+         <class id="may_be_due_to"/>
+         <span end="30933" id="PMC3710985.nxml.gz-380" start="30920">may be due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-381" type="identity">
+         <class id="problem_complication"/>
+         <span end="30945" id="PMC3710985.nxml.gz-381" start="30938">lack of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-382" type="identity">
+         <class id="potential"/>
+         <span end="30966" id="PMC3710985.nxml.gz-382" start="30957">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-383" type="identity">
+         <class id="confounders"/>
+         <span end="30978" id="PMC3710985.nxml.gz-383" start="30967">confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-384" type="identity">
+         <class id="subject_scope"/>
+         <span end="31290" id="PMC3710985.nxml.gz-384" start="31055">Twenty-four per cent of women in this earlier study reportedly suffered from schizophrenia, a severe psychiatric disorder that is independently associated with an increased risk for small for gestational age and low birth weight births</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-385" type="identity">
+         <class id="this...study"/>
+         <span end="31092" id="PMC3710985.nxml.gz-385" start="31088">this</span>
+         <span end="31106" id="PMC3710985.nxml.gz-386" start="31101">study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-387" type="identity">
+         <class id="independently"/>
+         <span end="31198" id="PMC3710985.nxml.gz-387" start="31185">independently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-388" type="identity">
+         <class id="associated"/>
+         <span end="31209" id="PMC3710985.nxml.gz-388" start="31199">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-389" type="identity">
+         <class id="increased_risk"/>
+         <span end="31232" id="PMC3710985.nxml.gz-389" start="31218">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-390" type="identity">
+         <class id="in_contrast"/>
+         <span end="31304" id="PMC3710985.nxml.gz-390" start="31293">In contrast</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-391" type="identity">
+         <class id="subject_scope"/>
+         <span end="31381" id="PMC3710985.nxml.gz-391" start="31293">In contrast, only 3% of women in the present study reported a diagnosis of schizophrenia</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-392" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="31310" id="PMC3710985.nxml.gz-392" start="31306">only</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-393" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="31343" id="PMC3710985.nxml.gz-393" start="31330">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-394" type="identity">
+         <class id="reported"/>
+         <span end="31352" id="PMC3710985.nxml.gz-394" start="31344">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-395" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="31392" id="PMC3710985.nxml.gz-395" start="31383">Similarly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-396" type="identity">
+         <class id="subject_scope"/>
+         <span end="31654" id="PMC3710985.nxml.gz-396" start="31383">Similarly, 38% of exposed women in this earlier study, in contrast to 18% in the current study, reported smoking during pregnancy—a risk factor that has also been associated with elevated risks of small for gestational age39–41and intrauterine growth-restricted42neonates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-397" type="identity">
+         <class id="in_contrast_to"/>
+         <span end="31452" id="PMC3710985.nxml.gz-397" start="31438">in contrast to</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-398" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="31477" id="PMC3710985.nxml.gz-398" start="31464">current study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-399" type="identity">
+         <class id="risk_factor"/>
+         <span end="31526" id="PMC3710985.nxml.gz-399" start="31515">risk factor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-400" type="identity">
+         <class id="has...been"/>
+         <span end="31535" id="PMC3710985.nxml.gz-400" start="31532">has</span>
+         <span end="31545" id="PMC3710985.nxml.gz-401" start="31541">been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-402" type="identity">
+         <class id="associated"/>
+         <span end="31556" id="PMC3710985.nxml.gz-402" start="31546">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-403" type="identity">
+         <class id="risks"/>
+         <span end="31576" id="PMC3710985.nxml.gz-403" start="31571">risks</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-404" type="identity">
+         <class id="subject_scope"/>
+         <span end="31850" id="PMC3710985.nxml.gz-404" start="31656">Further studies controlling for known predictors of LGA are necessary to confirm the findings, and an exploration of the potential biological mechanisms underpinning this phenomenon is warranted</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3710985.nxml.gz-405" type="identity">
+         <class id="further...studies"/>
+         <span end="31663" id="PMC3710985.nxml.gz-405" start="31656">Further</span>
+         <span end="31671" id="PMC3710985.nxml.gz-406" start="31664">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-407" type="identity">
+         <class id="known"/>
+         <span end="31693" id="PMC3710985.nxml.gz-407" start="31688">known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-408" type="identity">
+         <class id="predictors"/>
+         <span end="31704" id="PMC3710985.nxml.gz-408" start="31694">predictors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-409" type="identity">
+         <class id="necessary"/>
+         <span end="31725" id="PMC3710985.nxml.gz-409" start="31716">necessary</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-410" type="identity">
+         <class id="to_confirm"/>
+         <span end="31736" id="PMC3710985.nxml.gz-410" start="31726">to confirm</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-411" type="identity">
+         <class id="findings"/>
+         <span end="31749" id="PMC3710985.nxml.gz-411" start="31741">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-412" type="identity">
+         <class id="future_prediction"/>
+         <span end="31786" id="PMC3710985.nxml.gz-412" start="31777">potential</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-413" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="31821" id="PMC3710985.nxml.gz-413" start="31809">underpinning</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-414" type="identity">
+         <class id="is_warranted"/>
+         <span end="31850" id="PMC3710985.nxml.gz-414" start="31838">is warranted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-415" type="identity">
+         <class id="to_our_knowledge"/>
+         <span end="31868" id="PMC3710985.nxml.gz-415" start="31852">To our knowledge</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-416" type="identity">
+         <class id="subject_scope"/>
+         <span end="32011" id="PMC3710985.nxml.gz-416" start="31852">To our knowledge, the present study is the first to show a significant association between maternal SGA use in pregnancy and an elevated risk of NICU admission</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-417" type="identity">
+         <class id="present_study"/>
+         <span end="31887" id="PMC3710985.nxml.gz-417" start="31874">present study</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-418" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="31887" id="PMC3710985.nxml.gz-418" start="31874">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-419" type="identity">
+         <class id="first"/>
+         <span end="31900" id="PMC3710985.nxml.gz-419" start="31895">first</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-420" type="identity">
+         <class id="show"/>
+         <span end="31908" id="PMC3710985.nxml.gz-420" start="31904">show</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-421" type="identity">
+         <class id="association"/>
+         <span end="31934" id="PMC3710985.nxml.gz-421" start="31923">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-422" type="identity">
+         <class id="risk"/>
+         <span end="31993" id="PMC3710985.nxml.gz-422" start="31989">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-423" type="identity">
+         <class id="subject_scope"/>
+         <span end="32209" id="PMC3710985.nxml.gz-423" start="32013">The 25% prevalence rate of NICU admissions found in the exposed group of the present study is the same as that reported in a recent retrospective chart review, although only 16 women were assessed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-424" type="identity">
+         <class id="found"/>
+         <span end="32061" id="PMC3710985.nxml.gz-424" start="32056">found</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-425" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="32103" id="PMC3710985.nxml.gz-425" start="32090">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-426" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="32118" id="PMC3710985.nxml.gz-426" start="32111">same as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-427" type="identity">
+         <class id="reported"/>
+         <span end="32132" id="PMC3710985.nxml.gz-427" start="32124">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-428" type="identity">
+         <class id="recent"/>
+         <span end="32144" id="PMC3710985.nxml.gz-428" start="32138">recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-429" type="identity">
+         <class id="although"/>
+         <span end="32181" id="PMC3710985.nxml.gz-429" start="32173">although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-430" type="identity">
+         <class id="only"/>
+         <span end="32186" id="PMC3710985.nxml.gz-430" start="32182">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-431" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="32209" id="PMC3710985.nxml.gz-431" start="32201">assessed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-432" type="identity">
+         <class id="subject_scope"/>
+         <span end="32460" id="PMC3710985.nxml.gz-432" start="32213">Our results also suggest that polytherapy in pregnancy may be associated with shorter gestation and increased rates of LGA neonates, instrumental deliveries, fetal distress during delivery, NICU admissions and neonates presenting with PNA symptoms</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-433" type="identity">
+         <class id="suggest"/>
+         <span end="32237" id="PMC3710985.nxml.gz-433" start="32230">suggest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-434" type="identity">
+         <class id="may_be"/>
+         <span end="32274" id="PMC3710985.nxml.gz-434" start="32268">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-435" type="identity">
+         <class id="associated"/>
+         <span end="32285" id="PMC3710985.nxml.gz-435" start="32275">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-436" type="identity">
+         <class id="subject_scope"/>
+         <span end="32623" id="PMC3710985.nxml.gz-436" start="32462">Such findings may have important clinical relevance, as the rates of many adverse delivery/neonatal outcomes were at least twice as high in the polytherapy group</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-437" type="identity">
+         <class id="findings"/>
+         <span end="32475" id="PMC3710985.nxml.gz-437" start="32467">findings</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-438" type="identity">
+         <class id="future_prediction"/>
+         <span end="32479" id="PMC3710985.nxml.gz-438" start="32476">may</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-439" type="identity">
+         <class id="may"/>
+         <span end="32479" id="PMC3710985.nxml.gz-439" start="32476">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-440" type="identity">
+         <class id="important"/>
+         <span end="32494" id="PMC3710985.nxml.gz-440" start="32485">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-441" type="identity">
+         <class id="relevance"/>
+         <span end="32513" id="PMC3710985.nxml.gz-441" start="32504">relevance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-442" type="identity">
+         <class id="as"/>
+         <span end="32517" id="PMC3710985.nxml.gz-442" start="32515">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-443" type="identity">
+         <class id="importantly"/>
+         <span end="32636" id="PMC3710985.nxml.gz-443" start="32625">Importantly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-444" type="identity">
+         <class id="subject_scope"/>
+         <span end="32798" id="PMC3710985.nxml.gz-444" start="32625">Importantly, among the exposed group, all seven major malformations occurred among the 96 women receiving polytherapy; however, no specific pattern of malformation was found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-445" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="32751" id="PMC3710985.nxml.gz-445" start="32744">however</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-446" type="identity">
+         <class id="no_specific"/>
+         <span end="32764" id="PMC3710985.nxml.gz-446" start="32753">no specific</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-447" type="identity">
+         <class id="pattern"/>
+         <span end="32772" id="PMC3710985.nxml.gz-447" start="32765">pattern</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-448" type="identity">
+         <class id="found"/>
+         <span end="32798" id="PMC3710985.nxml.gz-448" start="32793">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-449" type="identity">
+         <class id="subject_scope"/>
+         <span end="33115" id="PMC3710985.nxml.gz-449" start="32800">The association between polytherapy exposure and higher rates of malformations should be considered in the context of the small sample size, severity of the baseline disorder that required polytherapy, associated comorbidities, as well as any other unknown environmental factors that were not assessed in this study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-450" type="identity">
+         <class id="association"/>
+         <span end="32815" id="PMC3710985.nxml.gz-450" start="32804">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-451" type="identity">
+         <class id="should_be"/>
+         <span end="32888" id="PMC3710985.nxml.gz-451" start="32879">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-452" type="identity">
+         <class id="considered"/>
+         <span end="32899" id="PMC3710985.nxml.gz-452" start="32889">considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-453" type="identity">
+         <class id="small"/>
+         <span end="32927" id="PMC3710985.nxml.gz-453" start="32922">small</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-454" type="identity">
+         <class id="unknown"/>
+         <span end="33056" id="PMC3710985.nxml.gz-454" start="33049">unknown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-455" type="identity">
+         <class id="factors"/>
+         <span end="33078" id="PMC3710985.nxml.gz-455" start="33071">factors</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-456" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="33101" id="PMC3710985.nxml.gz-456" start="33084">were not assessed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-457" type="identity">
+         <class id="probable_understanding"/>
+         <span end="33128" id="PMC3710985.nxml.gz-457" start="33117">Considering</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-458" type="identity">
+         <class id="subject_scope"/>
+         <span end="33403" id="PMC3710985.nxml.gz-458" start="33117">Considering that exposure to SGA monotherapy was not associated with birth defects in our cohort and that the majority of pregnant women with psychiatric disorders are on psychotropic drug polytherapy, research on the reproductive safety of these medications should reflect this reality</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-459" type="identity">
+         <class id="research"/>
+         <span end="33327" id="PMC3710985.nxml.gz-459" start="33319">research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-460" type="identity">
+         <class id="safety"/>
+         <span end="33354" id="PMC3710985.nxml.gz-460" start="33348">safety</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-461" type="identity">
+         <class id="should"/>
+         <span end="33382" id="PMC3710985.nxml.gz-461" start="33376">should</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-462" type="identity">
+         <class id="reflect"/>
+         <span end="33390" id="PMC3710985.nxml.gz-462" start="33383">reflect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-463" type="identity">
+         <class id="subject_scope"/>
+         <span end="33722" id="PMC3710985.nxml.gz-463" start="33405">Moreover, further research is required in order to separate the effects of polytherapy from the baseline mental illness, as well as the genetic and environmental confounders on pregnancy outcome, particularly as those receiving psychotropic polytherapy may suffer from more severe and persistent psychiatric disorders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-464" type="identity">
+         <class id="further_research"/>
+         <span end="33431" id="PMC3710985.nxml.gz-464" start="33415">further research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-465" type="identity">
+         <class id="required"/>
+         <span end="33443" id="PMC3710985.nxml.gz-465" start="33435">required</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-466" type="identity">
+         <class id="effects"/>
+         <span end="33476" id="PMC3710985.nxml.gz-466" start="33469">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-467" type="identity">
+         <class id="confounders"/>
+         <span end="33578" id="PMC3710985.nxml.gz-467" start="33567">confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-468" type="identity">
+         <class id="important_consideration"/>
+         <span end="33613" id="PMC3710985.nxml.gz-468" start="33601">particularly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-469" type="identity">
+         <class id="as"/>
+         <span end="33616" id="PMC3710985.nxml.gz-469" start="33614">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-470" type="identity">
+         <class id="may"/>
+         <span end="33661" id="PMC3710985.nxml.gz-470" start="33658">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-471" type="identity">
+         <class id="suffer"/>
+         <span end="33668" id="PMC3710985.nxml.gz-471" start="33662">suffer</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-472" type="identity">
+         <class id="subject_scope"/>
+         <span end="33944" id="PMC3710985.nxml.gz-472" start="33724">The higher prevalence of PNA signs found in the exposed group, compared with the controls, may be driven by concurrent SSRI exposure, as 12 of the 15 neonates that presented with PNA symptoms were also exposed to an SSRI</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-473" type="identity">
+         <class id="found"/>
+         <span end="33764" id="PMC3710985.nxml.gz-473" start="33759">found</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-474" type="identity">
+         <class id="probable_understanding"/>
+         <span end="33821" id="PMC3710985.nxml.gz-474" start="33815">may be</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-475" type="identity">
+         <class id="may_be"/>
+         <span end="33821" id="PMC3710985.nxml.gz-475" start="33815">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-476" type="identity">
+         <class id="as"/>
+         <span end="33860" id="PMC3710985.nxml.gz-476" start="33858">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-477" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="33954" id="PMC3710985.nxml.gz-477" start="33946">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-478" type="identity">
+         <class id="subject_scope"/>
+         <span end="34247" id="PMC3710985.nxml.gz-478" start="33946">Although the measurement scales specific for the PNA syndrome are not available, numerous studies have found that use of SSRI late in pregnancy is associated with an increased risk of infants developing this clinical presentation,4445which is also labelled as Prenatal Antidepressant Exposure Syndrome</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-479" type="identity">
+         <class id="difficult_task"/>
+         <span end="34025" id="PMC3710985.nxml.gz-479" start="34012">not available</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-480" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="34043" id="PMC3710985.nxml.gz-480" start="34027">numerous studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-481" type="identity">
+         <class id="found"/>
+         <span end="34054" id="PMC3710985.nxml.gz-481" start="34049">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-482" type="identity">
+         <class id="associated"/>
+         <span end="34103" id="PMC3710985.nxml.gz-482" start="34093">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-483" type="identity">
+         <class id="increased_risk"/>
+         <span end="34126" id="PMC3710985.nxml.gz-483" start="34112">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-484" type="identity">
+         <class id="similar_to"/>
+         <span end="34384" id="PMC3710985.nxml.gz-484" start="34374">Similar to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-485" type="identity">
+         <class id="subject_scope"/>
+         <span end="34539" id="PMC3710985.nxml.gz-485" start="34374">Similar to the present study, Mendhekar et al 47in 2006 described a neonate who presented with unexplained fetal distress following prenatal exposure to aripiprazole</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-486" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="34402" id="PMC3710985.nxml.gz-486" start="34389">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-487" type="identity">
+         <class id="described"/>
+         <span end="34439" id="PMC3710985.nxml.gz-487" start="34430">described</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-488" type="identity">
+         <class id="full_unknown"/>
+         <span end="34480" id="PMC3710985.nxml.gz-488" start="34469">unexplained</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-489" type="identity">
+         <class id="subject_scope"/>
+         <span end="34711" id="PMC3710985.nxml.gz-489" start="34541">Such findings have been echoed by the US Food and Drug Administration in recently issued warnings suggesting that, similar to SSRIs, antipsychotics may cause PNA syndrome</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-490" type="identity">
+         <class id="findings"/>
+         <span end="34554" id="PMC3710985.nxml.gz-490" start="34546">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-491" type="identity">
+         <class id="recently"/>
+         <span end="34622" id="PMC3710985.nxml.gz-491" start="34614">recently</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-492" type="identity">
+         <class id="important_consideration"/>
+         <span end="34638" id="PMC3710985.nxml.gz-492" start="34630">warnings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-493" type="identity">
+         <class id="suggesting"/>
+         <span end="34649" id="PMC3710985.nxml.gz-493" start="34639">suggesting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-494" type="identity">
+         <class id="similar_to"/>
+         <span end="34666" id="PMC3710985.nxml.gz-494" start="34656">similar to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-495" type="identity">
+         <class id="may"/>
+         <span end="34692" id="PMC3710985.nxml.gz-495" start="34689">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-496" type="identity">
+         <class id="given"/>
+         <span end="34828" id="PMC3710985.nxml.gz-496" start="34823">Given</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-497" type="identity">
+         <class id="subject_scope"/>
+         <span end="35140" id="PMC3710985.nxml.gz-497" start="34823">Given the predominance of polytherapy involving these two classes of medications in the treatment of various psychiatric disorders in pregnant women, designing future cohort studies aimed at investigating the relative and combined effects of prenatal exposure to SGAs and antidepressants is of considerable importance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-498" type="identity">
+         <class id="further_studies"/>
+         <span end="34989" id="PMC3710985.nxml.gz-498" start="34983">future</span>
+         <span end="35004" id="PMC3710985.nxml.gz-499" start="34997">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-500" type="identity">
+         <class id="effects"/>
+         <span end="35061" id="PMC3710985.nxml.gz-500" start="35054">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-501" type="identity">
+         <class id="important_consideration"/>
+         <span end="35129" id="PMC3710985.nxml.gz-501" start="35117">considerable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-502" type="identity">
+         <class id="importance"/>
+         <span end="35140" id="PMC3710985.nxml.gz-502" start="35130">importance</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3710985.nxml.gz-503" type="identity">
+         <class id="subject_scope"/>
+         <span end="35329" id="PMC3710985.nxml.gz-503" start="35142">There are a number of limitations inherent in the design of the present study that should be acknowledged. Given the small sample size, unadjusted models were used in most of the analyses</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-504" type="identity">
+         <class id="number_of"/>
+         <span end="35163" id="PMC3710985.nxml.gz-504" start="35154">number of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-505" type="identity">
+         <class id="limitations"/>
+         <span end="35175" id="PMC3710985.nxml.gz-505" start="35164">limitations</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-506" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="35219" id="PMC3710985.nxml.gz-506" start="35206">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-507" type="identity">
+         <class id="should_be"/>
+         <span end="35234" id="PMC3710985.nxml.gz-507" start="35225">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-508" type="identity">
+         <class id="given"/>
+         <span end="35254" id="PMC3710985.nxml.gz-508" start="35249">Given</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-509" type="identity">
+         <class id="small"/>
+         <span end="35264" id="PMC3710985.nxml.gz-509" start="35259">small</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-510" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="35295" id="PMC3710985.nxml.gz-510" start="35289">models</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-511" type="identity">
+         <class id="therefore"/>
+         <span end="35340" id="PMC3710985.nxml.gz-511" start="35331">Therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-512" type="identity">
+         <class id="subject_scope"/>
+         <span end="35428" id="PMC3710985.nxml.gz-512" start="35331">Therefore, we were unable to fully assess the influence of confounding factors in SGA monotherapy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-513" type="identity">
+         <class id="unable_to"/>
+         <span end="35359" id="PMC3710985.nxml.gz-513" start="35350">unable to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-514" type="identity">
+         <class id="influence"/>
+         <span end="35386" id="PMC3710985.nxml.gz-514" start="35377">influence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-515" type="identity">
+         <class id="confounding_factors"/>
+         <span end="35409" id="PMC3710985.nxml.gz-515" start="35390">confounding factors</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3710985.nxml.gz-516" type="identity">
+         <class id="subject_scope"/>
+         <span end="35682" id="PMC3710985.nxml.gz-516" start="35430">Such results should be further investigated in future research. Another limitation is the inability to address confounding by indication and separate the relative effects of maternal mental illness from psychotropic pharmacotherapy on pregnancy outcome</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-517" type="identity">
+         <class id="should_be"/>
+         <span end="35452" id="PMC3710985.nxml.gz-517" start="35443">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-518" type="identity">
+         <class id="future_work"/>
+         <span end="35460" id="PMC3710985.nxml.gz-518" start="35453">further</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-519" type="identity">
+         <class id="future...research"/>
+         <span end="35492" id="PMC3710985.nxml.gz-519" start="35477">future research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-520" type="identity">
+         <class id="limitation"/>
+         <span end="35512" id="PMC3710985.nxml.gz-520" start="35502">limitation</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-521" type="identity">
+         <class id="difficult_task"/>
+         <span end="35529" id="PMC3710985.nxml.gz-521" start="35520">inability</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-522" type="identity">
+         <class id="confounding"/>
+         <span end="35552" id="PMC3710985.nxml.gz-522" start="35541">confounding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-523" type="identity">
+         <class id="effects"/>
+         <span end="35600" id="PMC3710985.nxml.gz-523" start="35593">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-524" type="identity">
+         <class id="subject_scope"/>
+         <span end="35945" id="PMC3710985.nxml.gz-524" start="35684">Moreover, a more detailed investigation into maternal mental health, which includes measures of the frequency and severity of specific psychiatric symptoms during pregnancy, would allow for a more thorough investigation into these critical confounding variables</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-525" type="identity">
+         <class id="investigation"/>
+         <span end="35723" id="PMC3710985.nxml.gz-525" start="35710">investigation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-526" type="identity">
+         <class id="would"/>
+         <span end="35863" id="PMC3710985.nxml.gz-526" start="35858">would</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-527" type="identity">
+         <class id="allow"/>
+         <span end="35869" id="PMC3710985.nxml.gz-527" start="35864">allow</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-528" type="identity">
+         <class id="investigation"/>
+         <span end="35903" id="PMC3710985.nxml.gz-528" start="35890">investigation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-529" type="identity">
+         <class id="critical"/>
+         <span end="35923" id="PMC3710985.nxml.gz-529" start="35915">critical</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-530" type="identity">
+         <class id="confounding"/>
+         <span end="35935" id="PMC3710985.nxml.gz-530" start="35924">confounding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-531" type="identity">
+         <class id="variables"/>
+         <span end="35945" id="PMC3710985.nxml.gz-531" start="35936">variables</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-532" type="identity">
+         <class id="subject_scope"/>
+         <span end="36171" id="PMC3710985.nxml.gz-532" start="35947">Furthermore, evaluating the social characteristics of the assessed cohort would enable us to identify potential confounding variables that may affect pregnancy outcomes, such as socioeconomic status and lifestyle differences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-533" type="identity">
+         <class id="would"/>
+         <span end="36026" id="PMC3710985.nxml.gz-533" start="36021">would</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-534" type="identity">
+         <class id="future_prediction"/>
+         <span end="36058" id="PMC3710985.nxml.gz-534" start="36049">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-535" type="identity">
+         <class id="confounding"/>
+         <span end="36070" id="PMC3710985.nxml.gz-535" start="36059">confounding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-536" type="identity">
+         <class id="future_prediction"/>
+         <span end="36089" id="PMC3710985.nxml.gz-536" start="36086">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-537" type="identity">
+         <class id="affect"/>
+         <span end="36096" id="PMC3710985.nxml.gz-537" start="36090">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-538" type="identity">
+         <class id="subject_scope"/>
+         <span end="36508" id="PMC3710985.nxml.gz-538" start="36173">The women who contacted Motherisk tended to be middle to upper-middle class, which represents the majority of the population, and may be higher functioning than those who did not, as they independently sought access to counselling in order to help educate themselves on the potential teratogenic risks associated with their medications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-539" type="identity">
+         <class id="tended"/>
+         <span end="36213" id="PMC3710985.nxml.gz-539" start="36207">tended</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-540" type="identity">
+         <class id="may_be"/>
+         <span end="36309" id="PMC3710985.nxml.gz-540" start="36303">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-541" type="identity">
+         <class id="as"/>
+         <span end="36355" id="PMC3710985.nxml.gz-541" start="36353">as</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-542" type="identity">
+         <class id="associated"/>
+         <span end="36485" id="PMC3710985.nxml.gz-542" start="36475">associated</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3710985.nxml.gz-543" type="identity">
+         <class id="subject_scope"/>
+         <span end="36753" id="PMC3710985.nxml.gz-543" start="36511">A smaller proportion of callers came from the lower socioeconomic and/or immigrant population; however, this may not affect the generalisability of the results, as their outcomes may be confounded by other factors unrelated to the drug effect</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-544" type="identity">
+         <class id="smaller"/>
+         <span end="36520" id="PMC3710985.nxml.gz-544" start="36513">smaller</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-545" type="identity">
+         <class id="however"/>
+         <span end="36613" id="PMC3710985.nxml.gz-545" start="36606">however</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-546" type="identity">
+         <class id="may_not"/>
+         <span end="36627" id="PMC3710985.nxml.gz-546" start="36620">may not</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-547" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="36634" id="PMC3710985.nxml.gz-547" start="36620">may not affect</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-548" type="identity">
+         <class id="affect"/>
+         <span end="36634" id="PMC3710985.nxml.gz-548" start="36628">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-549" type="identity">
+         <class id="generalisability"/>
+         <span end="36655" id="PMC3710985.nxml.gz-549" start="36639">generalisability</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-550" type="identity">
+         <class id="as"/>
+         <span end="36674" id="PMC3710985.nxml.gz-550" start="36672">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-551" type="identity">
+         <class id="may_be"/>
+         <span end="36696" id="PMC3710985.nxml.gz-551" start="36690">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-552" type="identity">
+         <class id="confounded"/>
+         <span end="36707" id="PMC3710985.nxml.gz-552" start="36697">confounded</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-553" type="identity">
+         <class id="factors"/>
+         <span end="36724" id="PMC3710985.nxml.gz-553" start="36717">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-554" type="identity">
+         <class id="effect"/>
+         <span end="36753" id="PMC3710985.nxml.gz-554" start="36747">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-555" type="identity">
+         <class id="although"/>
+         <span end="36763" id="PMC3710985.nxml.gz-555" start="36755">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-556" type="identity">
+         <class id="subject_scope"/>
+         <span end="36872" id="PMC3710985.nxml.gz-556" start="36755">Although the women were recruited prospectively, there are potential limitations in the retrospectivity of a database</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-557" type="identity">
+         <class id="potential"/>
+         <span end="36823" id="PMC3710985.nxml.gz-557" start="36814">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-558" type="identity">
+         <class id="problem_complication"/>
+         <span end="36835" id="PMC3710985.nxml.gz-558" start="36824">limitations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-559" type="identity">
+         <class id="subject_scope"/>
+         <span end="37007" id="PMC3710985.nxml.gz-559" start="36874">In conclusion, it appears that psychotropic polytherapy in pregnant women with mental health disorders is presently a common practice</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-560" type="identity">
+         <class id="appears"/>
+         <span end="36899" id="PMC3710985.nxml.gz-560" start="36892">appears</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-561" type="identity">
+         <class id="common_practice"/>
+         <span end="37007" id="PMC3710985.nxml.gz-561" start="36992">common practice</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-562" type="identity">
+         <class id="however"/>
+         <span end="37016" id="PMC3710985.nxml.gz-562" start="37009">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-563" type="identity">
+         <class id="subject_scope"/>
+         <span end="37093" id="PMC3710985.nxml.gz-563" start="37009">However, such management may lead to an increased risk of adverse pregnancy outcomes</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-564" type="identity">
+         <class id="future_prediction"/>
+         <span end="37037" id="PMC3710985.nxml.gz-564" start="37034">may</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-565" type="identity">
+         <class id="may"/>
+         <span end="37037" id="PMC3710985.nxml.gz-565" start="37034">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-566" type="identity">
+         <class id="lead_to"/>
+         <span end="37045" id="PMC3710985.nxml.gz-566" start="37038">lead to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-567" type="identity">
+         <class id="increased_risk"/>
+         <span end="37063" id="PMC3710985.nxml.gz-567" start="37049">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-568" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="37106" id="PMC3710985.nxml.gz-568" start="37095">Considering</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-569" type="identity">
+         <class id="subject_scope"/>
+         <span end="37362" id="PMC3710985.nxml.gz-569" start="37095">Considering that reports that polytherapy do not commonly alter the course and outcome of the baseline disorder,2224indications for polytherapy in pregnant women should be seriously considered and made on an individual basis following a thorough risk/benefit analysis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-570" type="identity">
+         <class id="reports"/>
+         <span end="37119" id="PMC3710985.nxml.gz-570" start="37112">reports</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-571" type="identity">
+         <class id="should_be"/>
+         <span end="37266" id="PMC3710985.nxml.gz-571" start="37257">should be</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-572" type="identity">
+         <class id="important_consideration"/>
+         <span end="37266" id="PMC3710985.nxml.gz-572" start="37257">should be</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-573" type="identity">
+         <class id="important_consideration"/>
+         <span end="37276" id="PMC3710985.nxml.gz-573" start="37267">seriously</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3710985.nxml.gz-574" type="identity">
+         <class id="considered"/>
+         <span end="37287" id="PMC3710985.nxml.gz-574" start="37277">considered</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3710985.nxml.gz-575" type="identity">
+         <class id="important_consideration"/>
+         <span end="37287" id="PMC3710985.nxml.gz-575" start="37277">considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-576" type="identity">
+         <class id="subject_scope"/>
+         <span end="37590" id="PMC3710985.nxml.gz-576" start="37364">The reproductive safety of antipsychotic medications should be studied using a prospective design and a powerful sample size and in the reality of polytherapy, associated comorbidities and environmental and genetic confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-577" type="identity">
+         <class id="safety"/>
+         <span end="37387" id="PMC3710985.nxml.gz-577" start="37381">safety</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-578" type="identity">
+         <class id="should_be"/>
+         <span end="37426" id="PMC3710985.nxml.gz-578" start="37417">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3710985.nxml.gz-579" type="identity">
+         <class id="associated"/>
+         <span end="37534" id="PMC3710985.nxml.gz-579" start="37524">associated</span>
+      </annotation>
+   </document>
+</knowtator-project>

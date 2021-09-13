@@ -1,0 +1,1798 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC5732505.nxml.gz" text-file="PMC5732505.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="251" id="PMC5732505.nxml.gz-1" start="92">Maternal vitamin D status has been associated with both gestational diabetes mellitus (GDM) and fetal growth restriction, however, the evidence is inconsistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-2" type="identity">
+         <class id="has_been"/>
+         <span end="126" id="PMC5732505.nxml.gz-2" start="118">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-3" type="identity">
+         <class id="associated"/>
+         <span end="137" id="PMC5732505.nxml.gz-3" start="127">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-4" type="identity">
+         <class id="however"/>
+         <span end="221" id="PMC5732505.nxml.gz-4" start="214">however</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-5" type="identity">
+         <class id="evidence"/>
+         <span end="235" id="PMC5732505.nxml.gz-5" start="227">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-6" type="identity">
+         <class id="inconsistent"/>
+         <span end="251" id="PMC5732505.nxml.gz-6" start="239">inconsistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-7" type="identity">
+         <class id="subject_scope"/>
+         <span end="348" id="PMC5732505.nxml.gz-7" start="253">In Finland, maternal vitamin D status has improved considerably due to national health policies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-8" type="identity">
+         <class id="considerably"/>
+         <span end="316" id="PMC5732505.nxml.gz-8" start="304">considerably</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-9" type="identity">
+         <class id="probable_understanding"/>
+         <span end="323" id="PMC5732505.nxml.gz-9" start="317">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-10" type="identity">
+         <class id="subject_scope"/>
+         <span end="579" id="PMC5732505.nxml.gz-10" start="350">Our objective was to compare maternal 25-hydroxy vitamin D concentrations [25(OH)D] between mothers with and without GDM, and to investigate if an association existed between maternal vitamin D concentration and infant birth size</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-11" type="identity">
+         <class id="objective"/>
+         <span end="363" id="PMC5732505.nxml.gz-11" start="354">objective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-12" type="identity">
+         <class id="to_investigate"/>
+         <span end="490" id="PMC5732505.nxml.gz-12" start="476">to investigate</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-13" type="identity">
+         <class id="if"/>
+         <span end="493" id="PMC5732505.nxml.gz-13" start="491">if</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-14" type="identity">
+         <class id="association"/>
+         <span end="508" id="PMC5732505.nxml.gz-14" start="497">association</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-15" type="identity">
+         <class id="subject_scope"/>
+         <span end="1062" id="PMC5732505.nxml.gz-15" start="939">GDM was observed in 81 of the 723 women (11%). Of the study population, 97% were vitamin D sufficient [25(OH)D ≥ 50 nmol/L]</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-16" type="identity">
+         <class id="observed"/>
+         <span end="955" id="PMC5732505.nxml.gz-16" start="947">observed</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-17" type="identity">
+         <class id="subject_scope"/>
+         <span end="1183" id="PMC5732505.nxml.gz-17" start="1064">There was no difference in pregnancy 25(OH)D concentration between GDM and non-GDM mothers (82 vs 82 nmol/L, P  = 0.99)</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-18" type="identity">
+         <class id="no...difference"/>
+         <span end="1087" id="PMC5732505.nxml.gz-18" start="1074">no difference</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-19" type="identity">
+         <class id="subject_scope"/>
+         <span end="1307" id="PMC5732505.nxml.gz-19" start="1185">Regression analysis confirmed no association between oral glucose tolerance test results and maternal 25(OH)D ( P  &gt; 0.53)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-20" type="identity">
+         <class id="confirmed"/>
+         <span end="1214" id="PMC5732505.nxml.gz-20" start="1205">confirmed</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-21" type="identity">
+         <class id="subject_scope"/>
+         <span end="1467" id="PMC5732505.nxml.gz-21" start="1309">Regarding the birth size, mothers with optimal pregnancy 25(OH)D (≥ 80 nmol/L) had heavier newborns than those with suboptimal pregnancy 25(OH)D ( P  = 0.010)</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-22" type="identity">
+         <class id="optimal"/>
+         <span end="1355" id="PMC5732505.nxml.gz-22" start="1348">optimal</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-23" type="identity">
+         <class id="suboptimal"/>
+         <span end="1435" id="PMC5732505.nxml.gz-23" start="1425">suboptimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-24" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="1476" id="PMC5732505.nxml.gz-24" start="1469">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-25" type="identity">
+         <class id="subject_scope"/>
+         <span end="1671" id="PMC5732505.nxml.gz-25" start="1469">However, mothers with optimal UCB 25(OH)D had newborns with smaller head circumference than those with suboptimal 25(OH)D ( P  = 0.003), which was further confirmed as a linear association ( P  = 0.024)</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-26" type="identity">
+         <class id="optimal"/>
+         <span end="1498" id="PMC5732505.nxml.gz-26" start="1491">optimal</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-27" type="identity">
+         <class id="suboptimal"/>
+         <span end="1582" id="PMC5732505.nxml.gz-27" start="1572">suboptimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-28" type="identity">
+         <class id="further"/>
+         <span end="1623" id="PMC5732505.nxml.gz-28" start="1616">further</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-29" type="identity">
+         <class id="confirmed"/>
+         <span end="1633" id="PMC5732505.nxml.gz-29" start="1624">confirmed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-30" type="identity">
+         <class id="as"/>
+         <span end="1636" id="PMC5732505.nxml.gz-30" start="1634">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-31" type="identity">
+         <class id="association"/>
+         <span end="1657" id="PMC5732505.nxml.gz-31" start="1646">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-32" type="identity">
+         <class id="subject_scope"/>
+         <span end="1806" id="PMC5732505.nxml.gz-32" start="1686">Maternal vitamin D concentration was similar in mothers with and without GDM in a mostly vitamin D sufficient population</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-33" type="identity">
+         <class id="similar"/>
+         <span end="1730" id="PMC5732505.nxml.gz-33" start="1723">similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-34" type="identity">
+         <class id="mostly"/>
+         <span end="1774" id="PMC5732505.nxml.gz-34" start="1768">mostly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-35" type="identity">
+         <class id="associations"/>
+         <span end="1820" id="PMC5732505.nxml.gz-35" start="1808">Associations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-36" type="identity">
+         <class id="subject_scope"/>
+         <span end="1887" id="PMC5732505.nxml.gz-36" start="1808">Associations between maternal vitamin D status and birth size were inconsistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-37" type="identity">
+         <class id="inconsistent"/>
+         <span end="1887" id="PMC5732505.nxml.gz-37" start="1875">inconsistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-38" type="identity">
+         <class id="subject_scope"/>
+         <span end="2054" id="PMC5732505.nxml.gz-38" start="1889">A sufficient maternal vitamin D status, specified as 25(OH)D above 50 nmol/L, may be a threshold above which the physiological requirements of pregnancy are achieved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-39" type="identity">
+         <class id="as"/>
+         <span end="1941" id="PMC5732505.nxml.gz-39" start="1939">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-40" type="identity">
+         <class id="may_be"/>
+         <span end="1973" id="PMC5732505.nxml.gz-40" start="1967">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-41" type="identity">
+         <class id="requirements"/>
+         <span end="2028" id="PMC5732505.nxml.gz-41" start="2016">requirements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-42" type="identity">
+         <class id="subject_scope"/>
+         <span end="2508" id="PMC5732505.nxml.gz-42" start="2351">Vitamin D deficiency, defined as a circulating 25-hydroxy vitamin D (25(OH)D) concentration below 50 nmol/L, has been common among Finnish pregnant women [1]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-43" type="identity">
+         <class id="defined"/>
+         <span end="2380" id="PMC5732505.nxml.gz-43" start="2373">defined</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-44" type="identity">
+         <class id="as"/>
+         <span end="2383" id="PMC5732505.nxml.gz-44" start="2381">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-45" type="identity">
+         <class id="has_been"/>
+         <span end="2468" id="PMC5732505.nxml.gz-45" start="2460">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-46" type="identity">
+         <class id="common"/>
+         <span end="2475" id="PMC5732505.nxml.gz-46" start="2469">common</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-47" type="identity">
+         <class id="however"/>
+         <span end="2517" id="PMC5732505.nxml.gz-47" start="2510">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-48" type="identity">
+         <class id="subject_scope"/>
+         <span end="2663" id="PMC5732505.nxml.gz-48" start="2510">However, due to recent changes in national health policies, intake of vitamin D has increased resulting in decreasing rates of vitamin D deficiency [2–5]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-49" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2525" id="PMC5732505.nxml.gz-49" start="2519">due to</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-50" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="2616" id="PMC5732505.nxml.gz-50" start="2604">resulting in</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5732505.nxml.gz-51" type="identity">
+         <class id="subject_scope"/>
+         <span end="2927" id="PMC5732505.nxml.gz-51" start="2665">Vitamin D deficiency has been associated with gestational diabetes mellitus (GDM) [6], but the evidence is inconsistent [7,8]. Of all pregnancies, 1–14% are affected by GDM [9], and globally GDM prevalence has been increasing in line with increasing obesity [10]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-52" type="identity">
+         <class id="has_been"/>
+         <span end="2694" id="PMC5732505.nxml.gz-52" start="2686">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-53" type="identity">
+         <class id="associated"/>
+         <span end="2705" id="PMC5732505.nxml.gz-53" start="2695">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-54" type="identity">
+         <class id="but"/>
+         <span end="2755" id="PMC5732505.nxml.gz-54" start="2752">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-55" type="identity">
+         <class id="evidence"/>
+         <span end="2768" id="PMC5732505.nxml.gz-55" start="2760">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-56" type="identity">
+         <class id="inconsistent"/>
+         <span end="2784" id="PMC5732505.nxml.gz-56" start="2772">inconsistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-57" type="identity">
+         <class id="affected"/>
+         <span end="2830" id="PMC5732505.nxml.gz-57" start="2822">affected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-58" type="identity">
+         <class id="globally"/>
+         <span end="2855" id="PMC5732505.nxml.gz-58" start="2847">globally</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-59" type="identity">
+         <class id="prevalence"/>
+         <span end="2870" id="PMC5732505.nxml.gz-59" start="2860">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-60" type="identity">
+         <class id="has_been"/>
+         <span end="2879" id="PMC5732505.nxml.gz-60" start="2871">has been</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-61" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="2903" id="PMC5732505.nxml.gz-61" start="2891">in line with</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-62" type="identity">
+         <class id="subject_scope"/>
+         <span end="2989" id="PMC5732505.nxml.gz-62" start="2929">GDM is the most common pregnancy complication in Europe [11]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-63" type="identity">
+         <class id="most_common"/>
+         <span end="2951" id="PMC5732505.nxml.gz-63" start="2940">most common</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-64" type="identity">
+         <class id="important_consideration"/>
+         <span end="2974" id="PMC5732505.nxml.gz-64" start="2962">complication</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-65" type="identity">
+         <class id="subject_scope"/>
+         <span end="3074" id="PMC5732505.nxml.gz-65" start="2991">In Finland, the prevalence of GDM has increased from 6% in 2008 to 11% in 2014 [12]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-66" type="identity">
+         <class id="prevalence"/>
+         <span end="3017" id="PMC5732505.nxml.gz-66" start="3007">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-67" type="identity">
+         <class id="subject_scope"/>
+         <span end="3276" id="PMC5732505.nxml.gz-67" start="3076">GDM increases the risk of adverse pregnancy and neonatal outcomes, and the risk of obesity, metabolic syndrome, diabetes, and cardiovascular disease in later life both of the mother and the child [13]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-68" type="identity">
+         <class id="risk"/>
+         <span end="3098" id="PMC5732505.nxml.gz-68" start="3094">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-69" type="identity">
+         <class id="risk"/>
+         <span end="3155" id="PMC5732505.nxml.gz-69" start="3151">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-70" type="identity">
+         <class id="subject_scope"/>
+         <span end="3372" id="PMC5732505.nxml.gz-70" start="3278">Fetal growth may have later health implications also within the normal-birth-weight range [14]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-71" type="identity">
+         <class id="may"/>
+         <span end="3294" id="PMC5732505.nxml.gz-71" start="3291">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-72" type="identity">
+         <class id="implications"/>
+         <span end="3325" id="PMC5732505.nxml.gz-72" start="3313">implications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-73" type="identity">
+         <class id="important_consideration"/>
+         <span end="3378" id="PMC5732505.nxml.gz-73" start="3374">Poor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-74" type="identity">
+         <class id="subject_scope"/>
+         <span end="3569" id="PMC5732505.nxml.gz-74" start="3374">Poor maternal vitamin D status has been related to fetal growth restriction [15] but it is unknown whether maternal vitamin D status associates with birth size in infants with normal birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-75" type="identity">
+         <class id="has_been"/>
+         <span end="3413" id="PMC5732505.nxml.gz-75" start="3405">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-76" type="identity">
+         <class id="related"/>
+         <span end="3421" id="PMC5732505.nxml.gz-76" start="3414">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-77" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="3458" id="PMC5732505.nxml.gz-77" start="3455">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-78" type="identity">
+         <class id="unknown"/>
+         <span end="3472" id="PMC5732505.nxml.gz-78" start="3465">unknown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-79" type="identity">
+         <class id="explicit_question"/>
+         <span end="3480" id="PMC5732505.nxml.gz-79" start="3473">whether</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-80" type="identity">
+         <class id="associates"/>
+         <span end="3517" id="PMC5732505.nxml.gz-80" start="3507">associates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-81" type="identity">
+         <class id="many"/>
+         <span end="3575" id="PMC5732505.nxml.gz-81" start="3571">Many</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-82" type="identity">
+         <class id="subject_scope"/>
+         <span end="3735" id="PMC5732505.nxml.gz-82" start="3571">Many of the findings regarding the relationship between vitamin D deficiency and GDM are based on case-control studies, which may include a potential selection bias</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-83" type="identity">
+         <class id="findings"/>
+         <span end="3591" id="PMC5732505.nxml.gz-83" start="3583">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-84" type="identity">
+         <class id="relationship"/>
+         <span end="3618" id="PMC5732505.nxml.gz-84" start="3606">relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-85" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="3668" id="PMC5732505.nxml.gz-85" start="3660">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-86" type="identity">
+         <class id="studies"/>
+         <span end="3689" id="PMC5732505.nxml.gz-86" start="3682">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-87" type="identity">
+         <class id="may"/>
+         <span end="3700" id="PMC5732505.nxml.gz-87" start="3697">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-88" type="identity">
+         <class id="potential"/>
+         <span end="3720" id="PMC5732505.nxml.gz-88" start="3711">potential</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-89" type="identity">
+         <class id="problem_complication"/>
+         <span end="3735" id="PMC5732505.nxml.gz-89" start="3731">bias</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-90" type="identity">
+         <class id="bias"/>
+         <span end="3735" id="PMC5732505.nxml.gz-90" start="3731">bias</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-91" type="identity">
+         <class id="subject_scope"/>
+         <span end="3929" id="PMC5732505.nxml.gz-91" start="3737">Case-control studies often focus on high-risk groups, for example women who are overweight and sedentary, which are independent risk factors for vitamin D deficiency as well (for example [16])</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-92" type="identity">
+         <class id="studies"/>
+         <span end="3757" id="PMC5732505.nxml.gz-92" start="3750">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-93" type="identity">
+         <class id="often"/>
+         <span end="3763" id="PMC5732505.nxml.gz-93" start="3758">often</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-94" type="identity">
+         <class id="high-risk"/>
+         <span end="3782" id="PMC5732505.nxml.gz-94" start="3773">high-risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-95" type="identity">
+         <class id="independent"/>
+         <span end="3864" id="PMC5732505.nxml.gz-95" start="3853">independent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-96" type="identity">
+         <class id="risk_factors"/>
+         <span end="3877" id="PMC5732505.nxml.gz-96" start="3865">risk factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-97" type="identity">
+         <class id="subject_scope"/>
+         <span end="4211" id="PMC5732505.nxml.gz-97" start="3931">The objectives of the present study were to compare 25(OH)D concentration at two consecutive time points between mothers with and without GDM, and to investigate associations between maternal factors and infant’s birth size, and the potential role of 25(OH)D concentration therein</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-98" type="identity">
+         <class id="objectives"/>
+         <span end="3945" id="PMC5732505.nxml.gz-98" start="3935">objectives</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-99" type="identity">
+         <class id="present_study"/>
+         <span end="3966" id="PMC5732505.nxml.gz-99" start="3953">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-100" type="identity">
+         <class id="to_investigate"/>
+         <span end="4092" id="PMC5732505.nxml.gz-100" start="4078">to investigate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-101" type="identity">
+         <class id="associations"/>
+         <span end="4105" id="PMC5732505.nxml.gz-101" start="4093">associations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-102" type="identity">
+         <class id="factors"/>
+         <span end="4130" id="PMC5732505.nxml.gz-102" start="4123">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-103" type="identity">
+         <class id="potential"/>
+         <span end="4173" id="PMC5732505.nxml.gz-103" start="4164">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-104" type="identity">
+         <class id="role"/>
+         <span end="4178" id="PMC5732505.nxml.gz-104" start="4174">role</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-105" type="identity">
+         <class id="according_to"/>
+         <span end="4545" id="PMC5732505.nxml.gz-105" start="4533">According to</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-106" type="identity">
+         <class id="subject_scope"/>
+         <span end="4662" id="PMC5732505.nxml.gz-106" start="4533">According to the inclusion criteria, the mothers were of Caucasian origin without regular medication and with singleton pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-107" type="identity">
+         <class id="subject_scope"/>
+         <span end="7027" id="PMC5732505.nxml.gz-107" start="6886">We employed UCB 25(OH)D to reflect both the maternal vitamin D status at the end of pregnancy and the newborn’s vitamin D status at birth [1]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-108" type="identity">
+         <class id="probable_understanding"/>
+         <span end="6920" id="PMC5732505.nxml.gz-108" start="6913">reflect</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-109" type="identity">
+         <class id="reflect"/>
+         <span end="6920" id="PMC5732505.nxml.gz-109" start="6913">reflect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-110" type="identity">
+         <class id="subject_scope"/>
+         <span end="7216" id="PMC5732505.nxml.gz-110" start="7029">We defined vitamin D deficiency as 25(OH)D &lt; 50 nmol/L, and vitamin D sufficiency as 25(OH)D ≥ 50 nmol/L, since a concentration of ≥50 nmol/L is considered sufficient for bone health [17]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-111" type="identity">
+         <class id="defined"/>
+         <span end="7039" id="PMC5732505.nxml.gz-111" start="7032">defined</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-112" type="identity">
+         <class id="as"/>
+         <span end="7063" id="PMC5732505.nxml.gz-112" start="7061">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-113" type="identity">
+         <class id="as"/>
+         <span end="7113" id="PMC5732505.nxml.gz-113" start="7111">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-114" type="identity">
+         <class id="probable_understanding"/>
+         <span end="7140" id="PMC5732505.nxml.gz-114" start="7135">since</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-115" type="identity">
+         <class id="is_considered"/>
+         <span end="7184" id="PMC5732505.nxml.gz-115" start="7171">is considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-116" type="identity">
+         <class id="subject_scope"/>
+         <span end="7397" id="PMC5732505.nxml.gz-116" start="7218">Suboptimal vitamin D status was defined as 25(OH)D &lt; 80 nmol/L, and optimal vitamin D status as 25(OH)D ≥ 80 nmol/L, as has been suggested based on calcium absorption studies [18]</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-117" type="identity">
+         <class id="suboptimal"/>
+         <span end="7228" id="PMC5732505.nxml.gz-117" start="7218">Suboptimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-118" type="identity">
+         <class id="defined"/>
+         <span end="7257" id="PMC5732505.nxml.gz-118" start="7250">defined</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-119" type="identity">
+         <class id="as"/>
+         <span end="7260" id="PMC5732505.nxml.gz-119" start="7258">as</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-120" type="identity">
+         <class id="optimal"/>
+         <span end="7293" id="PMC5732505.nxml.gz-120" start="7286">optimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-121" type="identity">
+         <class id="as"/>
+         <span end="7313" id="PMC5732505.nxml.gz-121" start="7311">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-122" type="identity">
+         <class id="as"/>
+         <span end="7337" id="PMC5732505.nxml.gz-122" start="7335">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-123" type="identity">
+         <class id="has_been_suggested"/>
+         <span end="7356" id="PMC5732505.nxml.gz-123" start="7338">has been suggested</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-124" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="7365" id="PMC5732505.nxml.gz-124" start="7357">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-125" type="identity">
+         <class id="studies"/>
+         <span end="7392" id="PMC5732505.nxml.gz-125" start="7385">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-126" type="identity">
+         <class id="subject_scope"/>
+         <span end="8816" id="PMC5732505.nxml.gz-126" start="8548">Total GWG was categorised into inadequate, adequate and excessive based on national recommendations by prepregnancy BMI: recommended GWG for underweight mothers was 12.5–18.0 kg, for normal weight 11.5–16.0 kg, for overweight 7.0–11.5 kg, and for obese 5.0–9.0 kg [19]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-127" type="identity">
+         <class id="probable_understanding"/>
+         <span end="8622" id="PMC5732505.nxml.gz-127" start="8614">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-128" type="identity">
+         <class id="probable_understanding"/>
+         <span end="8647" id="PMC5732505.nxml.gz-128" start="8632">recommendations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-129" type="identity">
+         <class id="subject_scope"/>
+         <span end="9233" id="PMC5732505.nxml.gz-129" start="8976">Education was re-categorised into ‘lower’ and ‘higher’ education (lower = lower or upper secondary or post-secondary non-tertiary education, higher = first or second stage of tertiary education), due to a low number of subjects in other education categories</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC5732505.nxml.gz-130" type="identity">
+         <class id="problem_complication"/>
+         <span end="9178" id="PMC5732505.nxml.gz-130" start="9172">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-131" type="identity">
+         <class id="low"/>
+         <span end="9184" id="PMC5732505.nxml.gz-131" start="9181">low</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5732505.nxml.gz-132" type="identity">
+         <class id="subject_scope"/>
+         <span end="9867" id="PMC5732505.nxml.gz-132" start="9663">These data and the duration of pregnancy were retrospectively collected from birth records. Birth size measures were transformed into SDS by using Finnish sex-specific normative data for fetal growth [20]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-133" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="9724" id="PMC5732505.nxml.gz-133" start="9709">retrospectively</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-134" type="identity">
+         <class id="subject_scope"/>
+         <span end="10086" id="PMC5732505.nxml.gz-134" start="10002">The diagnosis of GDM was based on a two-hour 75 g oral glucose tolerance test (OGTT)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-135" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="10035" id="PMC5732505.nxml.gz-135" start="10027">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-136" type="identity">
+         <class id="according_to"/>
+         <span end="10100" id="PMC5732505.nxml.gz-136" start="10088">According to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-137" type="identity">
+         <class id="subject_scope"/>
+         <span end="10285" id="PMC5732505.nxml.gz-137" start="10088">According to the national guidelines, GDM was diagnosed if the OGTT results exceeded cut-offs for one or more values: fasting plasma glucose ≥5.3 mmol/l, 1-h ≥ 10.0 mmol/l and 2-h ≥ 8.6 mmol/l [19]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-138" type="identity">
+         <class id="guidelines"/>
+         <span end="10124" id="PMC5732505.nxml.gz-138" start="10114">guidelines</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-139" type="identity">
+         <class id="in_general"/>
+         <span end="10484" id="PMC5732505.nxml.gz-139" start="10474">In general</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-140" type="identity">
+         <class id="subject_scope"/>
+         <span end="10667" id="PMC5732505.nxml.gz-140" start="10474">In general, screening for GDM depends on a presence of risk factors according to national recommendations [19] and based on these, OGTT was performed on 490 (54.5%) of the participating mothers</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-141" type="identity">
+         <class id="depends_on"/>
+         <span end="10514" id="PMC5732505.nxml.gz-141" start="10504">depends on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-142" type="identity">
+         <class id="risk_factors"/>
+         <span end="10541" id="PMC5732505.nxml.gz-142" start="10529">risk factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-143" type="identity">
+         <class id="according_to"/>
+         <span end="10554" id="PMC5732505.nxml.gz-143" start="10542">according to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-144" type="identity">
+         <class id="probable_understanding"/>
+         <span end="10579" id="PMC5732505.nxml.gz-144" start="10564">recommendations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-145" type="identity">
+         <class id="based_on"/>
+         <span end="10597" id="PMC5732505.nxml.gz-145" start="10589">based on</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-146" type="identity">
+         <class id="subject_scope"/>
+         <span end="11178" id="PMC5732505.nxml.gz-146" start="11110">Season with four categories affected maternal 25(OH)D concentrations</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-147" type="identity">
+         <class id="affected"/>
+         <span end="11146" id="PMC5732505.nxml.gz-147" start="11138">affected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-148" type="identity">
+         <class id="subject_scope"/>
+         <span end="11377" id="PMC5732505.nxml.gz-148" start="11330">The data included partially missing information</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-149" type="identity">
+         <class id="missing"/>
+         <span end="11365" id="PMC5732505.nxml.gz-149" start="11358">missing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-150" type="identity">
+         <class id="imputation"/>
+         <span end="11389" id="PMC5732505.nxml.gz-150" start="11379">Imputation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-151" type="identity">
+         <class id="subject_scope"/>
+         <span end="11518" id="PMC5732505.nxml.gz-151" start="11379">Imputation of missing values for education ( n  = 12) and parity ( n  = 2) were conducted using the median value in subgroups by GDM status</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-152" type="identity">
+         <class id="missing"/>
+         <span end="11400" id="PMC5732505.nxml.gz-152" start="11393">missing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-153" type="identity">
+         <class id="missing"/>
+         <span end="11527" id="PMC5732505.nxml.gz-153" start="11520">Missing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-154" type="identity">
+         <class id="subject_scope"/>
+         <span end="11679" id="PMC5732505.nxml.gz-154" start="11520">Missing data on prepregnancy smoking as number of cigarettes daily were imputed as a median value (= zero) by GDM status according to smoking status ( n  = 22)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-155" type="identity">
+         <class id="as"/>
+         <span end="11559" id="PMC5732505.nxml.gz-155" start="11557">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-156" type="identity">
+         <class id="imputed"/>
+         <span end="11599" id="PMC5732505.nxml.gz-156" start="11592">imputed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-157" type="identity">
+         <class id="as"/>
+         <span end="11602" id="PMC5732505.nxml.gz-157" start="11600">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-158" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="11653" id="PMC5732505.nxml.gz-158" start="11641">according to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-159" type="identity">
+         <class id="imputation"/>
+         <span end="11691" id="PMC5732505.nxml.gz-159" start="11681">Imputation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-160" type="identity">
+         <class id="subject_scope"/>
+         <span end="11817" id="PMC5732505.nxml.gz-160" start="11681">Imputation of missing values for GWG at 12 gestational weeks was conducted using a mean value of two consecutive measurements ( n  = 12)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-161" type="identity">
+         <class id="missing"/>
+         <span end="11702" id="PMC5732505.nxml.gz-161" start="11695">missing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-162" type="identity">
+         <class id="missing"/>
+         <span end="11826" id="PMC5732505.nxml.gz-162" start="11819">Missing</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5732505.nxml.gz-163" type="identity">
+         <class id="subject_scope"/>
+         <span end="11945" id="PMC5732505.nxml.gz-163" start="11819">Missing values of other variables were not imputed. Maternal characteristics in Table 1are described only as un-imputed values</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-164" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="11869" id="PMC5732505.nxml.gz-164" start="11858">not imputed</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-165" type="identity">
+         <class id="subject_scope"/>
+         <span end="15514" id="PMC5732505.nxml.gz-165" start="15297">In the study population 97% were vitamin D sufficient [25(OH)D &gt; 50 nmol/L] in both mothers and newborns, while optimal vitamin D status [25(OH)D above 80 nmol/L] was seen in 52% of the mothers and 45% of the newborns</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-166" type="identity">
+         <class id="optimal"/>
+         <span end="15416" id="PMC5732505.nxml.gz-166" start="15409">optimal</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-167" type="identity">
+         <class id="seen"/>
+         <span end="15468" id="PMC5732505.nxml.gz-167" start="15464">seen</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-168" type="identity">
+         <class id="majority"/>
+         <span end="15524" id="PMC5732505.nxml.gz-168" start="15516">Majority</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-169" type="identity">
+         <class id="subject_scope"/>
+         <span end="15714" id="PMC5732505.nxml.gz-169" start="15516">Majority (95%) of the mothers took vitamin D supplements during pregnancy, most of them were highly educated (75% had at least a bachelor level education), and 73% had normal weight before pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-170" type="identity">
+         <class id="most"/>
+         <span end="15595" id="PMC5732505.nxml.gz-170" start="15591">most</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-171" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="16306" id="PMC5732505.nxml.gz-171" start="16292">No differences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-172" type="identity">
+         <class id="subject_scope"/>
+         <span end="16445" id="PMC5732505.nxml.gz-172" start="16292">No differences between the groups were observed in several other characteristics, including GWG, duration of gestation, and supplemental vitamin D intake</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-173" type="identity">
+         <class id="observed"/>
+         <span end="16339" id="PMC5732505.nxml.gz-173" start="16331">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-174" type="identity">
+         <class id="several"/>
+         <span end="16350" id="PMC5732505.nxml.gz-174" start="16343">several</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-175" type="identity">
+         <class id="subject_scope"/>
+         <span end="16678" id="PMC5732505.nxml.gz-175" start="16447">We investigated whether pregnancy 25(OH)D concentration differed between mothers with ( n  = 81) and without GDM ( n  = 639) (Fig. 1) in a crude model and in a model adjusted for season, maternal age, education and prepregnancy BMI</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-176" type="identity">
+         <class id="investigated"/>
+         <span end="16462" id="PMC5732505.nxml.gz-176" start="16450">investigated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-177" type="identity">
+         <class id="whether...and"/>
+         <span end="16470" id="PMC5732505.nxml.gz-177" start="16463">whether</span>
+         <span end="16547" id="PMC5732505.nxml.gz-178" start="16544">and</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-179" type="identity">
+         <class id="subject_scope"/>
+         <span end="16844" id="PMC5732505.nxml.gz-179" start="16680">Adjusted analysis confirmed no difference in mean ± SEM pregnancy 25(OH)D concentration between GDM and non-GDM mothers (81.7 ± 2.3 vs 81.7 ± 0.8 nmol/L, P  = 0.99)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-180" type="identity">
+         <class id="confirmed"/>
+         <span end="16707" id="PMC5732505.nxml.gz-180" start="16698">confirmed</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-181" type="identity">
+         <class id="no...difference"/>
+         <span end="16721" id="PMC5732505.nxml.gz-181" start="16708">no difference</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-182" type="identity">
+         <class id="similarly"/>
+         <span end="16855" id="PMC5732505.nxml.gz-182" start="16846">Similarly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-183" type="identity">
+         <class id="subject_scope"/>
+         <span end="17031" id="PMC5732505.nxml.gz-183" start="16846">Similarly in UCB, the adjusted analysis showed no difference in 25(OH)D concentrations in infants born to women with and without GDM (79.1 ± 2.3 vs 80.1 ± 0.8 nmol/L, P  = 0.69) (Fig.1)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-184" type="identity">
+         <class id="showed"/>
+         <span end="16892" id="PMC5732505.nxml.gz-184" start="16886">showed</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-185" type="identity">
+         <class id="no...difference"/>
+         <span end="16906" id="PMC5732505.nxml.gz-185" start="16893">no difference</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-186" type="identity">
+         <class id="subject_scope"/>
+         <span end="17254" id="PMC5732505.nxml.gz-186" start="17033">These results remained when only those who had undergone OGTT were included: pregnancy and UCB 25(OH)D concentrations were similar in GDM ( n  = 80) and non-GDM mothers ( n  = 323) ( P  = 0.94 and P  = 0.43, respectively)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-187" type="identity">
+         <class id="remained"/>
+         <span end="17055" id="PMC5732505.nxml.gz-187" start="17047">remained</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-188" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="17065" id="PMC5732505.nxml.gz-188" start="17061">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-189" type="identity">
+         <class id="similar"/>
+         <span end="17163" id="PMC5732505.nxml.gz-189" start="17156">similar</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5732505.nxml.gz-190" type="identity">
+         <class id="subject_scope"/>
+         <span end="17727" id="PMC5732505.nxml.gz-190" start="17542">Maternal 25(OH)D concentrations were similar between non-GDM and GDM mothers. Abbreviations: 25(OH)D, 25-hydroxy vitamin D; UCB, umbilical cord blood; GDM, gestational diabetes mellitus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-191" type="identity">
+         <class id="similar"/>
+         <span end="17586" id="PMC5732505.nxml.gz-191" start="17579">similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-192" type="identity">
+         <class id="subject_scope"/>
+         <span end="17863" id="PMC5732505.nxml.gz-192" start="17728">We further tested for possible associations between pregnancy 25(OH)D concentration and OGTT results with a univariate regression model</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-193" type="identity">
+         <class id="further"/>
+         <span end="17738" id="PMC5732505.nxml.gz-193" start="17731">further</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-194" type="identity">
+         <class id="possible"/>
+         <span end="17758" id="PMC5732505.nxml.gz-194" start="17750">possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-195" type="identity">
+         <class id="associations"/>
+         <span end="17771" id="PMC5732505.nxml.gz-195" start="17759">associations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-196" type="identity">
+         <class id="subject_scope"/>
+         <span end="18263" id="PMC5732505.nxml.gz-196" start="18096">The prevalence of vitamin D deficiency [25(OH)D &lt; 50 nmol/L] during pregnancy was similar between mothers with or without GDM [4.9% (4/81) vs 3.3% (21/642), P  = 0.51]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-197" type="identity">
+         <class id="prevalence"/>
+         <span end="18110" id="PMC5732505.nxml.gz-197" start="18100">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-198" type="identity">
+         <class id="similar"/>
+         <span end="18185" id="PMC5732505.nxml.gz-198" start="18178">similar</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-199" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="18272" id="PMC5732505.nxml.gz-199" start="18265">However</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-200" type="identity">
+         <class id="subject_scope"/>
+         <span end="18405" id="PMC5732505.nxml.gz-200" start="18265">However, more GDM mothers were vitamin D deficient at the delivery compared with non-GDM mothers [7.4% (6/81) vs 2.8% (18/642) ( P  = 0.042)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-201" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="18415" id="PMC5732505.nxml.gz-201" start="18408">However</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-202" type="identity">
+         <class id="subject_scope"/>
+         <span end="18569" id="PMC5732505.nxml.gz-202" start="18408">However, of these six deficient GDM-mothers five (83%) were smokers, and correspondingly in non-GDM mothers four out of eighteen were smokers (24%) ( P  = 0.018)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-203" type="identity">
+         <class id="subject_scope"/>
+         <span end="18715" id="PMC5732505.nxml.gz-203" start="18612">The effect of maternal factors on birth size in fully adjusted models is presented in Table 2and Fig. 2</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-204" type="identity">
+         <class id="effect"/>
+         <span end="18622" id="PMC5732505.nxml.gz-204" start="18616">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-205" type="identity">
+         <class id="factors"/>
+         <span end="18642" id="PMC5732505.nxml.gz-205" start="18635">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-206" type="identity">
+         <class id="as"/>
+         <span end="18824" id="PMC5732505.nxml.gz-206" start="18822">As</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-207" type="identity">
+         <class id="subject_scope"/>
+         <span end="19062" id="PMC5732505.nxml.gz-207" start="18822">As compared to mothers with suboptimal pregnancy 25(OH)D, mothers with optimal pregnancy 25(OH)D had heavier newborns ( P  = 0.010), but this positive association was not verified in linear regression (B 0.00; 95% CI -0.00, 0.01; P =  0.16)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-208" type="identity">
+         <class id="compared_to"/>
+         <span end="18836" id="PMC5732505.nxml.gz-208" start="18825">compared to</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-209" type="identity">
+         <class id="suboptimal"/>
+         <span end="18860" id="PMC5732505.nxml.gz-209" start="18850">suboptimal</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-210" type="identity">
+         <class id="optimal"/>
+         <span end="18900" id="PMC5732505.nxml.gz-210" start="18893">optimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-211" type="identity">
+         <class id="but"/>
+         <span end="18958" id="PMC5732505.nxml.gz-211" start="18955">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-212" type="identity">
+         <class id="association"/>
+         <span end="18984" id="PMC5732505.nxml.gz-212" start="18973">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-213" type="identity">
+         <class id="was_not"/>
+         <span end="18992" id="PMC5732505.nxml.gz-213" start="18985">was not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-214" type="identity">
+         <class id="subject_scope"/>
+         <span end="19199" id="PMC5732505.nxml.gz-214" start="19064">Newborn head circumference was larger in those with suboptimal UBC 25(OH)D compared with mothers with optimal UCB 25(OH)D ( P  = 0.003)</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-215" type="identity">
+         <class id="suboptimal"/>
+         <span end="19126" id="PMC5732505.nxml.gz-215" start="19116">suboptimal</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-216" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="19152" id="PMC5732505.nxml.gz-216" start="19139">compared with</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-217" type="identity">
+         <class id="optimal"/>
+         <span end="19173" id="PMC5732505.nxml.gz-217" start="19166">optimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-218" type="identity">
+         <class id="further"/>
+         <span end="19208" id="PMC5732505.nxml.gz-218" start="19201">Further</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-219" type="identity">
+         <class id="subject_scope"/>
+         <span end="19347" id="PMC5732505.nxml.gz-219" start="19201">Further, linear regression confirmed the inverse association between UCB 25(OH)D and head circumference (B -1.74; 95% CI -3.25, −0.23; P =  0.024)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-220" type="identity">
+         <class id="confirmed"/>
+         <span end="19237" id="PMC5732505.nxml.gz-220" start="19228">confirmed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-221" type="identity">
+         <class id="association"/>
+         <span end="19261" id="PMC5732505.nxml.gz-221" start="19250">association</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5732505.nxml.gz-222" type="identity">
+         <class id="subject_scope"/>
+         <span end="19553" id="PMC5732505.nxml.gz-222" start="19349">These results did not change after adjusting for mode of delivery (vaginal, vacuum assisted or caesarean section). Prepregnancy BMI, GWG, and parity had independent effects on birth size (Table2and Fig.2)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-223" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="19377" id="PMC5732505.nxml.gz-223" start="19363">did not change</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-224" type="identity">
+         <class id="independent"/>
+         <span end="19513" id="PMC5732505.nxml.gz-224" start="19502">independent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-225" type="identity">
+         <class id="effects"/>
+         <span end="19521" id="PMC5732505.nxml.gz-225" start="19514">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-226" type="identity">
+         <class id="subject_scope"/>
+         <span end="22588" id="PMC5732505.nxml.gz-226" start="22386">The primary focus of this work was to determine whether 25(OH)D concentration differs between mothers with and without GDM, and whether vitamin D status affects birth size in normal-birth-weight infants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-227" type="identity">
+         <class id="focus"/>
+         <span end="22403" id="PMC5732505.nxml.gz-227" start="22398">focus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-228" type="identity">
+         <class id="to_determine"/>
+         <span end="22433" id="PMC5732505.nxml.gz-228" start="22421">to determine</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-229" type="identity">
+         <class id="whether...and"/>
+         <span end="22441" id="PMC5732505.nxml.gz-229" start="22434">whether</span>
+         <span end="22496" id="PMC5732505.nxml.gz-230" start="22493">and</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-231" type="identity">
+         <class id="whether"/>
+         <span end="22521" id="PMC5732505.nxml.gz-231" start="22514">whether</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-232" type="identity">
+         <class id="affects"/>
+         <span end="22546" id="PMC5732505.nxml.gz-232" start="22539">affects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-233" type="identity">
+         <class id="almost_all"/>
+         <span end="22651" id="PMC5732505.nxml.gz-233" start="22641">Almost all</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-234" type="identity">
+         <class id="subject_scope"/>
+         <span end="22817" id="PMC5732505.nxml.gz-234" start="22641">Almost all mother-child pairs (97%) were vitamin D sufficient [25(OH)D ≥ 50 nmol/L], and about half of the mother-child pairs had optimal vitamin D status [25(OH)D ≥ 80 nmol/L]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-235" type="identity">
+         <class id="about"/>
+         <span end="22735" id="PMC5732505.nxml.gz-235" start="22730">about</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-236" type="identity">
+         <class id="optimal"/>
+         <span end="22778" id="PMC5732505.nxml.gz-236" start="22771">optimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-237" type="identity">
+         <class id="subject_scope"/>
+         <span end="22890" id="PMC5732505.nxml.gz-237" start="22819">Maternal 25(OH)D concentrations were similar in GDM and non-GDM mothers</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-238" type="identity">
+         <class id="similar"/>
+         <span end="22863" id="PMC5732505.nxml.gz-238" start="22856">similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-239" type="identity">
+         <class id="interestingly"/>
+         <span end="22905" id="PMC5732505.nxml.gz-239" start="22892">Interestingly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-240" type="identity">
+         <class id="subject_scope"/>
+         <span end="23079" id="PMC5732505.nxml.gz-240" start="22892">Interestingly, pregnancy vitamin D status associated positively with birth weight, but an inverse association was observed between newborn vitamin D status and head circumference at birth</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-241" type="identity">
+         <class id="associated"/>
+         <span end="22944" id="PMC5732505.nxml.gz-241" start="22934">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-242" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="22978" id="PMC5732505.nxml.gz-242" start="22975">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-243" type="identity">
+         <class id="association"/>
+         <span end="23001" id="PMC5732505.nxml.gz-243" start="22990">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-244" type="identity">
+         <class id="observed"/>
+         <span end="23014" id="PMC5732505.nxml.gz-244" start="23006">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-245" type="identity">
+         <class id="subject_scope"/>
+         <span end="23240" id="PMC5732505.nxml.gz-245" start="23081">Lu et al. (2016) concluded in their meta-analysis that maternal vitamin D insufficiency (&lt; 50 nmol/L or &lt;75 nmol/L) was associated with greater risk of GDM [6]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-246" type="identity">
+         <class id="concluded"/>
+         <span end="23107" id="PMC5732505.nxml.gz-246" start="23098">concluded</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-247" type="identity">
+         <class id="associated"/>
+         <span end="23211" id="PMC5732505.nxml.gz-247" start="23201">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-248" type="identity">
+         <class id="risk"/>
+         <span end="23229" id="PMC5732505.nxml.gz-248" start="23225">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-249" type="identity">
+         <class id="however"/>
+         <span end="23249" id="PMC5732505.nxml.gz-249" start="23242">However</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5732505.nxml.gz-250" type="identity">
+         <class id="subject_scope"/>
+         <span end="23541" id="PMC5732505.nxml.gz-250" start="23242">However, they suggested that this applied only in developed countries and when no adjustments for confounders were made [6]. In our study, maternal vitamin D concentrations were similar in non-GDM and GDM mothers, and there was no linear association between vitamin D concentrations and OGTT results</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-251" type="identity">
+         <class id="suggested"/>
+         <span end="23265" id="PMC5732505.nxml.gz-251" start="23256">suggested</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-252" type="identity">
+         <class id="only"/>
+         <span end="23288" id="PMC5732505.nxml.gz-252" start="23284">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-253" type="identity">
+         <class id="confounders"/>
+         <span end="23351" id="PMC5732505.nxml.gz-253" start="23340">confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-254" type="identity">
+         <class id="our_study"/>
+         <span end="23379" id="PMC5732505.nxml.gz-254" start="23370">our study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-255" type="identity">
+         <class id="similar"/>
+         <span end="23427" id="PMC5732505.nxml.gz-255" start="23420">similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-256" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="23550" id="PMC5732505.nxml.gz-256" start="23543">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-257" type="identity">
+         <class id="subject_scope"/>
+         <span end="23712" id="PMC5732505.nxml.gz-257" start="23543">However, we observed that vitamin D deficiency at delivery was more prevalent in mothers with GDM compared with non-GDM mothers, but this was not marked during pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-258" type="identity">
+         <class id="observed"/>
+         <span end="23563" id="PMC5732505.nxml.gz-258" start="23555">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-259" type="identity">
+         <class id="prevalent"/>
+         <span end="23620" id="PMC5732505.nxml.gz-259" start="23611">prevalent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-260" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="23675" id="PMC5732505.nxml.gz-260" start="23672">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-261" type="identity">
+         <class id="subject_scope"/>
+         <span end="23856" id="PMC5732505.nxml.gz-261" start="23714">This finding was possibly confounded by smoking, which was more prevalent in the deficient GDM mothers compared with deficient non-GDM mothers</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-262" type="identity">
+         <class id="finding"/>
+         <span end="23726" id="PMC5732505.nxml.gz-262" start="23719">finding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-263" type="identity">
+         <class id="possibly"/>
+         <span end="23739" id="PMC5732505.nxml.gz-263" start="23731">possibly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-264" type="identity">
+         <class id="confounded"/>
+         <span end="23750" id="PMC5732505.nxml.gz-264" start="23740">confounded</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-265" type="identity">
+         <class id="prevalent"/>
+         <span end="23787" id="PMC5732505.nxml.gz-265" start="23778">prevalent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-266" type="identity">
+         <class id="nevertheless"/>
+         <span end="23870" id="PMC5732505.nxml.gz-266" start="23858">Nevertheless</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-267" type="identity">
+         <class id="subject_scope"/>
+         <span end="23950" id="PMC5732505.nxml.gz-267" start="23858">Nevertheless due to small number of deficient mothers we could not investigate this reliably</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-268" type="identity">
+         <class id="due_to"/>
+         <span end="23877" id="PMC5732505.nxml.gz-268" start="23871">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-269" type="identity">
+         <class id="small"/>
+         <span end="23883" id="PMC5732505.nxml.gz-269" start="23878">small</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-270" type="identity">
+         <class id="could...not"/>
+         <span end="23924" id="PMC5732505.nxml.gz-270" start="23915">could not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-271" type="identity">
+         <class id="in_accordance"/>
+         <span end="23965" id="PMC5732505.nxml.gz-271" start="23952">In accordance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-272" type="identity">
+         <class id="subject_scope"/>
+         <span end="24110" id="PMC5732505.nxml.gz-272" start="23952">In accordance with other studies, our results imply that in a vitamin D sufficient population, the association between 25(OH)D and GDM may not exist [8,21,22]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-273" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="23984" id="PMC5732505.nxml.gz-273" start="23971">other studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-274" type="identity">
+         <class id="probable_understanding"/>
+         <span end="24003" id="PMC5732505.nxml.gz-274" start="23998">imply</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-275" type="identity">
+         <class id="association"/>
+         <span end="24062" id="PMC5732505.nxml.gz-275" start="24051">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-276" type="identity">
+         <class id="may_not"/>
+         <span end="24094" id="PMC5732505.nxml.gz-276" start="24087">may not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-277" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="24121" id="PMC5732505.nxml.gz-277" start="24112">Similarly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-278" type="identity">
+         <class id="subject_scope"/>
+         <span end="24290" id="PMC5732505.nxml.gz-278" start="24112">Similarly, Josefson et al. (2016) stated that maternal fasting glucose or GDM status was not associated with pregnancy 25(OH)D, which in their study was on average 93 nmol/L [23]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-279" type="identity">
+         <class id="stated"/>
+         <span end="24152" id="PMC5732505.nxml.gz-279" start="24146">stated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-280" type="identity">
+         <class id="subject_scope"/>
+         <span end="24446" id="PMC5732505.nxml.gz-280" start="24292">GDM is a multifactorial disease involving various risk factors, for example lifestyle factors, obesity, rapid weight gain and predisposing genetic factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-281" type="identity">
+         <class id="difficult_task"/>
+         <span end="24315" id="PMC5732505.nxml.gz-281" start="24301">multifactorial</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-282" type="identity">
+         <class id="risk_factors"/>
+         <span end="24354" id="PMC5732505.nxml.gz-282" start="24342">risk factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-283" type="identity">
+         <class id="subject_scope"/>
+         <span end="24618" id="PMC5732505.nxml.gz-283" start="24448">Furthermore, some of these factors are related to or co-exist with poor vitamin D status [24,25], which further increases the challenge when dissecting independent effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-284" type="identity">
+         <class id="some"/>
+         <span end="24465" id="PMC5732505.nxml.gz-284" start="24461">some</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-285" type="identity">
+         <class id="factors"/>
+         <span end="24482" id="PMC5732505.nxml.gz-285" start="24475">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-286" type="identity">
+         <class id="related"/>
+         <span end="24494" id="PMC5732505.nxml.gz-286" start="24487">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-287" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="24509" id="PMC5732505.nxml.gz-287" start="24501">co-exist</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-288" type="identity">
+         <class id="important_consideration"/>
+         <span end="24519" id="PMC5732505.nxml.gz-288" start="24515">poor</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-289" type="identity">
+         <class id="poor"/>
+         <span end="24519" id="PMC5732505.nxml.gz-289" start="24515">poor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-290" type="identity">
+         <class id="challenge"/>
+         <span end="24583" id="PMC5732505.nxml.gz-290" start="24574">challenge</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-291" type="identity">
+         <class id="independent"/>
+         <span end="24611" id="PMC5732505.nxml.gz-291" start="24600">independent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-292" type="identity">
+         <class id="effect"/>
+         <span end="24618" id="PMC5732505.nxml.gz-292" start="24612">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-293" type="identity">
+         <class id="it_is_possible"/>
+         <span end="24634" id="PMC5732505.nxml.gz-293" start="24620">It is possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-294" type="identity">
+         <class id="subject_scope"/>
+         <span end="24831" id="PMC5732505.nxml.gz-294" start="24620">It is possible that in previous studies where no adjustment for confounding factors was performed, the association between 25(OH)D and GDM reflects shared factors such as an unhealthy lifestyle or adiposity [26]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-295" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="24659" id="PMC5732505.nxml.gz-295" start="24643">previous studies</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-296" type="identity">
+         <class id="previous...studies"/>
+         <span end="24659" id="PMC5732505.nxml.gz-296" start="24643">previous studies</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-297" type="identity">
+         <class id="problem_complication"/>
+         <span end="24668" id="PMC5732505.nxml.gz-297" start="24666">no</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-298" type="identity">
+         <class id="confounding_factors"/>
+         <span end="24703" id="PMC5732505.nxml.gz-298" start="24684">confounding factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-299" type="identity">
+         <class id="association"/>
+         <span end="24734" id="PMC5732505.nxml.gz-299" start="24723">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-300" type="identity">
+         <class id="reflects"/>
+         <span end="24767" id="PMC5732505.nxml.gz-300" start="24759">reflects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-301" type="identity">
+         <class id="factors"/>
+         <span end="24782" id="PMC5732505.nxml.gz-301" start="24775">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-302" type="identity">
+         <class id="subject_scope"/>
+         <span end="24932" id="PMC5732505.nxml.gz-302" start="24833">Yet, contrary to many studies, associations between high 25(OH)D and GDM have been reported [27,28]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-303" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="24836" id="PMC5732505.nxml.gz-303" start="24833">Yet</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-304" type="identity">
+         <class id="contrary"/>
+         <span end="24846" id="PMC5732505.nxml.gz-304" start="24838">contrary</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-305" type="identity">
+         <class id="many_studies"/>
+         <span end="24862" id="PMC5732505.nxml.gz-305" start="24850">many studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-306" type="identity">
+         <class id="associations"/>
+         <span end="24876" id="PMC5732505.nxml.gz-306" start="24864">associations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-307" type="identity">
+         <class id="have_been_reported"/>
+         <span end="24924" id="PMC5732505.nxml.gz-307" start="24906">have been reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-308" type="identity">
+         <class id="subject_scope"/>
+         <span end="25157" id="PMC5732505.nxml.gz-308" start="24934">Although a biological mechanism between low vitamin D status and diabetes is plausible [29], only a few interventions have been conducted, and these have not proved an effect of vitamin D supplementation on risk of GDM [30]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-309" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="24942" id="PMC5732505.nxml.gz-309" start="24934">Although</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-310" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="24942" id="PMC5732505.nxml.gz-310" start="24934">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-311" type="identity">
+         <class id="plausible"/>
+         <span end="25020" id="PMC5732505.nxml.gz-311" start="25011">plausible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-312" type="identity">
+         <class id="only"/>
+         <span end="25031" id="PMC5732505.nxml.gz-312" start="25027">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-313" type="identity">
+         <class id="few"/>
+         <span end="25037" id="PMC5732505.nxml.gz-313" start="25034">few</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-314" type="identity">
+         <class id="interventions"/>
+         <span end="25051" id="PMC5732505.nxml.gz-314" start="25038">interventions</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-315" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="25091" id="PMC5732505.nxml.gz-315" start="25083">have not</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-316" type="identity">
+         <class id="have_not"/>
+         <span end="25091" id="PMC5732505.nxml.gz-316" start="25083">have not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-317" type="identity">
+         <class id="effect"/>
+         <span end="25108" id="PMC5732505.nxml.gz-317" start="25102">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-318" type="identity">
+         <class id="risk"/>
+         <span end="25145" id="PMC5732505.nxml.gz-318" start="25141">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-319" type="identity">
+         <class id="subject_scope"/>
+         <span end="25436" id="PMC5732505.nxml.gz-319" start="25159">Maternal vitamin D status associated with birth size: pregnancy 25(OH)D showed a positive association towards birth weight, but UCB 25(OH)D an inverse association with head circumference, while only the inverse association with head circumference was verified with linear model</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-320" type="identity">
+         <class id="associated"/>
+         <span end="25195" id="PMC5732505.nxml.gz-320" start="25185">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-321" type="identity">
+         <class id="showed"/>
+         <span end="25237" id="PMC5732505.nxml.gz-321" start="25231">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-322" type="identity">
+         <class id="association"/>
+         <span end="25260" id="PMC5732505.nxml.gz-322" start="25249">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-323" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="25286" id="PMC5732505.nxml.gz-323" start="25283">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-324" type="identity">
+         <class id="association"/>
+         <span end="25321" id="PMC5732505.nxml.gz-324" start="25310">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-325" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="25352" id="PMC5732505.nxml.gz-325" start="25347">while</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-326" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="25357" id="PMC5732505.nxml.gz-326" start="25353">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-327" type="identity">
+         <class id="association"/>
+         <span end="25381" id="PMC5732505.nxml.gz-327" start="25370">association</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-328" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="25418" id="PMC5732505.nxml.gz-328" start="25410">verified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-329" type="identity">
+         <class id="subject_scope"/>
+         <span end="25575" id="PMC5732505.nxml.gz-329" start="25438">Harvey et al. (2014) concluded that modest evidence exist for a positive relation between maternal vitamin D status and birth weight [31]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-330" type="identity">
+         <class id="concluded"/>
+         <span end="25468" id="PMC5732505.nxml.gz-330" start="25459">concluded</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-331" type="identity">
+         <class id="modest_evidence"/>
+         <span end="25489" id="PMC5732505.nxml.gz-331" start="25474">modest evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-332" type="identity">
+         <class id="relation"/>
+         <span end="25519" id="PMC5732505.nxml.gz-332" start="25511">relation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-333" type="identity">
+         <class id="some...studies"/>
+         <span end="25581" id="PMC5732505.nxml.gz-333" start="25577">Some</span>
+         <span end="25597" id="PMC5732505.nxml.gz-334" start="25590">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-335" type="identity">
+         <class id="subject_scope"/>
+         <span end="25737" id="PMC5732505.nxml.gz-335" start="25577">Some earlier studies have shown that severe maternal vitamin D deficiency associates with smaller head circumference at birth [32,33], yet some have not [34,35]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-336" type="identity">
+         <class id="have_shown"/>
+         <span end="25608" id="PMC5732505.nxml.gz-336" start="25598">have shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-337" type="identity">
+         <class id="severe"/>
+         <span end="25620" id="PMC5732505.nxml.gz-337" start="25614">severe</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-338" type="identity">
+         <class id="associates"/>
+         <span end="25661" id="PMC5732505.nxml.gz-338" start="25651">associates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-339" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="25715" id="PMC5732505.nxml.gz-339" start="25712">yet</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-340" type="identity">
+         <class id="some"/>
+         <span end="25720" id="PMC5732505.nxml.gz-340" start="25716">some</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-341" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="25729" id="PMC5732505.nxml.gz-341" start="25721">have not</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-342" type="identity">
+         <class id="have_not"/>
+         <span end="25729" id="PMC5732505.nxml.gz-342" start="25721">have not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-343" type="identity">
+         <class id="in_agreement"/>
+         <span end="25751" id="PMC5732505.nxml.gz-343" start="25739">In agreement</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-344" type="identity">
+         <class id="subject_scope"/>
+         <span end="25904" id="PMC5732505.nxml.gz-344" start="25739">In agreement with our findings, others have discovered that mothers with higher vitamin D concentration have infants with smaller head circumference at birth [36,37]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-345" type="identity">
+         <class id="our_findings"/>
+         <span end="25769" id="PMC5732505.nxml.gz-345" start="25757">our findings</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-346" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="25777" id="PMC5732505.nxml.gz-346" start="25771">others</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-347" type="identity">
+         <class id="discovered"/>
+         <span end="25793" id="PMC5732505.nxml.gz-347" start="25783">discovered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-348" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="25913" id="PMC5732505.nxml.gz-348" start="25906">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-349" type="identity">
+         <class id="subject_scope"/>
+         <span end="26060" id="PMC5732505.nxml.gz-349" start="25906">However, the clinical relevance, if any, of the inverse relationship between maternal vitamin D status and head circumference at birth remains unexplained</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-350" type="identity">
+         <class id="relevance"/>
+         <span end="25937" id="PMC5732505.nxml.gz-350" start="25928">relevance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-351" type="identity">
+         <class id="relationship"/>
+         <span end="25974" id="PMC5732505.nxml.gz-351" start="25962">relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-352" type="identity">
+         <class id="remains"/>
+         <span end="26048" id="PMC5732505.nxml.gz-352" start="26041">remains</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-353" type="identity">
+         <class id="unexplained"/>
+         <span end="26060" id="PMC5732505.nxml.gz-353" start="26049">unexplained</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-354" type="identity">
+         <class id="subject_scope"/>
+         <span end="26196" id="PMC5732505.nxml.gz-354" start="26062">It is unknown whether this reflects differences in brain size or in skull bones’ structure, and needs to be explored in future studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-355" type="identity">
+         <class id="unknown"/>
+         <span end="26075" id="PMC5732505.nxml.gz-355" start="26068">unknown</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5732505.nxml.gz-356" type="identity">
+         <class id="whether...or"/>
+         <span end="26083" id="PMC5732505.nxml.gz-356" start="26076">whether</span>
+         <span end="26126" id="PMC5732505.nxml.gz-357" start="26124">or</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-358" type="identity">
+         <class id="reflects"/>
+         <span end="26097" id="PMC5732505.nxml.gz-358" start="26089">reflects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-359" type="identity">
+         <class id="needs"/>
+         <span end="26163" id="PMC5732505.nxml.gz-359" start="26158">needs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-360" type="identity">
+         <class id="future_studies"/>
+         <span end="26196" id="PMC5732505.nxml.gz-360" start="26182">future studies</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-361" type="identity">
+         <class id="subject_scope"/>
+         <span end="26314" id="PMC5732505.nxml.gz-361" start="26198">The mean difference in head circumference was 0.22 SD units between the groups with optimal and suboptimal UCB 25OHD</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-362" type="identity">
+         <class id="optimal"/>
+         <span end="26289" id="PMC5732505.nxml.gz-362" start="26282">optimal</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-363" type="identity">
+         <class id="suboptimal"/>
+         <span end="26304" id="PMC5732505.nxml.gz-363" start="26294">suboptimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-364" type="identity">
+         <class id="subject_scope"/>
+         <span end="26488" id="PMC5732505.nxml.gz-364" start="26316">A possible explanation for this might be a U-shaped association between maternal vitamin D concentration and fetal outcomes in a population with sufficient vitamin D status</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-365" type="identity">
+         <class id="possible"/>
+         <span end="26326" id="PMC5732505.nxml.gz-365" start="26318">possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-366" type="identity">
+         <class id="explanation"/>
+         <span end="26338" id="PMC5732505.nxml.gz-366" start="26327">explanation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-367" type="identity">
+         <class id="might"/>
+         <span end="26353" id="PMC5732505.nxml.gz-367" start="26348">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-368" type="identity">
+         <class id="association"/>
+         <span end="26379" id="PMC5732505.nxml.gz-368" start="26368">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-369" type="identity">
+         <class id="subject_scope"/>
+         <span end="26619" id="PMC5732505.nxml.gz-369" start="26490">We have previously suggested the U-shaped association between 25(OH)D concentration and inflammatory biomarkers in cord blood [5]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-370" type="identity">
+         <class id="previously"/>
+         <span end="26508" id="PMC5732505.nxml.gz-370" start="26498">previously</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-371" type="identity">
+         <class id="suggested"/>
+         <span end="26518" id="PMC5732505.nxml.gz-371" start="26509">suggested</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-372" type="identity">
+         <class id="association"/>
+         <span end="26543" id="PMC5732505.nxml.gz-372" start="26532">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-373" type="identity">
+         <class id="biomarkers"/>
+         <span end="26601" id="PMC5732505.nxml.gz-373" start="26591">biomarkers</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-374" type="identity">
+         <class id="subject_scope"/>
+         <span end="26828" id="PMC5732505.nxml.gz-374" start="26621">We have collected a homogenous cohort of Caucasian mothers from the capital region of Finland representing mothers without regular medication and their newborns who were born at term with normal birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-375" type="identity">
+         <class id="representing"/>
+         <span end="26727" id="PMC5732505.nxml.gz-375" start="26715">representing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-376" type="identity">
+         <class id="subject_scope"/>
+         <span end="26969" id="PMC5732505.nxml.gz-376" start="26830">In many previous studies, participants had various ethnic backgrounds which could affect both vitamin D status and their risk of GDM [7,38]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-377" type="identity">
+         <class id="many...studies"/>
+         <span end="26837" id="PMC5732505.nxml.gz-377" start="26833">many</span>
+         <span end="26854" id="PMC5732505.nxml.gz-378" start="26847">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-379" type="identity">
+         <class id="could"/>
+         <span end="26911" id="PMC5732505.nxml.gz-379" start="26906">could</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-380" type="identity">
+         <class id="affect"/>
+         <span end="26918" id="PMC5732505.nxml.gz-380" start="26912">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-381" type="identity">
+         <class id="risk"/>
+         <span end="26955" id="PMC5732505.nxml.gz-381" start="26951">risk</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5732505.nxml.gz-382" type="identity">
+         <class id="subject_scope"/>
+         <span end="27139" id="PMC5732505.nxml.gz-382" start="26971">A strength of the present study lies in the recruitment of subjects, which took place in a single hospital, enabled standardised data collection and covered all seasons</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-383" type="identity">
+         <class id="important_consideration"/>
+         <span end="26981" id="PMC5732505.nxml.gz-383" start="26973">strength</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-384" type="identity">
+         <class id="present_study"/>
+         <span end="27002" id="PMC5732505.nxml.gz-384" start="26989">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-385" type="identity">
+         <class id="however"/>
+         <span end="27148" id="PMC5732505.nxml.gz-385" start="27141">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-386" type="identity">
+         <class id="subject_scope"/>
+         <span end="27239" id="PMC5732505.nxml.gz-386" start="27141">However, a multi-centre study might have resulted in a wider variety of socio-economic backgrounds</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-387" type="identity">
+         <class id="might"/>
+         <span end="27176" id="PMC5732505.nxml.gz-387" start="27171">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-388" type="identity">
+         <class id="subject_scope"/>
+         <span end="27398" id="PMC5732505.nxml.gz-388" start="27241">A challenge in previous studies on vitamin D status and GDM has been the lack of relevant adjustments, for example adjustments for BMI and smoking status [6]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-389" type="identity">
+         <class id="challenge"/>
+         <span end="27252" id="PMC5732505.nxml.gz-389" start="27243">challenge</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-390" type="identity">
+         <class id="previous...studies"/>
+         <span end="27272" id="PMC5732505.nxml.gz-390" start="27256">previous studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-391" type="identity">
+         <class id="has...been"/>
+         <span end="27309" id="PMC5732505.nxml.gz-391" start="27301">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-392" type="identity">
+         <class id="problem_complication"/>
+         <span end="27321" id="PMC5732505.nxml.gz-392" start="27314">lack of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-393" type="identity">
+         <class id="relevant"/>
+         <span end="27330" id="PMC5732505.nxml.gz-393" start="27322">relevant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-394" type="identity">
+         <class id="subject_scope"/>
+         <span end="27524" id="PMC5732505.nxml.gz-394" start="27400">In the present study, we have systematically investigated confounders between groups, and adjusted for those when applicable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-395" type="identity">
+         <class id="present_study"/>
+         <span end="27420" id="PMC5732505.nxml.gz-395" start="27407">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-396" type="identity">
+         <class id="investigated"/>
+         <span end="27457" id="PMC5732505.nxml.gz-396" start="27445">investigated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-397" type="identity">
+         <class id="confounders"/>
+         <span end="27469" id="PMC5732505.nxml.gz-397" start="27458">confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-398" type="identity">
+         <class id="subject_scope"/>
+         <span end="27703" id="PMC5732505.nxml.gz-398" start="27526">The threshold for defining vitamin D deficiency and the diagnostic criteria for GDM vary between studies, which might affect the results and complicate the comparison of studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-399" type="identity">
+         <class id="defining"/>
+         <span end="27552" id="PMC5732505.nxml.gz-399" start="27544">defining</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-400" type="identity">
+         <class id="vary"/>
+         <span end="27614" id="PMC5732505.nxml.gz-400" start="27610">vary</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-401" type="identity">
+         <class id="studies"/>
+         <span end="27630" id="PMC5732505.nxml.gz-401" start="27623">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-402" type="identity">
+         <class id="might"/>
+         <span end="27643" id="PMC5732505.nxml.gz-402" start="27638">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-403" type="identity">
+         <class id="affect"/>
+         <span end="27650" id="PMC5732505.nxml.gz-403" start="27644">affect</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-404" type="identity">
+         <class id="difficult_task"/>
+         <span end="27677" id="PMC5732505.nxml.gz-404" start="27667">complicate</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5732505.nxml.gz-405" type="identity">
+         <class id="problem_complication"/>
+         <span end="27677" id="PMC5732505.nxml.gz-405" start="27667">complicate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-406" type="identity">
+         <class id="studies"/>
+         <span end="27703" id="PMC5732505.nxml.gz-406" start="27696">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-407" type="identity">
+         <class id="subject_scope"/>
+         <span end="27866" id="PMC5732505.nxml.gz-407" start="27705">A further limitation is that the OGTT was not performed on all mothers, and a slight possibility exists that the actual prevalence of GDM might be underestimated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-408" type="identity">
+         <class id="limitation"/>
+         <span end="27725" id="PMC5732505.nxml.gz-408" start="27715">limitation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-409" type="identity">
+         <class id="was_not"/>
+         <span end="27750" id="PMC5732505.nxml.gz-409" start="27743">was not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-410" type="identity">
+         <class id="possibility"/>
+         <span end="27801" id="PMC5732505.nxml.gz-410" start="27790">possibility</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-411" type="identity">
+         <class id="prevalence"/>
+         <span end="27835" id="PMC5732505.nxml.gz-411" start="27825">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-412" type="identity">
+         <class id="might"/>
+         <span end="27848" id="PMC5732505.nxml.gz-412" start="27843">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-413" type="identity">
+         <class id="underestimated"/>
+         <span end="27866" id="PMC5732505.nxml.gz-413" start="27852">underestimated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-414" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="27871" id="PMC5732505.nxml.gz-414" start="27868">Yet</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-415" type="identity">
+         <class id="subject_scope"/>
+         <span end="27976" id="PMC5732505.nxml.gz-415" start="27868">Yet, our main results were repeated in a subgroup analysis of only those women to whom an OGTT was performed</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-416" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="27903" id="PMC5732505.nxml.gz-416" start="27895">repeated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-417" type="identity">
+         <class id="only"/>
+         <span end="27934" id="PMC5732505.nxml.gz-417" start="27930">only</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5732505.nxml.gz-418" type="identity">
+         <class id="subject_scope"/>
+         <span end="28145" id="PMC5732505.nxml.gz-418" start="27978">In addition, the prevalence of GDM was in accordance with the national statistics [12]. However, in a cross-sectional setting causal relationships cannot be determined</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-419" type="identity">
+         <class id="prevalence"/>
+         <span end="28005" id="PMC5732505.nxml.gz-419" start="27995">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-420" type="identity">
+         <class id="in_accordance"/>
+         <span end="28030" id="PMC5732505.nxml.gz-420" start="28017">in accordance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-421" type="identity">
+         <class id="however"/>
+         <span end="28073" id="PMC5732505.nxml.gz-421" start="28066">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-422" type="identity">
+         <class id="relationships"/>
+         <span end="28124" id="PMC5732505.nxml.gz-422" start="28111">relationships</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-423" type="identity">
+         <class id="cannot_be"/>
+         <span end="28134" id="PMC5732505.nxml.gz-423" start="28125">cannot be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-424" type="identity">
+         <class id="in_summary"/>
+         <span end="28169" id="PMC5732505.nxml.gz-424" start="28159">In summary</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-425" type="identity">
+         <class id="subject_scope"/>
+         <span end="28284" id="PMC5732505.nxml.gz-425" start="28159">In summary, maternal vitamin D concentration was similar in mothers with and without GDM in a vitamin D sufficient population</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-426" type="identity">
+         <class id="similar"/>
+         <span end="28215" id="PMC5732505.nxml.gz-426" start="28208">similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-427" type="identity">
+         <class id="subject_scope"/>
+         <span end="28380" id="PMC5732505.nxml.gz-427" start="28286">Furthermore, we found an inverse association between UCB 25(OH)D and infant head circumference</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-428" type="identity">
+         <class id="found"/>
+         <span end="28307" id="PMC5732505.nxml.gz-428" start="28302">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-429" type="identity">
+         <class id="association"/>
+         <span end="28330" id="PMC5732505.nxml.gz-429" start="28319">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-430" type="identity">
+         <class id="subject_scope"/>
+         <span end="28482" id="PMC5732505.nxml.gz-430" start="28382">The clinical relevance of this finding remains unsolved and needs to be considered in future studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-431" type="identity">
+         <class id="relevance"/>
+         <span end="28404" id="PMC5732505.nxml.gz-431" start="28395">relevance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-432" type="identity">
+         <class id="finding"/>
+         <span end="28420" id="PMC5732505.nxml.gz-432" start="28413">finding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-433" type="identity">
+         <class id="remains"/>
+         <span end="28428" id="PMC5732505.nxml.gz-433" start="28421">remains</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5732505.nxml.gz-434" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="28437" id="PMC5732505.nxml.gz-434" start="28429">unsolved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-435" type="identity">
+         <class id="needs"/>
+         <span end="28447" id="PMC5732505.nxml.gz-435" start="28442">needs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-436" type="identity">
+         <class id="considered"/>
+         <span end="28464" id="PMC5732505.nxml.gz-436" start="28454">considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-437" type="identity">
+         <class id="future_studies"/>
+         <span end="28482" id="PMC5732505.nxml.gz-437" start="28468">future studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-438" type="identity">
+         <class id="subject_scope"/>
+         <span end="28653" id="PMC5732505.nxml.gz-438" start="28484">Sufficient maternal vitamin D status, specified as 25(OH)D above 50 nmol/L, seems a threshold value, above which the physiological requirements of pregnancy are achieved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-439" type="identity">
+         <class id="as"/>
+         <span end="28534" id="PMC5732505.nxml.gz-439" start="28532">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-440" type="identity">
+         <class id="probable_understanding"/>
+         <span end="28565" id="PMC5732505.nxml.gz-440" start="28560">seems</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-441" type="identity">
+         <class id="requirements"/>
+         <span end="28627" id="PMC5732505.nxml.gz-441" start="28615">requirements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-442" type="identity">
+         <class id="our_findings"/>
+         <span end="28667" id="PMC5732505.nxml.gz-442" start="28655">Our findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-443" type="identity">
+         <class id="subject_scope"/>
+         <span end="28746" id="PMC5732505.nxml.gz-443" start="28655">Our findings suggest that an adequate maternal vitamin status have been achieved in Finland</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-444" type="identity">
+         <class id="suggest"/>
+         <span end="28675" id="PMC5732505.nxml.gz-444" start="28668">suggest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-445" type="identity">
+         <class id="have_been"/>
+         <span end="28726" id="PMC5732505.nxml.gz-445" start="28717">have been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-446" type="identity">
+         <class id="however"/>
+         <span end="28755" id="PMC5732505.nxml.gz-446" start="28748">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-447" type="identity">
+         <class id="subject_scope"/>
+         <span end="28910" id="PMC5732505.nxml.gz-447" start="28748">However, randomised controlled trials are required in specific risk groups of vitamin D deficiency to clarify if vitamin D supplementation affects the risk of GDM</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-448" type="identity">
+         <class id="future_work"/>
+         <span end="28798" id="PMC5732505.nxml.gz-448" start="28779">trials are required</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-449" type="identity">
+         <class id="risk"/>
+         <span end="28815" id="PMC5732505.nxml.gz-449" start="28811">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-450" type="identity">
+         <class id="to_clarify"/>
+         <span end="28857" id="PMC5732505.nxml.gz-450" start="28847">to clarify</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-451" type="identity">
+         <class id="affects"/>
+         <span end="28894" id="PMC5732505.nxml.gz-451" start="28887">affects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5732505.nxml.gz-452" type="identity">
+         <class id="risk"/>
+         <span end="28903" id="PMC5732505.nxml.gz-452" start="28899">risk</span>
+      </annotation>
+   </document>
+</knowtator-project>

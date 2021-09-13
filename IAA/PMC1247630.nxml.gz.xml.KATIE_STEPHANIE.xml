@@ -1,0 +1,311 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC1247630.nxml.gz" text-file="PMC1247630.nxml.gz.txt">
+      <annotation annotator="OVERLAP_MAX" id="PMC1247630.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="109" id="PMC1247630.nxml.gz-1" start="49">Mother’s Pre-pregnancy Diet May Influence Child Cancer Risk
+</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-2" type="identity">
+         <class id="may"/>
+         <span end="80" id="PMC1247630.nxml.gz-2" start="77">May</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-3" type="identity">
+         <class id="influence"/>
+         <span end="90" id="PMC1247630.nxml.gz-3" start="81">Influence</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-4" type="identity">
+         <class id="subject_scope"/>
+         <span end="258" id="PMC1247630.nxml.gz-4" start="171">Maternal dietary risk factors in childhood acute lymphoblastic leukemia (United States)</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-5" type="identity">
+         <class id="risk_factors"/>
+         <span end="200" id="PMC1247630.nxml.gz-5" start="188">risk factors</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-6" type="identity">
+         <class id="subject_scope"/>
+         <span end="496" id="PMC1247630.nxml.gz-6" start="297">Acute lymphoblastic leukemia (ALL) is the most common childhood cancer (with 2,400 cases diagnosed each year in those under age 20) and the second most common cause of mortality in children aged 1–14</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-7" type="identity">
+         <class id="most_common"/>
+         <span end="350" id="PMC1247630.nxml.gz-7" start="339">most common</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-8" type="identity">
+         <class id="most_common"/>
+         <span end="455" id="PMC1247630.nxml.gz-8" start="444">most common</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-9" type="identity">
+         <class id="recent...research"/>
+         <span end="504" id="PMC1247630.nxml.gz-9" start="498">Recent</span>
+         <span end="513" id="PMC1247630.nxml.gz-10" start="505">research</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-11" type="identity">
+         <class id="subject_scope"/>
+         <span end="559" id="PMC1247630.nxml.gz-11" start="498">Recent research has confirmed that ALL can originate in utero</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-12" type="identity">
+         <class id="confirmed"/>
+         <span end="527" id="PMC1247630.nxml.gz-12" start="518">confirmed</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-13" type="identity">
+         <class id="can"/>
+         <span end="540" id="PMC1247630.nxml.gz-13" start="537">can</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC1247630.nxml.gz-14" type="identity">
+         <class id="subject_scope"/>
+         <span end="757" id="PMC1247630.nxml.gz-14" start="562">New findings from the NIEHS-funded Northern California Childhood Leukemia Study (NCCLS) show that the disease may originate even earlier—in the foods a woman eats before she even becomes pregnant</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-15" type="identity">
+         <class id="new"/>
+         <span end="565" id="PMC1247630.nxml.gz-15" start="562">New</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-16" type="identity">
+         <class id="findings"/>
+         <span end="574" id="PMC1247630.nxml.gz-16" start="566">findings</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-17" type="identity">
+         <class id="show"/>
+         <span end="654" id="PMC1247630.nxml.gz-17" start="650">show</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-18" type="identity">
+         <class id="may"/>
+         <span end="675" id="PMC1247630.nxml.gz-18" start="672">may</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC1247630.nxml.gz-19" type="identity">
+         <class id="even"/>
+         <span end="690" id="PMC1247630.nxml.gz-19" start="686">even</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC1247630.nxml.gz-20" type="identity">
+         <class id="even"/>
+         <span end="740" id="PMC1247630.nxml.gz-20" start="736">even</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-21" type="identity">
+         <class id="subject_scope"/>
+         <span end="841" id="PMC1247630.nxml.gz-21" start="759">The effect of maternal diet on child leukemia risk has not been rigorously studied</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-22" type="identity">
+         <class id="effect"/>
+         <span end="769" id="PMC1247630.nxml.gz-22" start="763">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-23" type="identity">
+         <class id="has_not_been_rigorously_studied"/>
+         <span end="841" id="PMC1247630.nxml.gz-23" start="810">has not been rigorously studied</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC1247630.nxml.gz-24" type="identity">
+         <class id="subject_scope"/>
+         <span end="952" id="PMC1247630.nxml.gz-24" start="843">the few studies that have been done have focused on specific dietary factors, and the results have been mixed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-25" type="identity">
+         <class id="few_studies"/>
+         <span end="858" id="PMC1247630.nxml.gz-25" start="847">few studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-26" type="identity">
+         <class id="focus"/>
+         <span end="889" id="PMC1247630.nxml.gz-26" start="884">focus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-27" type="identity">
+         <class id="factors"/>
+         <span end="919" id="PMC1247630.nxml.gz-27" start="912">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-28" type="identity">
+         <class id="have_been"/>
+         <span end="946" id="PMC1247630.nxml.gz-28" start="937">have been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-29" type="identity">
+         <class id="mixed"/>
+         <span end="952" id="PMC1247630.nxml.gz-29" start="947">mixed</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-30" type="identity">
+         <class id="subject_scope"/>
+         <span end="1064" id="PMC1247630.nxml.gz-30" start="954">The NCCLS is a population-based case–control study of risk factors for child leukemia, including maternal diet</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-31" type="identity">
+         <class id="risk_factors"/>
+         <span end="1020" id="PMC1247630.nxml.gz-31" start="1008">risk factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-32" type="identity">
+         <class id="subject_scope"/>
+         <span end="1166" id="PMC1247630.nxml.gz-32" start="1066">It is the first study to capture mothers’ overall dietary patterns and relate them to child leukemia</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-33" type="identity">
+         <class id="first_study"/>
+         <span end="1087" id="PMC1247630.nxml.gz-33" start="1076">first study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-34" type="identity">
+         <class id="pattern"/>
+         <span end="1131" id="PMC1247630.nxml.gz-34" start="1124">pattern</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-35" type="identity">
+         <class id="relate"/>
+         <span end="1143" id="PMC1247630.nxml.gz-35" start="1137">relate</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-36" type="identity">
+         <class id="subject_scope"/>
+         <span end="1581" id="PMC1247630.nxml.gz-36" start="1304">All the mothers completed a questionnaire pertaining to their diet in the 12 months prior to pregnancy. The researchers chose this period as a more accurate reflection of each woman’s typical diet, compared to pregnancy, when diet can vary with the degree of nausea experienced</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-37" type="identity">
+         <class id="this"/>
+         <span end="1434" id="PMC1247630.nxml.gz-37" start="1430">this</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-38" type="identity">
+         <class id="as"/>
+         <span end="1444" id="PMC1247630.nxml.gz-38" start="1442">as</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-39" type="identity">
+         <class id="reflect"/>
+         <span end="1468" id="PMC1247630.nxml.gz-39" start="1461">reflect</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-40" type="identity">
+         <class id="compared_to"/>
+         <span end="1513" id="PMC1247630.nxml.gz-40" start="1502">compared to</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-41" type="identity">
+         <class id="when"/>
+         <span end="1529" id="PMC1247630.nxml.gz-41" start="1525">when</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-42" type="identity">
+         <class id="can"/>
+         <span end="1538" id="PMC1247630.nxml.gz-42" start="1535">can</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-43" type="identity">
+         <class id="vary"/>
+         <span end="1543" id="PMC1247630.nxml.gz-43" start="1539">vary</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-44" type="identity">
+         <class id="subject_scope"/>
+         <span end="1692" id="PMC1247630.nxml.gz-44" start="1583">The questionnaire asked about 76 food items, plus use of vitamins, certain reduced-fat foods, and cooking fat</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-45" type="identity">
+         <class id="asked"/>
+         <span end="1606" id="PMC1247630.nxml.gz-45" start="1601">asked</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-46" type="identity">
+         <class id="subject_scope"/>
+         <span end="1823" id="PMC1247630.nxml.gz-46" start="1694">The researchers found that the more vegetables, fruits, and proteins a woman ate, the lower the risk of her child having leukemia</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-47" type="identity">
+         <class id="found"/>
+         <span end="1715" id="PMC1247630.nxml.gz-47" start="1710">found</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC1247630.nxml.gz-48" type="identity">
+         <class id="subject_scope"/>
+         <span end="1968" id="PMC1247630.nxml.gz-48" start="1825">Of the vegetables and fruits, carrots and cantaloupe showed the highest inverse effect, perhaps because of these foods’ high carotenoid content</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-49" type="identity">
+         <class id="showed"/>
+         <span end="1884" id="PMC1247630.nxml.gz-49" start="1878">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-50" type="identity">
+         <class id="inverse_effect"/>
+         <span end="1911" id="PMC1247630.nxml.gz-50" start="1897">inverse effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-51" type="identity">
+         <class id="perhaps"/>
+         <span end="1920" id="PMC1247630.nxml.gz-51" start="1913">perhaps</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-52" type="identity">
+         <class id="because"/>
+         <span end="1928" id="PMC1247630.nxml.gz-52" start="1921">because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-53" type="identity">
+         <class id="subject_scope"/>
+         <span end="2031" id="PMC1247630.nxml.gz-53" start="1970">String beans and peas also correlated inversely with ALL risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-54" type="identity">
+         <class id="correlated"/>
+         <span end="2007" id="PMC1247630.nxml.gz-54" start="1997">correlated</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC1247630.nxml.gz-55" type="identity">
+         <class id="subject_scope"/>
+         <span end="2145" id="PMC1247630.nxml.gz-55" start="2033">Among the proteins, beef and beans—both sources of the antioxidant glutathione—showed the highest inverse effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-56" type="identity">
+         <class id="showed"/>
+         <span end="2118" id="PMC1247630.nxml.gz-56" start="2112">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-57" type="identity">
+         <class id="inverse_effect"/>
+         <span end="2145" id="PMC1247630.nxml.gz-57" start="2131">inverse effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-58" type="identity">
+         <class id="subject_scope"/>
+         <span end="2219" id="PMC1247630.nxml.gz-58" start="2147">Use of vitamin supplements was not significantly linked to leukemia risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-59" type="identity">
+         <class id="was_not"/>
+         <span end="2181" id="PMC1247630.nxml.gz-59" start="2174">was not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-60" type="identity">
+         <class id="linked"/>
+         <span end="2202" id="PMC1247630.nxml.gz-60" start="2196">linked</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-61" type="identity">
+         <class id="subject_scope"/>
+         <span end="2344" id="PMC1247630.nxml.gz-61" start="2221">The authors stress that dietary factors work together, and no one food should be singled out in attributing risk or benefit</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-62" type="identity">
+         <class id="factors"/>
+         <span end="2260" id="PMC1247630.nxml.gz-62" start="2253">factors</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-63" type="identity">
+         <class id="together"/>
+         <span end="2274" id="PMC1247630.nxml.gz-63" start="2266">together</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-64" type="identity">
+         <class id="no_one"/>
+         <span end="2286" id="PMC1247630.nxml.gz-64" start="2280">no one</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-65" type="identity">
+         <class id="should_be"/>
+         <span end="2301" id="PMC1247630.nxml.gz-65" start="2292">should be</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC1247630.nxml.gz-66" type="identity">
+         <class id="subject_scope"/>
+         <span end="2423" id="PMC1247630.nxml.gz-66" start="2345"> Further, a cause-and-effect relationship can not be concluded from this study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-67" type="identity">
+         <class id="further"/>
+         <span end="2353" id="PMC1247630.nxml.gz-67" start="2346">Further</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-68" type="identity">
+         <class id="effect"/>
+         <span end="2373" id="PMC1247630.nxml.gz-68" start="2367">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-69" type="identity">
+         <class id="relationship"/>
+         <span end="2386" id="PMC1247630.nxml.gz-69" start="2374">relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-70" type="identity">
+         <class id="can_not"/>
+         <span end="2394" id="PMC1247630.nxml.gz-70" start="2387">can not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-71" type="identity">
+         <class id="concluded"/>
+         <span end="2407" id="PMC1247630.nxml.gz-71" start="2398">concluded</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-72" type="identity">
+         <class id="this...study"/>
+         <span end="2423" id="PMC1247630.nxml.gz-72" start="2413">this study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-73" type="identity">
+         <class id="however"/>
+         <span end="2432" id="PMC1247630.nxml.gz-73" start="2425">However</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC1247630.nxml.gz-74" type="identity">
+         <class id="subject_scope"/>
+         <span end="2570" id="PMC1247630.nxml.gz-74" start="2425">However, they write, it remains prudent for women who are pregnant or think they may become pregnant to eat a diet rich in fruits and vegetables.</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-75" type="identity">
+         <class id="remains"/>
+         <span end="2456" id="PMC1247630.nxml.gz-75" start="2449">remains</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC1247630.nxml.gz-76" type="identity">
+         <class id="prudent"/>
+         <span end="2464" id="PMC1247630.nxml.gz-76" start="2457">prudent</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC1247630.nxml.gz-77" type="identity">
+         <class id="think"/>
+         <span end="2500" id="PMC1247630.nxml.gz-77" start="2495">think</span>
+      </annotation>
+   </document>
+</knowtator-project>

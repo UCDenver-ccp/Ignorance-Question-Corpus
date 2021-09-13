@@ -1,0 +1,1400 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC3075531.nxml.gz" text-file="PMC3075531.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="249" id="PMC3075531.nxml.gz-1" start="148">There is no study about correlation between vitamin D serum level and multiple sclerosis (MS) in Iran</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-2" type="identity">
+         <class id="no_study"/>
+         <span end="165" id="PMC3075531.nxml.gz-2" start="157">no study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-3" type="identity">
+         <class id="correlation"/>
+         <span end="183" id="PMC3075531.nxml.gz-3" start="172">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-4" type="identity">
+         <class id="subject_scope"/>
+         <span end="476" id="PMC3075531.nxml.gz-4" start="251">So in this survey, we investigated the serum level of 25-hydroxy vitamin D in MS patients and compared it with controls in central region of Iran, an area with medium to high risk for MS disease, in spite of high sun exposure</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-5" type="identity">
+         <class id="this"/>
+         <span end="261" id="PMC3075531.nxml.gz-5" start="257">this</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-6" type="identity">
+         <class id="investigated"/>
+         <span end="285" id="PMC3075531.nxml.gz-6" start="273">investigated</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-7" type="identity">
+         <class id="in_spite"/>
+         <span end="455" id="PMC3075531.nxml.gz-7" start="447">in spite</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-8" type="identity">
+         <class id="subject_scope"/>
+         <span end="557" id="PMC3075531.nxml.gz-8" start="488">A case-control study was conducted from July 1, 2008 to July 31, 2009</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-9" type="identity">
+         <class id="conducted"/>
+         <span end="522" id="PMC3075531.nxml.gz-9" start="513">conducted</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-10" type="identity">
+         <class id="subject_scope"/>
+         <span end="1190" id="PMC3075531.nxml.gz-10" start="1037">The mean serum level of 25-hydroxy vitamin D in case and control groups were 48 and 62 nmol/L, respectively, and the difference was significant (P=0.036)</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-11" type="identity">
+         <class id="difference"/>
+         <span end="1164" id="PMC3075531.nxml.gz-11" start="1154">difference</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-12" type="identity">
+         <class id="subject_scope"/>
+         <span end="1363" id="PMC3075531.nxml.gz-12" start="1192">Also, our study showed significant discrepancy between the two groups according to the rate of deficiency, insufficiency and normal range of vitamin D categories (P=0.021)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-13" type="identity">
+         <class id="our_study"/>
+         <span end="1207" id="PMC3075531.nxml.gz-13" start="1198">our study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-14" type="identity">
+         <class id="showed"/>
+         <span end="1214" id="PMC3075531.nxml.gz-14" start="1208">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-15" type="identity">
+         <class id="discrepancy"/>
+         <span end="1238" id="PMC3075531.nxml.gz-15" start="1227">discrepancy</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-16" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1274" id="PMC3075531.nxml.gz-16" start="1262">according to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-17" type="identity">
+         <class id="subject_scope"/>
+         <span end="1597" id="PMC3075531.nxml.gz-17" start="1379">We found the same results as those studies carried out in Europe and North America; i.e., lower serum vitamin D level in MS patients than that in normal population, in spite of sufficient sun exposure in Isfahan region</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-18" type="identity">
+         <class id="found"/>
+         <span end="1387" id="PMC3075531.nxml.gz-18" start="1382">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-19" type="identity">
+         <class id="in_spite"/>
+         <span end="1552" id="PMC3075531.nxml.gz-19" start="1544">in spite</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-20" type="identity">
+         <class id="subject_scope"/>
+         <span end="1790" id="PMC3075531.nxml.gz-20" start="1613">Multiple sclerosis (MS) is a chronic probably with autoimmune basis and uncertain etiology characterized by demyelinative and inflammatory physiopathology causing axonal damages</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-21" type="identity">
+         <class id="probably"/>
+         <span end="1658" id="PMC3075531.nxml.gz-21" start="1650">probably</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-22" type="identity">
+         <class id="uncertain"/>
+         <span end="1694" id="PMC3075531.nxml.gz-22" start="1685">uncertain</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-23" type="identity">
+         <class id="subject_scope"/>
+         <span end="1919" id="PMC3075531.nxml.gz-23" start="1793">This disease affects females more than males with ordinary 10 years relapsing-remitting course and secondary progressive phase</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-24" type="identity">
+         <class id="affects"/>
+         <span end="1813" id="PMC3075531.nxml.gz-24" start="1806">affects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-25" type="identity">
+         <class id="subject_scope"/>
+         <span end="2028" id="PMC3075531.nxml.gz-25" start="1921">On histological basis, T helper cells type 1 (Th1) is the most responsible cause for pathologies seen in MS</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-26" type="identity">
+         <class id="most"/>
+         <span end="1983" id="PMC3075531.nxml.gz-26" start="1979">most</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-27" type="identity">
+         <class id="responsible"/>
+         <span end="1995" id="PMC3075531.nxml.gz-27" start="1984">responsible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-28" type="identity">
+         <class id="seen"/>
+         <span end="2022" id="PMC3075531.nxml.gz-28" start="2018">seen</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-29" type="identity">
+         <class id="subject_scope"/>
+         <span end="2214" id="PMC3075531.nxml.gz-29" start="2032">There are multiple risk factors for MS in a complex relationship with each other from genetic ones to environmental factors but exact mechanism leading to MS has remained unclear yet</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-30" type="identity">
+         <class id="risk_factors"/>
+         <span end="2063" id="PMC3075531.nxml.gz-30" start="2051">risk factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-31" type="identity">
+         <class id="complex"/>
+         <span end="2083" id="PMC3075531.nxml.gz-31" start="2076">complex</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-32" type="identity">
+         <class id="relationship"/>
+         <span end="2096" id="PMC3075531.nxml.gz-32" start="2084">relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-33" type="identity">
+         <class id="factors"/>
+         <span end="2155" id="PMC3075531.nxml.gz-33" start="2148">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-34" type="identity">
+         <class id="but"/>
+         <span end="2159" id="PMC3075531.nxml.gz-34" start="2156">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-35" type="identity">
+         <class id="remained"/>
+         <span end="2202" id="PMC3075531.nxml.gz-35" start="2194">remained</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-36" type="identity">
+         <class id="unclear"/>
+         <span end="2210" id="PMC3075531.nxml.gz-36" start="2203">unclear</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-37" type="identity">
+         <class id="yet"/>
+         <span end="2214" id="PMC3075531.nxml.gz-37" start="2211">yet</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-38" type="identity">
+         <class id="subject_scope"/>
+         <span end="2349" id="PMC3075531.nxml.gz-38" start="2217">From guessed environmental risk factors for MS, past infection with EBV, smoking and low serum level of vitamin D are more favorable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-39" type="identity">
+         <class id="risk_factors"/>
+         <span end="2256" id="PMC3075531.nxml.gz-39" start="2244">risk factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-40" type="identity">
+         <class id="subject_scope"/>
+         <span end="2427" id="PMC3075531.nxml.gz-40" start="2352">The most important vitamin in calcium and phosphor homeostasis is vitamin D</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-41" type="identity">
+         <class id="most"/>
+         <span end="2360" id="PMC3075531.nxml.gz-41" start="2356">most</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-42" type="identity">
+         <class id="important"/>
+         <span end="2370" id="PMC3075531.nxml.gz-42" start="2361">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-43" type="identity">
+         <class id="subject_scope"/>
+         <span end="2499" id="PMC3075531.nxml.gz-43" start="2429">This vitamin has proposed potential power for modulating immune system</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-44" type="identity">
+         <class id="proposed"/>
+         <span end="2454" id="PMC3075531.nxml.gz-44" start="2446">proposed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-45" type="identity">
+         <class id="potential"/>
+         <span end="2464" id="PMC3075531.nxml.gz-45" start="2455">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-46" type="identity">
+         <class id="many...studies"/>
+         <span end="2727" id="PMC3075531.nxml.gz-46" start="2723">Many</span>
+         <span end="2735" id="PMC3075531.nxml.gz-47" start="2728">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-48" type="identity">
+         <class id="subject_scope"/>
+         <span end="2943" id="PMC3075531.nxml.gz-48" start="2723">Many studies showed a role of paracrine function and nerve growth factor synthesis of vitamin D in CNS and also, showed that deficiency of this vitamin in pregnancy period can cause neural system disorder in animal cases</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-49" type="identity">
+         <class id="showed"/>
+         <span end="2742" id="PMC3075531.nxml.gz-49" start="2736">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-50" type="identity">
+         <class id="role"/>
+         <span end="2749" id="PMC3075531.nxml.gz-50" start="2745">role</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-51" type="identity">
+         <class id="showed"/>
+         <span end="2842" id="PMC3075531.nxml.gz-51" start="2836">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-52" type="identity">
+         <class id="can"/>
+         <span end="2898" id="PMC3075531.nxml.gz-52" start="2895">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-53" type="identity">
+         <class id="subject_scope"/>
+         <span end="3240" id="PMC3075531.nxml.gz-53" start="2950">Then, vitamin D has a near relation with MS and the results of different studies can be summarized as follows: First, the effect of latitude via exposure to sun light and serum level of vitamin D on MS prevalence, that increases with distance from equator, with only one exception in Norway</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-54" type="identity">
+         <class id="relation"/>
+         <span end="2985" id="PMC3075531.nxml.gz-54" start="2977">relation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-55" type="identity">
+         <class id="different"/>
+         <span end="3022" id="PMC3075531.nxml.gz-55" start="3013">different</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-56" type="identity">
+         <class id="can"/>
+         <span end="3034" id="PMC3075531.nxml.gz-56" start="3031">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-57" type="identity">
+         <class id="effect"/>
+         <span end="3078" id="PMC3075531.nxml.gz-57" start="3072">effect</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-58" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="3216" id="PMC3075531.nxml.gz-58" start="3212">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-59" type="identity">
+         <class id="exception"/>
+         <span end="3230" id="PMC3075531.nxml.gz-59" start="3221">exception</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-60" type="identity">
+         <class id="subject_scope"/>
+         <span end="3329" id="PMC3075531.nxml.gz-60" start="3246">Second, Vander et al. showed that sun exposure in childhood period prevents from MS</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-61" type="identity">
+         <class id="showed"/>
+         <span end="3274" id="PMC3075531.nxml.gz-61" start="3268">showed</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-62" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="3321" id="PMC3075531.nxml.gz-62" start="3313">prevents</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-63" type="identity">
+         <class id="prevents"/>
+         <span end="3321" id="PMC3075531.nxml.gz-63" start="3313">prevents</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-64" type="identity">
+         <class id="subject_scope"/>
+         <span end="3496" id="PMC3075531.nxml.gz-64" start="3332">Third, it seems low risk of MS in white population is associated with high serum level of vitamin D or high oral intake via supplements or oily fish in some studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-65" type="identity">
+         <class id="seems"/>
+         <span end="3347" id="PMC3075531.nxml.gz-65" start="3342">seems</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-66" type="identity">
+         <class id="associated"/>
+         <span end="3396" id="PMC3075531.nxml.gz-66" start="3386">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-67" type="identity">
+         <class id="some...studies"/>
+         <span end="3496" id="PMC3075531.nxml.gz-67" start="3484">some studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-68" type="identity">
+         <class id="subject_scope"/>
+         <span end="3643" id="PMC3075531.nxml.gz-68" start="3503">Fourth, it have been shown that vitamin D can be a protective agent against experimental autoimmune encephalitis in mice (like MS in humans)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-69" type="identity">
+         <class id="have_been_shown"/>
+         <span end="3529" id="PMC3075531.nxml.gz-69" start="3514">have been shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-70" type="identity">
+         <class id="can"/>
+         <span end="3548" id="PMC3075531.nxml.gz-70" start="3545">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-71" type="identity">
+         <class id="protective"/>
+         <span end="3564" id="PMC3075531.nxml.gz-71" start="3554">protective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-72" type="identity">
+         <class id="subject_scope"/>
+         <span end="3775" id="PMC3075531.nxml.gz-72" start="3646">Finally, some scientists administered 100-1700 IU/day vitamin D supplements in MS patients and observed the reduction of relapses</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-73" type="identity">
+         <class id="some"/>
+         <span end="3659" id="PMC3075531.nxml.gz-73" start="3655">some</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-74" type="identity">
+         <class id="observed"/>
+         <span end="3749" id="PMC3075531.nxml.gz-74" start="3741">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-75" type="identity">
+         <class id="subject_scope"/>
+         <span end="3894" id="PMC3075531.nxml.gz-75" start="3781">The candidate for estimating serum level of vitamin D is 25-hydroxy vitamin D, because of its prolonged half-life</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-76" type="identity">
+         <class id="candidate"/>
+         <span end="3794" id="PMC3075531.nxml.gz-76" start="3785">candidate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-77" type="identity">
+         <class id="probable_understanding"/>
+         <span end="3867" id="PMC3075531.nxml.gz-77" start="3860">because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-78" type="identity">
+         <class id="subject_scope"/>
+         <span end="4117" id="PMC3075531.nxml.gz-78" start="3901">It is used to assess an individual’s overall vitamin D nutritional status, because its formation, unlike that of 1, 25-dihydroxy vitamin D, is not tightly regulated and it has a relatively long half-life (20-60 days)</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-79" type="identity">
+         <class id="to_assess"/>
+         <span end="3921" id="PMC3075531.nxml.gz-79" start="3912">to assess</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-80" type="identity">
+         <class id="probable_understanding"/>
+         <span end="3983" id="PMC3075531.nxml.gz-80" start="3976">because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-81" type="identity">
+         <class id="unlike"/>
+         <span end="4005" id="PMC3075531.nxml.gz-81" start="3999">unlike</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-82" type="identity">
+         <class id="subject_scope"/>
+         <span end="4378" id="PMC3075531.nxml.gz-82" start="4119">There are differences in optimal level of 25-hydroxy vitamin D but nowadays internationally accepted normal range is between 75 nmol/L and 200 nmol/L, and we consider serum level below 75 nmol/L and below 2 nmol/L as insufficiency and deficiency, respectively</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-83" type="identity">
+         <class id="differences"/>
+         <span end="4140" id="PMC3075531.nxml.gz-83" start="4129">differences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-84" type="identity">
+         <class id="optimal"/>
+         <span end="4151" id="PMC3075531.nxml.gz-84" start="4144">optimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-85" type="identity">
+         <class id="but"/>
+         <span end="4185" id="PMC3075531.nxml.gz-85" start="4182">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-86" type="identity">
+         <class id="accepted"/>
+         <span end="4219" id="PMC3075531.nxml.gz-86" start="4211">accepted</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-87" type="identity">
+         <class id="important_consideration"/>
+         <span end="4285" id="PMC3075531.nxml.gz-87" start="4277">consider</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-88" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="4285" id="PMC3075531.nxml.gz-88" start="4277">consider</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-89" type="identity">
+         <class id="subject_scope"/>
+         <span end="4562" id="PMC3075531.nxml.gz-89" start="4384">Even it seems to achieve the prevention of autoimmune diseases, the serum level of vitamin D must be higher than the level required to reduce osteoporosis (higher than 75 nmol/L)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-90" type="identity">
+         <class id="seems"/>
+         <span end="4397" id="PMC3075531.nxml.gz-90" start="4392">seems</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-91" type="identity">
+         <class id="must...be"/>
+         <span end="4484" id="PMC3075531.nxml.gz-91" start="4477">must be</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-92" type="identity">
+         <class id="required"/>
+         <span end="4515" id="PMC3075531.nxml.gz-92" start="4507">required</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-93" type="identity">
+         <class id="subject_scope"/>
+         <span end="5020" id="PMC3075531.nxml.gz-93" start="4564">In attention to high prevalence of MS in Iran and especially in Isfahan which is about 43.5/100,0002627and given that Iran is located in an latitude of 32° 50’ and longitude of 51° 43’ with enough sun exposure and because nobody investigated the relationship between vitamin D, as an environmental agent, and MS disease in Iran before, we decided to compare the serum level of 25-hydroxy vitamin D in MS patients and healthy control group in Isfahan region</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-94" type="identity">
+         <class id="attention"/>
+         <span end="4576" id="PMC3075531.nxml.gz-94" start="4567">attention</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-95" type="identity">
+         <class id="about"/>
+         <span end="4650" id="PMC3075531.nxml.gz-95" start="4645">about</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-96" type="identity">
+         <class id="given"/>
+         <span end="4676" id="PMC3075531.nxml.gz-96" start="4671">given</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-97" type="identity">
+         <class id="probable_understanding"/>
+         <span end="4785" id="PMC3075531.nxml.gz-97" start="4778">because</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-98" type="identity">
+         <class id="because"/>
+         <span end="4785" id="PMC3075531.nxml.gz-98" start="4778">because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-99" type="identity">
+         <class id="investigated"/>
+         <span end="4805" id="PMC3075531.nxml.gz-99" start="4793">investigated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-100" type="identity">
+         <class id="relationship"/>
+         <span end="4822" id="PMC3075531.nxml.gz-100" start="4810">relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-101" type="identity">
+         <class id="as"/>
+         <span end="4844" id="PMC3075531.nxml.gz-101" start="4842">as</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-102" type="identity">
+         <class id="decided"/>
+         <span end="4910" id="PMC3075531.nxml.gz-102" start="4903">decided</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-103" type="identity">
+         <class id="subject_scope"/>
+         <span end="5246" id="PMC3075531.nxml.gz-103" start="5066">We enrolled randomly 50 patients from definitive MS patients on the basis of their MRI findings and clinical presentations that were recorded in MS society of Isfahan as case group</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-104" type="identity">
+         <class id="on_the_basis_of"/>
+         <span end="5142" id="PMC3075531.nxml.gz-104" start="5127">on the basis of</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-105" type="identity">
+         <class id="findings"/>
+         <span end="5161" id="PMC3075531.nxml.gz-105" start="5153">findings</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-106" type="identity">
+         <class id="recorded"/>
+         <span end="5207" id="PMC3075531.nxml.gz-106" start="5199">recorded</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-107" type="identity">
+         <class id="subject_scope"/>
+         <span end="6310" id="PMC3075531.nxml.gz-107" start="6181">To be sure that sun exposure didn’t influence our analysis, we decided to take blood sample in winter (from December to February)</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-108" type="identity">
+         <class id="decided"/>
+         <span end="6251" id="PMC3075531.nxml.gz-108" start="6244">decided</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-109" type="identity">
+         <class id="subject_scope"/>
+         <span end="7124" id="PMC3075531.nxml.gz-109" start="7038">The relationship of vitamin D level with other factors was compared by chi-square test</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-110" type="identity">
+         <class id="relationship"/>
+         <span end="7054" id="PMC3075531.nxml.gz-110" start="7042">relationship</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-111" type="identity">
+         <class id="other"/>
+         <span end="7084" id="PMC3075531.nxml.gz-111" start="7079">other</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-112" type="identity">
+         <class id="factors"/>
+         <span end="7092" id="PMC3075531.nxml.gz-112" start="7085">factors</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-113" type="identity">
+         <class id="this...study"/>
+         <span end="7139" id="PMC3075531.nxml.gz-113" start="7135">This</span>
+         <span end="7158" id="PMC3075531.nxml.gz-114" start="7153">study</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-115" type="identity">
+         <class id="subject_scope"/>
+         <span end="7230" id="PMC3075531.nxml.gz-115" start="7135">This case-control study evaluated 50 MS patients as case group and 50 healthy people as control</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-116" type="identity">
+         <class id="evaluated"/>
+         <span end="7168" id="PMC3075531.nxml.gz-116" start="7159">evaluated</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3075531.nxml.gz-117" type="identity">
+         <class id="subject_scope"/>
+         <span end="7653" id="PMC3075531.nxml.gz-117" start="7419">The mean levels of vitamin D in the two groups are shown inFigure 1. The mean level of 25-hydroxy vitamin D in case and control groups were 48 and 62 nmol/L, respec-tively, and it showed a significant difference between them (P=0.036)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-118" type="identity">
+         <class id="showed"/>
+         <span end="7605" id="PMC3075531.nxml.gz-118" start="7599">showed</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-119" type="identity">
+         <class id="difference"/>
+         <span end="7630" id="PMC3075531.nxml.gz-119" start="7620">difference</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-120" type="identity">
+         <class id="subject_scope"/>
+         <span end="7761" id="PMC3075531.nxml.gz-120" start="7654">There was not any significant relationship between age and serum level of vitamin D in both groups (P=0.83)</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-121" type="identity">
+         <class id="was_not"/>
+         <span end="7667" id="PMC3075531.nxml.gz-121" start="7660">was not</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-122" type="identity">
+         <class id="relationship"/>
+         <span end="7696" id="PMC3075531.nxml.gz-122" start="7684">relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-123" type="identity">
+         <class id="subject_scope"/>
+         <span end="8104" id="PMC3075531.nxml.gz-123" start="7993">This study showed a significant relationship between serum levels of vitamin D between the two groups (P=0.021)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-124" type="identity">
+         <class id="showed"/>
+         <span end="8010" id="PMC3075531.nxml.gz-124" start="8004">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-125" type="identity">
+         <class id="relationship"/>
+         <span end="8037" id="PMC3075531.nxml.gz-125" start="8025">relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-126" type="identity">
+         <class id="subject_scope"/>
+         <span end="8820" id="PMC3075531.nxml.gz-126" start="8614">We found the same results as studies in Europe and North America, which implicates lower serum vitamin D level in MS patients than in normal population, in spite of sufficient sun exposure in Isfahan region</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-127" type="identity">
+         <class id="found"/>
+         <span end="8622" id="PMC3075531.nxml.gz-127" start="8617">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-128" type="identity">
+         <class id="implicates"/>
+         <span end="8696" id="PMC3075531.nxml.gz-128" start="8686">implicates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-129" type="identity">
+         <class id="in_spite"/>
+         <span end="8775" id="PMC3075531.nxml.gz-129" start="8767">in spite</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-130" type="identity">
+         <class id="subject_scope"/>
+         <span end="9015" id="PMC3075531.nxml.gz-130" start="8826">The hypothesis that vitamin D deficiency is a risk factor for MS was first proposed over 30 years ago4and gained credibility after the discovery of the immunomodulatory effects of vitamin D</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-131" type="identity">
+         <class id="hypothesis"/>
+         <span end="8840" id="PMC3075531.nxml.gz-131" start="8830">hypothesis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-132" type="identity">
+         <class id="risk_factor"/>
+         <span end="8883" id="PMC3075531.nxml.gz-132" start="8872">risk factor</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-133" type="identity">
+         <class id="first"/>
+         <span end="8900" id="PMC3075531.nxml.gz-133" start="8895">first</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-134" type="identity">
+         <class id="proposed"/>
+         <span end="8909" id="PMC3075531.nxml.gz-134" start="8901">proposed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-135" type="identity">
+         <class id="effects"/>
+         <span end="9002" id="PMC3075531.nxml.gz-135" start="8995">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-136" type="identity">
+         <class id="subject_scope"/>
+         <span end="9188" id="PMC3075531.nxml.gz-136" start="9017">Moreover, in the past few years, the epidemiological evidence of an increased MS risk among individuals with low vitamin D concentrations has achieved substantial strength</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-137" type="identity">
+         <class id="evidence"/>
+         <span end="9078" id="PMC3075531.nxml.gz-137" start="9070">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-138" type="identity">
+         <class id="subject_scope"/>
+         <span end="9945" id="PMC3075531.nxml.gz-138" start="9708">Relative to sun exposure, diet is a poor source of colecalciferol, providing only 40-400 IU per food serving,12whereas whole-body UVB exposure for 20 min for a light-skinned person during the summer months will produce at least 10,000 IU</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-139" type="identity">
+         <class id="important_consideration"/>
+         <span end="9748" id="PMC3075531.nxml.gz-139" start="9744">poor</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-140" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="9789" id="PMC3075531.nxml.gz-140" start="9785">only</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-141" type="identity">
+         <class id="only"/>
+         <span end="9789" id="PMC3075531.nxml.gz-141" start="9785">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-142" type="identity">
+         <class id="whereas"/>
+         <span end="9826" id="PMC3075531.nxml.gz-142" start="9819">whereas</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-143" type="identity">
+         <class id="at_least"/>
+         <span end="9935" id="PMC3075531.nxml.gz-143" start="9927">at least</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-144" type="identity">
+         <class id="however"/>
+         <span end="9956" id="PMC3075531.nxml.gz-144" start="9949">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-145" type="identity">
+         <class id="subject_scope"/>
+         <span end="10309" id="PMC3075531.nxml.gz-145" start="9949">However, increased skin pigmentation, age, use of sunscreen, built environment, and environmental factors that reduce the strength of UVB reaching the earth’s surface (e.g., winter season, high latitude, pollution, cloud cover, and ozone levels) all contribute to reduce skin colecalciferol production to the point at which diet might become the primary source</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-146" type="identity">
+         <class id="factors"/>
+         <span end="10054" id="PMC3075531.nxml.gz-146" start="10047">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-147" type="identity">
+         <class id="contribute"/>
+         <span end="10209" id="PMC3075531.nxml.gz-147" start="10199">contribute</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-148" type="identity">
+         <class id="might"/>
+         <span end="10283" id="PMC3075531.nxml.gz-148" start="10278">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-149" type="identity">
+         <class id="subject_scope"/>
+         <span end="10477" id="PMC3075531.nxml.gz-149" start="10314">Because melanin pigment in human skin absorbs UVB,28black people have lower 25 hydroxyvitamin D concentrations than white people, and are often vitamin D deficient</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-150" type="identity">
+         <class id="probable_understanding"/>
+         <span end="10321" id="PMC3075531.nxml.gz-150" start="10314">Because</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-151" type="identity">
+         <class id="because"/>
+         <span end="10321" id="PMC3075531.nxml.gz-151" start="10314">Because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-152" type="identity">
+         <class id="often"/>
+         <span end="10457" id="PMC3075531.nxml.gz-152" start="10452">often</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-153" type="identity">
+         <class id="however"/>
+         <span end="10487" id="PMC3075531.nxml.gz-153" start="10480">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-154" type="identity">
+         <class id="subject_scope"/>
+         <span end="10582" id="PMC3075531.nxml.gz-154" start="10480">However, the risk of MS in black people is lower than in white people (because of genetic differences)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-155" type="identity">
+         <class id="probable_understanding"/>
+         <span end="10558" id="PMC3075531.nxml.gz-155" start="10551">because</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-156" type="identity">
+         <class id="differences"/>
+         <span end="10581" id="PMC3075531.nxml.gz-156" start="10570">differences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-157" type="identity">
+         <class id="subject_scope"/>
+         <span end="10713" id="PMC3075531.nxml.gz-157" start="10585">Analyses of the relation between vitamin D status and MS risk are therefore better done separately within each race/ethnic group</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-158" type="identity">
+         <class id="relation"/>
+         <span end="10609" id="PMC3075531.nxml.gz-158" start="10601">relation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-159" type="identity">
+         <class id="therefore"/>
+         <span end="10660" id="PMC3075531.nxml.gz-159" start="10651">therefore</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-160" type="identity">
+         <class id="future_prediction"/>
+         <span end="10667" id="PMC3075531.nxml.gz-160" start="10661">better</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-161" type="identity">
+         <class id="better"/>
+         <span end="10667" id="PMC3075531.nxml.gz-161" start="10661">better</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-162" type="identity">
+         <class id="subject_scope"/>
+         <span end="10777" id="PMC3075531.nxml.gz-162" start="10715">The importance of age of exposure and seasonality is uncertain</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-163" type="identity">
+         <class id="importance"/>
+         <span end="10729" id="PMC3075531.nxml.gz-163" start="10719">importance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-164" type="identity">
+         <class id="uncertain"/>
+         <span end="10777" id="PMC3075531.nxml.gz-164" start="10768">uncertain</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-165" type="identity">
+         <class id="subject_scope"/>
+         <span end="10879" id="PMC3075531.nxml.gz-165" start="10779">Studies in migrants implicate postnatal environmental exposures, but do not exclude prenatal effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-166" type="identity">
+         <class id="but"/>
+         <span end="10847" id="PMC3075531.nxml.gz-166" start="10844">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-167" type="identity">
+         <class id="exclude"/>
+         <span end="10862" id="PMC3075531.nxml.gz-167" start="10855">exclude</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-168" type="identity">
+         <class id="effects"/>
+         <span end="10879" id="PMC3075531.nxml.gz-168" start="10872">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-169" type="identity">
+         <class id="subject_scope"/>
+         <span end="11024" id="PMC3075531.nxml.gz-169" start="10884">Blood concentrations of 25-hydroxyvitamin D fluctuate with season, but the etiological relevance of these fluctuations to MS risk is unknown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-170" type="identity">
+         <class id="but"/>
+         <span end="10954" id="PMC3075531.nxml.gz-170" start="10951">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-171" type="identity">
+         <class id="relevance"/>
+         <span end="10980" id="PMC3075531.nxml.gz-171" start="10971">relevance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-172" type="identity">
+         <class id="unknown"/>
+         <span end="11024" id="PMC3075531.nxml.gz-172" start="11017">unknown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-173" type="identity">
+         <class id="subject_scope"/>
+         <span end="11289" id="PMC3075531.nxml.gz-173" start="11026">The reasons why vitamin D deficiency is thought to be a risk factor for MS are as follows: First, MS frequency increases with increasing latitude, which is strongly inversely correlated with duration and intensity of UVB from sunlight and vitamin D concentrations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-174" type="identity">
+         <class id="reasons"/>
+         <span end="11037" id="PMC3075531.nxml.gz-174" start="11030">reasons</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-175" type="identity">
+         <class id="why"/>
+         <span end="11041" id="PMC3075531.nxml.gz-175" start="11038">why</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-176" type="identity">
+         <class id="thought_to"/>
+         <span end="11076" id="PMC3075531.nxml.gz-176" start="11066">thought to</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-177" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="11079" id="PMC3075531.nxml.gz-177" start="11066">thought to be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-178" type="identity">
+         <class id="risk_factor"/>
+         <span end="11093" id="PMC3075531.nxml.gz-178" start="11082">risk factor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-179" type="identity">
+         <class id="correlated"/>
+         <span end="11211" id="PMC3075531.nxml.gz-179" start="11201">correlated</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-180" type="identity">
+         <class id="subject_scope"/>
+         <span end="11428" id="PMC3075531.nxml.gz-180" start="11297">Second, prevalence of MS is lower than expected at high latitudes in populations with high consumption of vitamin-D-rich fatty fish</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-181" type="identity">
+         <class id="probable_understanding"/>
+         <span end="11344" id="PMC3075531.nxml.gz-181" start="11336">expected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-182" type="identity">
+         <class id="subject_scope"/>
+         <span end="11509" id="PMC3075531.nxml.gz-182" start="11435">Third, MS risk seems to decrease with migration from high to low latitudes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-183" type="identity">
+         <class id="seems"/>
+         <span end="11455" id="PMC3075531.nxml.gz-183" start="11450">seems</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-184" type="identity">
+         <class id="subject_scope"/>
+         <span end="11643" id="PMC3075531.nxml.gz-184" start="11512">If vitamin D had any effect on MS risk, we would expect MS incidence to decrease with increasing 25-hydroxyvitamin D concentrations</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-185" type="identity">
+         <class id="if"/>
+         <span end="11514" id="PMC3075531.nxml.gz-185" start="11512">If</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-186" type="identity">
+         <class id="effect"/>
+         <span end="11539" id="PMC3075531.nxml.gz-186" start="11533">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-187" type="identity">
+         <class id="would"/>
+         <span end="11560" id="PMC3075531.nxml.gz-187" start="11555">would</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-188" type="identity">
+         <class id="expect"/>
+         <span end="11567" id="PMC3075531.nxml.gz-188" start="11561">expect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-189" type="identity">
+         <class id="subject_scope"/>
+         <span end="11921" id="PMC3075531.nxml.gz-189" start="11645">The only study satisfying this condition used a nested case-control design to sample an underlying prospective cohort comprising over 7 million individuals who served in the US military and had at least two serum samples stored in the US Department of Defense Serum Repository</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-190" type="identity">
+         <class id="only"/>
+         <span end="11653" id="PMC3075531.nxml.gz-190" start="11649">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-191" type="identity">
+         <class id="subject_scope"/>
+         <span end="12162" id="PMC3075531.nxml.gz-191" start="11924">The study concluded that serum concentration of 25 hydroxyvitamin D in healthy young white adults is an important predictor of their risk of developing MS, independently from their place of birth and latitude of residence during childhood</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-192" type="identity">
+         <class id="concluded"/>
+         <span end="11943" id="PMC3075531.nxml.gz-192" start="11934">concluded</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-193" type="identity">
+         <class id="important"/>
+         <span end="12037" id="PMC3075531.nxml.gz-193" start="12028">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-194" type="identity">
+         <class id="predictor"/>
+         <span end="12047" id="PMC3075531.nxml.gz-194" start="12038">predictor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-195" type="identity">
+         <class id="independently"/>
+         <span end="12093" id="PMC3075531.nxml.gz-195" start="12080">independently</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-196" type="identity">
+         <class id="subject_scope"/>
+         <span end="12356" id="PMC3075531.nxml.gz-196" start="12165">In a prospective investigation comprising approximately 200,000 women in the USA, vitamin D intake was measured every 4 years by a comprehensive semi-quantitative food frequency questionnaire</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-197" type="identity">
+         <class id="comprehensive"/>
+         <span end="12309" id="PMC3075531.nxml.gz-197" start="12296">comprehensive</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-198" type="identity">
+         <class id="subject_scope"/>
+         <span end="12796" id="PMC3075531.nxml.gz-198" start="12707">Attempts to relate vitamin D intake to MS risk have also been made in casecontrol studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-199" type="identity">
+         <class id="relate"/>
+         <span end="12725" id="PMC3075531.nxml.gz-199" start="12719">relate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-200" type="identity">
+         <class id="have...been"/>
+         <span end="12758" id="PMC3075531.nxml.gz-200" start="12754">have</span>
+         <span end="12768" id="PMC3075531.nxml.gz-201" start="12764">been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-202" type="identity">
+         <class id="subject_scope"/>
+         <span end="13148" id="PMC3075531.nxml.gz-202" start="12798">In Norway, a study comprising 119 MS cases and 251 controls living above the Arctic Circle, where fatty fish is a major contributor to vitamin D intake, reported a lower risk of MS for individuals who ate fish three or more times per week at 16–20 years of age compared with those with a lower consumption (odds ratio=0.57 [95%CI 0.33-0.93]; P=0.024)</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-203" type="identity">
+         <class id="major"/>
+         <span end="12917" id="PMC3075531.nxml.gz-203" start="12912">major</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-204" type="identity">
+         <class id="reported"/>
+         <span end="12959" id="PMC3075531.nxml.gz-204" start="12951">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-205" type="identity">
+         <class id="subject_scope"/>
+         <span end="13287" id="PMC3075531.nxml.gz-205" start="13151">Supplementation with codliver oil was also associated with lower risk of MS, but only among individuals with low summer outdoor activity</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-206" type="identity">
+         <class id="associated"/>
+         <span end="13204" id="PMC3075531.nxml.gz-206" start="13194">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-207" type="identity">
+         <class id="but_only"/>
+         <span end="13236" id="PMC3075531.nxml.gz-207" start="13228">but only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-208" type="identity">
+         <class id="subject_scope"/>
+         <span end="13507" id="PMC3075531.nxml.gz-208" start="13289">In relation to sun exposure and related measures, one of these studies, which comprised 136 individuals with MS and 272 age and sex-matched controls in Tasmania,16collected information on sun exposure at different ages</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-209" type="identity">
+         <class id="relation"/>
+         <span end="13300" id="PMC3075531.nxml.gz-209" start="13292">relation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-210" type="identity">
+         <class id="related"/>
+         <span end="13328" id="PMC3075531.nxml.gz-210" start="13321">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-211" type="identity">
+         <class id="these_studies"/>
+         <span end="13359" id="PMC3075531.nxml.gz-211" start="13346">these studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-212" type="identity">
+         <class id="information"/>
+         <span end="13473" id="PMC3075531.nxml.gz-212" start="13462">information</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-213" type="identity">
+         <class id="subject_scope"/>
+         <span end="13809" id="PMC3075531.nxml.gz-213" start="13509">The odds ratios of MS among individuals who reported spending at least 2 hours per day in the sun during holidays and at weekends at ages 6-10 years were 0.47 (95%CI 0.26-0.84) for winter and 0.50 (0.24-1.02) for exposure; inverse but weaker associations were observed with sun exposure at older ages</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-214" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="13743" id="PMC3075531.nxml.gz-214" start="13740">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-215" type="identity">
+         <class id="associations"/>
+         <span end="13763" id="PMC3075531.nxml.gz-215" start="13751">associations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-216" type="identity">
+         <class id="observed"/>
+         <span end="13777" id="PMC3075531.nxml.gz-216" start="13769">observed</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-217" type="identity">
+         <class id="subject_scope"/>
+         <span end="13928" id="PMC3075531.nxml.gz-217" start="13811">Non-melanoma skin cancer and, less strongly, melanoma are more common in individuals with high levels of sun exposure</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-218" type="identity">
+         <class id="less"/>
+         <span end="13845" id="PMC3075531.nxml.gz-218" start="13841">less</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-219" type="identity">
+         <class id="thus"/>
+         <span end="13934" id="PMC3075531.nxml.gz-219" start="13930">Thus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-220" type="identity">
+         <class id="subject_scope"/>
+         <span end="14033" id="PMC3075531.nxml.gz-220" start="13930">Thus, if vitamin D was protective, these cancers would be expected to be rare among individuals with MS</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-221" type="identity">
+         <class id="if"/>
+         <span end="13938" id="PMC3075531.nxml.gz-221" start="13936">if</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-222" type="identity">
+         <class id="protective"/>
+         <span end="13963" id="PMC3075531.nxml.gz-222" start="13953">protective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-223" type="identity">
+         <class id="would_be_expected"/>
+         <span end="13996" id="PMC3075531.nxml.gz-223" start="13979">would be expected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-224" type="identity">
+         <class id="rare"/>
+         <span end="14007" id="PMC3075531.nxml.gz-224" start="14003">rare</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-225" type="identity">
+         <class id="in_fact"/>
+         <span end="14042" id="PMC3075531.nxml.gz-225" start="14035">In fact</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-226" type="identity">
+         <class id="subject_scope"/>
+         <span end="14151" id="PMC3075531.nxml.gz-226" start="14035">In fact, a lower than expected occurrence of skin cancer was reported among individuals with MS in a study in the UK</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-227" type="identity">
+         <class id="expected"/>
+         <span end="14065" id="PMC3075531.nxml.gz-227" start="14057">expected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-228" type="identity">
+         <class id="reported"/>
+         <span end="14104" id="PMC3075531.nxml.gz-228" start="14096">reported</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3075531.nxml.gz-229" type="identity">
+         <class id="subject_scope"/>
+         <span end="14225" id="PMC3075531.nxml.gz-229" start="14151">.38Month of birth has also been suggested as a factor that affects MS risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-230" type="identity">
+         <class id="has...been"/>
+         <span end="14172" id="PMC3075531.nxml.gz-230" start="14169">has</span>
+         <span end="14182" id="PMC3075531.nxml.gz-231" start="14178">been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-232" type="identity">
+         <class id="suggested"/>
+         <span end="14192" id="PMC3075531.nxml.gz-232" start="14183">suggested</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-233" type="identity">
+         <class id="as"/>
+         <span end="14195" id="PMC3075531.nxml.gz-233" start="14193">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-234" type="identity">
+         <class id="factor"/>
+         <span end="14204" id="PMC3075531.nxml.gz-234" start="14198">factor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-235" type="identity">
+         <class id="affects"/>
+         <span end="14217" id="PMC3075531.nxml.gz-235" start="14210">affects</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-236" type="identity">
+         <class id="subject_scope"/>
+         <span end="14451" id="PMC3075531.nxml.gz-236" start="14227">In a pooled analysis of data from Canada, UK, Denmark, and Sweden including more than 40,000 individuals with MS, significantly fewer (8.5%) people with MS were born in November and significantly more (9.1%) were born in May</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-237" type="identity">
+         <class id="fewer"/>
+         <span end="14360" id="PMC3075531.nxml.gz-237" start="14355">fewer</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-238" type="identity">
+         <class id="this"/>
+         <span end="14458" id="PMC3075531.nxml.gz-238" start="14454">This</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-239" type="identity">
+         <class id="subject_scope"/>
+         <span end="14612" id="PMC3075531.nxml.gz-239" start="14454">This finding suggests that prenatal exposures or exposures in the first months of life could be important in MS etiology, but the link to vitamin D is unclear</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-240" type="identity">
+         <class id="finding"/>
+         <span end="14466" id="PMC3075531.nxml.gz-240" start="14459">finding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-241" type="identity">
+         <class id="suggests"/>
+         <span end="14475" id="PMC3075531.nxml.gz-241" start="14467">suggests</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-242" type="identity">
+         <class id="could_be"/>
+         <span end="14549" id="PMC3075531.nxml.gz-242" start="14541">could be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-243" type="identity">
+         <class id="important"/>
+         <span end="14559" id="PMC3075531.nxml.gz-243" start="14550">important</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-244" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="14579" id="PMC3075531.nxml.gz-244" start="14576">but</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-245" type="identity">
+         <class id="but"/>
+         <span end="14579" id="PMC3075531.nxml.gz-245" start="14576">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-246" type="identity">
+         <class id="link"/>
+         <span end="14588" id="PMC3075531.nxml.gz-246" start="14584">link</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-247" type="identity">
+         <class id="unclear"/>
+         <span end="14612" id="PMC3075531.nxml.gz-247" start="14605">unclear</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-248" type="identity">
+         <class id="subject_scope"/>
+         <span end="14757" id="PMC3075531.nxml.gz-248" start="14614">Genes also can affect vitamin D metabolism, skin color, and behavior, all of which can influence circulating 25-hydroxyvitamin D concentrations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-249" type="identity">
+         <class id="can"/>
+         <span end="14628" id="PMC3075531.nxml.gz-249" start="14625">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-250" type="identity">
+         <class id="affect"/>
+         <span end="14635" id="PMC3075531.nxml.gz-250" start="14629">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-251" type="identity">
+         <class id="can"/>
+         <span end="14700" id="PMC3075531.nxml.gz-251" start="14697">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-252" type="identity">
+         <class id="influence"/>
+         <span end="14710" id="PMC3075531.nxml.gz-252" start="14701">influence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-253" type="identity">
+         <class id="subject_scope"/>
+         <span end="14889" id="PMC3075531.nxml.gz-253" start="14759">Furthermore, genetic variations in vitamin-D-related and other genes might influence the effects of vitamin D on the immune system</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-254" type="identity">
+         <class id="other"/>
+         <span end="14821" id="PMC3075531.nxml.gz-254" start="14816">other</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-255" type="identity">
+         <class id="might"/>
+         <span end="14833" id="PMC3075531.nxml.gz-255" start="14828">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-256" type="identity">
+         <class id="influence"/>
+         <span end="14843" id="PMC3075531.nxml.gz-256" start="14834">influence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-257" type="identity">
+         <class id="effects"/>
+         <span end="14855" id="PMC3075531.nxml.gz-257" start="14848">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-258" type="identity">
+         <class id="therefore"/>
+         <span end="14900" id="PMC3075531.nxml.gz-258" start="14891">Therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-259" type="identity">
+         <class id="subject_scope"/>
+         <span end="15031" id="PMC3075531.nxml.gz-259" start="14891">Therefore, genetic variations in vitamin-D-related genes might also affect MS risk, either directly or by modifying the effects of vitamin D</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-260" type="identity">
+         <class id="might"/>
+         <span end="14953" id="PMC3075531.nxml.gz-260" start="14948">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-261" type="identity">
+         <class id="affect"/>
+         <span end="14965" id="PMC3075531.nxml.gz-261" start="14959">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-262" type="identity">
+         <class id="either...or"/>
+         <span end="14981" id="PMC3075531.nxml.gz-262" start="14975">either</span>
+         <span end="14993" id="PMC3075531.nxml.gz-263" start="14991">or</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-264" type="identity">
+         <class id="effects"/>
+         <span end="15018" id="PMC3075531.nxml.gz-264" start="15011">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-265" type="identity">
+         <class id="subject_scope"/>
+         <span end="15470" id="PMC3075531.nxml.gz-265" start="15035">Our implications for future research and MS prevention and according to the basis of the results of the only longitudinal study of serum 25-hydroxyvitamin D and MS onset,18and assum-ing that these results are unbiased and vitamin D is truly protective against MS, over 70% of MS cases in the USA and Europe could be prevented by increasing the serum 25-hydroxyvitamin D concentration of adolescents and young adults to above 100 nmol/L</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-266" type="identity">
+         <class id="implications"/>
+         <span end="15051" id="PMC3075531.nxml.gz-266" start="15039">implications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-267" type="identity">
+         <class id="future...research"/>
+         <span end="15071" id="PMC3075531.nxml.gz-267" start="15056">future research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-268" type="identity">
+         <class id="according_to"/>
+         <span end="15106" id="PMC3075531.nxml.gz-268" start="15094">according to</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-269" type="identity">
+         <class id="only"/>
+         <span end="15143" id="PMC3075531.nxml.gz-269" start="15139">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-270" type="identity">
+         <class id="truly"/>
+         <span end="15275" id="PMC3075531.nxml.gz-270" start="15270">truly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-271" type="identity">
+         <class id="protective"/>
+         <span end="15286" id="PMC3075531.nxml.gz-271" start="15276">protective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-272" type="identity">
+         <class id="could_be"/>
+         <span end="15350" id="PMC3075531.nxml.gz-272" start="15342">could be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-273" type="identity">
+         <class id="prevented"/>
+         <span end="15360" id="PMC3075531.nxml.gz-273" start="15351">prevented</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-274" type="identity">
+         <class id="subject_scope"/>
+         <span end="15656" id="PMC3075531.nxml.gz-274" start="15475">These concentrations are commonly found only in individuals with outdoor lifestyles in sunny regions, but could be reached in most people by taking 1000-4000 IU colecalciferol daily</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-275" type="identity">
+         <class id="found"/>
+         <span end="15514" id="PMC3075531.nxml.gz-275" start="15509">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-276" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="15519" id="PMC3075531.nxml.gz-276" start="15515">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-277" type="identity">
+         <class id="but"/>
+         <span end="15580" id="PMC3075531.nxml.gz-277" start="15577">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-278" type="identity">
+         <class id="could_be"/>
+         <span end="15589" id="PMC3075531.nxml.gz-278" start="15581">could be</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-279" type="identity">
+         <class id="most"/>
+         <span end="15605" id="PMC3075531.nxml.gz-279" start="15601">most</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3075531.nxml.gz-280" type="identity">
+         <class id="subject_scope"/>
+         <span end="15873" id="PMC3075531.nxml.gz-280" start="15656">.8254344Although these doses are largely considered safe and potentially beneficial for other outcomes,819confirmation of safety and efficacy in a large randomized trial is needed before making general recommendations</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-281" type="identity">
+         <class id="although"/>
+         <span end="15672" id="PMC3075531.nxml.gz-281" start="15664">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-282" type="identity">
+         <class id="largely"/>
+         <span end="15696" id="PMC3075531.nxml.gz-282" start="15689">largely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-283" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="15707" id="PMC3075531.nxml.gz-283" start="15697">considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-284" type="identity">
+         <class id="safe"/>
+         <span end="15712" id="PMC3075531.nxml.gz-284" start="15708">safe</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-285" type="identity">
+         <class id="potentially"/>
+         <span end="15728" id="PMC3075531.nxml.gz-285" start="15717">potentially</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-286" type="identity">
+         <class id="other"/>
+         <span end="15749" id="PMC3075531.nxml.gz-286" start="15744">other</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-287" type="identity">
+         <class id="confirmation"/>
+         <span end="15774" id="PMC3075531.nxml.gz-287" start="15762">confirmation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-288" type="identity">
+         <class id="safety"/>
+         <span end="15784" id="PMC3075531.nxml.gz-288" start="15778">safety</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-289" type="identity">
+         <class id="large...trial"/>
+         <span end="15808" id="PMC3075531.nxml.gz-289" start="15803">large</span>
+         <span end="15825" id="PMC3075531.nxml.gz-290" start="15820">trial</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-291" type="identity">
+         <class id="future_work"/>
+         <span end="15835" id="PMC3075531.nxml.gz-291" start="15829">needed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-292" type="identity">
+         <class id="recommendations"/>
+         <span end="15873" id="PMC3075531.nxml.gz-292" start="15858">recommendations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-293" type="identity">
+         <class id="subject_scope"/>
+         <span end="16168" id="PMC3075531.nxml.gz-293" start="15875">One option would be a national or multinational study based on randomization of school districts or other suitable units in regions of low sunlight intensity, perhaps including multiple outcomes that might be affected by vitamin D, such as diabetes, obesity, respiratory infections, and asthma</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-294" type="identity">
+         <class id="would_be"/>
+         <span end="15894" id="PMC3075531.nxml.gz-294" start="15886">would be</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-295" type="identity">
+         <class id="based_on"/>
+         <span end="15937" id="PMC3075531.nxml.gz-295" start="15929">based on</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-296" type="identity">
+         <class id="other"/>
+         <span end="15980" id="PMC3075531.nxml.gz-296" start="15975">other</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-297" type="identity">
+         <class id="suitable"/>
+         <span end="15989" id="PMC3075531.nxml.gz-297" start="15981">suitable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-298" type="identity">
+         <class id="perhaps"/>
+         <span end="16041" id="PMC3075531.nxml.gz-298" start="16034">perhaps</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-299" type="identity">
+         <class id="might"/>
+         <span end="16080" id="PMC3075531.nxml.gz-299" start="16075">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-300" type="identity">
+         <class id="affected"/>
+         <span end="16092" id="PMC3075531.nxml.gz-300" start="16084">affected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-301" type="identity">
+         <class id="alternatively"/>
+         <span end="16186" id="PMC3075531.nxml.gz-301" start="16173">Alternatively</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-302" type="identity">
+         <class id="subject_scope"/>
+         <span end="16347" id="PMC3075531.nxml.gz-302" start="16173">Alternatively, high-risk first-degree relatives of individu-als with MS could be targeted in a smaller trial,47although randomization and compliance could be more challenging</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-303" type="identity">
+         <class id="could_be"/>
+         <span end="16253" id="PMC3075531.nxml.gz-303" start="16245">could be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-304" type="identity">
+         <class id="although"/>
+         <span end="16292" id="PMC3075531.nxml.gz-304" start="16284">although</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-305" type="identity">
+         <class id="could_be"/>
+         <span end="16330" id="PMC3075531.nxml.gz-305" start="16322">could be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-306" type="identity">
+         <class id="challenging"/>
+         <span end="16347" id="PMC3075531.nxml.gz-306" start="16336">challenging</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-307" type="identity">
+         <class id="subject_scope"/>
+         <span end="16430" id="PMC3075531.nxml.gz-307" start="16349">In either design, contamination of the control group would be a potential concern</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-308" type="identity">
+         <class id="either"/>
+         <span end="16358" id="PMC3075531.nxml.gz-308" start="16352">either</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-309" type="identity">
+         <class id="would_be"/>
+         <span end="16410" id="PMC3075531.nxml.gz-309" start="16402">would be</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-310" type="identity">
+         <class id="potential"/>
+         <span end="16422" id="PMC3075531.nxml.gz-310" start="16413">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-311" type="identity">
+         <class id="concern"/>
+         <span end="16430" id="PMC3075531.nxml.gz-311" start="16423">concern</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3075531.nxml.gz-312" type="identity">
+         <class id="subject_scope"/>
+         <span end="16707" id="PMC3075531.nxml.gz-312" start="16445">In conclusion, this study showed that serum vitamin D deficiency might be a potential environmental predisposing factor for developing multiple sclerosis in our region, and need to follow factors that cause this problem including dietary, genetic, and other ones</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-313" type="identity">
+         <class id="this...study"/>
+         <span end="16470" id="PMC3075531.nxml.gz-313" start="16460">this study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-314" type="identity">
+         <class id="showed"/>
+         <span end="16477" id="PMC3075531.nxml.gz-314" start="16471">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-315" type="identity">
+         <class id="might"/>
+         <span end="16515" id="PMC3075531.nxml.gz-315" start="16510">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-316" type="identity">
+         <class id="potential"/>
+         <span end="16530" id="PMC3075531.nxml.gz-316" start="16521">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-317" type="identity">
+         <class id="factor"/>
+         <span end="16564" id="PMC3075531.nxml.gz-317" start="16558">factor</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-318" type="identity">
+         <class id="need"/>
+         <span end="16622" id="PMC3075531.nxml.gz-318" start="16618">need</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-319" type="identity">
+         <class id="important_consideration"/>
+         <span end="16622" id="PMC3075531.nxml.gz-319" start="16618">need</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-320" type="identity">
+         <class id="factors"/>
+         <span end="16640" id="PMC3075531.nxml.gz-320" start="16633">factors</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-321" type="identity">
+         <class id="this"/>
+         <span end="16656" id="PMC3075531.nxml.gz-321" start="16652">this</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-322" type="identity">
+         <class id="important_consideration"/>
+         <span end="16664" id="PMC3075531.nxml.gz-322" start="16657">problem</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-323" type="identity">
+         <class id="problem"/>
+         <span end="16664" id="PMC3075531.nxml.gz-323" start="16657">problem</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-324" type="identity">
+         <class id="whereas"/>
+         <span end="16716" id="PMC3075531.nxml.gz-324" start="16709">Whereas</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-325" type="identity">
+         <class id="subject_scope"/>
+         <span end="17004" id="PMC3075531.nxml.gz-325" start="16709">Whereas future observational epidemiological studies and genetic and molecular investigations will be useful to strengthen and refine the hypothesis, it might be necessary to do a large randomized trial to establish the safety and efficacy needed to promote large-scale vitamin D supplementation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-326" type="identity">
+         <class id="future"/>
+         <span end="16723" id="PMC3075531.nxml.gz-326" start="16717">future</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-327" type="identity">
+         <class id="investigations"/>
+         <span end="16802" id="PMC3075531.nxml.gz-327" start="16788">investigations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-328" type="identity">
+         <class id="will"/>
+         <span end="16807" id="PMC3075531.nxml.gz-328" start="16803">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-329" type="identity">
+         <class id="hypothesis"/>
+         <span end="16857" id="PMC3075531.nxml.gz-329" start="16847">hypothesis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-330" type="identity">
+         <class id="might"/>
+         <span end="16867" id="PMC3075531.nxml.gz-330" start="16862">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-331" type="identity">
+         <class id="necessary"/>
+         <span end="16880" id="PMC3075531.nxml.gz-331" start="16871">necessary</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-332" type="identity">
+         <class id="large...trial"/>
+         <span end="16894" id="PMC3075531.nxml.gz-332" start="16889">large</span>
+         <span end="16911" id="PMC3075531.nxml.gz-333" start="16906">trial</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-334" type="identity">
+         <class id="safety"/>
+         <span end="16935" id="PMC3075531.nxml.gz-334" start="16929">safety</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-335" type="identity">
+         <class id="needed"/>
+         <span end="16955" id="PMC3075531.nxml.gz-335" start="16949">needed</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-336" type="identity">
+         <class id="important_consideration"/>
+         <span end="16955" id="PMC3075531.nxml.gz-336" start="16949">needed</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3075531.nxml.gz-337" type="identity">
+         <class id="subject_scope"/>
+         <span end="17263" id="PMC3075531.nxml.gz-337" start="17006">A test of the hypothesis that vitamin D could reduce MS risk will require the administration of relatively high doses of vitamin D to hundreds of thousands of young adults for several years, and careful monitoring for unforeseen adverse effects is mandatory</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-338" type="identity">
+         <class id="hypothesis"/>
+         <span end="17030" id="PMC3075531.nxml.gz-338" start="17020">hypothesis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-339" type="identity">
+         <class id="could"/>
+         <span end="17051" id="PMC3075531.nxml.gz-339" start="17046">could</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-340" type="identity">
+         <class id="will"/>
+         <span end="17071" id="PMC3075531.nxml.gz-340" start="17067">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-341" type="identity">
+         <class id="require"/>
+         <span end="17079" id="PMC3075531.nxml.gz-341" start="17072">require</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-342" type="identity">
+         <class id="important_consideration"/>
+         <span end="17250" id="PMC3075531.nxml.gz-342" start="17224">unforeseen adverse effects</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-343" type="identity">
+         <class id="effects"/>
+         <span end="17250" id="PMC3075531.nxml.gz-343" start="17243">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-344" type="identity">
+         <class id="mandatory"/>
+         <span end="17263" id="PMC3075531.nxml.gz-344" start="17254">mandatory</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-345" type="identity">
+         <class id="subject_scope"/>
+         <span end="17412" id="PMC3075531.nxml.gz-345" start="17265">We suggest that an international multidisciplinary working group to be set up to oversee the design of future prevention or supplementation studies</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-346" type="identity">
+         <class id="future_work"/>
+         <span end="17275" id="PMC3075531.nxml.gz-346" start="17268">suggest</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-347" type="identity">
+         <class id="suggest"/>
+         <span end="17275" id="PMC3075531.nxml.gz-347" start="17268">suggest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-348" type="identity">
+         <class id="future"/>
+         <span end="17374" id="PMC3075531.nxml.gz-348" start="17368">future</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-349" type="identity">
+         <class id="subject_scope"/>
+         <span end="17717" id="PMC3075531.nxml.gz-349" start="17414">Furthermore, screening of serum 25-hydroxyvitamin D concentrations is likely to identify a large proportion of patients who are vitamin D deficient or insufficient, and who might benefit from vitamin D supplementation for prevention of osteoporosis and other complications, especially multiple sclerosis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-350" type="identity">
+         <class id="likely"/>
+         <span end="17490" id="PMC3075531.nxml.gz-350" start="17484">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3075531.nxml.gz-351" type="identity">
+         <class id="might"/>
+         <span end="17592" id="PMC3075531.nxml.gz-351" start="17587">might</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-352" type="identity">
+         <class id="other"/>
+         <span end="17672" id="PMC3075531.nxml.gz-352" start="17667">other</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3075531.nxml.gz-353" type="identity">
+         <class id="important_consideration"/>
+         <span end="17686" id="PMC3075531.nxml.gz-353" start="17673">complications</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3075531.nxml.gz-354" type="identity">
+         <class id="complications"/>
+         <span end="17686" id="PMC3075531.nxml.gz-354" start="17673">complications</span>
+      </annotation>
+   </document>
+</knowtator-project>

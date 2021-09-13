@@ -1,0 +1,1262 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC6000839.nxml.gz" text-file="PMC6000839.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="243" id="PMC6000839.nxml.gz-1" start="140">Anthropometric measurements of newborn infant are widely assessed as determinants of maternal nutrition</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-2" type="identity">
+         <class id="assessed"/>
+         <span end="205" id="PMC6000839.nxml.gz-2" start="197">assessed</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-3" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="205" id="PMC6000839.nxml.gz-3" start="197">assessed</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-4" type="identity">
+         <class id="as"/>
+         <span end="208" id="PMC6000839.nxml.gz-4" start="206">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-5" type="identity">
+         <class id="determinants"/>
+         <span end="221" id="PMC6000839.nxml.gz-5" start="209">determinants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-6" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="253" id="PMC6000839.nxml.gz-6" start="245">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-7" type="identity">
+         <class id="subject_scope"/>
+         <span end="497" id="PMC6000839.nxml.gz-7" start="245">Although earlier studies have mostly examined the effects of particular nutrients or foods during gestational period on neonatal anthropometric measurements, there are few studies regarding the association of dietary patterns and mentioned measurements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-8" type="identity">
+         <class id="earlier_studies"/>
+         <span end="269" id="PMC6000839.nxml.gz-8" start="254">earlier studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-9" type="identity">
+         <class id="mostly"/>
+         <span end="281" id="PMC6000839.nxml.gz-9" start="275">mostly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-10" type="identity">
+         <class id="examined"/>
+         <span end="290" id="PMC6000839.nxml.gz-10" start="282">examined</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-11" type="identity">
+         <class id="effects"/>
+         <span end="302" id="PMC6000839.nxml.gz-11" start="295">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-12" type="identity">
+         <class id="association"/>
+         <span end="450" id="PMC6000839.nxml.gz-12" start="439">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-13" type="identity">
+         <class id="subject_scope"/>
+         <span end="705" id="PMC6000839.nxml.gz-13" start="499">So, the purpose of the current study was to investigate the association between major maternal dietary patterns and neonatal anthropometric measurements including body weight, head circumference, and height</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-14" type="identity">
+         <class id="purpose"/>
+         <span end="514" id="PMC6000839.nxml.gz-14" start="507">purpose</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-15" type="identity">
+         <class id="the_current_study"/>
+         <span end="535" id="PMC6000839.nxml.gz-15" start="518">the current study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-16" type="identity">
+         <class id="to_investigate"/>
+         <span end="554" id="PMC6000839.nxml.gz-16" start="540">to investigate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-17" type="identity">
+         <class id="association"/>
+         <span end="570" id="PMC6000839.nxml.gz-17" start="559">association</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-18" type="identity">
+         <class id="major"/>
+         <span end="584" id="PMC6000839.nxml.gz-18" start="579">major</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-19" type="identity">
+         <class id="subject_scope"/>
+         <span end="1125" id="PMC6000839.nxml.gz-19" start="917">Three identified major dietary patterns according to the results obtained from the factor loading matrix were (i) “western dietary pattern”; (ii) “traditional dietary pattern”; (iii) “healthy dietary pattern”</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-20" type="identity">
+         <class id="identified"/>
+         <span end="933" id="PMC6000839.nxml.gz-20" start="923">identified</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-21" type="identity">
+         <class id="major"/>
+         <span end="939" id="PMC6000839.nxml.gz-21" start="934">major</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-22" type="identity">
+         <class id="according_to"/>
+         <span end="969" id="PMC6000839.nxml.gz-22" start="957">according to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-23" type="identity">
+         <class id="subject_scope"/>
+         <span end="1290" id="PMC6000839.nxml.gz-23" start="1127">Overall, this study demonstrated a positive significant association between high adherences to western dietary pattern and chance of having low birth weight infant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-24" type="identity">
+         <class id="demonstrated"/>
+         <span end="1159" id="PMC6000839.nxml.gz-24" start="1147">demonstrated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-25" type="identity">
+         <class id="association"/>
+         <span end="1194" id="PMC6000839.nxml.gz-25" start="1183">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-26" type="identity">
+         <class id="subject_scope"/>
+         <span end="1389" id="PMC6000839.nxml.gz-26" start="1292">However, such associations were not seen in women taking healthy and traditional dietary patterns</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-27" type="identity">
+         <class id="however"/>
+         <span end="1299" id="PMC6000839.nxml.gz-27" start="1292">However</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-28" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="1299" id="PMC6000839.nxml.gz-28" start="1292">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-29" type="identity">
+         <class id="associations"/>
+         <span end="1318" id="PMC6000839.nxml.gz-29" start="1306">associations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-30" type="identity">
+         <class id="seen"/>
+         <span end="1332" id="PMC6000839.nxml.gz-30" start="1328">seen</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-31" type="identity">
+         <class id="subject_scope"/>
+         <span end="1531" id="PMC6000839.nxml.gz-31" start="1403">We found that healthier maternal dietary patterns during early pregnancy might be associated with lower risk of low birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-32" type="identity">
+         <class id="found"/>
+         <span end="1411" id="PMC6000839.nxml.gz-32" start="1406">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-33" type="identity">
+         <class id="might"/>
+         <span end="1481" id="PMC6000839.nxml.gz-33" start="1476">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-34" type="identity">
+         <class id="associated"/>
+         <span end="1495" id="PMC6000839.nxml.gz-34" start="1485">associated</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-35" type="identity">
+         <class id="subject_scope"/>
+         <span end="1587" id="PMC6000839.nxml.gz-35" start="1532"> Further studies are required to confirm these findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-36" type="identity">
+         <class id="further_studies"/>
+         <span end="1548" id="PMC6000839.nxml.gz-36" start="1533">Further studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-37" type="identity">
+         <class id="studies_are_required_to_confirm"/>
+         <span end="1572" id="PMC6000839.nxml.gz-37" start="1541">studies are required to confirm</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-38" type="identity">
+         <class id="these_findings"/>
+         <span end="1587" id="PMC6000839.nxml.gz-38" start="1573">these findings</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-39" type="identity">
+         <class id="subject_scope"/>
+         <span end="1823" id="PMC6000839.nxml.gz-39" start="1606">Anthropometric measurements, including body weight, head circumference, and height of newborn infants, are widely assessed as determinants of impaired fetal growth, intrauterine environment, and maternal nutrition [1]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-40" type="identity">
+         <class id="assessed"/>
+         <span end="1728" id="PMC6000839.nxml.gz-40" start="1720">assessed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-41" type="identity">
+         <class id="as"/>
+         <span end="1731" id="PMC6000839.nxml.gz-41" start="1729">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-42" type="identity">
+         <class id="determinants"/>
+         <span end="1744" id="PMC6000839.nxml.gz-42" start="1732">determinants</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-43" type="identity">
+         <class id="impaired"/>
+         <span end="1756" id="PMC6000839.nxml.gz-43" start="1748">impaired</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-44" type="identity">
+         <class id="subject_scope"/>
+         <span end="1993" id="PMC6000839.nxml.gz-44" start="1825">Restricted fetal growth is one of the most important global public health problems which provides a foundation for developing chronic diseases throughout their life [2]</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-45" type="identity">
+         <class id="restricted"/>
+         <span end="1835" id="PMC6000839.nxml.gz-45" start="1825">Restricted</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-46" type="identity">
+         <class id="most"/>
+         <span end="1867" id="PMC6000839.nxml.gz-46" start="1863">most</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-47" type="identity">
+         <class id="important"/>
+         <span end="1877" id="PMC6000839.nxml.gz-47" start="1868">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-48" type="identity">
+         <class id="global_public_health_problems"/>
+         <span end="1907" id="PMC6000839.nxml.gz-48" start="1878">global public health problems</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-49" type="identity">
+         <class id="which"/>
+         <span end="1913" id="PMC6000839.nxml.gz-49" start="1908">which</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-50" type="identity">
+         <class id="found"/>
+         <span end="1930" id="PMC6000839.nxml.gz-50" start="1925">found</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-51" type="identity">
+         <class id="subject_scope"/>
+         <span end="2164" id="PMC6000839.nxml.gz-51" start="1995">Low birth weight infants are susceptible to higher risk of developing iron deficiency anemia leading to impaired development and altered longer term neurodevelopment [3]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-52" type="identity">
+         <class id="susceptible"/>
+         <span end="2035" id="PMC6000839.nxml.gz-52" start="2024">susceptible</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-53" type="identity">
+         <class id="impaired"/>
+         <span end="2107" id="PMC6000839.nxml.gz-53" start="2099">impaired</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-54" type="identity">
+         <class id="subject_scope"/>
+         <span end="2292" id="PMC6000839.nxml.gz-54" start="2166">Also, impaired fetal growth, in particular in head circumference, is associated with nonoptimal neurodevelopmental outcome [4]</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-55" type="identity">
+         <class id="impaired"/>
+         <span end="2180" id="PMC6000839.nxml.gz-55" start="2172">impaired</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-56" type="identity">
+         <class id="in_particular"/>
+         <span end="2208" id="PMC6000839.nxml.gz-56" start="2195">in particular</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-57" type="identity">
+         <class id="associated"/>
+         <span end="2245" id="PMC6000839.nxml.gz-57" start="2235">associated</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-58" type="identity">
+         <class id="no"/>
+         <span end="2253" id="PMC6000839.nxml.gz-58" start="2251">no</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-59" type="identity">
+         <class id="no"/>
+         <span end="2255" id="PMC6000839.nxml.gz-59" start="2253">no</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-60" type="identity">
+         <class id="optimal"/>
+         <span end="2261" id="PMC6000839.nxml.gz-60" start="2254">optimal</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-61" type="identity">
+         <class id="subject_scope"/>
+         <span end="2611" id="PMC6000839.nxml.gz-61" start="2294">There are also several evidences regarding the association between the impaired growth indices at birth and increased risk of developing some chronic disorders such as obesity, diabetes [5], cardiovascular diseases [5], endothelial dysfunction [6], nonalcoholic fatty liver disease [7], and chronic kidney disease [8]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-62" type="identity">
+         <class id="several_evidences"/>
+         <span end="2326" id="PMC6000839.nxml.gz-62" start="2309">several evidences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-63" type="identity">
+         <class id="association"/>
+         <span end="2352" id="PMC6000839.nxml.gz-63" start="2341">association</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-64" type="identity">
+         <class id="impaired"/>
+         <span end="2373" id="PMC6000839.nxml.gz-64" start="2365">impaired</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-65" type="identity">
+         <class id="increased_risk"/>
+         <span end="2416" id="PMC6000839.nxml.gz-65" start="2402">increased risk</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-66" type="identity">
+         <class id="some"/>
+         <span end="2435" id="PMC6000839.nxml.gz-66" start="2431">some</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-67" type="identity">
+         <class id="subject_scope"/>
+         <span end="2815" id="PMC6000839.nxml.gz-67" start="2613">In addition to genetic factors [9], placenta structural [10] and environmental factors affect fetal growth in utero [9], and maternal nutritional status could impact on fetal growth and development [11]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-68" type="identity">
+         <class id="factors"/>
+         <span end="2643" id="PMC6000839.nxml.gz-68" start="2636">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-69" type="identity">
+         <class id="factors"/>
+         <span end="2699" id="PMC6000839.nxml.gz-69" start="2692">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-70" type="identity">
+         <class id="affect"/>
+         <span end="2706" id="PMC6000839.nxml.gz-70" start="2700">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-71" type="identity">
+         <class id="could"/>
+         <span end="2771" id="PMC6000839.nxml.gz-71" start="2766">could</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-72" type="identity">
+         <class id="impact"/>
+         <span end="2778" id="PMC6000839.nxml.gz-72" start="2772">impact</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-73" type="identity">
+         <class id="subject_scope"/>
+         <span end="2931" id="PMC6000839.nxml.gz-73" start="2817">There is increasing evidence that nutrients [12] and some foods [13,14] play an important role in the fetal growth</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-74" type="identity">
+         <class id="increasing...evidence"/>
+         <span end="2845" id="PMC6000839.nxml.gz-74" start="2826">increasing evidence</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-75" type="identity">
+         <class id="some"/>
+         <span end="2874" id="PMC6000839.nxml.gz-75" start="2870">some</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-76" type="identity">
+         <class id="important"/>
+         <span end="2906" id="PMC6000839.nxml.gz-76" start="2897">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-77" type="identity">
+         <class id="role"/>
+         <span end="2911" id="PMC6000839.nxml.gz-77" start="2907">role</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-78" type="identity">
+         <class id="earlier_studies"/>
+         <span end="2948" id="PMC6000839.nxml.gz-78" start="2933">Earlier studies</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-79" type="identity">
+         <class id="subject_scope"/>
+         <span end="3109" id="PMC6000839.nxml.gz-79" start="2933">Earlier studies have also shown that high-quality diet in the first trimester of pregnancy is positively associated with birth size including birth weight and birth length [15]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-80" type="identity">
+         <class id="also_shown"/>
+         <span end="2964" id="PMC6000839.nxml.gz-80" start="2954">also shown</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-81" type="identity">
+         <class id="first"/>
+         <span end="3000" id="PMC6000839.nxml.gz-81" start="2995">first</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-82" type="identity">
+         <class id="associated"/>
+         <span end="3048" id="PMC6000839.nxml.gz-82" start="3038">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-83" type="identity">
+         <class id="however"/>
+         <span end="3118" id="PMC6000839.nxml.gz-83" start="3111">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-84" type="identity">
+         <class id="subject_scope"/>
+         <span end="3281" id="PMC6000839.nxml.gz-84" start="3111">However, due to a wide range of nutrient interactions, maternal dietary patterns should be explored to achieve the association between maternal nutrition and fetal growth</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-85" type="identity">
+         <class id="due_to"/>
+         <span end="3126" id="PMC6000839.nxml.gz-85" start="3120">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-86" type="identity">
+         <class id="wide_range"/>
+         <span end="3139" id="PMC6000839.nxml.gz-86" start="3129">wide range</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-87" type="identity">
+         <class id="interactions"/>
+         <span end="3164" id="PMC6000839.nxml.gz-87" start="3152">interactions</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-88" type="identity">
+         <class id="should_be"/>
+         <span end="3201" id="PMC6000839.nxml.gz-88" start="3192">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-89" type="identity">
+         <class id="association"/>
+         <span end="3237" id="PMC6000839.nxml.gz-89" start="3226">association</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-90" type="identity">
+         <class id="subject_scope"/>
+         <span end="3415" id="PMC6000839.nxml.gz-90" start="3283">It is noteworthy that there are few studies assessing the birth anthropometric measurements along the maternal dietary patterns [16]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-91" type="identity">
+         <class id="noteworthy"/>
+         <span end="3299" id="PMC6000839.nxml.gz-91" start="3289">noteworthy</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-92" type="identity">
+         <class id="subject_scope"/>
+         <span end="3556" id="PMC6000839.nxml.gz-92" start="3417">Dietary patterns are different based on cultural, geographical, and regional influence in each area and can have effects on health outcomes</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-93" type="identity">
+         <class id="based_on"/>
+         <span end="3456" id="PMC6000839.nxml.gz-93" start="3448">based on</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-94" type="identity">
+         <class id="can"/>
+         <span end="3524" id="PMC6000839.nxml.gz-94" start="3521">can</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-95" type="identity">
+         <class id="effects"/>
+         <span end="3537" id="PMC6000839.nxml.gz-95" start="3530">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-96" type="identity">
+         <class id="limited...data"/>
+         <span end="3573" id="PMC6000839.nxml.gz-96" start="3566">Limited</span>
+         <span end="3578" id="PMC6000839.nxml.gz-97" start="3574">data</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-98" type="identity">
+         <class id="subject_scope"/>
+         <span end="3779" id="PMC6000839.nxml.gz-98" start="3566">Limited data are available regarding the association of maternal dietary patterns and neonatal anthropometric measurements in Middle Eastern countries, where mentioned factors are different from western population</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-99" type="identity">
+         <class id="association"/>
+         <span end="3618" id="PMC6000839.nxml.gz-99" start="3607">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-100" type="identity">
+         <class id="factors"/>
+         <span end="3741" id="PMC6000839.nxml.gz-100" start="3734">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-101" type="identity">
+         <class id="subject_scope"/>
+         <span end="4026" id="PMC6000839.nxml.gz-101" start="3786">So, the purpose of the current study was to investigate the association between major maternal dietary patterns during the first-trimester period and neonatal anthropometric measurements including body weight, head circumference, and height</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-102" type="identity">
+         <class id="purpose"/>
+         <span end="3801" id="PMC6000839.nxml.gz-102" start="3794">purpose</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-103" type="identity">
+         <class id="the_current_study"/>
+         <span end="3822" id="PMC6000839.nxml.gz-103" start="3805">the current study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-104" type="identity">
+         <class id="to_investigate"/>
+         <span end="3841" id="PMC6000839.nxml.gz-104" start="3827">to investigate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-105" type="identity">
+         <class id="association"/>
+         <span end="3857" id="PMC6000839.nxml.gz-105" start="3846">association</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-106" type="identity">
+         <class id="major"/>
+         <span end="3871" id="PMC6000839.nxml.gz-106" start="3866">major</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-107" type="identity">
+         <class id="subject_scope"/>
+         <span end="4216" id="PMC6000839.nxml.gz-107" start="4028">Such findings will be used to implement informative interventional programs to control impaired fetal growth and develop practical policies to improve the diet quality among pregnant women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-108" type="identity">
+         <class id="findings"/>
+         <span end="4041" id="PMC6000839.nxml.gz-108" start="4033">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-109" type="identity">
+         <class id="will"/>
+         <span end="4046" id="PMC6000839.nxml.gz-109" start="4042">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-110" type="identity">
+         <class id="informative"/>
+         <span end="4079" id="PMC6000839.nxml.gz-110" start="4068">informative</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-111" type="identity">
+         <class id="impaired"/>
+         <span end="4123" id="PMC6000839.nxml.gz-111" start="4115">impaired</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-112" type="identity">
+         <class id="subject_scope"/>
+         <span end="5898" id="PMC6000839.nxml.gz-112" start="5836">Supplements were also included to assess total nutrient intake</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-113" type="identity">
+         <class id="to_assess"/>
+         <span end="5876" id="PMC6000839.nxml.gz-113" start="5867">to assess</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-114" type="identity">
+         <class id="subject_scope"/>
+         <span end="6256" id="PMC6000839.nxml.gz-114" start="6177">We applied principal component analysis in order to find major dietary patterns</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-115" type="identity">
+         <class id="in_order_to"/>
+         <span end="6228" id="PMC6000839.nxml.gz-115" start="6217">in order to</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-116" type="identity">
+         <class id="major"/>
+         <span end="6239" id="PMC6000839.nxml.gz-116" start="6234">major</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-117" type="identity">
+         <class id="based_on"/>
+         <span end="6862" id="PMC6000839.nxml.gz-117" start="6854">Based on</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-118" type="identity">
+         <class id="subject_scope"/>
+         <span end="7003" id="PMC6000839.nxml.gz-118" start="6854">Based on our interpretation of the data and of the earlier literature, these 3 factors were labeled as the healthy, western, and traditional patterns</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-119" type="identity">
+         <class id="interpretation"/>
+         <span end="6881" id="PMC6000839.nxml.gz-119" start="6867">interpretation</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-120" type="identity">
+         <class id="subject_scope"/>
+         <span end="7164" id="PMC6000839.nxml.gz-120" start="7005">The individual scores for the 3 patterns show the values estimated for each individual based on their consumption of foods and the factor loadings of the foods</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-121" type="identity">
+         <class id="show"/>
+         <span end="7050" id="PMC6000839.nxml.gz-121" start="7046">show</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-122" type="identity">
+         <class id="estimated"/>
+         <span end="7071" id="PMC6000839.nxml.gz-122" start="7062">estimated</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-123" type="identity">
+         <class id="based_on"/>
+         <span end="7100" id="PMC6000839.nxml.gz-123" start="7092">based on</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-124" type="identity">
+         <class id="to_assess"/>
+         <span end="8087" id="PMC6000839.nxml.gz-124" start="8078">To assess</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-125" type="identity">
+         <class id="subject_scope"/>
+         <span end="8225" id="PMC6000839.nxml.gz-125" start="8078">To assess participants' information regarding age and gender, marital status, and educational level, we used a standard self-reported questionnaire</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-126" type="identity">
+         <class id="subject_scope"/>
+         <span end="8632" id="PMC6000839.nxml.gz-126" start="8519">General Practice Physical Activity Questionnaire (GPPAQ) was used to assess the physical activity of participants</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-127" type="identity">
+         <class id="to_assess"/>
+         <span end="8594" id="PMC6000839.nxml.gz-127" start="8585">to assess</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-128" type="identity">
+         <class id="subject_scope"/>
+         <span end="8944" id="PMC6000839.nxml.gz-128" start="8892">Three factors were considered major dietary patterns</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-129" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="8921" id="PMC6000839.nxml.gz-129" start="8911">considered</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-130" type="identity">
+         <class id="subject_scope"/>
+         <span end="9659" id="PMC6000839.nxml.gz-130" start="9469"> To investigate the association between dietary patterns and neonatal anthropometric measurements, we used multivariable logistic regression models controlled for energy intake, age, and BMI</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-131" type="identity">
+         <class id="to_investigate"/>
+         <span end="9484" id="PMC6000839.nxml.gz-131" start="9470">To investigate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-132" type="identity">
+         <class id="association"/>
+         <span end="9500" id="PMC6000839.nxml.gz-132" start="9489">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-133" type="identity">
+         <class id="subject_scope"/>
+         <span end="10881" id="PMC6000839.nxml.gz-133" start="10111">Three major dietary patterns were identified according to the results obtained from the factor loading matrix (Table 2): (i) “western dietary pattern” which was greatly loaded by processed meats, fruit, fruit juice, citrus, nuts, fish, desserts and sweets, sugar, saturated fat, sweat fruit, potato, legumes, coffee, egg, pizza, high fat dairy, whole grain, and soft drink; (ii) “traditional dietary pattern” which was high in refined grains, colored vegetables, olive, sugar, salt, spices, unsaturated fat, garlic, onion, and tea; (iii) “healthy dietary pattern” which was high in green vegetables, leafy vegetable, colored vegetables, fruit, low-fat dairy, poultry, bulky vegetables, red meat, citrus, nuts, fish, evil, marinades, sweat fruit, egg, and unsaturated fat</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-134" type="identity">
+         <class id="major"/>
+         <span end="10122" id="PMC6000839.nxml.gz-134" start="10117">major</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-135" type="identity">
+         <class id="identified"/>
+         <span end="10155" id="PMC6000839.nxml.gz-135" start="10145">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-136" type="identity">
+         <class id="according_to"/>
+         <span end="10168" id="PMC6000839.nxml.gz-136" start="10156">according to</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-137" type="identity">
+         <class id="subject_scope"/>
+         <span end="11400" id="PMC6000839.nxml.gz-137" start="11276"> In all dietary patterns, the most of energy and nutrients intake were different in all levels of dietary patterns adherence</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-138" type="identity">
+         <class id="different"/>
+         <span end="11356" id="PMC6000839.nxml.gz-138" start="11347">different</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-139" type="identity">
+         <class id="subject_scope"/>
+         <span end="11751" id="PMC6000839.nxml.gz-139" start="11527">Women in the highest quartile of healthy dietary pattern were more likely to be employed and graduated and have employed husband, history of IUGR, and less history of early delivery compared with those in the lowest quartile</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-140" type="identity">
+         <class id="likely"/>
+         <span end="11600" id="PMC6000839.nxml.gz-140" start="11594">likely</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-141" type="identity">
+         <class id="less"/>
+         <span end="11682" id="PMC6000839.nxml.gz-141" start="11678">less</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-142" type="identity">
+         <class id="subject_scope"/>
+         <span end="12026" id="PMC6000839.nxml.gz-142" start="11753">In addition, regarding the distribution of the women across categories of western dietary pattern, it was found that those with the highest adherence had significantly higher social-economic level, employed husband, history of cesarean, and less IUGR and stillbirth history</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-143" type="identity">
+         <class id="found"/>
+         <span end="11864" id="PMC6000839.nxml.gz-143" start="11859">found</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-144" type="identity">
+         <class id="less"/>
+         <span end="11998" id="PMC6000839.nxml.gz-144" start="11994">less</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-145" type="identity">
+         <class id="subject_scope"/>
+         <span end="13034" id="PMC6000839.nxml.gz-145" start="12799">Women in the highest quartile of adherence to traditional dietary pattern were 20% less likely to have short height infant compared with those in the lowest quartile [OR 0.80, 95% (CI) (0.34-1.85), P &lt; 0.93] in the final adjusted model</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-146" type="identity">
+         <class id="less"/>
+         <span end="12886" id="PMC6000839.nxml.gz-146" start="12882">less</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-147" type="identity">
+         <class id="likely"/>
+         <span end="12893" id="PMC6000839.nxml.gz-147" start="12887">likely</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-148" type="identity">
+         <class id="subject_scope"/>
+         <span end="13301" id="PMC6000839.nxml.gz-148" start="13036">Also, there were positive nonsignificant relationships between adherence to western [OR 1.31, 95% (CI) (0.68-2.51), P = 0.28] and healthy [OR 1.02, 95% (CI) (0.39-2.63), P= 0.40] dietary pattern of mothers with having short height infant in the final adjusted model</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-149" type="identity">
+         <class id="relationships"/>
+         <span end="13090" id="PMC6000839.nxml.gz-149" start="13077">relationships</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-150" type="identity">
+         <class id="subject_scope"/>
+         <span end="13576" id="PMC6000839.nxml.gz-150" start="13303">Finding about neonatal weight showed that those in the top quartile of adherence to western dietary pattern had marginally significant chance of having low weight infant compared with those in the bottom quartile in the crude model [OR 1.84, 95% (CI) (0.94-3.60), P = 0.05]</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-151" type="identity">
+         <class id="showed"/>
+         <span end="13339" id="PMC6000839.nxml.gz-151" start="13333">showed</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-152" type="identity">
+         <class id="subject_scope"/>
+         <span end="13990" id="PMC6000839.nxml.gz-152" start="13769">After adjusting for obstetrical factors (model 3), there was a positive significant relationship between adherence to western dietary pattern [OR 5.51, 95% (CI) (1.82-16.66), P = 0.001] with having low birth weight infant</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-153" type="identity">
+         <class id="factors"/>
+         <span end="13808" id="PMC6000839.nxml.gz-153" start="13801">factors</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-154" type="identity">
+         <class id="relationship"/>
+         <span end="13865" id="PMC6000839.nxml.gz-154" start="13853">relationship</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-155" type="identity">
+         <class id="subject_scope"/>
+         <span end="14210" id="PMC6000839.nxml.gz-155" start="13992">In addition, lower marginal significant chance of having low weight infant was found among women who were in the top adherence of traditional dietary pattern [OR 0.76, 95% (CI) (0.32-1.77), P = 0.05] in the crude model</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-156" type="identity">
+         <class id="found"/>
+         <span end="14076" id="PMC6000839.nxml.gz-156" start="14071">found</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-157" type="identity">
+         <class id="subject_scope"/>
+         <span end="14411" id="PMC6000839.nxml.gz-157" start="14211"> Although this association became significant even after taking potential confounders into account in model 1 [OR 0.80, 95% (CI) (0.34-1.93), P &lt; 0.01], such association was not seen in models 2 and 3</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-158" type="identity">
+         <class id="although"/>
+         <span end="14220" id="PMC6000839.nxml.gz-158" start="14212">Although</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-159" type="identity">
+         <class id="association"/>
+         <span end="14237" id="PMC6000839.nxml.gz-159" start="14226">association</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-160" type="identity">
+         <class id="even"/>
+         <span end="14261" id="PMC6000839.nxml.gz-160" start="14257">even</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-161" type="identity">
+         <class id="potential"/>
+         <span end="14284" id="PMC6000839.nxml.gz-161" start="14275">potential</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-162" type="identity">
+         <class id="confounders"/>
+         <span end="14296" id="PMC6000839.nxml.gz-162" start="14285">confounders</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-163" type="identity">
+         <class id="subject_scope"/>
+         <span end="15243" id="PMC6000839.nxml.gz-163" start="15079">Furthermore, lower risk of low birth head circumference was nonsignificantly associated with a traditional dietary pattern [OR 0.58, 95% (CI) (0.13-2.51), P = 0.41]</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-164" type="identity">
+         <class id="associated"/>
+         <span end="15166" id="PMC6000839.nxml.gz-164" start="15156">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-165" type="identity">
+         <class id="subject_scope"/>
+         <span end="15474" id="PMC6000839.nxml.gz-165" start="15260">Current study on 812 subjects is one of the largest studies evaluating the association between major maternal dietary patterns during the first-trimester period of pregnancy and neonatal anthropometric measurements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-166" type="identity">
+         <class id="association"/>
+         <span end="15346" id="PMC6000839.nxml.gz-166" start="15335">association</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-167" type="identity">
+         <class id="major"/>
+         <span end="15360" id="PMC6000839.nxml.gz-167" start="15355">major</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-168" type="identity">
+         <class id="subject_scope"/>
+         <span end="15621" id="PMC6000839.nxml.gz-168" start="15476">This study demonstrated a significant association between high adherences to western dietary pattern and chance of having low birth weight infant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-169" type="identity">
+         <class id="demonstrated"/>
+         <span end="15499" id="PMC6000839.nxml.gz-169" start="15487">demonstrated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-170" type="identity">
+         <class id="association"/>
+         <span end="15525" id="PMC6000839.nxml.gz-170" start="15514">association</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-171" type="identity">
+         <class id="however"/>
+         <span end="15630" id="PMC6000839.nxml.gz-171" start="15623">However</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-172" type="identity">
+         <class id="subject_scope"/>
+         <span end="15708" id="PMC6000839.nxml.gz-172" start="15623">However, such associations were not seen with healthy and traditional dietary pattern</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-173" type="identity">
+         <class id="associations"/>
+         <span end="15649" id="PMC6000839.nxml.gz-173" start="15637">associations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-174" type="identity">
+         <class id="earlier_studies"/>
+         <span end="15725" id="PMC6000839.nxml.gz-174" start="15710">Earlier studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-175" type="identity">
+         <class id="subject_scope"/>
+         <span end="15951" id="PMC6000839.nxml.gz-175" start="15710">Earlier studies have mostly examined the effects of particular nutrients or foods during gestational period on neonatal anthropometric measurements [13] and few data are available linking habitual diet to neonatal anthropometric measurements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-176" type="identity">
+         <class id="mostly"/>
+         <span end="15737" id="PMC6000839.nxml.gz-176" start="15731">mostly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-177" type="identity">
+         <class id="examined"/>
+         <span end="15746" id="PMC6000839.nxml.gz-177" start="15738">examined</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-178" type="identity">
+         <class id="effects"/>
+         <span end="15758" id="PMC6000839.nxml.gz-178" start="15751">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-179" type="identity">
+         <class id="few"/>
+         <span end="15870" id="PMC6000839.nxml.gz-179" start="15867">few</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-180" type="identity">
+         <class id="linking"/>
+         <span end="15897" id="PMC6000839.nxml.gz-180" start="15890">linking</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-181" type="identity">
+         <class id="subject_scope"/>
+         <span end="16404" id="PMC6000839.nxml.gz-181" start="16167"> Earlier studies have also shown that high-quality diet assessed by using the Alternate Healthy Eating Index (AHEI) in the first trimester of pregnancy is positively associated with birth size including birth weight and birth length [15]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-182" type="identity">
+         <class id="earlier_studies"/>
+         <span end="16183" id="PMC6000839.nxml.gz-182" start="16168">Earlier studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-183" type="identity">
+         <class id="also_shown"/>
+         <span end="16199" id="PMC6000839.nxml.gz-183" start="16189">also shown</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-184" type="identity">
+         <class id="assessed"/>
+         <span end="16231" id="PMC6000839.nxml.gz-184" start="16223">assessed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-185" type="identity">
+         <class id="associated"/>
+         <span end="16343" id="PMC6000839.nxml.gz-185" start="16333">associated</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-186" type="identity">
+         <class id="subject_scope"/>
+         <span end="16602" id="PMC6000839.nxml.gz-186" start="16406">Other publication has also reported a protective effect of adherence to Mediterranean diet during pregnancy and risk of delivering a fetal growth–restricted infant for weight in Atlantic area [16]</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-187" type="identity">
+         <class id="other"/>
+         <span end="16411" id="PMC6000839.nxml.gz-187" start="16406">Other</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-188" type="identity">
+         <class id="reported"/>
+         <span end="16441" id="PMC6000839.nxml.gz-188" start="16433">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-189" type="identity">
+         <class id="protective"/>
+         <span end="16454" id="PMC6000839.nxml.gz-189" start="16444">protective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-190" type="identity">
+         <class id="effect"/>
+         <span end="16461" id="PMC6000839.nxml.gz-190" start="16455">effect</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-191" type="identity">
+         <class id="subject_scope"/>
+         <span end="16857" id="PMC6000839.nxml.gz-191" start="16604">In a population-based prospective study, it has been shown that women in the “wheat products” pattern had higher odds of having infants with the low birth weight and head circumference compared with women in the “rice, fish, and vegetables” pattern [24]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-192" type="identity">
+         <class id="has_been_shown"/>
+         <span end="16662" id="PMC6000839.nxml.gz-192" start="16648">has been shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-193" type="identity">
+         <class id="subject_scope"/>
+         <span end="17041" id="PMC6000839.nxml.gz-193" start="16859">Also, some maternal dietary patterns characterized by high intakes of vegetable, fruit, white rice [25], Vitamin C, milk, and fat [26] are associated with larger birth size of infant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-194" type="identity">
+         <class id="some"/>
+         <span end="16869" id="PMC6000839.nxml.gz-194" start="16865">some</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-195" type="identity">
+         <class id="associated"/>
+         <span end="17008" id="PMC6000839.nxml.gz-195" start="16998">associated</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-196" type="identity">
+         <class id="subject_scope"/>
+         <span end="17161" id="PMC6000839.nxml.gz-196" start="17043">In contrast maternal intakes of carbohydrate were negatively associated with infant length and abdominal circumference</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-197" type="identity">
+         <class id="associated"/>
+         <span end="17114" id="PMC6000839.nxml.gz-197" start="17104">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-198" type="identity">
+         <class id="present_study"/>
+         <span end="17181" id="PMC6000839.nxml.gz-198" start="17168">Present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-199" type="identity">
+         <class id="subject_scope"/>
+         <span end="17338" id="PMC6000839.nxml.gz-199" start="17168">Present study showed that the women with prior problematic pregnancies or higher socioeconomic status or education level were more prone to have a healthy dietary pattern</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-200" type="identity">
+         <class id="showed"/>
+         <span end="17188" id="PMC6000839.nxml.gz-200" start="17182">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-201" type="identity">
+         <class id="prone"/>
+         <span end="17304" id="PMC6000839.nxml.gz-201" start="17299">prone</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-202" type="identity">
+         <class id="subject_scope"/>
+         <span end="17546" id="PMC6000839.nxml.gz-202" start="17340">These results were in line with Northstone et al. study which showed that “health conscious” dietary patterns were negatively associated with decreasing educational level, age, and socioeconomic status [21]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-203" type="identity">
+         <class id="in_line_with"/>
+         <span end="17371" id="PMC6000839.nxml.gz-203" start="17359">in line with</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-204" type="identity">
+         <class id="showed"/>
+         <span end="17408" id="PMC6000839.nxml.gz-204" start="17402">showed</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-205" type="identity">
+         <class id="associated"/>
+         <span end="17476" id="PMC6000839.nxml.gz-205" start="17466">associated</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-206" type="identity">
+         <class id="subject_scope"/>
+         <span end="17669" id="PMC6000839.nxml.gz-206" start="17547"> Also, dietary surveys during pregnancy have suggested the poor diet quality and quantity of low socioeconomic groups [27]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-207" type="identity">
+         <class id="suggested"/>
+         <span end="17601" id="PMC6000839.nxml.gz-207" start="17592">suggested</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-208" type="identity">
+         <class id="subject_scope"/>
+         <span end="17831" id="PMC6000839.nxml.gz-208" start="17671">It can be concluded that women with low socioeconomic status need specific dietary intervention programs due to increase in nutritional demands during pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-209" type="identity">
+         <class id="can_be_concluded"/>
+         <span end="17690" id="PMC6000839.nxml.gz-209" start="17674">can be concluded</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-210" type="identity">
+         <class id="need"/>
+         <span end="17736" id="PMC6000839.nxml.gz-210" start="17732">need</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-211" type="identity">
+         <class id="probable_understanding"/>
+         <span end="17782" id="PMC6000839.nxml.gz-211" start="17776">due to</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-212" type="identity">
+         <class id="due_to"/>
+         <span end="17782" id="PMC6000839.nxml.gz-212" start="17776">due to</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-213" type="identity">
+         <class id="subject_scope"/>
+         <span end="18057" id="PMC6000839.nxml.gz-213" start="17833">As was mentioned, we did not see any associations of healthy and traditional dietary patterns with consumption of red meats in the healthy dietary pattern and refined grain, salt, and sugar in the traditional dietary pattern</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-214" type="identity">
+         <class id="did_not_see"/>
+         <span end="17865" id="PMC6000839.nxml.gz-214" start="17854">did not see</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-215" type="identity">
+         <class id="associations"/>
+         <span end="17882" id="PMC6000839.nxml.gz-215" start="17870">associations</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-216" type="identity">
+         <class id="subject_scope"/>
+         <span end="18203" id="PMC6000839.nxml.gz-216" start="18059">Mentioned foods as an unhealthy food might have been given an adverse score in the healthy and traditional dietary patterns in the current study</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-217" type="identity">
+         <class id="might"/>
+         <span end="18101" id="PMC6000839.nxml.gz-217" start="18096">might</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-218" type="identity">
+         <class id="the_current_study"/>
+         <span end="18203" id="PMC6000839.nxml.gz-218" start="18186">the current study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-219" type="identity">
+         <class id="subject_scope"/>
+         <span end="18377" id="PMC6000839.nxml.gz-219" start="18205">This might be a reason why we failed to report a significant positive association between high adherence to healthy dietary pattern and neonatal anthropometric measurements</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-220" type="identity">
+         <class id="this"/>
+         <span end="18209" id="PMC6000839.nxml.gz-220" start="18205">This</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-221" type="identity">
+         <class id="might"/>
+         <span end="18215" id="PMC6000839.nxml.gz-221" start="18210">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-222" type="identity">
+         <class id="reason"/>
+         <span end="18227" id="PMC6000839.nxml.gz-222" start="18221">reason</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-223" type="identity">
+         <class id="why"/>
+         <span end="18231" id="PMC6000839.nxml.gz-223" start="18228">why</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-224" type="identity">
+         <class id="failed"/>
+         <span end="18241" id="PMC6000839.nxml.gz-224" start="18235">failed</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-225" type="identity">
+         <class id="led_to"/>
+         <span end="18244" id="PMC6000839.nxml.gz-225" start="18238">led to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-226" type="identity">
+         <class id="association"/>
+         <span end="18286" id="PMC6000839.nxml.gz-226" start="18275">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-227" type="identity">
+         <class id="subject_scope"/>
+         <span end="18559" id="PMC6000839.nxml.gz-227" start="18379">It should be mentioned that refined grains are major source of carbohydrate intake in Iranian diet, which has been shown to be associated with higher risk of some chronic disorders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-228" type="identity">
+         <class id="should_be_mentioned"/>
+         <span end="18401" id="PMC6000839.nxml.gz-228" start="18382">should be mentioned</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-229" type="identity">
+         <class id="major"/>
+         <span end="18431" id="PMC6000839.nxml.gz-229" start="18426">major</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-230" type="identity">
+         <class id="has_been_shown"/>
+         <span end="18499" id="PMC6000839.nxml.gz-230" start="18485">has been shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-231" type="identity">
+         <class id="associated"/>
+         <span end="18516" id="PMC6000839.nxml.gz-231" start="18506">associated</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-232" type="identity">
+         <class id="some"/>
+         <span end="18541" id="PMC6000839.nxml.gz-232" start="18537">some</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-233" type="identity">
+         <class id="subject_scope"/>
+         <span end="18839" id="PMC6000839.nxml.gz-233" start="18697"> In addition, fruits, vegetables, and low-fat dairy intake among them is low; however, legumes intake is good in the mentioned population [28]</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-234" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="18782" id="PMC6000839.nxml.gz-234" start="18775">however</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-235" type="identity">
+         <class id="therefore"/>
+         <span end="18850" id="PMC6000839.nxml.gz-235" start="18841">Therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-236" type="identity">
+         <class id="subject_scope"/>
+         <span end="19040" id="PMC6000839.nxml.gz-236" start="18841">Therefore, understanding the differences between healthy, western, and traditional dietary patterns and usual Iranian dietary pattern might help interpreting the importance of the findings we reached</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-237" type="identity">
+         <class id="understanding_the_differences"/>
+         <span end="18881" id="PMC6000839.nxml.gz-237" start="18852">understanding the differences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-238" type="identity">
+         <class id="might"/>
+         <span end="18980" id="PMC6000839.nxml.gz-238" start="18975">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-239" type="identity">
+         <class id="importance"/>
+         <span end="19013" id="PMC6000839.nxml.gz-239" start="19003">importance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-240" type="identity">
+         <class id="findings"/>
+         <span end="19029" id="PMC6000839.nxml.gz-240" start="19021">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-241" type="identity">
+         <class id="subject_scope"/>
+         <span end="19132" id="PMC6000839.nxml.gz-241" start="19042">Also, postpregnancy dietary habits and choices may be different compared with prepregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-242" type="identity">
+         <class id="may_be"/>
+         <span end="19095" id="PMC6000839.nxml.gz-242" start="19089">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-243" type="identity">
+         <class id="different"/>
+         <span end="19105" id="PMC6000839.nxml.gz-243" start="19096">different</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-244" type="identity">
+         <class id="subject_scope"/>
+         <span end="19300" id="PMC6000839.nxml.gz-244" start="19210">We cannot overlook that the long time adherence to a specific diet affects health outcomes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-245" type="identity">
+         <class id="cannot_overlook"/>
+         <span end="19228" id="PMC6000839.nxml.gz-245" start="19213">cannot overlook</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-246" type="identity">
+         <class id="affects"/>
+         <span end="19284" id="PMC6000839.nxml.gz-246" start="19277">affects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-247" type="identity">
+         <class id="another"/>
+         <span end="19309" id="PMC6000839.nxml.gz-247" start="19302">Another</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-248" type="identity">
+         <class id="subject_scope"/>
+         <span end="19501" id="PMC6000839.nxml.gz-248" start="19302">Another point that needs to be considered is the measurements error in nutritional assessment; this may increase the likelihood of misclassification, contributing to the discrepancy among our results</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-249" type="identity">
+         <class id="point"/>
+         <span end="19315" id="PMC6000839.nxml.gz-249" start="19310">point</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-250" type="identity">
+         <class id="needs"/>
+         <span end="19326" id="PMC6000839.nxml.gz-250" start="19321">needs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-251" type="identity">
+         <class id="considered"/>
+         <span end="19343" id="PMC6000839.nxml.gz-251" start="19333">considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-252" type="identity">
+         <class id="error"/>
+         <span end="19369" id="PMC6000839.nxml.gz-252" start="19364">error</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-253" type="identity">
+         <class id="may"/>
+         <span end="19405" id="PMC6000839.nxml.gz-253" start="19402">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-254" type="identity">
+         <class id="likelihood"/>
+         <span end="19429" id="PMC6000839.nxml.gz-254" start="19419">likelihood</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-255" type="identity">
+         <class id="misclassification"/>
+         <span end="19450" id="PMC6000839.nxml.gz-255" start="19433">misclassification</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-256" type="identity">
+         <class id="discrepancy"/>
+         <span end="19483" id="PMC6000839.nxml.gz-256" start="19472">discrepancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-257" type="identity">
+         <class id="subject_scope"/>
+         <span end="19592" id="PMC6000839.nxml.gz-257" start="19503">Detailed information about food preparation and brands is also lacking in this instrument</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-258" type="identity">
+         <class id="information"/>
+         <span end="19523" id="PMC6000839.nxml.gz-258" start="19512">information</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-259" type="identity">
+         <class id="lacking"/>
+         <span end="19573" id="PMC6000839.nxml.gz-259" start="19566">lacking</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-260" type="identity">
+         <class id="another"/>
+         <span end="19601" id="PMC6000839.nxml.gz-260" start="19594">Another</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-261" type="identity">
+         <class id="subject_scope"/>
+         <span end="19646" id="PMC6000839.nxml.gz-261" start="19594">Another potential drawback should be also considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-262" type="identity">
+         <class id="potential"/>
+         <span end="19611" id="PMC6000839.nxml.gz-262" start="19602">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-263" type="identity">
+         <class id="drawback"/>
+         <span end="19620" id="PMC6000839.nxml.gz-263" start="19612">drawback</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-264" type="identity">
+         <class id="should_be"/>
+         <span end="19630" id="PMC6000839.nxml.gz-264" start="19621">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-265" type="identity">
+         <class id="considered"/>
+         <span end="19646" id="PMC6000839.nxml.gz-265" start="19636">considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-266" type="identity">
+         <class id="subject_scope"/>
+         <span end="19747" id="PMC6000839.nxml.gz-266" start="19648">Lack of funding to obtain fetal weights estimated via serial ultrasound is an issue in the analyses</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC6000839.nxml.gz-267" type="identity">
+         <class id="problem_complication"/>
+         <span end="19655" id="PMC6000839.nxml.gz-267" start="19648">Lack of</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-268" type="identity">
+         <class id="lack_of"/>
+         <span end="19655" id="PMC6000839.nxml.gz-268" start="19648">Lack of</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-269" type="identity">
+         <class id="estimated"/>
+         <span end="19697" id="PMC6000839.nxml.gz-269" start="19688">estimated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-270" type="identity">
+         <class id="issue"/>
+         <span end="19731" id="PMC6000839.nxml.gz-270" start="19726">issue</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-271" type="identity">
+         <class id="subject_scope"/>
+         <span end="19888" id="PMC6000839.nxml.gz-271" start="19749">It has been suggested that intrauterine growth patterns improved prediction of childhood anthropometry, above and beyond birth weight alone</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-272" type="identity">
+         <class id="has_been_suggested"/>
+         <span end="19770" id="PMC6000839.nxml.gz-272" start="19752">has been suggested</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-273" type="identity">
+         <class id="alone"/>
+         <span end="19888" id="PMC6000839.nxml.gz-273" start="19883">alone</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-274" type="identity">
+         <class id="subject_scope"/>
+         <span end="20081" id="PMC6000839.nxml.gz-274" start="19890">Moreover, up to 70% of small-for-gestational-age (SGA) infants are constitutionally small (“small but healthy”), which make SGA birth a poor surrogate for intrauterine growth restriction [29]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-275" type="identity">
+         <class id="poor"/>
+         <span end="20030" id="PMC6000839.nxml.gz-275" start="20026">poor</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-276" type="identity">
+         <class id="surrogate"/>
+         <span end="20040" id="PMC6000839.nxml.gz-276" start="20031">surrogate</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC6000839.nxml.gz-277" type="identity">
+         <class id="subject_scope"/>
+         <span end="20220" id="PMC6000839.nxml.gz-277" start="20083">In this regard, intrauterine growth should be identified on the basis of measures of fetal growth patterns, rather than birth weight [30]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-278" type="identity">
+         <class id="should_be"/>
+         <span end="20128" id="PMC6000839.nxml.gz-278" start="20119">should be</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-279" type="identity">
+         <class id="identified"/>
+         <span end="20139" id="PMC6000839.nxml.gz-279" start="20129">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-280" type="identity">
+         <class id="on_the_basis_of"/>
+         <span end="20155" id="PMC6000839.nxml.gz-280" start="20140">on the basis of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-281" type="identity">
+         <class id="rather"/>
+         <span end="20197" id="PMC6000839.nxml.gz-281" start="20191">rather</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-282" type="identity">
+         <class id="subject_scope"/>
+         <span end="20373" id="PMC6000839.nxml.gz-282" start="20222">In addition, residual confounding due to genetic backgrounds could not be excluded, although we controlled some important potential confounding factors</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-283" type="identity">
+         <class id="confounding"/>
+         <span end="20255" id="PMC6000839.nxml.gz-283" start="20244">confounding</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-284" type="identity">
+         <class id="could_not_be_excluded"/>
+         <span end="20304" id="PMC6000839.nxml.gz-284" start="20283">could not be excluded</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-285" type="identity">
+         <class id="exclude"/>
+         <span end="20303" id="PMC6000839.nxml.gz-285" start="20296">exclude</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-286" type="identity">
+         <class id="some"/>
+         <span end="20333" id="PMC6000839.nxml.gz-286" start="20329">some</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-287" type="identity">
+         <class id="important"/>
+         <span end="20343" id="PMC6000839.nxml.gz-287" start="20334">important</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-288" type="identity">
+         <class id="potential"/>
+         <span end="20353" id="PMC6000839.nxml.gz-288" start="20344">potential</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-289" type="identity">
+         <class id="confounding_factors"/>
+         <span end="20373" id="PMC6000839.nxml.gz-289" start="20354">confounding factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-290" type="identity">
+         <class id="subject_scope"/>
+         <span end="20471" id="PMC6000839.nxml.gz-290" start="20375">Therefore, these potential limitations should be considered in the interpretation of our results</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-291" type="identity">
+         <class id="therefore"/>
+         <span end="20384" id="PMC6000839.nxml.gz-291" start="20375">Therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-292" type="identity">
+         <class id="potential"/>
+         <span end="20401" id="PMC6000839.nxml.gz-292" start="20392">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-293" type="identity">
+         <class id="limitations"/>
+         <span end="20413" id="PMC6000839.nxml.gz-293" start="20402">limitations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-294" type="identity">
+         <class id="should_be"/>
+         <span end="20423" id="PMC6000839.nxml.gz-294" start="20414">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-295" type="identity">
+         <class id="considered"/>
+         <span end="20434" id="PMC6000839.nxml.gz-295" start="20424">considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-296" type="identity">
+         <class id="interpretation"/>
+         <span end="20456" id="PMC6000839.nxml.gz-296" start="20442">interpretation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-297" type="identity">
+         <class id="subject_scope"/>
+         <span end="20630" id="PMC6000839.nxml.gz-297" start="20473">However, the main strengths of the current study include its multidisciplinary scope including epidemiology, statistics, pediatrics, maternity, and nutrition</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-298" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="20480" id="PMC6000839.nxml.gz-298" start="20473">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-299" type="identity">
+         <class id="strengths"/>
+         <span end="20500" id="PMC6000839.nxml.gz-299" start="20491">strengths</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-300" type="identity">
+         <class id="the_current_study"/>
+         <span end="20521" id="PMC6000839.nxml.gz-300" start="20504">the current study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-301" type="identity">
+         <class id="subject_scope"/>
+         <span end="20764" id="PMC6000839.nxml.gz-301" start="20632">Another positive point is that few studies have collected data on maternal dietary patterns and neonatal anthropometric measurements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-302" type="identity">
+         <class id="few...studies"/>
+         <span end="20674" id="PMC6000839.nxml.gz-302" start="20663">few studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-303" type="identity">
+         <class id="subject_scope"/>
+         <span end="21024" id="PMC6000839.nxml.gz-303" start="20766">In summary, evaluations carried out in the present study indicate that during early pregnancy mothers of low birth weight infant had a different dietary pattern and more adhered to the western dietary pattern compared to mothers of normal weight birth infant</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-304" type="identity">
+         <class id="in_summary"/>
+         <span end="20776" id="PMC6000839.nxml.gz-304" start="20766">In summary</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-305" type="identity">
+         <class id="present_study"/>
+         <span end="20822" id="PMC6000839.nxml.gz-305" start="20809">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-306" type="identity">
+         <class id="indicate"/>
+         <span end="20831" id="PMC6000839.nxml.gz-306" start="20823">indicate</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-307" type="identity">
+         <class id="different"/>
+         <span end="20910" id="PMC6000839.nxml.gz-307" start="20901">different</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC6000839.nxml.gz-308" type="identity">
+         <class id="compared_to"/>
+         <span end="20986" id="PMC6000839.nxml.gz-308" start="20975">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-309" type="identity">
+         <class id="therefore"/>
+         <span end="21035" id="PMC6000839.nxml.gz-309" start="21026">Therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-310" type="identity">
+         <class id="subject_scope"/>
+         <span end="21151" id="PMC6000839.nxml.gz-310" start="21026">Therefore, intrauterine growth conditions might be improved through the adoption of certain dietary patterns during pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-311" type="identity">
+         <class id="might"/>
+         <span end="21073" id="PMC6000839.nxml.gz-311" start="21068">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-312" type="identity">
+         <class id="subject_scope"/>
+         <span end="21299" id="PMC6000839.nxml.gz-312" start="21153">Larger studies are needed to determine whether maternal dietary patterns lead to significant modifications in neonatal anthropometric measurements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-313" type="identity">
+         <class id="to_determine"/>
+         <span end="21191" id="PMC6000839.nxml.gz-313" start="21179">to determine</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-314" type="identity">
+         <class id="whether"/>
+         <span end="21199" id="PMC6000839.nxml.gz-314" start="21192">whether</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC6000839.nxml.gz-315" type="identity">
+         <class id="lead_to"/>
+         <span end="21233" id="PMC6000839.nxml.gz-315" start="21226">lead to</span>
+      </annotation>
+   </document>
+</knowtator-project>

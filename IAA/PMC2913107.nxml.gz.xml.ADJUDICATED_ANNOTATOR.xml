@@ -1,0 +1,1273 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC2913107.nxml.gz" text-file="PMC2913107.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="199" id="PMC2913107.nxml.gz-1" start="27">I have suggested that the primary environmental trigger for autism is not vaccinations, toxins or infections, but gestational and early childhood vitamin D deficiency (1,2)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-2" type="identity">
+         <class id="suggested"/>
+         <span end="43" id="PMC2913107.nxml.gz-2" start="34">suggested</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-3" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="82" id="PMC2913107.nxml.gz-3" start="75">trigger</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-4" type="identity">
+         <class id="but"/>
+         <span end="140" id="PMC2913107.nxml.gz-4" start="137">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-5" type="identity">
+         <class id="subject_scope"/>
+         <span end="334" id="PMC2913107.nxml.gz-5" start="201">Subsequently, the title of an article in Scientific American recently asked, ‘What if vitamin D deficiency is a cause of autism?’ (3)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-6" type="identity">
+         <class id="recently"/>
+         <span end="270" id="PMC2913107.nxml.gz-6" start="262">recently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-7" type="identity">
+         <class id="asked"/>
+         <span end="276" id="PMC2913107.nxml.gz-7" start="271">asked</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-8" type="identity">
+         <class id="what"/>
+         <span end="283" id="PMC2913107.nxml.gz-8" start="279">What</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-9" type="identity">
+         <class id="if"/>
+         <span end="286" id="PMC2913107.nxml.gz-9" start="284">if</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-10" type="identity">
+         <class id="?"/>
+         <span end="329" id="PMC2913107.nxml.gz-10" start="328">?</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-11" type="identity">
+         <class id="subject_scope"/>
+         <span end="621" id="PMC2913107.nxml.gz-11" start="335">Since then, an article on vitamin D and autism in Acta Paediatrica (4) and the accompanying commentary (5) have added to the accelerating suspicion that vitamin D deficiency – either during pregnancy or early childhood – may be an environmental trigger for the genetic disease of autism</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-12" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="357" id="PMC2913107.nxml.gz-12" start="350">article</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-13" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="437" id="PMC2913107.nxml.gz-13" start="427">commentary</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-14" type="identity">
+         <class id="important_consideration"/>
+         <span end="472" id="PMC2913107.nxml.gz-14" start="460">accelerating</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-15" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="482" id="PMC2913107.nxml.gz-15" start="473">suspicion</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-16" type="identity">
+         <class id="either...or"/>
+         <span end="517" id="PMC2913107.nxml.gz-16" start="511">either</span>
+         <span end="537" id="PMC2913107.nxml.gz-17" start="535">or</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-18" type="identity">
+         <class id="may_be"/>
+         <span end="562" id="PMC2913107.nxml.gz-18" start="556">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-19" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="587" id="PMC2913107.nxml.gz-19" start="580">trigger</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-20" type="identity">
+         <class id="instead"/>
+         <span end="777" id="PMC2913107.nxml.gz-20" start="770">Instead</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-21" type="identity">
+         <class id="subject_scope"/>
+         <span end="899" id="PMC2913107.nxml.gz-21" start="770">Instead, I concentrate on papers either published since my paper, or on evidence I overlooked when researching the original paper</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-22" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="792" id="PMC2913107.nxml.gz-22" start="781">concentrate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-23" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="802" id="PMC2913107.nxml.gz-23" start="796">papers</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-24" type="identity">
+         <class id="either...or"/>
+         <span end="809" id="PMC2913107.nxml.gz-24" start="803">either</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-25" type="identity">
+         <class id="either...or"/>
+         <span end="838" id="PMC2913107.nxml.gz-25" start="836">or</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-26" type="identity">
+         <class id="evidence"/>
+         <span end="850" id="PMC2913107.nxml.gz-26" start="842">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-27" type="identity">
+         <class id="problem_complication"/>
+         <span end="863" id="PMC2913107.nxml.gz-27" start="853">overlooked</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-28" type="identity">
+         <class id="subject_scope"/>
+         <span end="989" id="PMC2913107.nxml.gz-28" start="901">Finally, I explain my reasons why this theory deserves immediate attempts to disprove it</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-29" type="identity">
+         <class id="explain"/>
+         <span end="919" id="PMC2913107.nxml.gz-29" start="912">explain</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-30" type="identity">
+         <class id="reasons"/>
+         <span end="930" id="PMC2913107.nxml.gz-30" start="923">reasons</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-31" type="identity">
+         <class id="theory"/>
+         <span end="946" id="PMC2913107.nxml.gz-31" start="940">theory</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-32" type="identity">
+         <class id="future_work"/>
+         <span end="955" id="PMC2913107.nxml.gz-32" start="947">deserves</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-33" type="identity">
+         <class id="important_consideration"/>
+         <span end="965" id="PMC2913107.nxml.gz-33" start="956">immediate</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-34" type="identity">
+         <class id="future_work"/>
+         <span end="974" id="PMC2913107.nxml.gz-34" start="966">attempts</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-35" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="986" id="PMC2913107.nxml.gz-35" start="978">disprove</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-36" type="identity">
+         <class id="probable_understanding"/>
+         <span end="986" id="PMC2913107.nxml.gz-36" start="978">disprove</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-37" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1003" id="PMC2913107.nxml.gz-37" start="991">Simultaneous</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-38" type="identity">
+         <class id="subject_scope"/>
+         <span end="1363" id="PMC2913107.nxml.gz-38" start="991">Simultaneous with the above two Acta Paediatrica publications, a paper elsewhere reported that among 117 adult psychiatric outpatients is Sweden with various diagnoses, the 10 patients with autism had the lowest vitamin D levels of any of the groups studied, a mean of 12 ng/mL (31 nM), approaching the osteomalacic range for adults and the rachitic range for children (6)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-39" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1061" id="PMC2913107.nxml.gz-39" start="1056">paper</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-40" type="identity">
+         <class id="reported"/>
+         <span end="1080" id="PMC2913107.nxml.gz-40" start="1072">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-41" type="identity">
+         <class id="subject_scope"/>
+         <span end="1494" id="PMC2913107.nxml.gz-41" start="1365">Even more interesting, some of the patients seemed to improve when treated with an average dose of about 4000 IU of vitamin D/day</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-42" type="identity">
+         <class id="interesting"/>
+         <span end="1386" id="PMC2913107.nxml.gz-42" start="1375">interesting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-43" type="identity">
+         <class id="some"/>
+         <span end="1392" id="PMC2913107.nxml.gz-43" start="1388">some</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-44" type="identity">
+         <class id="seemed"/>
+         <span end="1415" id="PMC2913107.nxml.gz-44" start="1409">seemed</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-45" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1426" id="PMC2913107.nxml.gz-45" start="1419">improve</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-46" type="identity">
+         <class id="improve"/>
+         <span end="1426" id="PMC2913107.nxml.gz-46" start="1419">improve</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-47" type="identity">
+         <class id="about"/>
+         <span end="1469" id="PMC2913107.nxml.gz-47" start="1464">about</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-48" type="identity">
+         <class id="subject_scope"/>
+         <span end="1567" id="PMC2913107.nxml.gz-48" start="1496">The authors did not say if the improvement occurred in the autism group</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-49" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1519" id="PMC2913107.nxml.gz-49" start="1508">did not say</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-50" type="identity">
+         <class id="subject_scope"/>
+         <span end="1686" id="PMC2913107.nxml.gz-50" start="1569">A 2008 review detailed the devastating effect gestational vitamin D deficiency has on developing mammalian brains (7)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-51" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1582" id="PMC2913107.nxml.gz-51" start="1576">review</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-52" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1591" id="PMC2913107.nxml.gz-52" start="1583">detailed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-53" type="identity">
+         <class id="important_consideration"/>
+         <span end="1607" id="PMC2913107.nxml.gz-53" start="1596">devastating</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-54" type="identity">
+         <class id="effect"/>
+         <span end="1614" id="PMC2913107.nxml.gz-54" start="1608">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-55" type="identity">
+         <class id="unfortunately"/>
+         <span end="1701" id="PMC2913107.nxml.gz-55" start="1688">Unfortunately</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-56" type="identity">
+         <class id="subject_scope"/>
+         <span end="1851" id="PMC2913107.nxml.gz-56" start="1688">Unfortunately, the tiny 10 μg (400 IU) dose in prenatal vitamins is virtually irrelevant in preventing the current epidemic of gestational vitamin D deficiency (8)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-57" type="identity">
+         <class id="virtually"/>
+         <span end="1765" id="PMC2913107.nxml.gz-57" start="1756">virtually</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-58" type="identity">
+         <class id="important_consideration"/>
+         <span end="1776" id="PMC2913107.nxml.gz-58" start="1766">irrelevant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-59" type="identity">
+         <class id="preventing"/>
+         <span end="1790" id="PMC2913107.nxml.gz-59" start="1780">preventing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-60" type="identity">
+         <class id="epidemic"/>
+         <span end="1811" id="PMC2913107.nxml.gz-60" start="1803">epidemic</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-61" type="identity">
+         <class id="for_this_reason"/>
+         <span end="1868" id="PMC2913107.nxml.gz-61" start="1853">For this reason</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-62" type="identity">
+         <class id="subject_scope"/>
+         <span end="2041" id="PMC2913107.nxml.gz-62" start="1853">For this reason, in 2007, the Canadian Paediatric Society cautioned pregnant women they may require not 400 IU/day but 2000 IU/day, or more, to prevent gestational vitamin D deficiency (9)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-63" type="identity">
+         <class id="important_consideration"/>
+         <span end="1920" id="PMC2913107.nxml.gz-63" start="1911">cautioned</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-64" type="identity">
+         <class id="may"/>
+         <span end="1944" id="PMC2913107.nxml.gz-64" start="1941">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-65" type="identity">
+         <class id="important_consideration"/>
+         <span end="1952" id="PMC2913107.nxml.gz-65" start="1945">require</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-66" type="identity">
+         <class id="not...but"/>
+         <span end="1956" id="PMC2913107.nxml.gz-66" start="1953">not</span>
+         <span end="1971" id="PMC2913107.nxml.gz-67" start="1968">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-68" type="identity">
+         <class id="prevent"/>
+         <span end="2004" id="PMC2913107.nxml.gz-68" start="1997">prevent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-69" type="identity">
+         <class id="future_prediction"/>
+         <span end="2045" id="PMC2913107.nxml.gz-69" start="2043">If</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-70" type="identity">
+         <class id="subject_scope"/>
+         <span end="2166" id="PMC2913107.nxml.gz-70" start="2043">If adequate amounts of vitamin D prevent autism, one would expect children with rickets to have an increased risk of autism</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-71" type="identity">
+         <class id="prevent"/>
+         <span end="2083" id="PMC2913107.nxml.gz-71" start="2076">prevent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-72" type="identity">
+         <class id="would"/>
+         <span end="2101" id="PMC2913107.nxml.gz-72" start="2096">would</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-73" type="identity">
+         <class id="expect"/>
+         <span end="2108" id="PMC2913107.nxml.gz-73" start="2102">expect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-74" type="identity">
+         <class id="increased_risk"/>
+         <span end="2156" id="PMC2913107.nxml.gz-74" start="2142">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-75" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2183" id="PMC2913107.nxml.gz-75" start="2168">To my knowledge</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-76" type="identity">
+         <class id="subject_scope"/>
+         <span end="2265" id="PMC2913107.nxml.gz-76" start="2168">To my knowledge, the neuropsychiatric symptoms of rickets have not been studied in the modern era</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-77" type="identity">
+         <class id="have_not_been_studied"/>
+         <span end="2247" id="PMC2913107.nxml.gz-77" start="2226">have not been studied</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-78" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="2274" id="PMC2913107.nxml.gz-78" start="2267">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-79" type="identity">
+         <class id="subject_scope"/>
+         <span end="2380" id="PMC2913107.nxml.gz-79" start="2267">However, at least two old papers have addressed it (10,11), both published before Kanner described autism in 1943</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-80" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2299" id="PMC2913107.nxml.gz-80" start="2293">papers</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-81" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2314" id="PMC2913107.nxml.gz-81" start="2305">addressed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-82" type="identity">
+         <class id="described"/>
+         <span end="2365" id="PMC2913107.nxml.gz-82" start="2356">described</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-83" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2386" id="PMC2913107.nxml.gz-83" start="2382">Both</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-84" type="identity">
+         <class id="subject_scope"/>
+         <span end="2496" id="PMC2913107.nxml.gz-84" start="2382">Both papers describe ‘weak mindedness,’‘feeble minds,’‘mental dullness,’ unresponsiveness and developmental delays</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-85" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2393" id="PMC2913107.nxml.gz-85" start="2387">papers</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-86" type="identity">
+         <class id="describe"/>
+         <span end="2402" id="PMC2913107.nxml.gz-86" start="2394">describe</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-87" type="identity">
+         <class id="subject_scope"/>
+         <span end="2599" id="PMC2913107.nxml.gz-87" start="2498">Even more intriguing, both papers report that the mental condition in rickets improved with vitamin D</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-88" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="2518" id="PMC2913107.nxml.gz-88" start="2508">intriguing</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-89" type="identity">
+         <class id="important_consideration"/>
+         <span end="2518" id="PMC2913107.nxml.gz-89" start="2508">intriguing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-90" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2524" id="PMC2913107.nxml.gz-90" start="2520">both</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-91" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2531" id="PMC2913107.nxml.gz-91" start="2525">papers</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-92" type="identity">
+         <class id="report"/>
+         <span end="2538" id="PMC2913107.nxml.gz-92" start="2532">report</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-93" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="2584" id="PMC2913107.nxml.gz-93" start="2576">improved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-94" type="identity">
+         <class id="another"/>
+         <span end="2608" id="PMC2913107.nxml.gz-94" start="2601">Another</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-95" type="identity">
+         <class id="subject_scope"/>
+         <span end="2793" id="PMC2913107.nxml.gz-95" start="2601">Another of the mysteries of autism is the apparent increased incidence of autism in the children of richer college-educated parents, especially women, a finding announced a few months ago (12)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-96" type="identity">
+         <class id="full_unknown"/>
+         <span end="2625" id="PMC2913107.nxml.gz-96" start="2616">mysteries</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-97" type="identity">
+         <class id="important_consideration"/>
+         <span end="2625" id="PMC2913107.nxml.gz-97" start="2616">mysteries</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-98" type="identity">
+         <class id="apparent"/>
+         <span end="2651" id="PMC2913107.nxml.gz-98" start="2643">apparent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-99" type="identity">
+         <class id="important_consideration"/>
+         <span end="2671" id="PMC2913107.nxml.gz-99" start="2652">increased incidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-100" type="identity">
+         <class id="especially"/>
+         <span end="2744" id="PMC2913107.nxml.gz-100" start="2734">especially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-101" type="identity">
+         <class id="finding"/>
+         <span end="2761" id="PMC2913107.nxml.gz-101" start="2754">finding</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-102" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="2803" id="PMC2913107.nxml.gz-102" start="2795">Actually</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-103" type="identity">
+         <class id="subject_scope"/>
+         <span end="2830" id="PMC2913107.nxml.gz-103" start="2795">Actually, this is not a new finding</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-104" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2816" id="PMC2913107.nxml.gz-104" start="2813">not</span>
+         <span end="2822" id="PMC2913107.nxml.gz-105" start="2819">new</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-106" type="identity">
+         <class id="as"/>
+         <span end="2834" id="PMC2913107.nxml.gz-106" start="2832">As</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-107" type="identity">
+         <class id="subject_scope"/>
+         <span end="2967" id="PMC2913107.nxml.gz-107" start="2832">As I discussed in my original paper, this has been known since the early 1980s but was dismissed as being because of ascertainment bias</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-108" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2846" id="PMC2913107.nxml.gz-108" start="2837">discussed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-109" type="identity">
+         <class id="has_been"/>
+         <span end="2882" id="PMC2913107.nxml.gz-109" start="2874">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-110" type="identity">
+         <class id="known"/>
+         <span end="2888" id="PMC2913107.nxml.gz-110" start="2883">known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-111" type="identity">
+         <class id="but"/>
+         <span end="2914" id="PMC2913107.nxml.gz-111" start="2911">but</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-112" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="2928" id="PMC2913107.nxml.gz-112" start="2919">dismissed</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-113" type="identity">
+         <class id="important_consideration"/>
+         <span end="2928" id="PMC2913107.nxml.gz-113" start="2919">dismissed</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC2913107.nxml.gz-114" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2931" id="PMC2913107.nxml.gz-114" start="2929">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-115" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2945" id="PMC2913107.nxml.gz-115" start="2938">because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-116" type="identity">
+         <class id="bias"/>
+         <span end="2967" id="PMC2913107.nxml.gz-116" start="2963">bias</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-117" type="identity">
+         <class id="subject_scope"/>
+         <span end="3197" id="PMC2913107.nxml.gz-117" start="2969">This very recent report correlates well with a 2007 CDC report (13), which found a similar increased risk for the wealthy and well-educated, findings the authors tried but could not dismiss as being because of ascertainment bias</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-118" type="identity">
+         <class id="recent"/>
+         <span end="2985" id="PMC2913107.nxml.gz-118" start="2979">recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-119" type="identity">
+         <class id="report"/>
+         <span end="2992" id="PMC2913107.nxml.gz-119" start="2986">report</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-120" type="identity">
+         <class id="correlates"/>
+         <span end="3003" id="PMC2913107.nxml.gz-120" start="2993">correlates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-121" type="identity">
+         <class id="report"/>
+         <span end="3031" id="PMC2913107.nxml.gz-121" start="3025">report</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-122" type="identity">
+         <class id="found"/>
+         <span end="3049" id="PMC2913107.nxml.gz-122" start="3044">found</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-123" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="3059" id="PMC2913107.nxml.gz-123" start="3052">similar</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-124" type="identity">
+         <class id="similar"/>
+         <span end="3059" id="PMC2913107.nxml.gz-124" start="3052">similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-125" type="identity">
+         <class id="increased_risk"/>
+         <span end="3074" id="PMC2913107.nxml.gz-125" start="3060">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-126" type="identity">
+         <class id="findings"/>
+         <span end="3118" id="PMC2913107.nxml.gz-126" start="3110">findings</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-127" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="3136" id="PMC2913107.nxml.gz-127" start="3131">tried</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-128" type="identity">
+         <class id="but"/>
+         <span end="3140" id="PMC2913107.nxml.gz-128" start="3137">but</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-129" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="3158" id="PMC2913107.nxml.gz-129" start="3141">could not dismiss</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-130" type="identity">
+         <class id="probable_understanding"/>
+         <span end="3175" id="PMC2913107.nxml.gz-130" start="3168">because</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-131" type="identity">
+         <class id="problem_complication"/>
+         <span end="3197" id="PMC2913107.nxml.gz-131" start="3193">bias</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-132" type="identity">
+         <class id="if"/>
+         <span end="3201" id="PMC2913107.nxml.gz-132" start="3199">If</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-133" type="identity">
+         <class id="subject_scope"/>
+         <span end="3381" id="PMC2913107.nxml.gz-133" start="3199">If the vitamin D theory is true, autism should be more common in richer well-educated mothers, who are more likely than other mothers to practice sun avoidance and use sunblock (1,2)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-134" type="identity">
+         <class id="theory"/>
+         <span end="3222" id="PMC2913107.nxml.gz-134" start="3216">theory</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-135" type="identity">
+         <class id="true"/>
+         <span end="3230" id="PMC2913107.nxml.gz-135" start="3226">true</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-136" type="identity">
+         <class id="future_prediction"/>
+         <span end="3248" id="PMC2913107.nxml.gz-136" start="3239">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-137" type="identity">
+         <class id="more_common"/>
+         <span end="3260" id="PMC2913107.nxml.gz-137" start="3249">more common</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-138" type="identity">
+         <class id="likely"/>
+         <span end="3313" id="PMC2913107.nxml.gz-138" start="3307">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-139" type="identity">
+         <class id="than"/>
+         <span end="3318" id="PMC2913107.nxml.gz-139" start="3314">than</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-140" type="identity">
+         <class id="subject_scope"/>
+         <span end="3524" id="PMC2913107.nxml.gz-140" start="3383">In his invited commentary, Dr. Eyles asked, ‘Does skin colour modify the risk’ of autism, noting melanin in the skin is an effective sunblock</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-141" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="3408" id="PMC2913107.nxml.gz-141" start="3398">commentary</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-142" type="identity">
+         <class id="asked"/>
+         <span end="3425" id="PMC2913107.nxml.gz-142" start="3420">asked</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-143" type="identity">
+         <class id="does"/>
+         <span end="3432" id="PMC2913107.nxml.gz-143" start="3428">Does</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-144" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="3451" id="PMC2913107.nxml.gz-144" start="3445">modify</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-145" type="identity">
+         <class id="risk"/>
+         <span end="3460" id="PMC2913107.nxml.gz-145" start="3456">risk</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-146" type="identity">
+         <class id="probable_understanding"/>
+         <span end="3479" id="PMC2913107.nxml.gz-146" start="3473">noting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-147" type="identity">
+         <class id="effective"/>
+         <span end="3515" id="PMC2913107.nxml.gz-147" start="3506">effective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-148" type="identity">
+         <class id="such_studies"/>
+         <span end="3538" id="PMC2913107.nxml.gz-148" start="3526">Such studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-149" type="identity">
+         <class id="subject_scope"/>
+         <span end="3590" id="PMC2913107.nxml.gz-149" start="3526">Such studies are difficult as they raise sensitive social issues</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-150" type="identity">
+         <class id="difficult"/>
+         <span end="3552" id="PMC2913107.nxml.gz-150" start="3543">difficult</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-151" type="identity">
+         <class id="as"/>
+         <span end="3555" id="PMC2913107.nxml.gz-151" start="3553">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-152" type="identity">
+         <class id="important_consideration"/>
+         <span end="3590" id="PMC2913107.nxml.gz-152" start="3584">issues</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-153" type="identity">
+         <class id="nevertheless"/>
+         <span end="3604" id="PMC2913107.nxml.gz-153" start="3592">Nevertheless</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-154" type="identity">
+         <class id="subject_scope"/>
+         <span end="3728" id="PMC2913107.nxml.gz-154" start="3592">Nevertheless, three of four recent U.S. studies found a higher incidence of autism in black children, sometimes appreciably higher (1,2)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-155" type="identity">
+         <class id="recent"/>
+         <span end="3626" id="PMC2913107.nxml.gz-155" start="3620">recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-156" type="identity">
+         <class id="studies"/>
+         <span end="3639" id="PMC2913107.nxml.gz-156" start="3632">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-157" type="identity">
+         <class id="found"/>
+         <span end="3645" id="PMC2913107.nxml.gz-157" start="3640">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-158" type="identity">
+         <class id="sometimes"/>
+         <span end="3703" id="PMC2913107.nxml.gz-158" start="3694">sometimes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-159" type="identity">
+         <class id="important_consideration"/>
+         <span end="3715" id="PMC2913107.nxml.gz-159" start="3704">appreciably</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-160" type="identity">
+         <class id="subject_scope"/>
+         <span end="3934" id="PMC2913107.nxml.gz-160" start="3730">As Fernell et al. report, the Somali immigrants in Sweden call autism the ‘Swedish disease’ and Somali immigrants in Minnesota call it the ‘American disease,’ but in equatorial Somalia, autism has no name</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-161" type="identity">
+         <class id="report"/>
+         <span end="3754" id="PMC2913107.nxml.gz-161" start="3748">report</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-162" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="3892" id="PMC2913107.nxml.gz-162" start="3889">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-163" type="identity">
+         <class id="subject_scope"/>
+         <span end="4038" id="PMC2913107.nxml.gz-163" start="3936">Toxins delivered by water or air pollution appear to damage the genome of the vitamin D deficient (14)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-164" type="identity">
+         <class id="appear"/>
+         <span end="3985" id="PMC2913107.nxml.gz-164" start="3979">appear</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-165" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="3985" id="PMC2913107.nxml.gz-165" start="3979">appear</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-166" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="3995" id="PMC2913107.nxml.gz-166" start="3989">damage</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-167" type="identity">
+         <class id="future_prediction"/>
+         <span end="4042" id="PMC2913107.nxml.gz-167" start="4040">If</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-168" type="identity">
+         <class id="subject_scope"/>
+         <span end="4421" id="PMC2913107.nxml.gz-168" start="4040">If exposure to such toxins were the main contributors to autism incidence, then we should have seen an autism incidence pattern in the US that mirrored air and water pollution with a dramatic increase in the 1950s, a peak in the 1960s and then a progressive decline by the early 1980s, coincident with enactment and enforcement of the US clean air and clean water acts of the 1960s</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-169" type="identity">
+         <class id="contributors"/>
+         <span end="4093" id="PMC2913107.nxml.gz-169" start="4081">contributors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-170" type="identity">
+         <class id="future_prediction"/>
+         <span end="4129" id="PMC2913107.nxml.gz-170" start="4123">should</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-171" type="identity">
+         <class id="pattern"/>
+         <span end="4167" id="PMC2913107.nxml.gz-171" start="4160">pattern</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-172" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="4191" id="PMC2913107.nxml.gz-172" start="4183">mirrored</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-173" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="4336" id="PMC2913107.nxml.gz-173" start="4326">coincident</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-174" type="identity">
+         <class id="another"/>
+         <span end="4430" id="PMC2913107.nxml.gz-174" start="4423">Another</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-175" type="identity">
+         <class id="subject_scope"/>
+         <span end="4592" id="PMC2913107.nxml.gz-175" start="4423">Another possibility is that air pollution from Eastern Europe, India and China, which has been increasing in the last 20 years, has engendered the current crop of autism</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-176" type="identity">
+         <class id="possibility"/>
+         <span end="4442" id="PMC2913107.nxml.gz-176" start="4431">possibility</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-177" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="4565" id="PMC2913107.nxml.gz-177" start="4555">engendered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-178" type="identity">
+         <class id="however"/>
+         <span end="4601" id="PMC2913107.nxml.gz-178" start="4594">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-179" type="identity">
+         <class id="subject_scope"/>
+         <span end="4706" id="PMC2913107.nxml.gz-179" start="4594">However, why would foreign air pollution of today do what American air pollution of the 1950s and 60s could not?</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-180" type="identity">
+         <class id="why"/>
+         <span end="4606" id="PMC2913107.nxml.gz-180" start="4603">why</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-181" type="identity">
+         <class id="would"/>
+         <span end="4612" id="PMC2913107.nxml.gz-181" start="4607">would</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-182" type="identity">
+         <class id="?"/>
+         <span end="4706" id="PMC2913107.nxml.gz-182" start="4705">?</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-183" type="identity">
+         <class id="subject_scope"/>
+         <span end="4841" id="PMC2913107.nxml.gz-183" start="4707">Another paper published after my original paper found that autistic boys have unexplained reductions in metacarpal bone thickness (15)</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC2913107.nxml.gz-184" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="4714" id="PMC2913107.nxml.gz-184" start="4707">Another</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-185" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="4720" id="PMC2913107.nxml.gz-185" start="4715">paper</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-186" type="identity">
+         <class id="found"/>
+         <span end="4760" id="PMC2913107.nxml.gz-186" start="4755">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-187" type="identity">
+         <class id="unexplained"/>
+         <span end="4796" id="PMC2913107.nxml.gz-187" start="4785">unexplained</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-188" type="identity">
+         <class id="subject_scope"/>
+         <span end="5039" id="PMC2913107.nxml.gz-188" start="4843">At some time in their life, these children laid down less cortical bone than normal children, a finding consistent with undetected and untreated childhood or even intrauterine vitamin D deficiency</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-189" type="identity">
+         <class id="some"/>
+         <span end="4850" id="PMC2913107.nxml.gz-189" start="4846">some</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-190" type="identity">
+         <class id="than"/>
+         <span end="4919" id="PMC2913107.nxml.gz-190" start="4915">than</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-191" type="identity">
+         <class id="finding"/>
+         <span end="4946" id="PMC2913107.nxml.gz-191" start="4939">finding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-192" type="identity">
+         <class id="consistent"/>
+         <span end="4957" id="PMC2913107.nxml.gz-192" start="4947">consistent</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-193" type="identity">
+         <class id="even"/>
+         <span end="5005" id="PMC2913107.nxml.gz-193" start="5001">even</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-194" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="5044" id="PMC2913107.nxml.gz-194" start="5041">Yet</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-195" type="identity">
+         <class id="subject_scope"/>
+         <span end="5185" id="PMC2913107.nxml.gz-195" start="5041">Yet another recent paper reported that the prevalence of autism in three U.S. states was higher in areas of higher precipitation and clouds (16)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-196" type="identity">
+         <class id="another"/>
+         <span end="5052" id="PMC2913107.nxml.gz-196" start="5045">another</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-197" type="identity">
+         <class id="recent"/>
+         <span end="5059" id="PMC2913107.nxml.gz-197" start="5053">recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-198" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="5065" id="PMC2913107.nxml.gz-198" start="5060">paper</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-199" type="identity">
+         <class id="reported"/>
+         <span end="5074" id="PMC2913107.nxml.gz-199" start="5066">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-200" type="identity">
+         <class id="prevalence"/>
+         <span end="5094" id="PMC2913107.nxml.gz-200" start="5084">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-201" type="identity">
+         <class id="subject_scope"/>
+         <span end="5385" id="PMC2913107.nxml.gz-201" start="5187">The 2005 autism prevalence rate among school-aged children, after controlling for differences in population size, demographic characteristics, per capita income and state, was higher in cloudy areas</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-202" type="identity">
+         <class id="prevalence"/>
+         <span end="5213" id="PMC2913107.nxml.gz-202" start="5203">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-203" type="identity">
+         <class id="difficult_task"/>
+         <span end="5280" id="PMC2913107.nxml.gz-203" start="5269">differences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-204" type="identity">
+         <class id="subject_scope"/>
+         <span end="5582" id="PMC2913107.nxml.gz-204" start="5387">The association of autism prevalence and the mean annual precipitation received by a county between 1987 and 2001 was positive and significant (p = 0.0034; 95% confidence interval, 0.0018–0.0050)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-205" type="identity">
+         <class id="association"/>
+         <span end="5402" id="PMC2913107.nxml.gz-205" start="5391">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-206" type="identity">
+         <class id="prevalence"/>
+         <span end="5423" id="PMC2913107.nxml.gz-206" start="5413">prevalence</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-207" type="identity">
+         <class id="subject_scope"/>
+         <span end="5678" id="PMC2913107.nxml.gz-207" start="5584">Clouds and rain retard vitamin D-producing ultraviolet B light from penetrating the atmosphere</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-208" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="5606" id="PMC2913107.nxml.gz-208" start="5600">retard</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-209" type="identity">
+         <class id="surprisingly"/>
+         <span end="5692" id="PMC2913107.nxml.gz-209" start="5680">Surprisingly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-210" type="identity">
+         <class id="subject_scope"/>
+         <span end="5862" id="PMC2913107.nxml.gz-210" start="5680">Surprisingly, high maternal seafood consumption, of the type known to be contaminated with mercury, has been associated with fewer – not more – autistic markers in the offspring (17)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-211" type="identity">
+         <class id="probable_understanding"/>
+         <span end="5746" id="PMC2913107.nxml.gz-211" start="5741">known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-212" type="identity">
+         <class id="important_consideration"/>
+         <span end="5765" id="PMC2913107.nxml.gz-212" start="5753">contaminated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-213" type="identity">
+         <class id="associated"/>
+         <span end="5799" id="PMC2913107.nxml.gz-213" start="5789">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-214" type="identity">
+         <class id="markers"/>
+         <span end="5840" id="PMC2913107.nxml.gz-214" start="5833">markers</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-215" type="identity">
+         <class id="subject_scope"/>
+         <span end="6065" id="PMC2913107.nxml.gz-215" start="5864">Lower maternal seafood intake during pregnancy was associated with low verbal intelligence quotient, suboptimum outcomes for prosocial behaviour, fine motor, communication and social development scores</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-216" type="identity">
+         <class id="associated"/>
+         <span end="5925" id="PMC2913107.nxml.gz-216" start="5915">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-217" type="identity">
+         <class id="important_consideration"/>
+         <span end="5975" id="PMC2913107.nxml.gz-217" start="5965">suboptimum</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-218" type="identity">
+         <class id="while"/>
+         <span end="6072" id="PMC2913107.nxml.gz-218" start="6067">While</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-219" type="identity">
+         <class id="subject_scope"/>
+         <span end="6300" id="PMC2913107.nxml.gz-219" start="6067">While the omega-3 and mercury content of fish is well known, less well known is the fact that fish is one of the few foods with significant amounts of vitamin D, which, as referenced earlier, protects the genome from damage by toxins</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-220" type="identity">
+         <class id="probable_understanding"/>
+         <span end="6126" id="PMC2913107.nxml.gz-220" start="6116">well known</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-221" type="identity">
+         <class id="well_known"/>
+         <span end="6126" id="PMC2913107.nxml.gz-221" start="6116">well known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-222" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="6143" id="PMC2913107.nxml.gz-222" start="6128">less well known</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-223" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="6160" id="PMC2913107.nxml.gz-223" start="6147">the fact that</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-224" type="identity">
+         <class id="significant"/>
+         <span end="6206" id="PMC2913107.nxml.gz-224" start="6195">significant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-225" type="identity">
+         <class id="protects"/>
+         <span end="6267" id="PMC2913107.nxml.gz-225" start="6259">protects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-226" type="identity">
+         <class id="while"/>
+         <span end="6307" id="PMC2913107.nxml.gz-226" start="6302">While</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-227" type="identity">
+         <class id="subject_scope"/>
+         <span end="6519" id="PMC2913107.nxml.gz-227" start="6302">While the urban/rural gradient in rickets is well known and was one of the keys to discovering that sunlight prevented rickets, less well known is a meta-analysis showing a twofold urban/rural gradient for autism (18)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-228" type="identity">
+         <class id="probable_understanding"/>
+         <span end="6357" id="PMC2913107.nxml.gz-228" start="6347">well known</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-229" type="identity">
+         <class id="well_known"/>
+         <span end="6357" id="PMC2913107.nxml.gz-229" start="6347">well known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-230" type="identity">
+         <class id="important_consideration"/>
+         <span end="6381" id="PMC2913107.nxml.gz-230" start="6377">keys</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-231" type="identity">
+         <class id="prevented"/>
+         <span end="6420" id="PMC2913107.nxml.gz-231" start="6411">prevented</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-232" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="6445" id="PMC2913107.nxml.gz-232" start="6430">less well known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-233" type="identity">
+         <class id="showing"/>
+         <span end="6472" id="PMC2913107.nxml.gz-233" start="6465">showing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-234" type="identity">
+         <class id="subject_scope"/>
+         <span end="6726" id="PMC2913107.nxml.gz-234" start="6521">Similar to rickets, city life affords less vitamin D, because of tall buildings, indoor occupations and increased urban air pollution, all of which block ultraviolet B light from penetrating the atmosphere</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-235" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="6531" id="PMC2913107.nxml.gz-235" start="6521">Similar to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-236" type="identity">
+         <class id="probable_understanding"/>
+         <span end="6582" id="PMC2913107.nxml.gz-236" start="6575">because</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-237" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="6674" id="PMC2913107.nxml.gz-237" start="6669">block</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC2913107.nxml.gz-238" type="identity">
+         <class id="subject_scope"/>
+         <span end="7045" id="PMC2913107.nxml.gz-238" start="6728">Finally, a 2008 paper reported that autism was more common among mothers who took antiepileptic drugs (19). A comment to the authors (20) detailed the evidence that antiepileptic drugs are one of the few classes of drugs that consistently and significantly interfere with vitamin D metabolism, lowering 25(OH)D levels</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-239" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="6749" id="PMC2913107.nxml.gz-239" start="6744">paper</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-240" type="identity">
+         <class id="reported"/>
+         <span end="6758" id="PMC2913107.nxml.gz-240" start="6750">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-241" type="identity">
+         <class id="more_common"/>
+         <span end="6786" id="PMC2913107.nxml.gz-241" start="6775">more common</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-242" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="6874" id="PMC2913107.nxml.gz-242" start="6866">detailed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-243" type="identity">
+         <class id="evidence"/>
+         <span end="6887" id="PMC2913107.nxml.gz-243" start="6879">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-244" type="identity">
+         <class id="consistently"/>
+         <span end="6966" id="PMC2913107.nxml.gz-244" start="6954">consistently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-245" type="identity">
+         <class id="important_consideration"/>
+         <span end="6984" id="PMC2913107.nxml.gz-245" start="6971">significantly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-246" type="identity">
+         <class id="interfere"/>
+         <span end="6994" id="PMC2913107.nxml.gz-246" start="6985">interfere</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC2913107.nxml.gz-247" type="identity">
+         <class id="subject_scope"/>
+         <span end="7129" id="PMC2913107.nxml.gz-247" start="7047">I agree with Dr Eyles’ comment that the vitamin D theory is ‘highly parsimonious.’</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC2913107.nxml.gz-248" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="7059" id="PMC2913107.nxml.gz-248" start="7049">agree with</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-249" type="identity">
+         <class id="theory"/>
+         <span end="7103" id="PMC2913107.nxml.gz-249" start="7097">theory</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-250" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="7127" id="PMC2913107.nxml.gz-250" start="7108">highly parsimonious</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-251" type="identity">
+         <class id="subject_scope"/>
+         <span end="7301" id="PMC2913107.nxml.gz-251" start="7130">Indeed, it was love of parsimony that led me to first hypothesize that vitamin D is intimately involved in the pathology and epidemiology of both autism and influenza (21)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-252" type="identity">
+         <class id="hypothesize"/>
+         <span end="7195" id="PMC2913107.nxml.gz-252" start="7184">hypothesize</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-253" type="identity">
+         <class id="involved"/>
+         <span end="7233" id="PMC2913107.nxml.gz-253" start="7225">involved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-254" type="identity">
+         <class id="some"/>
+         <span end="7307" id="PMC2913107.nxml.gz-254" start="7303">Some</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-255" type="identity">
+         <class id="subject_scope"/>
+         <span end="7419" id="PMC2913107.nxml.gz-255" start="7303">Some have speculated that the excess of winter births in autism is explained by wintertime maternal viral infections</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-256" type="identity">
+         <class id="speculated"/>
+         <span end="7323" id="PMC2913107.nxml.gz-256" start="7313">speculated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-257" type="identity">
+         <class id="explained"/>
+         <span end="7379" id="PMC2913107.nxml.gz-257" start="7370">explained</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-258" type="identity">
+         <class id="subject_scope"/>
+         <span end="7518" id="PMC2913107.nxml.gz-258" start="7421">Obviously, another, and more parsimonious explanation, is that vitamin D is involved in all three</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-259" type="identity">
+         <class id="obviously"/>
+         <span end="7430" id="PMC2913107.nxml.gz-259" start="7421">Obviously</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-260" type="identity">
+         <class id="important_consideration"/>
+         <span end="7430" id="PMC2913107.nxml.gz-260" start="7421">Obviously</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-261" type="identity">
+         <class id="another"/>
+         <span end="7439" id="PMC2913107.nxml.gz-261" start="7432">another</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-262" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="7462" id="PMC2913107.nxml.gz-262" start="7450">parsimonious</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-263" type="identity">
+         <class id="explanation"/>
+         <span end="7474" id="PMC2913107.nxml.gz-263" start="7463">explanation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-264" type="identity">
+         <class id="involved"/>
+         <span end="7505" id="PMC2913107.nxml.gz-264" start="7497">involved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-265" type="identity">
+         <class id="subject_scope"/>
+         <span end="7611" id="PMC2913107.nxml.gz-265" start="7520">The vitamin D theory of autism does not diminish genetic contributions to autism occurrence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-266" type="identity">
+         <class id="theory"/>
+         <span end="7540" id="PMC2913107.nxml.gz-266" start="7534">theory</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-267" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="7568" id="PMC2913107.nxml.gz-267" start="7551">does not diminish</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-268" type="identity">
+         <class id="contributions"/>
+         <span end="7590" id="PMC2913107.nxml.gz-268" start="7577">contributions</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-269" type="identity">
+         <class id="subject_scope"/>
+         <span end="7807" id="PMC2913107.nxml.gz-269" start="7613">Indeed, without the genetic tendency for autism, I suspect that severe maternal or early childhood vitamin D deficiency may cause bone abnormalities, as referenced above, with no evidence autism</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-270" type="identity">
+         <class id="tendency"/>
+         <span end="7649" id="PMC2913107.nxml.gz-270" start="7641">tendency</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-271" type="identity">
+         <class id="suspect"/>
+         <span end="7671" id="PMC2913107.nxml.gz-271" start="7664">suspect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-272" type="identity">
+         <class id="severe"/>
+         <span end="7683" id="PMC2913107.nxml.gz-272" start="7677">severe</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-273" type="identity">
+         <class id="future_prediction"/>
+         <span end="7736" id="PMC2913107.nxml.gz-273" start="7733">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-274" type="identity">
+         <class id="subject_scope"/>
+         <span end="8040" id="PMC2913107.nxml.gz-274" start="7809">All that the current epidemic of maternal and early childhood vitamin D deficiency does, with its resultant neural deficiency in the pluripotent neurosteroid calcitriol, is to allow the genetic tendency for autism to express itself</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-275" type="identity">
+         <class id="epidemic"/>
+         <span end="7838" id="PMC2913107.nxml.gz-275" start="7830">epidemic</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC2913107.nxml.gz-276" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="7916" id="PMC2913107.nxml.gz-276" start="7907">resultant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-277" type="identity">
+         <class id="allow"/>
+         <span end="7990" id="PMC2913107.nxml.gz-277" start="7985">allow</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-278" type="identity">
+         <class id="tendency"/>
+         <span end="8011" id="PMC2913107.nxml.gz-278" start="8003">tendency</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-279" type="identity">
+         <class id="if"/>
+         <span end="8044" id="PMC2913107.nxml.gz-279" start="8042">If</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-280" type="identity">
+         <class id="subject_scope"/>
+         <span end="8293" id="PMC2913107.nxml.gz-280" start="8042">If this theory is true, the path towards effective prevention – and perhaps a treatment effect if adequate physiological doses of vitamin D are given – is so simple, so safe, so inexpensive, so readily available and so easy, that it defies imagination</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-281" type="identity">
+         <class id="theory"/>
+         <span end="8056" id="PMC2913107.nxml.gz-281" start="8050">theory</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-282" type="identity">
+         <class id="true"/>
+         <span end="8064" id="PMC2913107.nxml.gz-282" start="8060">true</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-283" type="identity">
+         <class id="future_work"/>
+         <span end="8082" id="PMC2913107.nxml.gz-283" start="8070">path towards</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-284" type="identity">
+         <class id="effective"/>
+         <span end="8092" id="PMC2913107.nxml.gz-284" start="8083">effective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-285" type="identity">
+         <class id="prevention"/>
+         <span end="8103" id="PMC2913107.nxml.gz-285" start="8093">prevention</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-286" type="identity">
+         <class id="perhaps"/>
+         <span end="8117" id="PMC2913107.nxml.gz-286" start="8110">perhaps</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-287" type="identity">
+         <class id="effect"/>
+         <span end="8136" id="PMC2913107.nxml.gz-287" start="8130">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-288" type="identity">
+         <class id="important_consideration"/>
+         <span end="8139" id="PMC2913107.nxml.gz-288" start="8137">if</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-289" type="identity">
+         <class id="important_consideration"/>
+         <span end="8148" id="PMC2913107.nxml.gz-289" start="8140">adequate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-290" type="identity">
+         <class id="important_consideration"/>
+         <span end="8206" id="PMC2913107.nxml.gz-290" start="8200">simple</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-291" type="identity">
+         <class id="safe"/>
+         <span end="8215" id="PMC2913107.nxml.gz-291" start="8211">safe</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-292" type="identity">
+         <class id="important_consideration"/>
+         <span end="8231" id="PMC2913107.nxml.gz-292" start="8220">inexpensive</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-293" type="identity">
+         <class id="important_consideration"/>
+         <span end="8253" id="PMC2913107.nxml.gz-293" start="8236">readily available</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-294" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="8293" id="PMC2913107.nxml.gz-294" start="8275">defies imagination</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC2913107.nxml.gz-295" type="identity">
+         <class id="subject_scope"/>
+         <span end="8671" id="PMC2913107.nxml.gz-295" start="8295">Seventeen vitamin D experts recently stated, ‘In our opinion, children with chronic illnesses such as autism, diabetes and/or frequent infections should be supplemented with higher doses of sunshine or vitamin D3, doses adequate to maintain their 25(OH)D levels in the mid-normal of the reference range [65 ng/mL (162 nmol/L)] – and should be so supplemented year round.’ (22)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-296" type="identity">
+         <class id="experts"/>
+         <span end="8322" id="PMC2913107.nxml.gz-296" start="8315">experts</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-297" type="identity">
+         <class id="recently"/>
+         <span end="8331" id="PMC2913107.nxml.gz-297" start="8323">recently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-298" type="identity">
+         <class id="stated"/>
+         <span end="8338" id="PMC2913107.nxml.gz-298" start="8332">stated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-299" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="8355" id="PMC2913107.nxml.gz-299" start="8341">In our opinion</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-300" type="identity">
+         <class id="important_consideration"/>
+         <span end="8450" id="PMC2913107.nxml.gz-300" start="8441">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-301" type="identity">
+         <class id="important_consideration"/>
+         <span end="8523" id="PMC2913107.nxml.gz-301" start="8515">adequate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-302" type="identity">
+         <class id="important_consideration"/>
+         <span end="8637" id="PMC2913107.nxml.gz-302" start="8628">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-303" type="identity">
+         <class id="subject_scope"/>
+         <span end="8725" id="PMC2913107.nxml.gz-303" start="8672">Finally, if true, a darker side of the theory emerges</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-304" type="identity">
+         <class id="if"/>
+         <span end="8683" id="PMC2913107.nxml.gz-304" start="8681">if</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-305" type="identity">
+         <class id="true"/>
+         <span end="8688" id="PMC2913107.nxml.gz-305" start="8684">true</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-306" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="8703" id="PMC2913107.nxml.gz-306" start="8692">darker side</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-307" type="identity">
+         <class id="theory"/>
+         <span end="8717" id="PMC2913107.nxml.gz-307" start="8711">theory</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-308" type="identity">
+         <class id="emerges"/>
+         <span end="8725" id="PMC2913107.nxml.gz-308" start="8718">emerges</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-309" type="identity">
+         <class id="subject_scope"/>
+         <span end="9019" id="PMC2913107.nxml.gz-309" start="8727">To some real but unknown extent, autism is an iatrogenic disease, caused by governments, organizations, committees, newspapers and physicians who promulgated the current warnings about sun-exposure for pregnant women and young children without any understanding of the tragedy they engendered</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC2913107.nxml.gz-310" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="8734" id="PMC2913107.nxml.gz-310" start="8730">some</span>
+         <span end="8758" id="PMC2913107.nxml.gz-311" start="8752">extent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-312" type="identity">
+         <class id="but"/>
+         <span end="8743" id="PMC2913107.nxml.gz-312" start="8740">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-313" type="identity">
+         <class id="unknown"/>
+         <span end="8751" id="PMC2913107.nxml.gz-313" start="8744">unknown</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-314" type="identity">
+         <class id="important_consideration"/>
+         <span end="8783" id="PMC2913107.nxml.gz-314" start="8773">iatrogenic</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-315" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="8799" id="PMC2913107.nxml.gz-315" start="8793">caused</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-316" type="identity">
+         <class id="important_consideration"/>
+         <span end="8884" id="PMC2913107.nxml.gz-316" start="8873">promulgated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-317" type="identity">
+         <class id="important_consideration"/>
+         <span end="8905" id="PMC2913107.nxml.gz-317" start="8897">warnings</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC2913107.nxml.gz-318" type="identity">
+         <class id="important_consideration"/>
+         <span end="8988" id="PMC2913107.nxml.gz-318" start="8963">without any understanding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-319" type="identity">
+         <class id="important_consideration"/>
+         <span end="9003" id="PMC2913107.nxml.gz-319" start="8996">tragedy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2913107.nxml.gz-320" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="9019" id="PMC2913107.nxml.gz-320" start="9009">engendered</span>
+      </annotation>
+   </document>
+</knowtator-project>

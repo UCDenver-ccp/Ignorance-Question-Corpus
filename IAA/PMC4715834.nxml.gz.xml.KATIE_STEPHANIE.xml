@@ -1,0 +1,919 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC4715834.nxml.gz" text-file="PMC4715834.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="193" id="PMC4715834.nxml.gz-1" start="95">Excessive gestational weight gain (GWG) is associated with complications for both mother and child</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-2" type="identity">
+         <class id="associated"/>
+         <span end="148" id="PMC4715834.nxml.gz-2" start="138">associated</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-3" type="identity">
+         <class id="complications"/>
+         <span end="167" id="PMC4715834.nxml.gz-3" start="154">complications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-4" type="identity">
+         <class id="subject_scope"/>
+         <span end="317" id="PMC4715834.nxml.gz-4" start="195">Minority women are at increased risk for excessive GWG, yet are underrepresented in published weight control interventions</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-5" type="identity">
+         <class id="increased_risk"/>
+         <span end="231" id="PMC4715834.nxml.gz-5" start="217">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-6" type="identity">
+         <class id="yet"/>
+         <span end="254" id="PMC4715834.nxml.gz-6" start="251">yet</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-7" type="identity">
+         <class id="subject_scope"/>
+         <span end="530" id="PMC4715834.nxml.gz-7" start="319">To inform future interventions, we examined the prevalence and accuracy of provider advice and its association with personal beliefs about necessary maternal weight gain among predominantly Latina pregnant women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-8" type="identity">
+         <class id="future_interventions"/>
+         <span end="349" id="PMC4715834.nxml.gz-8" start="329">future interventions</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-9" type="identity">
+         <class id="examined"/>
+         <span end="362" id="PMC4715834.nxml.gz-9" start="354">examined</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-10" type="identity">
+         <class id="association"/>
+         <span end="429" id="PMC4715834.nxml.gz-10" start="418">association</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-11" type="identity">
+         <class id="beliefs"/>
+         <span end="451" id="PMC4715834.nxml.gz-11" start="444">beliefs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-12" type="identity">
+         <class id="necessary"/>
+         <span end="467" id="PMC4715834.nxml.gz-12" start="458">necessary</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-13" type="identity">
+         <class id="predominantly"/>
+         <span end="508" id="PMC4715834.nxml.gz-13" start="495">predominantly</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-14" type="identity">
+         <class id="subject_scope"/>
+         <span end="683" id="PMC4715834.nxml.gz-14" start="532">Secondary analysis examining baseline data (N = 123) from a healthy lifestyle randomized controlled trial conducted in and urban area of the South East</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-15" type="identity">
+         <class id="trial"/>
+         <span end="637" id="PMC4715834.nxml.gz-15" start="632">trial</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-16" type="identity">
+         <class id="conducted"/>
+         <span end="647" id="PMC4715834.nxml.gz-16" start="638">conducted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-17" type="identity">
+         <class id="subject_scope"/>
+         <span end="846" id="PMC4715834.nxml.gz-17" start="685">Only 23.6 % of women reported being told how much weight to gain during pregnancy; although 58.6 % received advice that met Institute of Medicine recommendations</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-18" type="identity">
+         <class id="only"/>
+         <span end="689" id="PMC4715834.nxml.gz-18" start="685">Only</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-19" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="689" id="PMC4715834.nxml.gz-19" start="685">Only</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-20" type="identity">
+         <class id="reported"/>
+         <span end="714" id="PMC4715834.nxml.gz-20" start="706">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-21" type="identity">
+         <class id="although"/>
+         <span end="776" id="PMC4715834.nxml.gz-21" start="768">although</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC4715834.nxml.gz-22" type="identity">
+         <class id="subject_scope"/>
+         <span end="1208" id="PMC4715834.nxml.gz-22" start="1006"> Findings suggest the need for prenatal providers of low-income, minority women to engage patients in shaping healthy weight gain targets as a precursor to preventing excessive GWG and its complications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-23" type="identity">
+         <class id="findings"/>
+         <span end="1015" id="PMC4715834.nxml.gz-23" start="1007">Findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-24" type="identity">
+         <class id="suggest"/>
+         <span end="1023" id="PMC4715834.nxml.gz-24" start="1016">suggest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-25" type="identity">
+         <class id="the_need"/>
+         <span end="1032" id="PMC4715834.nxml.gz-25" start="1024">the need</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-26" type="identity">
+         <class id="as"/>
+         <span end="1146" id="PMC4715834.nxml.gz-26" start="1144">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-27" type="identity">
+         <class id="complications"/>
+         <span end="1208" id="PMC4715834.nxml.gz-27" start="1195">complications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-28" type="identity">
+         <class id="subject_scope"/>
+         <span end="1420" id="PMC4715834.nxml.gz-28" start="1224">In 2009, the Institute of Medicine (IOM) revised its guidelines for appropriate weight gain during pregnancy, taking into account the growing prevalence of obesity in women of childbearing age [1]</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-29" type="identity">
+         <class id="guidelines"/>
+         <span end="1287" id="PMC4715834.nxml.gz-29" start="1277">guidelines</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-30" type="identity">
+         <class id="appropriate"/>
+         <span end="1303" id="PMC4715834.nxml.gz-30" start="1292">appropriate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-31" type="identity">
+         <class id="growing"/>
+         <span end="1365" id="PMC4715834.nxml.gz-31" start="1358">growing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-32" type="identity">
+         <class id="subject_scope"/>
+         <span end="1579" id="PMC4715834.nxml.gz-32" start="1432">Over 40 % of pregnant women exceed the IOM recommendations for gestational weight gain (GWG), with overweight and obese women at increased risk [2]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-33" type="identity">
+         <class id="increased_risk"/>
+         <span end="1575" id="PMC4715834.nxml.gz-33" start="1561">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-34" type="identity">
+         <class id="subject_scope"/>
+         <span end="1871" id="PMC4715834.nxml.gz-34" start="1581">Excessive weight gain during pregnancy is associated with complications in delivery [3], increased postpartum weight retention [4], persistent obesity [4], increased BMI in offspring in childhood, adolescence and adulthood [5], and longer maternal hospital stay after labor and delivery [5]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-35" type="identity">
+         <class id="associated"/>
+         <span end="1633" id="PMC4715834.nxml.gz-35" start="1623">associated</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-36" type="identity">
+         <class id="important_consideration"/>
+         <span end="1652" id="PMC4715834.nxml.gz-36" start="1639">complications</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-37" type="identity">
+         <class id="complications"/>
+         <span end="1652" id="PMC4715834.nxml.gz-37" start="1639">complications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-38" type="identity">
+         <class id="subject_scope"/>
+         <span end="2372" id="PMC4715834.nxml.gz-38" start="2281">Actual weight gain during pregnancy is strongly influenced by provider recommendation [6,7]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-39" type="identity">
+         <class id="influenced"/>
+         <span end="2339" id="PMC4715834.nxml.gz-39" start="2329">influenced</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-40" type="identity">
+         <class id="evidence"/>
+         <span end="2382" id="PMC4715834.nxml.gz-40" start="2374">Evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-41" type="identity">
+         <class id="subject_scope"/>
+         <span end="2519" id="PMC4715834.nxml.gz-41" start="2374">Evidence shows that women’s actual weight gain during pregnancy is strongly influenced by personal beliefs and healthcare providers’ advice [6,7]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-42" type="identity">
+         <class id="shows"/>
+         <span end="2388" id="PMC4715834.nxml.gz-42" start="2383">shows</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-43" type="identity">
+         <class id="influenced"/>
+         <span end="2460" id="PMC4715834.nxml.gz-43" start="2450">influenced</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-44" type="identity">
+         <class id="subject_scope"/>
+         <span end="2723" id="PMC4715834.nxml.gz-44" start="2521">When women receive weight gain advice that is inconsistent with IOM recommendations (i.e., above or below), they are 3.6 times more likely to gain more or less than IOM recommendations, respectively [7]</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-45" type="identity">
+         <class id="inconsistent"/>
+         <span end="2579" id="PMC4715834.nxml.gz-45" start="2567">inconsistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-46" type="identity">
+         <class id="likely"/>
+         <span end="2659" id="PMC4715834.nxml.gz-46" start="2653">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-47" type="identity">
+         <class id="subject_scope"/>
+         <span end="2962" id="PMC4715834.nxml.gz-47" start="2725">Women whose personal weight gain targets are below IOM recommendations are five times more likely to gain less than recommended, and women with targets above the recommendations are six times more likely to gain more than recommended [7]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-48" type="identity">
+         <class id="likely"/>
+         <span end="2822" id="PMC4715834.nxml.gz-48" start="2816">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-49" type="identity">
+         <class id="likely"/>
+         <span end="2928" id="PMC4715834.nxml.gz-49" start="2922">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-50" type="identity">
+         <class id="subject_scope"/>
+         <span end="3182" id="PMC4715834.nxml.gz-50" start="2964">There is limited data about the beliefs of Latinas on GWG even though the problem of excessive weight gain during pregnancy is particularly important for this group which now comprises 20 % of new mothers in the US [1]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-51" type="identity">
+         <class id="limited...data"/>
+         <span end="2985" id="PMC4715834.nxml.gz-51" start="2973">limited data</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-52" type="identity">
+         <class id="about"/>
+         <span end="2991" id="PMC4715834.nxml.gz-52" start="2986">about</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-53" type="identity">
+         <class id="beliefs"/>
+         <span end="3003" id="PMC4715834.nxml.gz-53" start="2996">beliefs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-54" type="identity">
+         <class id="even_though"/>
+         <span end="3033" id="PMC4715834.nxml.gz-54" start="3022">even though</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-55" type="identity">
+         <class id="important_consideration"/>
+         <span end="3045" id="PMC4715834.nxml.gz-55" start="3038">problem</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-56" type="identity">
+         <class id="problem"/>
+         <span end="3045" id="PMC4715834.nxml.gz-56" start="3038">problem</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-57" type="identity">
+         <class id="important_consideration"/>
+         <span end="3103" id="PMC4715834.nxml.gz-57" start="3091">particularly</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-58" type="identity">
+         <class id="particularly"/>
+         <span end="3103" id="PMC4715834.nxml.gz-58" start="3091">particularly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-59" type="identity">
+         <class id="important"/>
+         <span end="3113" id="PMC4715834.nxml.gz-59" start="3104">important</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC4715834.nxml.gz-60" type="identity">
+         <class id="subject_scope"/>
+         <span end="3435" id="PMC4715834.nxml.gz-60" start="3184">At 65.4 %, the prevalence for overweight and obesity in Latinas aged 20–39 years is higher than the national prevalence for all women in that age group [8]. This increased rate of overweight and obesity puts Latinas at increased risk for excessive GWG</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-61" type="identity">
+         <class id="increased_risk"/>
+         <span end="3417" id="PMC4715834.nxml.gz-61" start="3403">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-62" type="identity">
+         <class id="subject_scope"/>
+         <span end="3735" id="PMC4715834.nxml.gz-62" start="3437">The purpose of this paper is to examine the prevalence and accuracy of provider advice on maternal weight gain and its association with personal beliefs about necessary maternal weight gain within a sample of predominantly Latina pregnant women who received prenatal care in their dominant language</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-63" type="identity">
+         <class id="purpose"/>
+         <span end="3448" id="PMC4715834.nxml.gz-63" start="3441">purpose</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-64" type="identity">
+         <class id="this_paper"/>
+         <span end="3462" id="PMC4715834.nxml.gz-64" start="3452">this paper</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-65" type="identity">
+         <class id="association"/>
+         <span end="3567" id="PMC4715834.nxml.gz-65" start="3556">association</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-66" type="identity">
+         <class id="beliefs"/>
+         <span end="3589" id="PMC4715834.nxml.gz-66" start="3582">beliefs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-67" type="identity">
+         <class id="necessary"/>
+         <span end="3605" id="PMC4715834.nxml.gz-67" start="3596">necessary</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-68" type="identity">
+         <class id="predominantly"/>
+         <span end="3659" id="PMC4715834.nxml.gz-68" start="3646">predominantly</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-69" type="identity">
+         <class id="subject_scope"/>
+         <span end="4008" id="PMC4715834.nxml.gz-69" start="3777">We examined baseline data (N = 123) from a randomized controlled trial, Madre Sana, Bebé Sano (Healthy Mother, Healthy Baby), designed to prevent excessive GWG. IRB approval was obtained from Vanderbilt and Wake Forest Universities</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-70" type="identity">
+         <class id="examined"/>
+         <span end="3788" id="PMC4715834.nxml.gz-70" start="3780">examined</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-71" type="identity">
+         <class id="trial"/>
+         <span end="3847" id="PMC4715834.nxml.gz-71" start="3842">trial</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-72" type="identity">
+         <class id="designed_to"/>
+         <span end="3914" id="PMC4715834.nxml.gz-72" start="3903">designed to</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-73" type="identity">
+         <class id="subject_scope"/>
+         <span end="5303" id="PMC4715834.nxml.gz-73" start="4940">Women were asked (1) “Has your health professional told you how many pounds (kilos) you should gain during this pregnancy?” (2) “How many pounds (kilos) did your health professional say you should gain from the beginning to the end of this pregnancy?” and (3) “How many pounds (kilos) do you think you should gain from the beginning to the end of this pregnancy?”</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-74" type="identity">
+         <class id="asked"/>
+         <span end="4956" id="PMC4715834.nxml.gz-74" start="4951">asked</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-75" type="identity">
+         <class id="how"/>
+         <span end="5003" id="PMC4715834.nxml.gz-75" start="5000">how</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-76" type="identity">
+         <class id="?"/>
+         <span end="5062" id="PMC4715834.nxml.gz-76" start="5061">?</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-77" type="identity">
+         <class id="how"/>
+         <span end="5072" id="PMC4715834.nxml.gz-77" start="5069">How</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-78" type="identity">
+         <class id="?"/>
+         <span end="5190" id="PMC4715834.nxml.gz-78" start="5189">?</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-79" type="identity">
+         <class id="how"/>
+         <span end="5204" id="PMC4715834.nxml.gz-79" start="5201">How</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-80" type="identity">
+         <class id="?"/>
+         <span end="5302" id="PMC4715834.nxml.gz-80" start="5301">?</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-81" type="identity">
+         <class id="although"/>
+         <span end="7416" id="PMC4715834.nxml.gz-81" start="7408">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-82" type="identity">
+         <class id="subject_scope"/>
+         <span end="7617" id="PMC4715834.nxml.gz-82" start="7408">Although all of the women had at least one prenatal appointment before completing the baseline survey, only 24 % reported that their healthcare provider told them how much weight to gain during their pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-83" type="identity">
+         <class id="at_least"/>
+         <span end="7446" id="PMC4715834.nxml.gz-83" start="7438">at least</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-84" type="identity">
+         <class id="only"/>
+         <span end="7515" id="PMC4715834.nxml.gz-84" start="7511">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-85" type="identity">
+         <class id="reported"/>
+         <span end="7529" id="PMC4715834.nxml.gz-85" start="7521">reported</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC4715834.nxml.gz-86" type="identity">
+         <class id="subject_scope"/>
+         <span end="7904" id="PMC4715834.nxml.gz-86" start="7619">Receiving advice did not vary by pre-pregnancy BMI [ χ(2)2 = 0.421, p  = 0.810].
+Of those who reported receiving advice on GWG, 59 % (17/29) reported receiving advice that fell within and 31 % (9/29) that was above the IOM recommendations, and 10 % (3/29) could not remember the advice</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-87" type="identity">
+         <class id="did_not"/>
+         <span end="7643" id="PMC4715834.nxml.gz-87" start="7636">did not</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-88" type="identity">
+         <class id="vary"/>
+         <span end="7648" id="PMC4715834.nxml.gz-88" start="7644">vary</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-89" type="identity">
+         <class id="reported"/>
+         <span end="7721" id="PMC4715834.nxml.gz-89" start="7713">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-90" type="identity">
+         <class id="reported"/>
+         <span end="7768" id="PMC4715834.nxml.gz-90" start="7760">reported</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-91" type="identity">
+         <class id="subject_scope"/>
+         <span end="8051" id="PMC4715834.nxml.gz-91" start="7906">The concordance of providers’ weight gain advice with IOM recommendations did not vary by mothers’ pre-pregnancy BMI [ χ(2)2 = 2.382, p  = 0.304]</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-92" type="identity">
+         <class id="did_not"/>
+         <span end="7987" id="PMC4715834.nxml.gz-92" start="7980">did not</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-93" type="identity">
+         <class id="vary"/>
+         <span end="7992" id="PMC4715834.nxml.gz-93" start="7988">vary</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC4715834.nxml.gz-94" type="identity">
+         <class id="subject_scope"/>
+         <span end="8698" id="PMC4715834.nxml.gz-94" start="8406">The concordance of mothers’ personal weight gain target with IOM recommendations varied by their pre-pregnancy weight status: Normal weight mothers were more likely to have low weight gain targets, whereas overweight and obese women were more likely to have high weight gain targets (Table 3)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-95" type="identity">
+         <class id="likely"/>
+         <span end="8570" id="PMC4715834.nxml.gz-95" start="8564">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-96" type="identity">
+         <class id="whereas"/>
+         <span end="8611" id="PMC4715834.nxml.gz-96" start="8604">whereas</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-97" type="identity">
+         <class id="likely"/>
+         <span end="8655" id="PMC4715834.nxml.gz-97" start="8649">likely</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC4715834.nxml.gz-98" type="identity">
+         <class id="subject_scope"/>
+         <span end="8850" id="PMC4715834.nxml.gz-98" start="8732">Association of mother’s personal gestational weight gain targets and their pre-pregnancy weight categoryPre-pregnancy </span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC4715834.nxml.gz-99" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="8743" id="PMC4715834.nxml.gz-99" start="8732">Association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-100" type="identity">
+         <class id="only"/>
+         <span end="9129" id="PMC4715834.nxml.gz-100" start="9125">Only</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC4715834.nxml.gz-101" type="identity">
+         <class id="subject_scope"/>
+         <span end="9232" id="PMC4715834.nxml.gz-101" start="9125">Only 110 of the 123 women in the sample responded to the survey question about personal weight gain target
+</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC4715834.nxml.gz-102" type="identity">
+         <class id="subject_scope"/>
+         <span end="9600" id="PMC4715834.nxml.gz-102" start="9258">The concordance of mothers’ weight gain targets with IOM recommendations also varied by receipt of professional advice. Those receiving advice were more likely to have accurate personal weight gain targets, whereas those women who did not receive professional advice were more likely to have low or high personal weight gain targets (Table 4)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-103" type="identity">
+         <class id="likely"/>
+         <span end="9417" id="PMC4715834.nxml.gz-103" start="9411">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-104" type="identity">
+         <class id="whereas"/>
+         <span end="9472" id="PMC4715834.nxml.gz-104" start="9465">whereas</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-105" type="identity">
+         <class id="likely"/>
+         <span end="9541" id="PMC4715834.nxml.gz-105" start="9535">likely</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC4715834.nxml.gz-106" type="identity">
+         <class id="association"/>
+         <span end="9806" id="PMC4715834.nxml.gz-106" start="9795">Association</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC4715834.nxml.gz-107" type="identity">
+         <class id="subject_scope"/>
+         <span end="9931" id="PMC4715834.nxml.gz-107" start="9795">Association of mother’s personal gestational weight gain targets and their provider giving advice on appropriate weight gainProfessional</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-108" type="identity">
+         <class id="appropriate"/>
+         <span end="9907" id="PMC4715834.nxml.gz-108" start="9896">appropriate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-109" type="identity">
+         <class id="despite"/>
+         <span end="10225" id="PMC4715834.nxml.gz-109" start="10218">Despite</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-110" type="identity">
+         <class id="subject_scope"/>
+         <span end="10431" id="PMC4715834.nxml.gz-110" start="10218">Despite the attention garnered by the 2009 revision of the IOM’s guidelines for weight gain during pregnancy, many of the low-income, minority women in this sample did not receive information about appropriate GWG</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-111" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="10239" id="PMC4715834.nxml.gz-111" start="10230">attention</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-112" type="identity">
+         <class id="attention"/>
+         <span end="10239" id="PMC4715834.nxml.gz-112" start="10230">attention</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-113" type="identity">
+         <class id="guidelines"/>
+         <span end="10293" id="PMC4715834.nxml.gz-113" start="10283">guidelines</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-114" type="identity">
+         <class id="this"/>
+         <span end="10374" id="PMC4715834.nxml.gz-114" start="10370">this</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-115" type="identity">
+         <class id="did_not"/>
+         <span end="10389" id="PMC4715834.nxml.gz-115" start="10382">did not</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-116" type="identity">
+         <class id="information"/>
+         <span end="10409" id="PMC4715834.nxml.gz-116" start="10398">information</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-117" type="identity">
+         <class id="appropriate"/>
+         <span end="10427" id="PMC4715834.nxml.gz-117" start="10416">appropriate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-118" type="identity">
+         <class id="subject_scope"/>
+         <span end="10561" id="PMC4715834.nxml.gz-118" start="10433">This vulnerable population is already at increased risk of excessive GWG and the concomitant adverse effects on mother and child</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-119" type="identity">
+         <class id="this"/>
+         <span end="10437" id="PMC4715834.nxml.gz-119" start="10433">This</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-120" type="identity">
+         <class id="increased_risk"/>
+         <span end="10488" id="PMC4715834.nxml.gz-120" start="10474">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-121" type="identity">
+         <class id="effects"/>
+         <span end="10541" id="PMC4715834.nxml.gz-121" start="10534">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-122" type="identity">
+         <class id="subject_scope"/>
+         <span end="10635" id="PMC4715834.nxml.gz-122" start="10563">Provider advice is key in helping women meet appropriate GWG targets [6]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-123" type="identity">
+         <class id="key"/>
+         <span end="10585" id="PMC4715834.nxml.gz-123" start="10582">key</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-124" type="identity">
+         <class id="appropriate"/>
+         <span end="10619" id="PMC4715834.nxml.gz-124" start="10608">appropriate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-125" type="identity">
+         <class id="while"/>
+         <span end="10642" id="PMC4715834.nxml.gz-125" start="10637">While</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-126" type="identity">
+         <class id="subject_scope"/>
+         <span end="10821" id="PMC4715834.nxml.gz-126" start="10637">While less than a quarter of women in our study reported receiving any information on weight gain, those who did were more likely to have target weights within clinical recommendations</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-127" type="identity">
+         <class id="less"/>
+         <span end="10647" id="PMC4715834.nxml.gz-127" start="10643">less</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-128" type="identity">
+         <class id="our_study"/>
+         <span end="10684" id="PMC4715834.nxml.gz-128" start="10675">our study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-129" type="identity">
+         <class id="reported"/>
+         <span end="10693" id="PMC4715834.nxml.gz-129" start="10685">reported</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-130" type="identity">
+         <class id="information"/>
+         <span end="10719" id="PMC4715834.nxml.gz-130" start="10708">information</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-131" type="identity">
+         <class id="likely"/>
+         <span end="10766" id="PMC4715834.nxml.gz-131" start="10760">likely</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-132" type="identity">
+         <class id="subject_scope"/>
+         <span end="10943" id="PMC4715834.nxml.gz-132" start="10823">Furthermore, most participants who reported receiving advice on GWG got recommendations within the current IOM standards</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-133" type="identity">
+         <class id="most"/>
+         <span end="10840" id="PMC4715834.nxml.gz-133" start="10836">most</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-134" type="identity">
+         <class id="reported"/>
+         <span end="10866" id="PMC4715834.nxml.gz-134" start="10858">reported</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-135" type="identity">
+         <class id="subject_scope"/>
+         <span end="11040" id="PMC4715834.nxml.gz-135" start="10945">Within our sample, provider advice and accuracy did not vary based on women’s pre-pregnancy BMI</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-136" type="identity">
+         <class id="did_not"/>
+         <span end="11000" id="PMC4715834.nxml.gz-136" start="10993">did not</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-137" type="identity">
+         <class id="vary"/>
+         <span end="11005" id="PMC4715834.nxml.gz-137" start="11001">vary</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-138" type="identity">
+         <class id="based_on"/>
+         <span end="11014" id="PMC4715834.nxml.gz-138" start="11006">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-139" type="identity">
+         <class id="yet"/>
+         <span end="11045" id="PMC4715834.nxml.gz-139" start="11042">Yet</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-140" type="identity">
+         <class id="subject_scope"/>
+         <span end="11198" id="PMC4715834.nxml.gz-140" start="11042">Yet similar to other reports in predominantly white women [6], we found that pre-pregnancy BMI is strongly associated with Latina women’s target weight gain</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-141" type="identity">
+         <class id="similar_to"/>
+         <span end="11056" id="PMC4715834.nxml.gz-141" start="11046">similar to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-142" type="identity">
+         <class id="other"/>
+         <span end="11062" id="PMC4715834.nxml.gz-142" start="11057">other</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-143" type="identity">
+         <class id="predominantly"/>
+         <span end="11087" id="PMC4715834.nxml.gz-143" start="11074">predominantly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-144" type="identity">
+         <class id="found"/>
+         <span end="11113" id="PMC4715834.nxml.gz-144" start="11108">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-145" type="identity">
+         <class id="associated"/>
+         <span end="11159" id="PMC4715834.nxml.gz-145" start="11149">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-146" type="identity">
+         <class id="together"/>
+         <span end="11208" id="PMC4715834.nxml.gz-146" start="11200">Together</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-147" type="identity">
+         <class id="subject_scope"/>
+         <span end="11472" id="PMC4715834.nxml.gz-147" start="11200">Together, these findings suggest that providers are as comfortable discussing weight gain restrictions with overweight and obese women as they are with normal weight women, but that overweight and obese women still have weight gain targets in excess of clinical guidelines</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-148" type="identity">
+         <class id="these_findings"/>
+         <span end="11224" id="PMC4715834.nxml.gz-148" start="11210">these findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-149" type="identity">
+         <class id="suggest"/>
+         <span end="11232" id="PMC4715834.nxml.gz-149" start="11225">suggest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-150" type="identity">
+         <class id="but"/>
+         <span end="11376" id="PMC4715834.nxml.gz-150" start="11373">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-151" type="identity">
+         <class id="still"/>
+         <span end="11414" id="PMC4715834.nxml.gz-151" start="11409">still</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-152" type="identity">
+         <class id="guidelines"/>
+         <span end="11472" id="PMC4715834.nxml.gz-152" start="11462">guidelines</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-153" type="identity">
+         <class id="subject_scope"/>
+         <span end="11652" id="PMC4715834.nxml.gz-153" start="11474">Providers may need to re-emphasize their recommendations with overweight and obese patients to help align their personal weight gain targets with current clinical recommendations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-154" type="identity">
+         <class id="may"/>
+         <span end="11487" id="PMC4715834.nxml.gz-154" start="11484">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-155" type="identity">
+         <class id="need"/>
+         <span end="11492" id="PMC4715834.nxml.gz-155" start="11488">need</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC4715834.nxml.gz-156" type="identity">
+         <class id="important_consideration"/>
+         <span end="11508" id="PMC4715834.nxml.gz-156" start="11496">re-emphasize</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-157" type="identity">
+         <class id="recommendations"/>
+         <span end="11530" id="PMC4715834.nxml.gz-157" start="11515">recommendations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-158" type="identity">
+         <class id="subject_scope"/>
+         <span end="11830" id="PMC4715834.nxml.gz-158" start="11654">In the few women in our sample (&lt;25 %) who reported receiving provider advice on appropriate weight gain, 31 % received recommendations in excess of current clinical guidelines</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-159" type="identity">
+         <class id="reported"/>
+         <span end="11705" id="PMC4715834.nxml.gz-159" start="11697">reported</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-160" type="identity">
+         <class id="appropriate"/>
+         <span end="11746" id="PMC4715834.nxml.gz-160" start="11735">appropriate</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-161" type="identity">
+         <class id="guidelines"/>
+         <span end="11830" id="PMC4715834.nxml.gz-161" start="11820">guidelines</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC4715834.nxml.gz-162" type="identity">
+         <class id="subject_scope"/>
+         <span end="12097" id="PMC4715834.nxml.gz-162" start="11831"> Both the lack of receipt of clinical guidance and the recollection of inaccurate information observed in this study are of concern because receipt of provider advice has been shown in prior work to be the most important predictor of a woman’s weight gain target [6]</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-163" type="identity">
+         <class id="problem_complication"/>
+         <span end="11848" id="PMC4715834.nxml.gz-163" start="11841">lack of</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-164" type="identity">
+         <class id="lack_of"/>
+         <span end="11848" id="PMC4715834.nxml.gz-164" start="11841">lack of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-165" type="identity">
+         <class id="information"/>
+         <span end="11924" id="PMC4715834.nxml.gz-165" start="11913">information</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-166" type="identity">
+         <class id="observed"/>
+         <span end="11933" id="PMC4715834.nxml.gz-166" start="11925">observed</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-167" type="identity">
+         <class id="this...study"/>
+         <span end="11947" id="PMC4715834.nxml.gz-167" start="11937">this study</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-168" type="identity">
+         <class id="important_consideration"/>
+         <span end="11962" id="PMC4715834.nxml.gz-168" start="11955">concern</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-169" type="identity">
+         <class id="concern"/>
+         <span end="11962" id="PMC4715834.nxml.gz-169" start="11955">concern</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-170" type="identity">
+         <class id="because"/>
+         <span end="11970" id="PMC4715834.nxml.gz-170" start="11963">because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-171" type="identity">
+         <class id="has_been_shown"/>
+         <span end="12012" id="PMC4715834.nxml.gz-171" start="11998">has been shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-172" type="identity">
+         <class id="most"/>
+         <span end="12041" id="PMC4715834.nxml.gz-172" start="12037">most</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-173" type="identity">
+         <class id="important"/>
+         <span end="12051" id="PMC4715834.nxml.gz-173" start="12042">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-174" type="identity">
+         <class id="predictor"/>
+         <span end="12061" id="PMC4715834.nxml.gz-174" start="12052">predictor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-175" type="identity">
+         <class id="subject_scope"/>
+         <span end="12227" id="PMC4715834.nxml.gz-175" start="12099">Women who have a weight gain target that is concordant with IOM recommendation are less likely to have excessive weight gain [4]</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-176" type="identity">
+         <class id="less"/>
+         <span end="12186" id="PMC4715834.nxml.gz-176" start="12182">less</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-177" type="identity">
+         <class id="likely"/>
+         <span end="12193" id="PMC4715834.nxml.gz-177" start="12187">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-178" type="identity">
+         <class id="subject_scope"/>
+         <span end="12399" id="PMC4715834.nxml.gz-178" start="12229">In our study, normal weight mothers were more likely to have low weight gain targets, whereas overweight and obese women were more likely to have high weight gain targets</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-179" type="identity">
+         <class id="our_study"/>
+         <span end="12241" id="PMC4715834.nxml.gz-179" start="12232">our study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-180" type="identity">
+         <class id="likely"/>
+         <span end="12281" id="PMC4715834.nxml.gz-180" start="12275">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-181" type="identity">
+         <class id="whereas"/>
+         <span end="12322" id="PMC4715834.nxml.gz-181" start="12315">whereas</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-182" type="identity">
+         <class id="likely"/>
+         <span end="12366" id="PMC4715834.nxml.gz-182" start="12360">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-183" type="identity">
+         <class id="subject_scope"/>
+         <span end="12532" id="PMC4715834.nxml.gz-183" start="12401">This is of concern because excessive weight gain is associated with postpartum weight retention and persistent maternal obesity [4]</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-184" type="identity">
+         <class id="important_consideration"/>
+         <span end="12419" id="PMC4715834.nxml.gz-184" start="12412">concern</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-185" type="identity">
+         <class id="concern"/>
+         <span end="12419" id="PMC4715834.nxml.gz-185" start="12412">concern</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-186" type="identity">
+         <class id="because"/>
+         <span end="12427" id="PMC4715834.nxml.gz-186" start="12420">because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-187" type="identity">
+         <class id="associated"/>
+         <span end="12463" id="PMC4715834.nxml.gz-187" start="12453">associated</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-188" type="identity">
+         <class id="subject_scope"/>
+         <span end="12641" id="PMC4715834.nxml.gz-188" start="12534">Accuracy of women’s weight gain target did not vary by acculturation (language preference, years in the US)</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-189" type="identity">
+         <class id="did_not"/>
+         <span end="12580" id="PMC4715834.nxml.gz-189" start="12573">did not</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-190" type="identity">
+         <class id="vary"/>
+         <span end="12585" id="PMC4715834.nxml.gz-190" start="12581">vary</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-191" type="identity">
+         <class id="our_study"/>
+         <span end="12652" id="PMC4715834.nxml.gz-191" start="12643">Our study</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-192" type="identity">
+         <class id="subject_scope"/>
+         <span end="12721" id="PMC4715834.nxml.gz-192" start="12643">Our study compared women who had been in the US for fewer or more than 5 years</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-193" type="identity">
+         <class id="fewer"/>
+         <span end="12700" id="PMC4715834.nxml.gz-193" start="12695">fewer</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-194" type="identity">
+         <class id="other"/>
+         <span end="12728" id="PMC4715834.nxml.gz-194" start="12723">Other</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-195" type="identity">
+         <class id="subject_scope"/>
+         <span end="12825" id="PMC4715834.nxml.gz-195" start="12723">Other work has shown that generational acculturation was positively associated with excessive GWG [10]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-196" type="identity">
+         <class id="has_shown"/>
+         <span end="12743" id="PMC4715834.nxml.gz-196" start="12734">has shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-197" type="identity">
+         <class id="associated"/>
+         <span end="12801" id="PMC4715834.nxml.gz-197" start="12791">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-198" type="identity">
+         <class id="while"/>
+         <span end="12832" id="PMC4715834.nxml.gz-198" start="12827">While</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-199" type="identity">
+         <class id="subject_scope"/>
+         <span end="13013" id="PMC4715834.nxml.gz-199" start="12827">While low maternal education has been associated with higher rates of excessive weight gain [2], our study did not find any significant effect of maternal education on weight gain target</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-200" type="identity">
+         <class id="associated"/>
+         <span end="12875" id="PMC4715834.nxml.gz-200" start="12865">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-201" type="identity">
+         <class id="our_study"/>
+         <span end="12933" id="PMC4715834.nxml.gz-201" start="12924">our study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-202" type="identity">
+         <class id="did_not_find"/>
+         <span end="12946" id="PMC4715834.nxml.gz-202" start="12934">did not find</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-203" type="identity">
+         <class id="effect"/>
+         <span end="12969" id="PMC4715834.nxml.gz-203" start="12963">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-204" type="identity">
+         <class id="subject_scope"/>
+         <span end="13120" id="PMC4715834.nxml.gz-204" start="13015">Understanding beliefs about appropriate weight gain during pregnancy is crucial for intervention planning</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-205" type="identity">
+         <class id="beliefs"/>
+         <span end="13036" id="PMC4715834.nxml.gz-205" start="13029">beliefs</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-206" type="identity">
+         <class id="appropriate"/>
+         <span end="13054" id="PMC4715834.nxml.gz-206" start="13043">appropriate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-207" type="identity">
+         <class id="crucial"/>
+         <span end="13094" id="PMC4715834.nxml.gz-207" start="13087">crucial</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-208" type="identity">
+         <class id="planning"/>
+         <span end="13120" id="PMC4715834.nxml.gz-208" start="13112">planning</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-209" type="identity">
+         <class id="subject_scope"/>
+         <span end="13302" id="PMC4715834.nxml.gz-209" start="13122">The strength of this study is its focus on minority women who are underrepresented in published GWG interventions yet carry increased burden of gaining excessively during pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-210" type="identity">
+         <class id="this...study"/>
+         <span end="13148" id="PMC4715834.nxml.gz-210" start="13138">this study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-211" type="identity">
+         <class id="focus"/>
+         <span end="13161" id="PMC4715834.nxml.gz-211" start="13156">focus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-212" type="identity">
+         <class id="yet"/>
+         <span end="13239" id="PMC4715834.nxml.gz-212" start="13236">yet</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-213" type="identity">
+         <class id="burden"/>
+         <span end="13262" id="PMC4715834.nxml.gz-213" start="13256">burden</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-214" type="identity">
+         <class id="subject_scope"/>
+         <span end="13425" id="PMC4715834.nxml.gz-214" start="13304">Three-quarters of participants reported not receiving advice on appropriate weight gain during early prenatal care visits</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-215" type="identity">
+         <class id="reported"/>
+         <span end="13343" id="PMC4715834.nxml.gz-215" start="13335">reported</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-216" type="identity">
+         <class id="appropriate"/>
+         <span end="13379" id="PMC4715834.nxml.gz-216" start="13368">appropriate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-217" type="identity">
+         <class id="however"/>
+         <span end="13434" id="PMC4715834.nxml.gz-217" start="13427">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-218" type="identity">
+         <class id="subject_scope"/>
+         <span end="13564" id="PMC4715834.nxml.gz-218" start="13427">However, those who did receive advice were more likely to have personal weight gain targets in line with current clinical recommendations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-219" type="identity">
+         <class id="likely"/>
+         <span end="13481" id="PMC4715834.nxml.gz-219" start="13475">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-220" type="identity">
+         <class id="in_line_with"/>
+         <span end="13531" id="PMC4715834.nxml.gz-220" start="13519">in line with</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-221" type="identity">
+         <class id="subject_scope"/>
+         <span end="13814" id="PMC4715834.nxml.gz-221" start="13566">These data suggest that prenatal care providers of low-income, minority women in particular should make healthy maternal weight gain targets a priority in their care to prevent excessive weight gain during pregnancy and the associated complications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-222" type="identity">
+         <class id="suggest"/>
+         <span end="13584" id="PMC4715834.nxml.gz-222" start="13577">suggest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-223" type="identity">
+         <class id="in_particular"/>
+         <span end="13657" id="PMC4715834.nxml.gz-223" start="13644">in particular</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-224" type="identity">
+         <class id="should"/>
+         <span end="13664" id="PMC4715834.nxml.gz-224" start="13658">should</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-225" type="identity">
+         <class id="priority"/>
+         <span end="13717" id="PMC4715834.nxml.gz-225" start="13709">priority</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4715834.nxml.gz-226" type="identity">
+         <class id="associated"/>
+         <span end="13800" id="PMC4715834.nxml.gz-226" start="13790">associated</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC4715834.nxml.gz-227" type="identity">
+         <class id="important_consideration"/>
+         <span end="13814" id="PMC4715834.nxml.gz-227" start="13801">complications</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC4715834.nxml.gz-228" type="identity">
+         <class id="complications"/>
+         <span end="13814" id="PMC4715834.nxml.gz-228" start="13801">complications</span>
+      </annotation>
+   </document>
+</knowtator-project>
