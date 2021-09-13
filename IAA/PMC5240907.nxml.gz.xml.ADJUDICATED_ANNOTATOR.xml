@@ -1,0 +1,1466 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC5240907.nxml.gz" text-file="PMC5240907.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="88" id="PMC5240907.nxml.gz-1" start="0">Birth Weight and Its Relationship with the Cardiac Autonomic Balance in Healthy Children</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-2" type="identity">
+         <class id="relationship"/>
+         <span end="33" id="PMC5240907.nxml.gz-2" start="21">Relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-3" type="identity">
+         <class id="subject_scope"/>
+         <span end="235" id="PMC5240907.nxml.gz-3" start="99">Several studies indicate that the fetal environment plays a significant role in the development of cardiometabolic disease later in life</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-4" type="identity">
+         <class id="several_studies"/>
+         <span end="114" id="PMC5240907.nxml.gz-4" start="99">Several studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-5" type="identity">
+         <class id="indicate"/>
+         <span end="123" id="PMC5240907.nxml.gz-5" start="115">indicate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-6" type="identity">
+         <class id="role"/>
+         <span end="175" id="PMC5240907.nxml.gz-6" start="171">role</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-7" type="identity">
+         <class id="however"/>
+         <span end="244" id="PMC5240907.nxml.gz-7" start="237">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-8" type="identity">
+         <class id="subject_scope"/>
+         <span end="378" id="PMC5240907.nxml.gz-8" start="237">However, a few studies present conflicting data about the correlation between birth weight and the impairment of cardiac autonomic modulation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-9" type="identity">
+         <class id="few_studies"/>
+         <span end="259" id="PMC5240907.nxml.gz-9" start="248">few studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-10" type="identity">
+         <class id="conflicting"/>
+         <span end="279" id="PMC5240907.nxml.gz-10" start="268">conflicting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-11" type="identity">
+         <class id="correlation"/>
+         <span end="306" id="PMC5240907.nxml.gz-11" start="295">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-12" type="identity">
+         <class id="subject_scope"/>
+         <span end="490" id="PMC5240907.nxml.gz-12" start="380">The purpose of the present study was to provide further knowledge to elucidate this contradictory relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-13" type="identity">
+         <class id="purpose"/>
+         <span end="391" id="PMC5240907.nxml.gz-13" start="384">purpose</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-14" type="identity">
+         <class id="present_study"/>
+         <span end="412" id="PMC5240907.nxml.gz-14" start="399">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-15" type="identity">
+         <class id="further"/>
+         <span end="435" id="PMC5240907.nxml.gz-15" start="428">further</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-16" type="identity">
+         <class id="elucidate"/>
+         <span end="458" id="PMC5240907.nxml.gz-16" start="449">elucidate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-17" type="identity">
+         <class id="contradictory"/>
+         <span end="477" id="PMC5240907.nxml.gz-17" start="464">contradictory</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-18" type="identity">
+         <class id="relationship"/>
+         <span end="490" id="PMC5240907.nxml.gz-18" start="478">relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-19" type="identity">
+         <class id="subject_scope"/>
+         <span end="979" id="PMC5240907.nxml.gz-19" start="751">The results showed inverse correlation between the HRV parameters with BMI (RMSSD: P = 0.047; PNN50: P = 0.021; HF: P = 0.041), systolic (RMSSD: P = 0.023; PNN50: P = 0.032) and diastolic (PNN50: P = 0.030) blood pressure levels</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-20" type="identity">
+         <class id="showed"/>
+         <span end="769" id="PMC5240907.nxml.gz-20" start="763">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-21" type="identity">
+         <class id="correlation"/>
+         <span end="789" id="PMC5240907.nxml.gz-21" start="778">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-22" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="998" id="PMC5240907.nxml.gz-22" start="981">On the other hand</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-23" type="identity">
+         <class id="subject_scope"/>
+         <span end="1139" id="PMC5240907.nxml.gz-23" start="981">On the other hand, there were consistent positive correlations between the HRV parameters and birth weight (RMSSD: P = 0.001; PNN50: P = 0.001; HF: P = 0.002)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-24" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1021" id="PMC5240907.nxml.gz-24" start="1011">consistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-25" type="identity">
+         <class id="correlations"/>
+         <span end="1043" id="PMC5240907.nxml.gz-25" start="1031">correlations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-26" type="identity">
+         <class id="to_determine"/>
+         <span end="1153" id="PMC5240907.nxml.gz-26" start="1141">To determine</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-27" type="identity">
+         <class id="subject_scope"/>
+         <span end="1367" id="PMC5240907.nxml.gz-27" start="1141">To determine the effect of birth weight on HRV parameters, we perform multivariate linear regression analysis adjusted for potentially confounding factors (prematurity, gender, age, BMI, physical activity index and SBP levels)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-28" type="identity">
+         <class id="effect"/>
+         <span end="1164" id="PMC5240907.nxml.gz-28" start="1158">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-29" type="identity">
+         <class id="potentially"/>
+         <span end="1275" id="PMC5240907.nxml.gz-29" start="1264">potentially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-30" type="identity">
+         <class id="confounding_factors"/>
+         <span end="1295" id="PMC5240907.nxml.gz-30" start="1276">confounding factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-31" type="identity">
+         <class id="these_findings"/>
+         <span end="1383" id="PMC5240907.nxml.gz-31" start="1369">These findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-32" type="identity">
+         <class id="subject_scope"/>
+         <span end="1441" id="PMC5240907.nxml.gz-32" start="1369">These findings were preserved even after adjusting for these confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-33" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1398" id="PMC5240907.nxml.gz-33" start="1389">preserved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-34" type="identity">
+         <class id="even"/>
+         <span end="1403" id="PMC5240907.nxml.gz-34" start="1399">even</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-35" type="identity">
+         <class id="confounders"/>
+         <span end="1441" id="PMC5240907.nxml.gz-35" start="1430">confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-36" type="identity">
+         <class id="subject_scope"/>
+         <span end="1609" id="PMC5240907.nxml.gz-36" start="1443">Our results suggested that impaired cardiac autonomic modulation characterized by a reduction in the parasympathetic activity occurs in children with low birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-37" type="identity">
+         <class id="suggested"/>
+         <span end="1464" id="PMC5240907.nxml.gz-37" start="1455">suggested</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-38" type="identity">
+         <class id="impaired"/>
+         <span end="1478" id="PMC5240907.nxml.gz-38" start="1470">impaired</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-39" type="identity">
+         <class id="subject_scope"/>
+         <span end="1836" id="PMC5240907.nxml.gz-39" start="1611">One possible interpretation for these data is that a vagal withdrawal, rather than a sympathetic overactivity, could precede the development of hypertension and other cardiometabolic diseases in children with low birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-40" type="identity">
+         <class id="possible"/>
+         <span end="1623" id="PMC5240907.nxml.gz-40" start="1615">possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-41" type="identity">
+         <class id="probable_understanding"/>
+         <span end="1638" id="PMC5240907.nxml.gz-41" start="1624">interpretation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-42" type="identity">
+         <class id="rather"/>
+         <span end="1688" id="PMC5240907.nxml.gz-42" start="1682">rather</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-43" type="identity">
+         <class id="future_prediction"/>
+         <span end="1727" id="PMC5240907.nxml.gz-43" start="1722">could</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-44" type="identity">
+         <class id="however"/>
+         <span end="1845" id="PMC5240907.nxml.gz-44" start="1838">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-45" type="identity">
+         <class id="subject_scope"/>
+         <span end="1916" id="PMC5240907.nxml.gz-45" start="1838">However, long-term studies should be performed to investigate this possibility</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-46" type="identity">
+         <class id="long-term_studies"/>
+         <span end="1864" id="PMC5240907.nxml.gz-46" start="1847">long-term studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-47" type="identity">
+         <class id="should_be"/>
+         <span end="1874" id="PMC5240907.nxml.gz-47" start="1865">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-48" type="identity">
+         <class id="this_possibility"/>
+         <span end="1916" id="PMC5240907.nxml.gz-48" start="1900">this possibility</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-49" type="identity">
+         <class id="subject_scope"/>
+         <span end="2099" id="PMC5240907.nxml.gz-49" start="1932">Birth weight has been considered an important measure for assessing fetal growth and is an indicator of neonatal morbidity, survival, and development in children [1–3]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-50" type="identity">
+         <class id="has...been"/>
+         <span end="1953" id="PMC5240907.nxml.gz-50" start="1945">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-51" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1964" id="PMC5240907.nxml.gz-51" start="1954">considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-52" type="identity">
+         <class id="important"/>
+         <span end="1977" id="PMC5240907.nxml.gz-52" start="1968">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-53" type="identity">
+         <class id="indicator"/>
+         <span end="2032" id="PMC5240907.nxml.gz-53" start="2023">indicator</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-54" type="identity">
+         <class id="it_is_clear"/>
+         <span end="2112" id="PMC5240907.nxml.gz-54" start="2101">It is clear</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-55" type="identity">
+         <class id="subject_scope"/>
+         <span end="2199" id="PMC5240907.nxml.gz-55" start="2101">It is clear that the processes arising during fetal development can influence health later in life</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-56" type="identity">
+         <class id="can"/>
+         <span end="2168" id="PMC5240907.nxml.gz-56" start="2165">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-57" type="identity">
+         <class id="influence"/>
+         <span end="2178" id="PMC5240907.nxml.gz-57" start="2169">influence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-58" type="identity">
+         <class id="in_fact"/>
+         <span end="2208" id="PMC5240907.nxml.gz-58" start="2201">In fact</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-59" type="identity">
+         <class id="subject_scope"/>
+         <span end="2414" id="PMC5240907.nxml.gz-59" start="2201">In fact, adaptations of the fetus to the inadequate intrauterine environment promote alterations in tissue development and function and can result in increased susceptibility to chronic diseases in adulthood [4,5]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-60" type="identity">
+         <class id="important_consideration"/>
+         <span end="2252" id="PMC5240907.nxml.gz-60" start="2242">inadequate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-61" type="identity">
+         <class id="can"/>
+         <span end="2340" id="PMC5240907.nxml.gz-61" start="2337">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-62" type="identity">
+         <class id="increased_susceptibility"/>
+         <span end="2375" id="PMC5240907.nxml.gz-62" start="2351">increased susceptibility</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-63" type="identity">
+         <class id="it_is_known"/>
+         <span end="2427" id="PMC5240907.nxml.gz-63" start="2416">It is known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-64" type="identity">
+         <class id="subject_scope"/>
+         <span end="2606" id="PMC5240907.nxml.gz-64" start="2416">It is known that the two ends of the birth weight spectrum, low and high birth weight, are associated with an increased risk of cardiovascular events in childhood [6–8] and adult life [9,10]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-65" type="identity">
+         <class id="associated"/>
+         <span end="2517" id="PMC5240907.nxml.gz-65" start="2507">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-66" type="identity">
+         <class id="increased_risk"/>
+         <span end="2540" id="PMC5240907.nxml.gz-66" start="2526">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-67" type="identity">
+         <class id="subject_scope"/>
+         <span end="3000" id="PMC5240907.nxml.gz-67" start="2608">Previous studies have demonstrated that those born with low or high birth weight have impairment of the arterial vascular system with modifications in both functional (e.g., endothelium dysfunction, reduction in nitric oxide production) and structural/mechanical (e.g., higher arterial intima-media thickness, elastin synthesis deficiency, increased arterial stiffness) properties [8,9,11–14]</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5240907.nxml.gz-68" type="identity">
+         <class id="previous...studies"/>
+         <span end="2616" id="PMC5240907.nxml.gz-68" start="2608">Previous</span>
+         <span end="2624" id="PMC5240907.nxml.gz-69" start="2617">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-70" type="identity">
+         <class id="demonstrated"/>
+         <span end="2642" id="PMC5240907.nxml.gz-70" start="2630">demonstrated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-71" type="identity">
+         <class id="however"/>
+         <span end="3009" id="PMC5240907.nxml.gz-71" start="3002">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-72" type="identity">
+         <class id="subject_scope"/>
+         <span end="3140" id="PMC5240907.nxml.gz-72" start="3002">However, it should also be considered that the high incidence of cardiovascular disorders could be due to alterations in autonomic control</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-73" type="identity">
+         <class id="future_work"/>
+         <span end="3020" id="PMC5240907.nxml.gz-73" start="3014">should</span>
+         <span end="3028" id="PMC5240907.nxml.gz-74" start="3026">be</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-75" type="identity">
+         <class id="important_consideration"/>
+         <span end="3020" id="PMC5240907.nxml.gz-75" start="3014">should</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-76" type="identity">
+         <class id="important_consideration"/>
+         <span end="3039" id="PMC5240907.nxml.gz-76" start="3029">considered</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-77" type="identity">
+         <class id="considered"/>
+         <span end="3039" id="PMC5240907.nxml.gz-77" start="3029">considered</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-78" type="identity">
+         <class id="future_prediction"/>
+         <span end="3100" id="PMC5240907.nxml.gz-78" start="3092">could be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-79" type="identity">
+         <class id="probable_understanding"/>
+         <span end="3107" id="PMC5240907.nxml.gz-79" start="3101">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-80" type="identity">
+         <class id="subject_scope"/>
+         <span end="3440" id="PMC5240907.nxml.gz-80" start="3317">An increasing body of evidence suggests that low birth weight is correlated with alterations in autonomic responses [15–20]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-81" type="identity">
+         <class id="increasing...evidence"/>
+         <span end="3330" id="PMC5240907.nxml.gz-81" start="3320">increasing</span>
+         <span end="3347" id="PMC5240907.nxml.gz-82" start="3339">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-83" type="identity">
+         <class id="suggests"/>
+         <span end="3356" id="PMC5240907.nxml.gz-83" start="3348">suggests</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-84" type="identity">
+         <class id="correlated"/>
+         <span end="3392" id="PMC5240907.nxml.gz-84" start="3382">correlated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-85" type="identity">
+         <class id="subject_scope"/>
+         <span end="3577" id="PMC5240907.nxml.gz-85" start="3442">Weitz et al. [19] found that individuals born with very low birth weight have lower sympathetic nerve activity under resting conditions</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-86" type="identity">
+         <class id="found"/>
+         <span end="3465" id="PMC5240907.nxml.gz-86" start="3460">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-87" type="identity">
+         <class id="subject_scope"/>
+         <span end="3781" id="PMC5240907.nxml.gz-87" start="3578"> Meanwhile, Jones et al. [20] report autonomic dysfunction in adults with low birth weight, characterized by increased sympathetic activity and reduced parasympathetic activity and baroreflex sensitivity</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-88" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="3614" id="PMC5240907.nxml.gz-88" start="3608">report</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-89" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="3791" id="PMC5240907.nxml.gz-89" start="3783">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-90" type="identity">
+         <class id="subject_scope"/>
+         <span end="3925" id="PMC5240907.nxml.gz-90" start="3783">Although some studies have found evidence of a correlation between low birth weight and autonomic dysfunction, the results remain inconclusive</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-91" type="identity">
+         <class id="some_studies"/>
+         <span end="3804" id="PMC5240907.nxml.gz-91" start="3792">some studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-92" type="identity">
+         <class id="found_evidence"/>
+         <span end="3824" id="PMC5240907.nxml.gz-92" start="3810">found evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-93" type="identity">
+         <class id="correlation"/>
+         <span end="3841" id="PMC5240907.nxml.gz-93" start="3830">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-94" type="identity">
+         <class id="remain"/>
+         <span end="3912" id="PMC5240907.nxml.gz-94" start="3906">remain</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-95" type="identity">
+         <class id="inconclusive"/>
+         <span end="3925" id="PMC5240907.nxml.gz-95" start="3913">inconclusive</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-96" type="identity">
+         <class id="thus"/>
+         <span end="3931" id="PMC5240907.nxml.gz-96" start="3927">Thus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-97" type="identity">
+         <class id="subject_scope"/>
+         <span end="4145" id="PMC5240907.nxml.gz-97" start="3927">Thus, the purpose of this study was to conduct a cross-sectional study of children stratified by birth weight quartiles to identify alterations in autonomic function through the analysis of heart rate variability (HRV)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-98" type="identity">
+         <class id="purpose"/>
+         <span end="3944" id="PMC5240907.nxml.gz-98" start="3937">purpose</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-99" type="identity">
+         <class id="this_study"/>
+         <span end="3958" id="PMC5240907.nxml.gz-99" start="3948">this study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-100" type="identity">
+         <class id="to...identify"/>
+         <span end="4058" id="PMC5240907.nxml.gz-100" start="4047">to identify</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-101" type="identity">
+         <class id="subject_scope"/>
+         <span end="6427" id="PMC5240907.nxml.gz-101" start="6271">Children were classified as overweight (+1 SDS) or obese (+2 SDS) according to BMI-for-age following the cut-off parameters of the WHO growth standards [23]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-102" type="identity">
+         <class id="probable_understanding"/>
+         <span end="6349" id="PMC5240907.nxml.gz-102" start="6337">according to</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-103" type="identity">
+         <class id="according_to"/>
+         <span end="6349" id="PMC5240907.nxml.gz-103" start="6337">according to</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5240907.nxml.gz-104" type="identity">
+         <class id="subject_scope"/>
+         <span end="10272" id="PMC5240907.nxml.gz-104" start="10125">For entire cohort, we found a positive correlation between BW and birth length ( r = 0.603, P&lt; 0.001). Preterm delivery occurred in ten pregnancies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-105" type="identity">
+         <class id="found"/>
+         <span end="10152" id="PMC5240907.nxml.gz-105" start="10147">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-106" type="identity">
+         <class id="correlation"/>
+         <span end="10175" id="PMC5240907.nxml.gz-106" start="10164">correlation</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5240907.nxml.gz-107" type="identity">
+         <class id="subject_scope"/>
+         <span end="10424" id="PMC5240907.nxml.gz-107" start="10274">We also found that 33% of children have excess weight and 16% of them were already obese. General characteristics of the children are listed inTable 1</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-108" type="identity">
+         <class id="found"/>
+         <span end="10287" id="PMC5240907.nxml.gz-108" start="10282">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-109" type="identity">
+         <class id="subject_scope"/>
+         <span end="12070" id="PMC5240907.nxml.gz-109" start="11729">Considering the HRV analysis, there was no significant gender effects with respect to the time-domain (HR: P = 0.098; MNN: P = 0.271; SDNN: P = 0.208; RMSSD: P = 0.624; PNN50: P = 0.882) or frequency-domain (LF: P = 0.294; HF: P = 0.844; ratio LF/HF: P = 0.546) indices; therefore, analyses were performed considering boys and girls together</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-110" type="identity">
+         <class id="effects"/>
+         <span end="11798" id="PMC5240907.nxml.gz-110" start="11791">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-111" type="identity">
+         <class id="therefore"/>
+         <span end="12009" id="PMC5240907.nxml.gz-111" start="12000">therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-112" type="identity">
+         <class id="subject_scope"/>
+         <span end="12385" id="PMC5240907.nxml.gz-112" start="12072">For the entire cohort, inverse correlations were observed between the HRV parameters with BMI (RMSSD: r = - 0.199, P = 0.047; PNN50: r = - 0.231, P = 0.021; HF: r = - 0.205, P = 0.041), systolic (RMSSD: r = - 0.227, P = 0.023; PNN50: r = - 0.214, P = 0.032) and diastolic (PNN50: r = - 0.217, P = 0.030) BP levels</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-113" type="identity">
+         <class id="correlations"/>
+         <span end="12115" id="PMC5240907.nxml.gz-113" start="12103">correlations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-114" type="identity">
+         <class id="observed"/>
+         <span end="12129" id="PMC5240907.nxml.gz-114" start="12121">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-115" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="12404" id="PMC5240907.nxml.gz-115" start="12387">On the other hand</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-116" type="identity">
+         <class id="subject_scope"/>
+         <span end="12561" id="PMC5240907.nxml.gz-116" start="12387">On the other hand, resting HR values were positive correlated with BMI ( r = 0.300, P = 0.002) and blood pressure levels (SBP: r = 0.382, P&lt; 0.001; DBP: r = 0.317, P = 0.001)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-117" type="identity">
+         <class id="correlated"/>
+         <span end="12448" id="PMC5240907.nxml.gz-117" start="12438">correlated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-118" type="identity">
+         <class id="subject_scope"/>
+         <span end="12680" id="PMC5240907.nxml.gz-118" start="12563">Additionally, we observed an inverse correlation between BW and systolic BP levels ( r = - 0.261, P = 0.009) (Fig 1A)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-119" type="identity">
+         <class id="observed"/>
+         <span end="12588" id="PMC5240907.nxml.gz-119" start="12580">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-120" type="identity">
+         <class id="correlation"/>
+         <span end="12611" id="PMC5240907.nxml.gz-120" start="12600">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-121" type="identity">
+         <class id="interestingly"/>
+         <span end="12798" id="PMC5240907.nxml.gz-121" start="12785">Interestingly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-122" type="identity">
+         <class id="subject_scope"/>
+         <span end="13114" id="PMC5240907.nxml.gz-122" start="12785">Interestingly, there were consistent positive correlations between BW with parameters of the time domain (RMSSD: r = 0.328, P = 0.001; PNN50: r = 0.386, P = 0.001) (Fig 2) and frequency domain (HF: r = 0.332, P = 0.002) (Fig 3), suggesting that impaired vagal modulation to the heart in children is influenced by low birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-123" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="12821" id="PMC5240907.nxml.gz-123" start="12811">consistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-124" type="identity">
+         <class id="correlations"/>
+         <span end="12843" id="PMC5240907.nxml.gz-124" start="12831">correlations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-125" type="identity">
+         <class id="suggesting"/>
+         <span end="13024" id="PMC5240907.nxml.gz-125" start="13014">suggesting</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-126" type="identity">
+         <class id="important_consideration"/>
+         <span end="13038" id="PMC5240907.nxml.gz-126" start="13030">impaired</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-127" type="identity">
+         <class id="influenced"/>
+         <span end="13094" id="PMC5240907.nxml.gz-127" start="13084">influenced</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-128" type="identity">
+         <class id="to_determine"/>
+         <span end="13128" id="PMC5240907.nxml.gz-128" start="13116">To determine</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-129" type="identity">
+         <class id="subject_scope"/>
+         <span end="13342" id="PMC5240907.nxml.gz-129" start="13116">To determine the effect of birth weight on HRV parameters, we perform multivariate linear regression analysis adjusted for potentially confounding factors (prematurity, gender, age, BMI, physical activity index and SBP levels)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-130" type="identity">
+         <class id="effect"/>
+         <span end="13139" id="PMC5240907.nxml.gz-130" start="13133">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-131" type="identity">
+         <class id="potentially"/>
+         <span end="13250" id="PMC5240907.nxml.gz-131" start="13239">potentially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-132" type="identity">
+         <class id="confounding_factors"/>
+         <span end="13270" id="PMC5240907.nxml.gz-132" start="13251">confounding factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-133" type="identity">
+         <class id="subject_scope"/>
+         <span end="13492" id="PMC5240907.nxml.gz-133" start="13344">When RMSSD was tested as the dependent variable, we found that only birth weight emerged as independent determinant for this HRV parameter (Table 2)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-134" type="identity">
+         <class id="found"/>
+         <span end="13401" id="PMC5240907.nxml.gz-134" start="13396">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-135" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="13411" id="PMC5240907.nxml.gz-135" start="13407">only</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-136" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="13432" id="PMC5240907.nxml.gz-136" start="13425">emerged</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-137" type="identity">
+         <class id="independent"/>
+         <span end="13447" id="PMC5240907.nxml.gz-137" start="13436">independent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-138" type="identity">
+         <class id="determinant"/>
+         <span end="13459" id="PMC5240907.nxml.gz-138" start="13448">determinant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-139" type="identity">
+         <class id="on_the_other_hand"/>
+         <span end="13616" id="PMC5240907.nxml.gz-139" start="13599">On the other hand</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-140" type="identity">
+         <class id="subject_scope"/>
+         <span end="13772" id="PMC5240907.nxml.gz-140" start="13599">On the other hand, multiple regression analysis revealed a significant interaction of the three independent variables birth weight, age and BMI in predicting PNN50 (Table 2)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-141" type="identity">
+         <class id="revealed"/>
+         <span end="13655" id="PMC5240907.nxml.gz-141" start="13647">revealed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-142" type="identity">
+         <class id="interaction"/>
+         <span end="13681" id="PMC5240907.nxml.gz-142" start="13670">interaction</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-143" type="identity">
+         <class id="predicting"/>
+         <span end="13756" id="PMC5240907.nxml.gz-143" start="13746">predicting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-144" type="identity">
+         <class id="subject_scope"/>
+         <span end="14030" id="PMC5240907.nxml.gz-144" start="13872">Finally, regression analysis revealed that birth weight was the only significant predictor of HF, and explained 16% of the variance in HF (R2= 0.16) (Table 2)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-145" type="identity">
+         <class id="revealed"/>
+         <span end="13909" id="PMC5240907.nxml.gz-145" start="13901">revealed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-146" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="13940" id="PMC5240907.nxml.gz-146" start="13936">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-147" type="identity">
+         <class id="predictor"/>
+         <span end="13962" id="PMC5240907.nxml.gz-147" start="13953">predictor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-148" type="identity">
+         <class id="it_is_known"/>
+         <span end="15753" id="PMC5240907.nxml.gz-148" start="15742">It is known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-149" type="identity">
+         <class id="subject_scope"/>
+         <span end="15832" id="PMC5240907.nxml.gz-149" start="15742">It is known that the ANS development begins in fetal life and persists after birth [30,31]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-150" type="identity">
+         <class id="there_is_evidence"/>
+         <span end="15851" id="PMC5240907.nxml.gz-150" start="15834">There is evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-151" type="identity">
+         <class id="subject_scope"/>
+         <span end="15994" id="PMC5240907.nxml.gz-151" start="15834">There is evidence suggesting that negative insults during intrauterine development promote functional disorders in the ANS, which may persist later in life [32]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-152" type="identity">
+         <class id="suggesting"/>
+         <span end="15862" id="PMC5240907.nxml.gz-152" start="15852">suggesting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-153" type="identity">
+         <class id="may"/>
+         <span end="15967" id="PMC5240907.nxml.gz-153" start="15964">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-154" type="identity">
+         <class id="subject_scope"/>
+         <span end="16156" id="PMC5240907.nxml.gz-154" start="15996">Moreover, it should be noted that alterations in autonomic nervous function are associated with low birth weight and cardiometabolic abnormalities [17,19,20,33]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-155" type="identity">
+         <class id="important_consideration"/>
+         <span end="16018" id="PMC5240907.nxml.gz-155" start="16009">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-156" type="identity">
+         <class id="noted"/>
+         <span end="16024" id="PMC5240907.nxml.gz-156" start="16019">noted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-157" type="identity">
+         <class id="associated"/>
+         <span end="16086" id="PMC5240907.nxml.gz-157" start="16076">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-158" type="identity">
+         <class id="findings"/>
+         <span end="16166" id="PMC5240907.nxml.gz-158" start="16158">Findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-159" type="identity">
+         <class id="subject_scope"/>
+         <span end="16404" id="PMC5240907.nxml.gz-159" start="16158">Findings from the present study demonstrated that children with low birth weight have abnormal autonomic modulation, suggesting that variation in birth weight seems associated with the differences in autonomic function observed in later childhood</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-160" type="identity">
+         <class id="present_study"/>
+         <span end="16189" id="PMC5240907.nxml.gz-160" start="16176">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-161" type="identity">
+         <class id="demonstrated"/>
+         <span end="16202" id="PMC5240907.nxml.gz-161" start="16190">demonstrated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-162" type="identity">
+         <class id="suggesting"/>
+         <span end="16285" id="PMC5240907.nxml.gz-162" start="16275">suggesting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-163" type="identity">
+         <class id="seems"/>
+         <span end="16322" id="PMC5240907.nxml.gz-163" start="16317">seems</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-164" type="identity">
+         <class id="associated"/>
+         <span end="16333" id="PMC5240907.nxml.gz-164" start="16323">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-165" type="identity">
+         <class id="observed"/>
+         <span end="16385" id="PMC5240907.nxml.gz-165" start="16377">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-166" type="identity">
+         <class id="subject_scope"/>
+         <span end="16552" id="PMC5240907.nxml.gz-166" start="16406">We found that the RMSSD, pNN50 index and HF band (n.u.) an indicative of the cardiac vagal modulation were positively correlated with birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-167" type="identity">
+         <class id="found"/>
+         <span end="16414" id="PMC5240907.nxml.gz-167" start="16409">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-168" type="identity">
+         <class id="indicative"/>
+         <span end="16475" id="PMC5240907.nxml.gz-168" start="16465">indicative</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-169" type="identity">
+         <class id="correlated"/>
+         <span end="16534" id="PMC5240907.nxml.gz-169" start="16524">correlated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-170" type="identity">
+         <class id="these_findings"/>
+         <span end="16568" id="PMC5240907.nxml.gz-170" start="16554">These findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-171" type="identity">
+         <class id="subject_scope"/>
+         <span end="16673" id="PMC5240907.nxml.gz-171" start="16554">These findings preserved even after adjusting for prematurity, gender, age, BMI, physical activity index and SBP levels</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-172" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="16578" id="PMC5240907.nxml.gz-172" start="16569">preserved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-173" type="identity">
+         <class id="even"/>
+         <span end="16583" id="PMC5240907.nxml.gz-173" start="16579">even</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-174" type="identity">
+         <class id="subject_scope"/>
+         <span end="16906" id="PMC5240907.nxml.gz-174" start="16675">One possible interpretation for our present data is that a vagal withdrawal, rather than a sympathetic overactivity, could precede the development of hypertension and other cardiometabolic diseases in children with low birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-175" type="identity">
+         <class id="possible"/>
+         <span end="16687" id="PMC5240907.nxml.gz-175" start="16679">possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-176" type="identity">
+         <class id="probable_understanding"/>
+         <span end="16702" id="PMC5240907.nxml.gz-176" start="16688">interpretation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-177" type="identity">
+         <class id="rather"/>
+         <span end="16758" id="PMC5240907.nxml.gz-177" start="16752">rather</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-178" type="identity">
+         <class id="future_prediction"/>
+         <span end="16797" id="PMC5240907.nxml.gz-178" start="16792">could</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-179" type="identity">
+         <class id="subject_scope"/>
+         <span end="17103" id="PMC5240907.nxml.gz-179" start="16908">It has been reported that low birth weight is related to modulation of both the sympathetic and parasympathetic function from the prenatal period through childhood and adult life [17,19,20,34–38]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-180" type="identity">
+         <class id="reported"/>
+         <span end="16928" id="PMC5240907.nxml.gz-180" start="16920">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-181" type="identity">
+         <class id="related"/>
+         <span end="16961" id="PMC5240907.nxml.gz-181" start="16954">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-182" type="identity">
+         <class id="subject_scope"/>
+         <span end="17279" id="PMC5240907.nxml.gz-182" start="17105">Decreases in the HRV parameters were noted in newborns at term with low weight [34], while other studies observed a normal cardiac autonomic balance in these neonates [17,35]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-183" type="identity">
+         <class id="noted"/>
+         <span end="17147" id="PMC5240907.nxml.gz-183" start="17142">noted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-184" type="identity">
+         <class id="while"/>
+         <span end="17195" id="PMC5240907.nxml.gz-184" start="17190">while</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-185" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="17209" id="PMC5240907.nxml.gz-185" start="17196">other studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-186" type="identity">
+         <class id="observed"/>
+         <span end="17218" id="PMC5240907.nxml.gz-186" start="17210">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-187" type="identity">
+         <class id="subject_scope"/>
+         <span end="17387" id="PMC5240907.nxml.gz-187" start="17281">A recent study on children with low birth weight found a reduction in the overall activity of the ANS [15]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-188" type="identity">
+         <class id="recent_study"/>
+         <span end="17295" id="PMC5240907.nxml.gz-188" start="17283">recent study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-189" type="identity">
+         <class id="found"/>
+         <span end="17335" id="PMC5240907.nxml.gz-189" start="17330">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-190" type="identity">
+         <class id="a_study"/>
+         <span end="17396" id="PMC5240907.nxml.gz-190" start="17389">A study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-191" type="identity">
+         <class id="subject_scope"/>
+         <span end="17552" id="PMC5240907.nxml.gz-191" start="17389">A study examining young adults with low birth weight found that these subjects possessed significantly increased parasympathetic parameters of the time domain [19]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-192" type="identity">
+         <class id="found"/>
+         <span end="17447" id="PMC5240907.nxml.gz-192" start="17442">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-193" type="identity">
+         <class id="another_study"/>
+         <span end="17567" id="PMC5240907.nxml.gz-193" start="17554">Another study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-194" type="identity">
+         <class id="subject_scope"/>
+         <span end="17750" id="PMC5240907.nxml.gz-194" start="17554">Another study found increased sympathetic activation and reduced parasympathetic activity, demonstrating autonomic imbalance only in women with low birth weight who submitted to a stress test [20]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-195" type="identity">
+         <class id="found"/>
+         <span end="17573" id="PMC5240907.nxml.gz-195" start="17568">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-196" type="identity">
+         <class id="demonstrating"/>
+         <span end="17658" id="PMC5240907.nxml.gz-196" start="17645">demonstrating</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-197" type="identity">
+         <class id="only"/>
+         <span end="17683" id="PMC5240907.nxml.gz-197" start="17679">only</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-198" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="17683" id="PMC5240907.nxml.gz-198" start="17679">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-199" type="identity">
+         <class id="subject_scope"/>
+         <span end="17886" id="PMC5240907.nxml.gz-199" start="17752">Ward et al. [36] also observed a negative correlation between birth weight and heart rate in response to psychological stress in women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-200" type="identity">
+         <class id="observed"/>
+         <span end="17782" id="PMC5240907.nxml.gz-200" start="17774">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-201" type="identity">
+         <class id="correlation"/>
+         <span end="17805" id="PMC5240907.nxml.gz-201" start="17794">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-202" type="identity">
+         <class id="subject_scope"/>
+         <span end="18101" id="PMC5240907.nxml.gz-202" start="17888">Other studies found a significant correlation between low birth weight and increased sympathetic activity in adolescent twin pairs and young adults; however, this result did not observed gender differences [37,38]</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5240907.nxml.gz-203" type="identity">
+         <class id="other...studies"/>
+         <span end="17893" id="PMC5240907.nxml.gz-203" start="17888">Other</span>
+         <span end="17901" id="PMC5240907.nxml.gz-204" start="17894">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-205" type="identity">
+         <class id="found"/>
+         <span end="17907" id="PMC5240907.nxml.gz-205" start="17902">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-206" type="identity">
+         <class id="correlation"/>
+         <span end="17933" id="PMC5240907.nxml.gz-206" start="17922">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-207" type="identity">
+         <class id="however"/>
+         <span end="18044" id="PMC5240907.nxml.gz-207" start="18037">however</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-208" type="identity">
+         <class id="did_not"/>
+         <span end="18065" id="PMC5240907.nxml.gz-208" start="18058">did not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-209" type="identity">
+         <class id="differences"/>
+         <span end="18093" id="PMC5240907.nxml.gz-209" start="18082">differences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-210" type="identity">
+         <class id="subject_scope"/>
+         <span end="18216" id="PMC5240907.nxml.gz-210" start="18103">Our present findings indicate a reduction in activity of the parasympathetic ANS associated with low birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-211" type="identity">
+         <class id="findings"/>
+         <span end="18123" id="PMC5240907.nxml.gz-211" start="18115">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-212" type="identity">
+         <class id="indicate"/>
+         <span end="18132" id="PMC5240907.nxml.gz-212" start="18124">indicate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-213" type="identity">
+         <class id="associated"/>
+         <span end="18194" id="PMC5240907.nxml.gz-213" start="18184">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-214" type="identity">
+         <class id="subject_scope"/>
+         <span end="18303" id="PMC5240907.nxml.gz-214" start="18218">This correlation remained significant even after controlling for multiple confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-215" type="identity">
+         <class id="correlation"/>
+         <span end="18234" id="PMC5240907.nxml.gz-215" start="18223">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-216" type="identity">
+         <class id="remained"/>
+         <span end="18243" id="PMC5240907.nxml.gz-216" start="18235">remained</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-217" type="identity">
+         <class id="even"/>
+         <span end="18260" id="PMC5240907.nxml.gz-217" start="18256">even</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-218" type="identity">
+         <class id="confounders"/>
+         <span end="18303" id="PMC5240907.nxml.gz-218" start="18292">confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-219" type="identity">
+         <class id="therefore"/>
+         <span end="18314" id="PMC5240907.nxml.gz-219" start="18305">Therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-220" type="identity">
+         <class id="subject_scope"/>
+         <span end="18510" id="PMC5240907.nxml.gz-220" start="18305">Therefore, our data are consistent and complements the results of previous studies reporting the presence of impairment in the vagal cardiac autonomic modulation in children born with low weight [15,34,39]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-221" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="18339" id="PMC5240907.nxml.gz-221" start="18329">consistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-222" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="18355" id="PMC5240907.nxml.gz-222" start="18344">complements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-223" type="identity">
+         <class id="previous...studies"/>
+         <span end="18387" id="PMC5240907.nxml.gz-223" start="18371">previous studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-224" type="identity">
+         <class id="subject_scope"/>
+         <span end="18650" id="PMC5240907.nxml.gz-224" start="18512">One important factor that could contribute to these discrepant findings is the use of birth weight as a unique marker of fetal development</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-225" type="identity">
+         <class id="important"/>
+         <span end="18525" id="PMC5240907.nxml.gz-225" start="18516">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-226" type="identity">
+         <class id="factor"/>
+         <span end="18532" id="PMC5240907.nxml.gz-226" start="18526">factor</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-227" type="identity">
+         <class id="could"/>
+         <span end="18543" id="PMC5240907.nxml.gz-227" start="18538">could</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-228" type="identity">
+         <class id="future_prediction"/>
+         <span end="18543" id="PMC5240907.nxml.gz-228" start="18538">could</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-229" type="identity">
+         <class id="contribute"/>
+         <span end="18554" id="PMC5240907.nxml.gz-229" start="18544">contribute</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-230" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="18574" id="PMC5240907.nxml.gz-230" start="18564">discrepant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-231" type="identity">
+         <class id="findings"/>
+         <span end="18583" id="PMC5240907.nxml.gz-231" start="18575">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-232" type="identity">
+         <class id="as"/>
+         <span end="18613" id="PMC5240907.nxml.gz-232" start="18611">as</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-233" type="identity">
+         <class id="important_consideration"/>
+         <span end="18622" id="PMC5240907.nxml.gz-233" start="18616">unique</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-234" type="identity">
+         <class id="unique"/>
+         <span end="18622" id="PMC5240907.nxml.gz-234" start="18616">unique</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-235" type="identity">
+         <class id="marker"/>
+         <span end="18629" id="PMC5240907.nxml.gz-235" start="18623">marker</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-236" type="identity">
+         <class id="subject_scope"/>
+         <span end="18815" id="PMC5240907.nxml.gz-236" start="18652">The deleterious effects on development often vary in accordance to nature of the cause and period of exposure to adverse factors which have led to low birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-237" type="identity">
+         <class id="effects"/>
+         <span end="18675" id="PMC5240907.nxml.gz-237" start="18668">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-238" type="identity">
+         <class id="often"/>
+         <span end="18696" id="PMC5240907.nxml.gz-238" start="18691">often</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-239" type="identity">
+         <class id="vary"/>
+         <span end="18701" id="PMC5240907.nxml.gz-239" start="18697">vary</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-240" type="identity">
+         <class id="in_accordance"/>
+         <span end="18715" id="PMC5240907.nxml.gz-240" start="18702">in accordance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-241" type="identity">
+         <class id="factors"/>
+         <span end="18780" id="PMC5240907.nxml.gz-241" start="18773">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-242" type="identity">
+         <class id="led_to"/>
+         <span end="18798" id="PMC5240907.nxml.gz-242" start="18792">led to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-243" type="identity">
+         <class id="subject_scope"/>
+         <span end="18994" id="PMC5240907.nxml.gz-243" start="18817">It is well known that lower HRV parameters are associated with increased mortality due to heart failure, coronary heart disease and ischemic cardiomyopathy during adulthood [40]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-244" type="identity">
+         <class id="well_known"/>
+         <span end="18833" id="PMC5240907.nxml.gz-244" start="18823">well known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-245" type="identity">
+         <class id="associated"/>
+         <span end="18874" id="PMC5240907.nxml.gz-245" start="18864">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-246" type="identity">
+         <class id="subject_scope"/>
+         <span end="19127" id="PMC5240907.nxml.gz-246" start="18996">There is also evidence that decreased parasympathetic activity is correlated with high blood pressure and obesity in childhood [41]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-247" type="identity">
+         <class id="evidence"/>
+         <span end="19018" id="PMC5240907.nxml.gz-247" start="19010">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-248" type="identity">
+         <class id="correlated"/>
+         <span end="19072" id="PMC5240907.nxml.gz-248" start="19062">correlated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-249" type="identity">
+         <class id="thus"/>
+         <span end="19133" id="PMC5240907.nxml.gz-249" start="19129">Thus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-250" type="identity">
+         <class id="subject_scope"/>
+         <span end="19325" id="PMC5240907.nxml.gz-250" start="19129">Thus, significant correlation between lower HRV parameters and low birth weight found in healthy children may have adverse prognostic effects and serve as an early sign of cardiometabolic diseases</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-251" type="identity">
+         <class id="correlation"/>
+         <span end="19158" id="PMC5240907.nxml.gz-251" start="19147">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-252" type="identity">
+         <class id="found"/>
+         <span end="19214" id="PMC5240907.nxml.gz-252" start="19209">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-253" type="identity">
+         <class id="future_prediction"/>
+         <span end="19238" id="PMC5240907.nxml.gz-253" start="19235">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-254" type="identity">
+         <class id="effects"/>
+         <span end="19270" id="PMC5240907.nxml.gz-254" start="19263">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-255" type="identity">
+         <class id="serve"/>
+         <span end="19280" id="PMC5240907.nxml.gz-255" start="19275">serve</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-256" type="identity">
+         <class id="as"/>
+         <span end="19283" id="PMC5240907.nxml.gz-256" start="19281">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-257" type="identity">
+         <class id="sign"/>
+         <span end="19297" id="PMC5240907.nxml.gz-257" start="19293">sign</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-258" type="identity">
+         <class id="subject_scope"/>
+         <span end="19439" id="PMC5240907.nxml.gz-258" start="19327">The reason why low birth weight promotes alterations in cardiac ANS activity among health individuals is unknown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-259" type="identity">
+         <class id="reason"/>
+         <span end="19337" id="PMC5240907.nxml.gz-259" start="19331">reason</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-260" type="identity">
+         <class id="why"/>
+         <span end="19341" id="PMC5240907.nxml.gz-260" start="19338">why</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-261" type="identity">
+         <class id="unknown"/>
+         <span end="19439" id="PMC5240907.nxml.gz-261" start="19432">unknown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-262" type="identity">
+         <class id="subject_scope"/>
+         <span end="19686" id="PMC5240907.nxml.gz-262" start="19441">Considering that ANS is stable from intrauterine life through the postnatal period [42–44], an inadequate fetal environment can lead to negative changes in ANS development and functionality, thus promoting long-lasting consequences later in life</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-263" type="identity">
+         <class id="probable_understanding"/>
+         <span end="19452" id="PMC5240907.nxml.gz-263" start="19441">Considering</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-264" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="19452" id="PMC5240907.nxml.gz-264" start="19441">Considering</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-265" type="identity">
+         <class id="important_consideration"/>
+         <span end="19546" id="PMC5240907.nxml.gz-265" start="19536">inadequate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-266" type="identity">
+         <class id="can"/>
+         <span end="19568" id="PMC5240907.nxml.gz-266" start="19565">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-267" type="identity">
+         <class id="lead_to"/>
+         <span end="19576" id="PMC5240907.nxml.gz-267" start="19569">lead to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-268" type="identity">
+         <class id="thus"/>
+         <span end="19636" id="PMC5240907.nxml.gz-268" start="19632">thus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-269" type="identity">
+         <class id="important_consideration"/>
+         <span end="19672" id="PMC5240907.nxml.gz-269" start="19660">consequences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-270" type="identity">
+         <class id="subject_scope"/>
+         <span end="19841" id="PMC5240907.nxml.gz-270" start="19688">It has been demonstrated that children born to parents with socioeconomic problems have a higher probability of low birth weight and ANS dysfunction [45]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-271" type="identity">
+         <class id="has_been_demonstrated"/>
+         <span end="19712" id="PMC5240907.nxml.gz-271" start="19691">has been demonstrated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-272" type="identity">
+         <class id="important_consideration"/>
+         <span end="19770" id="PMC5240907.nxml.gz-272" start="19762">problems</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-273" type="identity">
+         <class id="probability"/>
+         <span end="19796" id="PMC5240907.nxml.gz-273" start="19785">probability</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-274" type="identity">
+         <class id="interestingly"/>
+         <span end="19856" id="PMC5240907.nxml.gz-274" start="19843">Interestingly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-275" type="identity">
+         <class id="subject_scope"/>
+         <span end="19928" id="PMC5240907.nxml.gz-275" start="19843">Interestingly, maternal prenatal stress could have negative effects on fetal ANS [46]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-276" type="identity">
+         <class id="could"/>
+         <span end="19888" id="PMC5240907.nxml.gz-276" start="19883">could</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-277" type="identity">
+         <class id="effects"/>
+         <span end="19910" id="PMC5240907.nxml.gz-277" start="19903">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-278" type="identity">
+         <class id="subject_scope"/>
+         <span end="20066" id="PMC5240907.nxml.gz-278" start="19930">There is also evidence that prenatal supplementation with zinc has a positive effect on birth weight [47] and fetal HRV measures [48,49]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-279" type="identity">
+         <class id="evidence"/>
+         <span end="19952" id="PMC5240907.nxml.gz-279" start="19944">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-280" type="identity">
+         <class id="effect"/>
+         <span end="20014" id="PMC5240907.nxml.gz-280" start="20008">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-281" type="identity">
+         <class id="subject_scope"/>
+         <span end="20297" id="PMC5240907.nxml.gz-281" start="20068">Caulfield et al. [50] found that the beneficial effects of prenatal zinc supplementation on the ANS balance persisted until early infancy, suggesting that the nutritional status of the mother is important to fetal ANS development</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-282" type="identity">
+         <class id="found"/>
+         <span end="20095" id="PMC5240907.nxml.gz-282" start="20090">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-283" type="identity">
+         <class id="effects"/>
+         <span end="20123" id="PMC5240907.nxml.gz-283" start="20116">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-284" type="identity">
+         <class id="persisted"/>
+         <span end="20185" id="PMC5240907.nxml.gz-284" start="20176">persisted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-285" type="identity">
+         <class id="suggesting"/>
+         <span end="20217" id="PMC5240907.nxml.gz-285" start="20207">suggesting</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-286" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="20272" id="PMC5240907.nxml.gz-286" start="20263">important</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-287" type="identity">
+         <class id="important"/>
+         <span end="20272" id="PMC5240907.nxml.gz-287" start="20263">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-288" type="identity">
+         <class id="these_findings"/>
+         <span end="20313" id="PMC5240907.nxml.gz-288" start="20299">These findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-289" type="identity">
+         <class id="subject_scope"/>
+         <span end="20416" id="PMC5240907.nxml.gz-289" start="20299">These findings are consistent with the premise that modification in the fetal environment could alter ANS development</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-290" type="identity">
+         <class id="consistent"/>
+         <span end="20328" id="PMC5240907.nxml.gz-290" start="20318">consistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-291" type="identity">
+         <class id="premise"/>
+         <span end="20345" id="PMC5240907.nxml.gz-291" start="20338">premise</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-292" type="identity">
+         <class id="could"/>
+         <span end="20394" id="PMC5240907.nxml.gz-292" start="20389">could</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC5240907.nxml.gz-293" type="identity">
+         <class id="subject_scope"/>
+         <span end="20614" id="PMC5240907.nxml.gz-293" start="20418">More detailed data about issues during pregnancy should be obtained in an attempt to identify specific periods during gestation that are important for the programming of the fetal autonomic system</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-294" type="identity">
+         <class id="future_work"/>
+         <span end="20422" id="PMC5240907.nxml.gz-294" start="20418">More</span>
+         <span end="20436" id="PMC5240907.nxml.gz-295" start="20432">data</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-296" type="identity">
+         <class id="important_consideration"/>
+         <span end="20449" id="PMC5240907.nxml.gz-296" start="20443">issues</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-297" type="identity">
+         <class id="should_be"/>
+         <span end="20476" id="PMC5240907.nxml.gz-297" start="20467">should be</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-298" type="identity">
+         <class id="difficult_task"/>
+         <span end="20499" id="PMC5240907.nxml.gz-298" start="20492">attempt</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-299" type="identity">
+         <class id="important"/>
+         <span end="20564" id="PMC5240907.nxml.gz-299" start="20555">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-300" type="identity">
+         <class id="other"/>
+         <span end="20621" id="PMC5240907.nxml.gz-300" start="20616">Other</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-301" type="identity">
+         <class id="subject_scope"/>
+         <span end="20794" id="PMC5240907.nxml.gz-301" start="20616">Other potential mechanism that would explain the impairment of the vagal modulation observed in children with low birth weight could be mediated by renin-angiotensin system (RAS)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-302" type="identity">
+         <class id="potential"/>
+         <span end="20631" id="PMC5240907.nxml.gz-302" start="20622">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-303" type="identity">
+         <class id="would"/>
+         <span end="20652" id="PMC5240907.nxml.gz-303" start="20647">would</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-304" type="identity">
+         <class id="explain"/>
+         <span end="20660" id="PMC5240907.nxml.gz-304" start="20653">explain</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-305" type="identity">
+         <class id="observed"/>
+         <span end="20708" id="PMC5240907.nxml.gz-305" start="20700">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-306" type="identity">
+         <class id="could_be"/>
+         <span end="20751" id="PMC5240907.nxml.gz-306" start="20743">could be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-307" type="identity">
+         <class id="mediated"/>
+         <span end="20760" id="PMC5240907.nxml.gz-307" start="20752">mediated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-308" type="identity">
+         <class id="there_is_evidence"/>
+         <span end="20813" id="PMC5240907.nxml.gz-308" start="20796">There is evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-309" type="identity">
+         <class id="subject_scope"/>
+         <span end="20874" id="PMC5240907.nxml.gz-309" start="20796">There is evidence that angiotensin II inhibits parasympathetic modulation [51]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-310" type="identity">
+         <class id="in_accordance"/>
+         <span end="20889" id="PMC5240907.nxml.gz-310" start="20876">In accordance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-311" type="identity">
+         <class id="subject_scope"/>
+         <span end="21011" id="PMC5240907.nxml.gz-311" start="20876">In accordance to this, an inverse correlation has been described between birth weight with both angiotensin II and ACE activity [52–54]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-312" type="identity">
+         <class id="correlation"/>
+         <span end="20921" id="PMC5240907.nxml.gz-312" start="20910">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-313" type="identity">
+         <class id="has_been"/>
+         <span end="20930" id="PMC5240907.nxml.gz-313" start="20922">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-314" type="identity">
+         <class id="described"/>
+         <span end="20940" id="PMC5240907.nxml.gz-314" start="20931">described</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-315" type="identity">
+         <class id="subject_scope"/>
+         <span end="21202" id="PMC5240907.nxml.gz-315" start="21012"> This is important since children with low birth weight with higher plasma ACE activity would presumably have high angiotensin II levels and lower associated levels of cardiac vagal activity</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-316" type="identity">
+         <class id="important"/>
+         <span end="21030" id="PMC5240907.nxml.gz-316" start="21021">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-317" type="identity">
+         <class id="probable_understanding"/>
+         <span end="21036" id="PMC5240907.nxml.gz-317" start="21031">since</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-318" type="identity">
+         <class id="would"/>
+         <span end="21105" id="PMC5240907.nxml.gz-318" start="21100">would</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-319" type="identity">
+         <class id="presumably"/>
+         <span end="21116" id="PMC5240907.nxml.gz-319" start="21106">presumably</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-320" type="identity">
+         <class id="associated"/>
+         <span end="21169" id="PMC5240907.nxml.gz-320" start="21159">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-321" type="identity">
+         <class id="therefore"/>
+         <span end="21213" id="PMC5240907.nxml.gz-321" start="21204">Therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-322" type="identity">
+         <class id="subject_scope"/>
+         <span end="21364" id="PMC5240907.nxml.gz-322" start="21204">Therefore, it is possible that the RAS hyperactivity could, at least in part, mediate the impairment of cardiac vagal tone observed in low birth weight children</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-323" type="identity">
+         <class id="it_is_possible"/>
+         <span end="21229" id="PMC5240907.nxml.gz-323" start="21215">it is possible</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-324" type="identity">
+         <class id="future_prediction"/>
+         <span end="21262" id="PMC5240907.nxml.gz-324" start="21257">could</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-325" type="identity">
+         <class id="probable_understanding"/>
+         <span end="21280" id="PMC5240907.nxml.gz-325" start="21264">at least in part</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-326" type="identity">
+         <class id="at_least"/>
+         <span end="21272" id="PMC5240907.nxml.gz-326" start="21264">at least</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-327" type="identity">
+         <class id="in_part"/>
+         <span end="21280" id="PMC5240907.nxml.gz-327" start="21273">in part</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-328" type="identity">
+         <class id="mediate"/>
+         <span end="21289" id="PMC5240907.nxml.gz-328" start="21282">mediate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-329" type="identity">
+         <class id="observed"/>
+         <span end="21335" id="PMC5240907.nxml.gz-329" start="21327">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-330" type="identity">
+         <class id="subject_scope"/>
+         <span end="21560" id="PMC5240907.nxml.gz-330" start="21366">It is noteworthy, however, that complementary researches are necessary to determine the mechanisms involved as well as the potential influence of birth weight on the cardiac autonomic modulation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-331" type="identity">
+         <class id="important_consideration"/>
+         <span end="21382" id="PMC5240907.nxml.gz-331" start="21372">noteworthy</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-332" type="identity">
+         <class id="future_work"/>
+         <span end="21422" id="PMC5240907.nxml.gz-332" start="21412">researches</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-333" type="identity">
+         <class id="future_work"/>
+         <span end="21436" id="PMC5240907.nxml.gz-333" start="21427">necessary</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-334" type="identity">
+         <class id="involved"/>
+         <span end="21473" id="PMC5240907.nxml.gz-334" start="21465">involved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-335" type="identity">
+         <class id="potential"/>
+         <span end="21498" id="PMC5240907.nxml.gz-335" start="21489">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-336" type="identity">
+         <class id="influence"/>
+         <span end="21508" id="PMC5240907.nxml.gz-336" start="21499">influence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-337" type="identity">
+         <class id="subject_scope"/>
+         <span end="21714" id="PMC5240907.nxml.gz-337" start="21562">The limitations of this study include the small sample size based on a cross-sectional analysis, which prevent us from establishing causal relationships</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-338" type="identity">
+         <class id="problem_complication"/>
+         <span end="21577" id="PMC5240907.nxml.gz-338" start="21566">limitations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-339" type="identity">
+         <class id="small"/>
+         <span end="21609" id="PMC5240907.nxml.gz-339" start="21604">small</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-340" type="identity">
+         <class id="based_on"/>
+         <span end="21630" id="PMC5240907.nxml.gz-340" start="21622">based on</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-341" type="identity">
+         <class id="difficult_task"/>
+         <span end="21672" id="PMC5240907.nxml.gz-341" start="21665">prevent</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-342" type="identity">
+         <class id="prevent"/>
+         <span end="21672" id="PMC5240907.nxml.gz-342" start="21665">prevent</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-343" type="identity">
+         <class id="probable_understanding"/>
+         <span end="21700" id="PMC5240907.nxml.gz-343" start="21694">causal</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-344" type="identity">
+         <class id="relationships"/>
+         <span end="21714" id="PMC5240907.nxml.gz-344" start="21701">relationships</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-345" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="21723" id="PMC5240907.nxml.gz-345" start="21716">Despite</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-346" type="identity">
+         <class id="subject_scope"/>
+         <span end="21820" id="PMC5240907.nxml.gz-346" start="21716">Despite these, our study was able to replicate findings reported in individuals from developed countries</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-347" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="21762" id="PMC5240907.nxml.gz-347" start="21753">replicate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-348" type="identity">
+         <class id="findings"/>
+         <span end="21771" id="PMC5240907.nxml.gz-348" start="21763">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-349" type="identity">
+         <class id="reported"/>
+         <span end="21780" id="PMC5240907.nxml.gz-349" start="21772">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-350" type="identity">
+         <class id="subject_scope"/>
+         <span end="21951" id="PMC5240907.nxml.gz-350" start="21822">In conclusion, our study revealed that children born with low weight presents detriment of the cardiac vagal autonomic modulation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-351" type="identity">
+         <class id="conclusion"/>
+         <span end="21835" id="PMC5240907.nxml.gz-351" start="21825">conclusion</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-352" type="identity">
+         <class id="our_study"/>
+         <span end="21846" id="PMC5240907.nxml.gz-352" start="21837">our study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-353" type="identity">
+         <class id="revealed"/>
+         <span end="21855" id="PMC5240907.nxml.gz-353" start="21847">revealed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-354" type="identity">
+         <class id="therefore"/>
+         <span end="21962" id="PMC5240907.nxml.gz-354" start="21953">Therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-355" type="identity">
+         <class id="subject_scope"/>
+         <span end="22132" id="PMC5240907.nxml.gz-355" start="21953">Therefore, the high risk of cardiometabolic diseases among these children could be attributed, at least in part, to a reduction in the protective actions of the cardiac vagal tone</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-356" type="identity">
+         <class id="risk"/>
+         <span end="21977" id="PMC5240907.nxml.gz-356" start="21973">risk</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-357" type="identity">
+         <class id="could_be"/>
+         <span end="22035" id="PMC5240907.nxml.gz-357" start="22027">could be</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-358" type="identity">
+         <class id="future_prediction"/>
+         <span end="22035" id="PMC5240907.nxml.gz-358" start="22027">could be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-359" type="identity">
+         <class id="attributed"/>
+         <span end="22046" id="PMC5240907.nxml.gz-359" start="22036">attributed</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC5240907.nxml.gz-360" type="identity">
+         <class id="probable_understanding"/>
+         <span end="22064" id="PMC5240907.nxml.gz-360" start="22048">at least in part</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-361" type="identity">
+         <class id="at_least"/>
+         <span end="22056" id="PMC5240907.nxml.gz-361" start="22048">at least</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-362" type="identity">
+         <class id="in_part"/>
+         <span end="22064" id="PMC5240907.nxml.gz-362" start="22057">in part</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC5240907.nxml.gz-363" type="identity">
+         <class id="protective"/>
+         <span end="22098" id="PMC5240907.nxml.gz-363" start="22088">protective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-364" type="identity">
+         <class id="subject_scope"/>
+         <span end="22342" id="PMC5240907.nxml.gz-364" start="22134">The interaction between low birth weight and reduction in parasympathetic regulation observed in the present study occurs independently of prematurity, gender, age, BMI, physical activity index and SBP levels</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-365" type="identity">
+         <class id="interaction"/>
+         <span end="22149" id="PMC5240907.nxml.gz-365" start="22138">interaction</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-366" type="identity">
+         <class id="regulation"/>
+         <span end="22218" id="PMC5240907.nxml.gz-366" start="22208">regulation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-367" type="identity">
+         <class id="observed"/>
+         <span end="22227" id="PMC5240907.nxml.gz-367" start="22219">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-368" type="identity">
+         <class id="present_study"/>
+         <span end="22248" id="PMC5240907.nxml.gz-368" start="22235">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC5240907.nxml.gz-369" type="identity">
+         <class id="independently"/>
+         <span end="22269" id="PMC5240907.nxml.gz-369" start="22256">independently</span>
+      </annotation>
+   </document>
+</knowtator-project>

@@ -1,0 +1,41 @@
+ARTICLE:	PMC1247630
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator GOLD_STANDARD:	5
+total annotations for annotator KATIE:	15
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	15	4	0	1	10	0.27	0.33
+
+CURRENT IGNORANCE TYPE:	alternative_options_controversy
+total annotations for annotator GOLD_STANDARD:	1
+total annotations for annotator KATIE:	4
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options_controversy	4	1	0	0	3	0.25	0.25
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator GOLD_STANDARD:	9
+total annotations for annotator KATIE:	21
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	23	4	1	2	16	0.17	0.30
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator GOLD_STANDARD:	3
+total annotations for annotator KATIE:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	3	2	0	1	0	0.67	1.00
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator GOLD_STANDARD:	2
+total annotations for annotator KATIE:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+full_unknown	2	1	0	1	0	0.50	1.00
+
+CURRENT IGNORANCE TYPE:	subject_scope
+total annotations for annotator GOLD_STANDARD:	12
+total annotations for annotator KATIE:	19
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+subject_scope	19	7	5	0	7	0.37	0.63
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	61	12	1	2	46	0.20	0.25
+subject_scope	19	7	5	0	7	0.37	0.63

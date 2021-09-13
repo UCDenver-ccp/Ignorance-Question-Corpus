@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC2009866.nxml.gz" text-file="PMC2009866.nxml.gz.txt">
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="183" id="PMC2009866.nxml.gz-1" start="103">The results are presented of a case-control study conducted in the north of Iran</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-2" type="identity">
+         <class id="conducted"/>
+         <span end="162" id="PMC2009866.nxml.gz-2" start="153">conducted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2009866.nxml.gz-3" type="identity">
+         <class id="subject_scope"/>
+         <span end="309" id="PMC2009866.nxml.gz-3" start="185">The main aim was to study factors identified in a previous study as potentially causally related to cancer of the oesophagus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2009866.nxml.gz-4" type="identity">
+         <class id="aim"/>
+         <span end="197" id="PMC2009866.nxml.gz-4" start="194">aim</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-5" type="identity">
+         <class id="to_study"/>
+         <span end="210" id="PMC2009866.nxml.gz-5" start="202">to study</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-6" type="identity">
+         <class id="factors"/>
+         <span end="218" id="PMC2009866.nxml.gz-6" start="211">factors</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-7" type="identity">
+         <class id="identified"/>
+         <span end="229" id="PMC2009866.nxml.gz-7" start="219">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2009866.nxml.gz-8" type="identity">
+         <class id="previous_study"/>
+         <span end="249" id="PMC2009866.nxml.gz-8" start="235">previous study</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-9" type="identity">
+         <class id="as"/>
+         <span end="252" id="PMC2009866.nxml.gz-9" start="250">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2009866.nxml.gz-10" type="identity">
+         <class id="potentially"/>
+         <span end="264" id="PMC2009866.nxml.gz-10" start="253">potentially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2009866.nxml.gz-11" type="identity">
+         <class id="related"/>
+         <span end="281" id="PMC2009866.nxml.gz-11" start="274">related</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC2009866.nxml.gz-12" type="identity">
+         <class id="subject_scope"/>
+         <span end="683" id="PMC2009866.nxml.gz-12" start="311">Other tumours (lung, stomach, breast, large bowel, larynx and pharynx) were included to distinguish findings specific for oesophageal cancer from general characteristics of cancer patients, due for example to ascertainment bias, and to verify that expected associations, such as between lung cancer and cigarette smoking, would emerge under the prevailing field conditions</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-13" type="identity">
+         <class id="findings"/>
+         <span end="419" id="PMC2009866.nxml.gz-13" start="411">findings</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-14" type="identity">
+         <class id="bias"/>
+         <span end="538" id="PMC2009866.nxml.gz-14" start="534">bias</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2009866.nxml.gz-15" type="identity">
+         <class id="expected"/>
+         <span end="567" id="PMC2009866.nxml.gz-15" start="559">expected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2009866.nxml.gz-16" type="identity">
+         <class id="associations"/>
+         <span end="580" id="PMC2009866.nxml.gz-16" start="568">associations</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-17" type="identity">
+         <class id="as"/>
+         <span end="589" id="PMC2009866.nxml.gz-17" start="587">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2009866.nxml.gz-18" type="identity">
+         <class id="would"/>
+         <span end="638" id="PMC2009866.nxml.gz-18" start="633">would</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-19" type="identity">
+         <class id="subject_scope"/>
+         <span end="883" id="PMC2009866.nxml.gz-19" start="685">Two controls were chosen per case, matched for village of residence, age, sex and language group, Reinterviewing was performed to a limited extent to assess the accuracy of replies to questionnaires</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-20" type="identity">
+         <class id="to_assess"/>
+         <span end="841" id="PMC2009866.nxml.gz-20" start="832">to assess</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-21" type="identity">
+         <class id="subject_scope"/>
+         <span end="1123" id="PMC2009866.nxml.gz-21" start="885">The following were found not to be associated with oesophageal cancer: consumption of sheep's milk and yoghurt, sesame oil, chewing of nass, making of carpets, use of pregnancy diets, salting and sun-drying of meat and use of wild spinach</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-22" type="identity">
+         <class id="found"/>
+         <span end="909" id="PMC2009866.nxml.gz-22" start="904">found</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-23" type="identity">
+         <class id="associated"/>
+         <span end="930" id="PMC2009866.nxml.gz-23" start="920">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2009866.nxml.gz-24" type="identity">
+         <class id="subject_scope"/>
+         <span end="1209" id="PMC2009866.nxml.gz-24" start="1125">The use of opium, bread and tea could not be assessed in the retrospective framework</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC2009866.nxml.gz-25" type="identity">
+         <class id="difficult_task"/>
+         <span end="1178" id="PMC2009866.nxml.gz-25" start="1157">could not be assessed</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-26" type="identity">
+         <class id="retrospective"/>
+         <span end="1199" id="PMC2009866.nxml.gz-26" start="1186">retrospective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2009866.nxml.gz-27" type="identity">
+         <class id="subject_scope"/>
+         <span end="1338" id="PMC2009866.nxml.gz-27" start="1211">Strongly associated with risk of oesophageal cancer were low socio-economic status and low intake of fresh fruit and vegetables</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC2009866.nxml.gz-28" type="identity">
+         <class id="associated"/>
+         <span end="1230" id="PMC2009866.nxml.gz-28" start="1220">associated</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-29" type="identity">
+         <class id="subject_scope"/>
+         <span end="1458" id="PMC2009866.nxml.gz-29" start="1340">The two factors each had an independent effect, and were more marked for oesophageal cancer than for the other tumours</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-30" type="identity">
+         <class id="factors"/>
+         <span end="1355" id="PMC2009866.nxml.gz-30" start="1348">factors</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-31" type="identity">
+         <class id="independent"/>
+         <span end="1379" id="PMC2009866.nxml.gz-31" start="1368">independent</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC2009866.nxml.gz-32" type="identity">
+         <class id="effect"/>
+         <span end="1386" id="PMC2009866.nxml.gz-32" start="1380">effect</span>
+      </annotation>
+   </document>
+</knowtator-project>

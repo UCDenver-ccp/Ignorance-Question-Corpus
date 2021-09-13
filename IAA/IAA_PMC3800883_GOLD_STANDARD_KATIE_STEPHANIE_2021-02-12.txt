@@ -1,0 +1,26 @@
+ARTICLE:	PMC3800883
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator GOLD_STANDARD:	5
+total annotations for annotator KATIE:	3
+total annotations for annotator STEPHANIE:	5
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_prediction	7	3	0	0	4	0.43	0.43
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator GOLD_STANDARD:	1
+total annotations for annotator KATIE:	3
+total annotations for annotator STEPHANIE:	4
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	6	1	0	0	5	0.17	0.17
+
+CURRENT IGNORANCE TYPE:	subject_scope
+total annotations for annotator GOLD_STANDARD:	6
+total annotations for annotator KATIE:	8
+total annotations for annotator STEPHANIE:	10
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+subject_scope	14	2	4	0	8	0.14	0.43
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	44	6	0	0	38	0.14	0.14
+subject_scope	14	2	4	0	8	0.14	0.43

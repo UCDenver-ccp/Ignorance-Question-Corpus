@@ -1,0 +1,83 @@
+ARTICLE:	PMC3075531
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator KATIE:	49
+total annotations for annotator STEPHANIE:	46
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	51	44	0	0	7	0.86	0.86
+
+CURRENT IGNORANCE TYPE:	alternative_options_controversy
+total annotations for annotator KATIE:	24
+total annotations for annotator STEPHANIE:	20
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options_controversy	29	15	0	0	14	0.52	0.52
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator KATIE:	10
+total annotations for annotator STEPHANIE:	7
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	11	6	0	0	5	0.55	0.55
+
+CURRENT IGNORANCE TYPE:	important_consideration
+total annotations for annotator KATIE:	20
+total annotations for annotator STEPHANIE:	16
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+important_consideration	23	13	0	0	10	0.57	0.57
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator KATIE:	22
+total annotations for annotator STEPHANIE:	20
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+probable_understanding	24	18	0	0	6	0.75	0.75
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator KATIE:	8
+total annotations for annotator STEPHANIE:	7
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_prediction	9	6	0	0	3	0.67	0.67
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator KATIE:	1
+total annotations for annotator STEPHANIE:	5
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	5	1	0	0	4	0.20	0.20
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator KATIE:	15
+total annotations for annotator STEPHANIE:	12
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	17	10	0	0	7	0.59	0.59
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator KATIE:	2
+total annotations for annotator STEPHANIE:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	3	2	0	0	1	0.67	0.67
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator KATIE:	9
+total annotations for annotator STEPHANIE:	8
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	11	6	0	0	5	0.55	0.55
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator KATIE:	72
+total annotations for annotator STEPHANIE:	74
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	83	63	0	0	20	0.76	0.76
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator KATIE:	6
+total annotations for annotator STEPHANIE:	6
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+full_unknown	6	6	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	subject_scope
+total annotations for annotator KATIE:	70
+total annotations for annotator STEPHANIE:	67
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+subject_scope	74	58	5	0	11	0.78	0.85
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	269	190	0	4	75	0.71	0.72
+subject_scope	74	58	5	0	11	0.78	0.85

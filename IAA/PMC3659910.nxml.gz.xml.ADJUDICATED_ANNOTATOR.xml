@@ -1,0 +1,2968 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC3659910.nxml.gz" text-file="PMC3659910.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="106" id="PMC3659910.nxml.gz-1" start="54">Vitamin D deficiency is a preventable health problem</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-2" type="identity">
+         <class id="important_consideration"/>
+         <span end="91" id="PMC3659910.nxml.gz-2" start="80">preventable</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-3" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="91" id="PMC3659910.nxml.gz-3" start="80">preventable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-4" type="identity">
+         <class id="important_consideration"/>
+         <span end="106" id="PMC3659910.nxml.gz-4" start="99">problem</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-5" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="206" id="PMC3659910.nxml.gz-5" start="198">Research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-6" type="identity">
+         <class id="subject_scope"/>
+         <span end="308" id="PMC3659910.nxml.gz-6" start="198">Research indicates that adequate vitamin D intake in pregnancy is optimal for maternal, fetal and child health</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-7" type="identity">
+         <class id="indicates"/>
+         <span end="216" id="PMC3659910.nxml.gz-7" start="207">indicates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-8" type="identity">
+         <class id="optimal"/>
+         <span end="271" id="PMC3659910.nxml.gz-8" start="264">optimal</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-9" type="identity">
+         <class id="important_consideration"/>
+         <span end="434" id="PMC3659910.nxml.gz-9" start="422">Consequences</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-10" type="identity">
+         <class id="subject_scope"/>
+         <span end="550" id="PMC3659910.nxml.gz-10" start="422">Consequences in newborns are low birth weight, neonatal rickets, a risk of neonatal hypocalcaemia, asthma and/or type 1 diabetes</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-11" type="identity">
+         <class id="risk"/>
+         <span end="493" id="PMC3659910.nxml.gz-11" start="489">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-12" type="identity">
+         <class id="subject_scope"/>
+         <span end="702" id="PMC3659910.nxml.gz-12" start="552">Vitamin D deficiency during pregnancy is the origin for a host of future perils for the child, especially effect on neurodevelopment and immune system</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-13" type="identity">
+         <class id="future_prediction"/>
+         <span end="631" id="PMC3659910.nxml.gz-13" start="618">future perils</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-14" type="identity">
+         <class id="important_consideration"/>
+         <span end="657" id="PMC3659910.nxml.gz-14" start="647">especially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-15" type="identity">
+         <class id="effect"/>
+         <span end="664" id="PMC3659910.nxml.gz-15" start="658">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-16" type="identity">
+         <class id="subject_scope"/>
+         <span end="791" id="PMC3659910.nxml.gz-16" start="704">Some of this damage done by maternal Vitamin D deficiency gets evident after many years</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-17" type="identity">
+         <class id="probable_understanding"/>
+         <span end="774" id="PMC3659910.nxml.gz-17" start="767">evident</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-18" type="identity">
+         <class id="therefore"/>
+         <span end="802" id="PMC3659910.nxml.gz-18" start="793">Therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-19" type="identity">
+         <class id="subject_scope"/>
+         <span end="872" id="PMC3659910.nxml.gz-19" start="793">Therefore, prevention of vitamin D deficiency among pregnant women is essential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-20" type="identity">
+         <class id="prevention"/>
+         <span end="814" id="PMC3659910.nxml.gz-20" start="804">prevention</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-21" type="identity">
+         <class id="essential"/>
+         <span end="872" id="PMC3659910.nxml.gz-21" start="863">essential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-22" type="identity">
+         <class id="subject_scope"/>
+         <span end="1030" id="PMC3659910.nxml.gz-22" start="874">The currently recommended supplementation amount of vitamin D is not sufficient to maintain a value of 25 hydroxy vitamin D above 30 ng/ml, during pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-23" type="identity">
+         <class id="currently"/>
+         <span end="887" id="PMC3659910.nxml.gz-23" start="878">currently</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3659910.nxml.gz-24" type="identity">
+         <class id="recommended"/>
+         <span end="899" id="PMC3659910.nxml.gz-24" start="888">recommended</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-25" type="identity">
+         <class id="important_consideration"/>
+         <span end="953" id="PMC3659910.nxml.gz-25" start="939">not sufficient</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-26" type="identity">
+         <class id="studies_are_underway"/>
+         <span end="1052" id="PMC3659910.nxml.gz-26" start="1032">Studies are underway</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-27" type="identity">
+         <class id="subject_scope"/>
+         <span end="1124" id="PMC3659910.nxml.gz-27" start="1032">Studies are underway to establish the recommended daily doses of vitamin D in pregnant women</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3659910.nxml.gz-28" type="identity">
+         <class id="recommended"/>
+         <span end="1081" id="PMC3659910.nxml.gz-28" start="1070">recommended</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-29" type="identity">
+         <class id="subject_scope"/>
+         <span end="1334" id="PMC3659910.nxml.gz-29" start="1126">Clearly, further investigation is required into the effects of vitamin D, of vitamin D supplementation, and of vitamin D analogs for improvement in human health generally and mothers and children specifically</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-30" type="identity">
+         <class id="further_investigation"/>
+         <span end="1156" id="PMC3659910.nxml.gz-30" start="1135">further investigation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-31" type="identity">
+         <class id="required"/>
+         <span end="1168" id="PMC3659910.nxml.gz-31" start="1160">required</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-32" type="identity">
+         <class id="effects"/>
+         <span end="1185" id="PMC3659910.nxml.gz-32" start="1178">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-33" type="identity">
+         <class id="future_work"/>
+         <span end="1270" id="PMC3659910.nxml.gz-33" start="1259">improvement</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-34" type="identity">
+         <class id="subject_scope"/>
+         <span end="1492" id="PMC3659910.nxml.gz-34" start="1336">This review discusses vitamin D metabolism, dietary requirements and recommendations and implications of vitamin D deficiency during pregnancy and lactation</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-35" type="identity">
+         <class id="this...review"/>
+         <span end="1347" id="PMC3659910.nxml.gz-35" start="1336">This review</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-36" type="identity">
+         <class id="requirements"/>
+         <span end="1400" id="PMC3659910.nxml.gz-36" start="1388">requirements</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3659910.nxml.gz-37" type="identity">
+         <class id="recommendations"/>
+         <span end="1420" id="PMC3659910.nxml.gz-37" start="1405">recommendations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-38" type="identity">
+         <class id="implications"/>
+         <span end="1437" id="PMC3659910.nxml.gz-38" start="1425">implications</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-39" type="identity">
+         <class id="subject_scope"/>
+         <span end="1581" id="PMC3659910.nxml.gz-39" start="1508">Vitamin D has been a hot topic in the medical world for the past 10 years</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-40" type="identity">
+         <class id="important_consideration"/>
+         <span end="1538" id="PMC3659910.nxml.gz-40" start="1529">hot topic</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-41" type="identity">
+         <class id="important_consideration"/>
+         <span end="1591" id="PMC3659910.nxml.gz-41" start="1583">Concerns</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-42" type="identity">
+         <class id="subject_scope"/>
+         <span end="1706" id="PMC3659910.nxml.gz-42" start="1583">Concerns about vitamin D have resurfaced in medical and scientific literature owing to its multiple effects on human health</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-43" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="1623" id="PMC3659910.nxml.gz-43" start="1613">resurfaced</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-44" type="identity">
+         <class id="probable_understanding"/>
+         <span end="1669" id="PMC3659910.nxml.gz-44" start="1661">owing to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-45" type="identity">
+         <class id="effects"/>
+         <span end="1690" id="PMC3659910.nxml.gz-45" start="1683">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-46" type="identity">
+         <class id="subject_scope"/>
+         <span end="1798" id="PMC3659910.nxml.gz-46" start="1708">We are beginning to learn that it plays a much wider role in health and disease prevention</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-47" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1733" id="PMC3659910.nxml.gz-47" start="1715">beginning to learn</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-48" type="identity">
+         <class id="role"/>
+         <span end="1765" id="PMC3659910.nxml.gz-48" start="1761">role</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-49" type="identity">
+         <class id="prevention"/>
+         <span end="1798" id="PMC3659910.nxml.gz-49" start="1788">prevention</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-50" type="identity">
+         <class id="subject_scope"/>
+         <span end="1964" id="PMC3659910.nxml.gz-50" start="1800">The classical and non-classical pathways of this hormone affect calcium metabolism, the immune system, cell proliferation and differentiation, infection, and cancer</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-51" type="identity">
+         <class id="affect"/>
+         <span end="1863" id="PMC3659910.nxml.gz-51" start="1857">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-52" type="identity">
+         <class id="subject_scope"/>
+         <span end="2123" id="PMC3659910.nxml.gz-52" start="1969">The question scientists have been working on for almost a decade is why and how vitamin D is affecting conception, pregnancy and the health of the newborn</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-53" type="identity">
+         <class id="question"/>
+         <span end="1981" id="PMC3659910.nxml.gz-53" start="1973">question</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-54" type="identity">
+         <class id="have_been"/>
+         <span end="2002" id="PMC3659910.nxml.gz-54" start="1993">have been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-55" type="identity">
+         <class id="why"/>
+         <span end="2040" id="PMC3659910.nxml.gz-55" start="2037">why</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-56" type="identity">
+         <class id="how"/>
+         <span end="2048" id="PMC3659910.nxml.gz-56" start="2045">how</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-57" type="identity">
+         <class id="affecting"/>
+         <span end="2071" id="PMC3659910.nxml.gz-57" start="2062">affecting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-58" type="identity">
+         <class id="subject_scope"/>
+         <span end="2276" id="PMC3659910.nxml.gz-58" start="2128">Also the media has been taking increasing interest, and public expectations have been raised regarding the enhanced roles for vitamin D in pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-59" type="identity">
+         <class id="important_consideration"/>
+         <span end="2178" id="PMC3659910.nxml.gz-59" start="2170">interest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-60" type="identity">
+         <class id="future_prediction"/>
+         <span end="2203" id="PMC3659910.nxml.gz-60" start="2191">expectations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-61" type="identity">
+         <class id="explicit_question"/>
+         <span end="2220" id="PMC3659910.nxml.gz-61" start="2214">raised</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-62" type="identity">
+         <class id="roles"/>
+         <span end="2249" id="PMC3659910.nxml.gz-62" start="2244">roles</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-63" type="identity">
+         <class id="subject_scope"/>
+         <span end="2407" id="PMC3659910.nxml.gz-63" start="2278">It is an unrecognized epidemic common among children, adults and pregnant women throughout the world, across ethnicity and season</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-64" type="identity">
+         <class id="important_consideration"/>
+         <span end="2308" id="PMC3659910.nxml.gz-64" start="2300">epidemic</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-65" type="identity">
+         <class id="common"/>
+         <span end="2315" id="PMC3659910.nxml.gz-65" start="2309">common</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-66" type="identity">
+         <class id="subject_scope"/>
+         <span end="2521" id="PMC3659910.nxml.gz-66" start="2412">There are increasing studies worldwide reporting poor vitamin D status, including those in tropical countries</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-67" type="identity">
+         <class id="studies"/>
+         <span end="2440" id="PMC3659910.nxml.gz-67" start="2433">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-68" type="identity">
+         <class id="important_consideration"/>
+         <span end="2465" id="PMC3659910.nxml.gz-68" start="2461">poor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-69" type="identity">
+         <class id="subject_scope"/>
+         <span end="2604" id="PMC3659910.nxml.gz-69" start="2523">The prevalence of vitamin D deficiency has been reported to range from 15% to 80%</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-70" type="identity">
+         <class id="prevalence"/>
+         <span end="2537" id="PMC3659910.nxml.gz-70" start="2527">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-71" type="identity">
+         <class id="reported"/>
+         <span end="2579" id="PMC3659910.nxml.gz-71" start="2571">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-72" type="identity">
+         <class id="subject_scope"/>
+         <span end="2680" id="PMC3659910.nxml.gz-72" start="2610">It is now recognized that everyone is at risk for vitamin D deficiency</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-73" type="identity">
+         <class id="recognized"/>
+         <span end="2630" id="PMC3659910.nxml.gz-73" start="2620">recognized</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-74" type="identity">
+         <class id="at_risk"/>
+         <span end="2655" id="PMC3659910.nxml.gz-74" start="2648">at risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-75" type="identity">
+         <class id="subject_scope"/>
+         <span end="2998" id="PMC3659910.nxml.gz-75" start="2820">Modern day cosmetology and our urbanization has eclipsed the sunlight and it is impossible is to fulfill daily intake via diet as a large amount of vitamin D needs to be consumed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-76" type="identity">
+         <class id="impossible"/>
+         <span end="2910" id="PMC3659910.nxml.gz-76" start="2900">impossible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-77" type="identity">
+         <class id="as"/>
+         <span end="2949" id="PMC3659910.nxml.gz-77" start="2947">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-78" type="identity">
+         <class id="important_consideration"/>
+         <span end="2983" id="PMC3659910.nxml.gz-78" start="2978">needs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-79" type="identity">
+         <class id="subject_scope"/>
+         <span end="3117" id="PMC3659910.nxml.gz-79" start="3000">Vitamin D deficiency is prevalent in India, a finding that is unexpected in a tropical country with abundant sunshine</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-80" type="identity">
+         <class id="prevalent"/>
+         <span end="3033" id="PMC3659910.nxml.gz-80" start="3024">prevalent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-81" type="identity">
+         <class id="finding"/>
+         <span end="3053" id="PMC3659910.nxml.gz-81" start="3046">finding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-82" type="identity">
+         <class id="unexpected"/>
+         <span end="3072" id="PMC3659910.nxml.gz-82" start="3062">unexpected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-83" type="identity">
+         <class id="subject_scope"/>
+         <span end="3222" id="PMC3659910.nxml.gz-83" start="3119">There are few data from India about the prevalence of hypovitaminosis D in pregnancy and in the newborn</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-84" type="identity">
+         <class id="few_data"/>
+         <span end="3137" id="PMC3659910.nxml.gz-84" start="3129">few data</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-85" type="identity">
+         <class id="prevalence"/>
+         <span end="3169" id="PMC3659910.nxml.gz-85" start="3159">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-86" type="identity">
+         <class id="subject_scope"/>
+         <span end="3372" id="PMC3659910.nxml.gz-86" start="3227">The increasing prevalence of disorders linked to vitamin D deficiency is reflected in the several hundred children with rickets treated each year</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-87" type="identity">
+         <class id="prevalence"/>
+         <span end="3252" id="PMC3659910.nxml.gz-87" start="3242">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-88" type="identity">
+         <class id="linked"/>
+         <span end="3272" id="PMC3659910.nxml.gz-88" start="3266">linked</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-89" type="identity">
+         <class id="reflected"/>
+         <span end="3309" id="PMC3659910.nxml.gz-89" start="3300">reflected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-90" type="identity">
+         <class id="subject_scope"/>
+         <span end="3806" id="PMC3659910.nxml.gz-90" start="3683">Low dietary calcium intake and 25(OH) D concentrations were associated with deleterious effects on bone mineral homeostasis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-91" type="identity">
+         <class id="associated"/>
+         <span end="3753" id="PMC3659910.nxml.gz-91" start="3743">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-92" type="identity">
+         <class id="effects"/>
+         <span end="3778" id="PMC3659910.nxml.gz-92" start="3771">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-93" type="identity">
+         <class id="subject_scope"/>
+         <span end="3971" id="PMC3659910.nxml.gz-93" start="3808">In the last 3 years, an increasing amount of research suggests that some of the damage done by Vitamin D deficiency is done in-utero, while the fetus is developing</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-94" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="3849" id="PMC3659910.nxml.gz-94" start="3832">increasing amount</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-95" type="identity">
+         <class id="suggests"/>
+         <span end="3870" id="PMC3659910.nxml.gz-95" start="3862">suggests</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-96" type="identity">
+         <class id="some"/>
+         <span end="3880" id="PMC3659910.nxml.gz-96" start="3876">some</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-97" type="identity">
+         <class id="subject_scope"/>
+         <span end="4079" id="PMC3659910.nxml.gz-97" start="3973">Much of that damage may be permanent, that is, it cannot be fully reversed by taking Vitamin D after birth</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-98" type="identity">
+         <class id="may_be"/>
+         <span end="3999" id="PMC3659910.nxml.gz-98" start="3993">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-99" type="identity">
+         <class id="cannot_be"/>
+         <span end="4032" id="PMC3659910.nxml.gz-99" start="4023">cannot be</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-100" type="identity">
+         <class id="subject_scope"/>
+         <span end="4125" id="PMC3659910.nxml.gz-100" start="4102">Vitamin D is a misnomer</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-101" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="4125" id="PMC3659910.nxml.gz-101" start="4117">misnomer</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-102" type="identity">
+         <class id="probable_understanding"/>
+         <span end="4326" id="PMC3659910.nxml.gz-102" start="4319">Because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-103" type="identity">
+         <class id="subject_scope"/>
+         <span end="4454" id="PMC3659910.nxml.gz-103" start="4319">Because of its steroid structure and function, vitamin D plays an important role in priming cells for other hormones to do their action</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-104" type="identity">
+         <class id="important"/>
+         <span end="4394" id="PMC3659910.nxml.gz-104" start="4385">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-105" type="identity">
+         <class id="role"/>
+         <span end="4399" id="PMC3659910.nxml.gz-105" start="4395">role</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-106" type="identity">
+         <class id="subject_scope"/>
+         <span end="4643" id="PMC3659910.nxml.gz-106" start="4459">Vitamin D itself is devoid of any biological activity, but enzymatic conversion to 1α,25-dihydroxyvitamin D [1,25(OH) 2D] generates the hormonal form with diverse biological activities</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-107" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="4517" id="PMC3659910.nxml.gz-107" start="4514">but</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-108" type="identity">
+         <class id="probable_understanding"/>
+         <span end="4517" id="PMC3659910.nxml.gz-108" start="4514">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-109" type="identity">
+         <class id="subject_scope"/>
+         <span end="4789" id="PMC3659910.nxml.gz-109" start="4648">The active form of vitamin D (1,25-dihydroxyvitamin D3, 1,25[OH] 2D3) has well-established effects on bone metabolism and mineral homeostasis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-110" type="identity">
+         <class id="well-established"/>
+         <span end="4738" id="PMC3659910.nxml.gz-110" start="4722">well-established</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-111" type="identity">
+         <class id="effects"/>
+         <span end="4746" id="PMC3659910.nxml.gz-111" start="4739">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-112" type="identity">
+         <class id="subject_scope"/>
+         <span end="4973" id="PMC3659910.nxml.gz-112" start="4791">However, recently it has become clear that 1,25(OH) 2D3 has potent anti-proliferative and immunomodulatory actions that are not immediately linked to its role as a skeletal regulator</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-113" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="4798" id="PMC3659910.nxml.gz-113" start="4791">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-114" type="identity">
+         <class id="recently"/>
+         <span end="4808" id="PMC3659910.nxml.gz-114" start="4800">recently</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-115" type="identity">
+         <class id="probable_understanding"/>
+         <span end="4828" id="PMC3659910.nxml.gz-115" start="4816">become clear</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-116" type="identity">
+         <class id="linked"/>
+         <span end="4937" id="PMC3659910.nxml.gz-116" start="4931">linked</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-117" type="identity">
+         <class id="role"/>
+         <span end="4949" id="PMC3659910.nxml.gz-117" start="4945">role</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-118" type="identity">
+         <class id="subject_scope"/>
+         <span end="5127" id="PMC3659910.nxml.gz-118" start="4978">The actions of 1,25(OH) 2D are mediated through specific, high affinity binding to the vitamin D receptor (VDR), which is present in multiple tissues</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-119" type="identity">
+         <class id="mediated"/>
+         <span end="5017" id="PMC3659910.nxml.gz-119" start="5009">mediated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-120" type="identity">
+         <class id="approximately"/>
+         <span end="5390" id="PMC3659910.nxml.gz-120" start="5377">Approximately</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-121" type="identity">
+         <class id="subject_scope"/>
+         <span end="5527" id="PMC3659910.nxml.gz-121" start="5377">Approximately 25-30 g of calcium are transferred to the fetal skeleton by the end of pregnancy, most of which is transferred during the last trimester</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-122" type="identity">
+         <class id="subject_scope"/>
+         <span end="5697" id="PMC3659910.nxml.gz-122" start="5529">The requirement for vitamin D in maintaining normal calcium metabolism throughout pregnancy and lactation in mothers, fetuses and newborn infants is still controversial</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-123" type="identity">
+         <class id="requirement"/>
+         <span end="5544" id="PMC3659910.nxml.gz-123" start="5533">requirement</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-124" type="identity">
+         <class id="still"/>
+         <span end="5683" id="PMC3659910.nxml.gz-124" start="5678">still</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-125" type="identity">
+         <class id="controversial"/>
+         <span end="5697" id="PMC3659910.nxml.gz-125" start="5684">controversial</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-126" type="identity">
+         <class id="it_is_clear"/>
+         <span end="5710" id="PMC3659910.nxml.gz-126" start="5699">It is clear</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-127" type="identity">
+         <class id="subject_scope"/>
+         <span end="5804" id="PMC3659910.nxml.gz-127" start="5699">It is clear, however, that vitamin D requirements are increased in mothers during pregnancy and lactation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-128" type="identity">
+         <class id="however"/>
+         <span end="5719" id="PMC3659910.nxml.gz-128" start="5712">however</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-129" type="identity">
+         <class id="requirements"/>
+         <span end="5748" id="PMC3659910.nxml.gz-129" start="5736">requirements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-130" type="identity">
+         <class id="subject_scope"/>
+         <span end="6080" id="PMC3659910.nxml.gz-130" start="5990">The synthesis, metabolism and function of vitamin D compounds during pregnancy are complex</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-131" type="identity">
+         <class id="complex"/>
+         <span end="6080" id="PMC3659910.nxml.gz-131" start="6073">complex</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-132" type="identity">
+         <class id="subject_scope"/>
+         <span end="6427" id="PMC3659910.nxml.gz-132" start="6195">Data suggest that 1,25(OH) 2D aids implantation and maintains normal pregnancy, supports fetal growth through delivery of calcium, controls secretion of multiple placental hormones, and limits production of proinflammatory cytokines</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-133" type="identity">
+         <class id="suggest"/>
+         <span end="6207" id="PMC3659910.nxml.gz-133" start="6200">suggest</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-134" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="6229" id="PMC3659910.nxml.gz-134" start="6225">aids</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-135" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="6283" id="PMC3659910.nxml.gz-135" start="6275">supports</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-136" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="6334" id="PMC3659910.nxml.gz-136" start="6326">controls</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-137" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="6387" id="PMC3659910.nxml.gz-137" start="6381">limits</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-138" type="identity">
+         <class id="notably"/>
+         <span end="6436" id="PMC3659910.nxml.gz-138" start="6429">Notably</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-139" type="identity">
+         <class id="subject_scope"/>
+         <span end="6560" id="PMC3659910.nxml.gz-139" start="6429">Notably, the 24,25(OH) 2D synthesized by the placenta accumulates in bone and may be involved in ossification of the fetal skeleton</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-140" type="identity">
+         <class id="may_be"/>
+         <span end="6513" id="PMC3659910.nxml.gz-140" start="6507">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-141" type="identity">
+         <class id="involved"/>
+         <span end="6522" id="PMC3659910.nxml.gz-141" start="6514">involved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-142" type="identity">
+         <class id="subject_scope"/>
+         <span end="6883" id="PMC3659910.nxml.gz-142" start="6647">Although transplacental transport has not been studied in humans, vitamin D passage from the mother to the fetus would be facilitated by serum concentrations of 1,25(OH) 2D being higher in the maternal compared to the fetal circulations</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-143" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="6655" id="PMC3659910.nxml.gz-143" start="6647">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-144" type="identity">
+         <class id="not_been_studied"/>
+         <span end="6701" id="PMC3659910.nxml.gz-144" start="6685">not been studied</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-145" type="identity">
+         <class id="would_be"/>
+         <span end="6768" id="PMC3659910.nxml.gz-145" start="6760">would be</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-146" type="identity">
+         <class id="roles"/>
+         <span end="6960" id="PMC3659910.nxml.gz-146" start="6955">Roles</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-147" type="identity">
+         <class id="subject_scope"/>
+         <span end="7273" id="PMC3659910.nxml.gz-147" start="6955">Roles of vitamin D are to maintain skeletal calcium balance by promoting calcium absorption in the intestines, promoting bone resobption by increasing osteoclast number, maintaining calcium and phosphate levels for bone formation, and allowing proper functioning of parathyroid hormone to maintain serum calcium levels</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-148" type="identity">
+         <class id="subject_scope"/>
+         <span end="7473" id="PMC3659910.nxml.gz-148" start="7279">Vitamin D deficiency can result in lower bone mineral density and an increased risk of bone loss (osteoporosis) or bone fracture because a lack of vitamin D alters mineral metabolism in the body</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-149" type="identity">
+         <class id="can"/>
+         <span end="7303" id="PMC3659910.nxml.gz-149" start="7300">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-150" type="identity">
+         <class id="increased_risk"/>
+         <span end="7362" id="PMC3659910.nxml.gz-150" start="7348">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-151" type="identity">
+         <class id="probable_understanding"/>
+         <span end="7415" id="PMC3659910.nxml.gz-151" start="7408">because</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3659910.nxml.gz-152" type="identity">
+         <class id="subject_scope"/>
+         <span end="7666" id="PMC3659910.nxml.gz-152" start="7497">The most important source of vitamin D is the skin's synthesis of the vitamin from sunlight. This vitamin is photosynthesized by ultraviolet-B radiation in the epidermis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-153" type="identity">
+         <class id="important"/>
+         <span end="7515" id="PMC3659910.nxml.gz-153" start="7506">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-154" type="identity">
+         <class id="subject_scope"/>
+         <span end="7786" id="PMC3659910.nxml.gz-154" start="7672">Use of sun blocks, increased coverage of clothing and time spent indoors increase the risk of Vitamin D deficiency</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-155" type="identity">
+         <class id="risk"/>
+         <span end="7762" id="PMC3659910.nxml.gz-155" start="7758">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-156" type="identity">
+         <class id="subject_scope"/>
+         <span end="8116" id="PMC3659910.nxml.gz-156" start="7788">It has been estimated that exposure to sunlight for usually no more than 5-15 min/d between 10 AM and 3 PM, in the spring, summer, and fall at latitudes above and below 35° (and all year near the equator) to exposed parts of the body involving “arms, legs and face “provides the body with its required 1000 IU of cholecalciferol</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-157" type="identity">
+         <class id="estimated"/>
+         <span end="7809" id="PMC3659910.nxml.gz-157" start="7800">estimated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-158" type="identity">
+         <class id="usually"/>
+         <span end="7847" id="PMC3659910.nxml.gz-158" start="7840">usually</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-159" type="identity">
+         <class id="required"/>
+         <span end="8089" id="PMC3659910.nxml.gz-159" start="8081">required</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-160" type="identity">
+         <class id="subject_scope"/>
+         <span end="8165" id="PMC3659910.nxml.gz-160" start="8118">Sunshine in not adequate in many parts of world</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-161" type="identity">
+         <class id="important_consideration"/>
+         <span end="8142" id="PMC3659910.nxml.gz-161" start="8130">not adequate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-162" type="identity">
+         <class id="subject_scope"/>
+         <span end="8518" id="PMC3659910.nxml.gz-162" start="8292">At present, the number and variety of vitamin D fortified foods available on the market differs significantly between countries and is attributed to the country-specific policies on food fortification which are not yet unified</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-163" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="8302" id="PMC3659910.nxml.gz-163" start="8292">At present</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-164" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="8387" id="PMC3659910.nxml.gz-164" start="8380">differs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-165" type="identity">
+         <class id="attributed"/>
+         <span end="8437" id="PMC3659910.nxml.gz-165" start="8427">attributed</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-166" type="identity">
+         <class id="future_work"/>
+         <span end="8510" id="PMC3659910.nxml.gz-166" start="8503">not yet</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-167" type="identity">
+         <class id="subject_scope"/>
+         <span end="8653" id="PMC3659910.nxml.gz-167" start="8520">Vitamin D is present in a small number of foods, although, for an average person food will only supply about 10% of the amount needed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-168" type="identity">
+         <class id="although"/>
+         <span end="8577" id="PMC3659910.nxml.gz-168" start="8569">although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-169" type="identity">
+         <class id="will"/>
+         <span end="8610" id="PMC3659910.nxml.gz-169" start="8606">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-170" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="8615" id="PMC3659910.nxml.gz-170" start="8611">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-171" type="identity">
+         <class id="about"/>
+         <span end="8628" id="PMC3659910.nxml.gz-171" start="8623">about</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-172" type="identity">
+         <class id="important_consideration"/>
+         <span end="8653" id="PMC3659910.nxml.gz-172" start="8647">needed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-173" type="identity">
+         <class id="subject_scope"/>
+         <span end="9140" id="PMC3659910.nxml.gz-173" start="8921">Vitamin D is a unique nutrient because its requirement can be met by both endogenous production from sunlight as well as exogenous dietary sources, which complicates determining the body's daily nutritional requirements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-174" type="identity">
+         <class id="probable_understanding"/>
+         <span end="8959" id="PMC3659910.nxml.gz-174" start="8952">because</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3659910.nxml.gz-175" type="identity">
+         <class id="important_consideration"/>
+         <span end="8975" id="PMC3659910.nxml.gz-175" start="8964">requirement</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-176" type="identity">
+         <class id="complicates"/>
+         <span end="9086" id="PMC3659910.nxml.gz-176" start="9075">complicates</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3659910.nxml.gz-177" type="identity">
+         <class id="important_consideration"/>
+         <span end="9140" id="PMC3659910.nxml.gz-177" start="9128">requirements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-178" type="identity">
+         <class id="subject_scope"/>
+         <span end="9458" id="PMC3659910.nxml.gz-178" start="9142">Methods are currently available to quantify the contribution of endogenous vitamin D synthesis resulting from sun exposure, but serious limitations remain in accurately estimating dietary vitamin D intake because of the incompleteness of nutrient databases for both vitamin D-fortified food and vitamin D supplements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-179" type="identity">
+         <class id="currently"/>
+         <span end="9163" id="PMC3659910.nxml.gz-179" start="9154">currently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-180" type="identity">
+         <class id="contribution"/>
+         <span end="9202" id="PMC3659910.nxml.gz-180" start="9190">contribution</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-181" type="identity">
+         <class id="problem_complication"/>
+         <span end="9269" id="PMC3659910.nxml.gz-181" start="9266">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-182" type="identity">
+         <class id="serious"/>
+         <span end="9277" id="PMC3659910.nxml.gz-182" start="9270">serious</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-183" type="identity">
+         <class id="problem_complication"/>
+         <span end="9289" id="PMC3659910.nxml.gz-183" start="9278">limitations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-184" type="identity">
+         <class id="remain"/>
+         <span end="9296" id="PMC3659910.nxml.gz-184" start="9290">remain</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-185" type="identity">
+         <class id="accurately"/>
+         <span end="9310" id="PMC3659910.nxml.gz-185" start="9300">accurately</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-186" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="9321" id="PMC3659910.nxml.gz-186" start="9311">estimating</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-187" type="identity">
+         <class id="because"/>
+         <span end="9354" id="PMC3659910.nxml.gz-187" start="9347">because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-188" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="9376" id="PMC3659910.nxml.gz-188" start="9362">incompleteness</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-189" type="identity">
+         <class id="thus"/>
+         <span end="9464" id="PMC3659910.nxml.gz-189" start="9460">Thus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-190" type="identity">
+         <class id="subject_scope"/>
+         <span end="9655" id="PMC3659910.nxml.gz-190" start="9460">Thus, increasing vitamin D intake from vitamin D fortified foods, and vitamin D supplements, in combination with sensible sun exposure, maximize a person's vitamin D status to promote good health</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-191" type="identity">
+         <class id="sensible"/>
+         <span end="9581" id="PMC3659910.nxml.gz-191" start="9573">sensible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-192" type="identity">
+         <class id="subject_scope"/>
+         <span end="9853" id="PMC3659910.nxml.gz-192" start="9657">Women with darker skin Fitzpatrick Class 6 are more prone to Vitamin D deficiency as they need four to ten times sunlight than Fitzpatrick Class 1-4 skinned people for adequate Vitamin D synthesis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-193" type="identity">
+         <class id="prone"/>
+         <span end="9714" id="PMC3659910.nxml.gz-193" start="9709">prone</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-194" type="identity">
+         <class id="as"/>
+         <span end="9741" id="PMC3659910.nxml.gz-194" start="9739">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-195" type="identity">
+         <class id="important_consideration"/>
+         <span end="9751" id="PMC3659910.nxml.gz-195" start="9747">need</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-196" type="identity">
+         <class id="thus"/>
+         <span end="9863" id="PMC3659910.nxml.gz-196" start="9859">Thus</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3659910.nxml.gz-197" type="identity">
+         <class id="subject_scope"/>
+         <span end="9994" id="PMC3659910.nxml.gz-197" start="9859">Thus, Daily vitamin requirement varies with ethnicity, and this is relevant in case of Indian population.
+Obesity is a growing epidemic</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-198" type="identity">
+         <class id="requirement"/>
+         <span end="9890" id="PMC3659910.nxml.gz-198" start="9879">requirement</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-199" type="identity">
+         <class id="difficult_task"/>
+         <span end="9897" id="PMC3659910.nxml.gz-199" start="9891">varies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-200" type="identity">
+         <class id="relevant"/>
+         <span end="9934" id="PMC3659910.nxml.gz-200" start="9926">relevant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-201" type="identity">
+         <class id="important_consideration"/>
+         <span end="9985" id="PMC3659910.nxml.gz-201" start="9978">growing</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-202" type="identity">
+         <class id="important_consideration"/>
+         <span end="9994" id="PMC3659910.nxml.gz-202" start="9986">epidemic</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-203" type="identity">
+         <class id="subject_scope"/>
+         <span end="10169" id="PMC3659910.nxml.gz-203" start="9996">Pre-pregnancy obesity is also associated with significant increases in the odds of maternal and neonatal vitamin D deficiency, independent of other factors such as ethnicity</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-204" type="identity">
+         <class id="associated"/>
+         <span end="10036" id="PMC3659910.nxml.gz-204" start="10026">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-205" type="identity">
+         <class id="independent"/>
+         <span end="10134" id="PMC3659910.nxml.gz-205" start="10123">independent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-206" type="identity">
+         <class id="factors"/>
+         <span end="10151" id="PMC3659910.nxml.gz-206" start="10144">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-207" type="identity">
+         <class id="subject_scope"/>
+         <span end="10294" id="PMC3659910.nxml.gz-207" start="10175">This deficiency is because body fat stores much of the vitamin D made in the skin, making it less available to the body</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-208" type="identity">
+         <class id="probable_understanding"/>
+         <span end="10201" id="PMC3659910.nxml.gz-208" start="10194">because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-209" type="identity">
+         <class id="subject_scope"/>
+         <span end="10695" id="PMC3659910.nxml.gz-209" start="10458">Women who have intestinal malabsorption diseases like celiac disease and Crohn's disease or partial removal or bypass of the stomach or intestines absorb less of both dietary and supplemental vitamin D are at increased risk of deficiency</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-210" type="identity">
+         <class id="increased_risk"/>
+         <span end="10681" id="PMC3659910.nxml.gz-210" start="10667">increased risk</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3659910.nxml.gz-211" type="identity">
+         <class id="subject_scope"/>
+         <span end="10882" id="PMC3659910.nxml.gz-211" start="10707">Hypervitaminosis D is a serious, albeit very rare, condition. There is controversy concerning levels of nutrient intake, and at times the concept that “more is better” emerges</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-212" type="identity">
+         <class id="serious"/>
+         <span end="10738" id="PMC3659910.nxml.gz-212" start="10731">serious</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-213" type="identity">
+         <class id="albeit"/>
+         <span end="10746" id="PMC3659910.nxml.gz-213" start="10740">albeit</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-214" type="identity">
+         <class id="rare"/>
+         <span end="10756" id="PMC3659910.nxml.gz-214" start="10752">rare</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-215" type="identity">
+         <class id="controversy"/>
+         <span end="10789" id="PMC3659910.nxml.gz-215" start="10778">controversy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-216" type="identity">
+         <class id="the_concept"/>
+         <span end="10852" id="PMC3659910.nxml.gz-216" start="10841">the concept</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-217" type="identity">
+         <class id="emerges"/>
+         <span end="10882" id="PMC3659910.nxml.gz-217" start="10875">emerges</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3659910.nxml.gz-218" type="identity">
+         <class id="subject_scope"/>
+         <span end="11024" id="PMC3659910.nxml.gz-218" start="10884">It is said that serum 25-hydroxyvitamin D concentrations above 75 nmol/L (30 ng/mL) are “not consistently associated with increased benefit”</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-219" type="identity">
+         <class id="probable_understanding"/>
+         <span end="10894" id="PMC3659910.nxml.gz-219" start="10884">It is said</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-220" type="identity">
+         <class id="not_consistently"/>
+         <span end="10989" id="PMC3659910.nxml.gz-220" start="10973">not consistently</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-221" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="10989" id="PMC3659910.nxml.gz-221" start="10973">not consistently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-222" type="identity">
+         <class id="associated"/>
+         <span end="11000" id="PMC3659910.nxml.gz-222" start="10990">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-223" type="identity">
+         <class id="benefit"/>
+         <span end="11023" id="PMC3659910.nxml.gz-223" start="11016">benefit</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-224" type="identity">
+         <class id="subject_scope"/>
+         <span end="11138" id="PMC3659910.nxml.gz-224" start="11026">For vitamin D, there are still underlying questions: How much is the daily requirement and How much is too much?</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-225" type="identity">
+         <class id="still"/>
+         <span end="11056" id="PMC3659910.nxml.gz-225" start="11051">still</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-226" type="identity">
+         <class id="questions"/>
+         <span end="11077" id="PMC3659910.nxml.gz-226" start="11068">questions</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-227" type="identity">
+         <class id="how"/>
+         <span end="11082" id="PMC3659910.nxml.gz-227" start="11079">How</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-228" type="identity">
+         <class id="requirement"/>
+         <span end="11112" id="PMC3659910.nxml.gz-228" start="11101">requirement</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-229" type="identity">
+         <class id="how"/>
+         <span end="11120" id="PMC3659910.nxml.gz-229" start="11117">How</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-230" type="identity">
+         <class id="?"/>
+         <span end="11138" id="PMC3659910.nxml.gz-230" start="11137">?</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-231" type="identity">
+         <class id="new_research"/>
+         <span end="11155" id="PMC3659910.nxml.gz-231" start="11143">New research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-232" type="identity">
+         <class id="subject_scope"/>
+         <span end="11332" id="PMC3659910.nxml.gz-232" start="11143">New research suggests that women who take high doses of vitamin D during pregnancy have a greatly reduced risk of complications, including gestational diabetes, preterm birth, and infection</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-233" type="identity">
+         <class id="suggests"/>
+         <span end="11164" id="PMC3659910.nxml.gz-233" start="11156">suggests</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-234" type="identity">
+         <class id="risk"/>
+         <span end="11253" id="PMC3659910.nxml.gz-234" start="11249">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-235" type="identity">
+         <class id="important_consideration"/>
+         <span end="11270" id="PMC3659910.nxml.gz-235" start="11257">complications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-236" type="identity">
+         <class id="subject_scope"/>
+         <span end="11462" id="PMC3659910.nxml.gz-236" start="11338">This recommendation may be controversial because very high doses of vitamin D have long been believed to cause birth defects</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3659910.nxml.gz-237" type="identity">
+         <class id="recommendation"/>
+         <span end="11357" id="PMC3659910.nxml.gz-237" start="11343">recommendation</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-238" type="identity">
+         <class id="may_be"/>
+         <span end="11364" id="PMC3659910.nxml.gz-238" start="11358">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-239" type="identity">
+         <class id="controversial"/>
+         <span end="11378" id="PMC3659910.nxml.gz-239" start="11365">controversial</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-240" type="identity">
+         <class id="probable_understanding"/>
+         <span end="11386" id="PMC3659910.nxml.gz-240" start="11379">because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-241" type="identity">
+         <class id="have...been"/>
+         <span end="11420" id="PMC3659910.nxml.gz-241" start="11416">have</span>
+         <span end="11430" id="PMC3659910.nxml.gz-242" start="11426">been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-243" type="identity">
+         <class id="believed"/>
+         <span end="11439" id="PMC3659910.nxml.gz-243" start="11431">believed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-244" type="identity">
+         <class id="subject_scope"/>
+         <span end="11585" id="PMC3659910.nxml.gz-244" start="11466">Epidemiological analyses implicated high dietary vitamin D intake during pregnancy results in birth of syndromic babies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-245" type="identity">
+         <class id="implicated"/>
+         <span end="11501" id="PMC3659910.nxml.gz-245" start="11491">implicated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-246" type="identity">
+         <class id="subject_scope"/>
+         <span end="11971" id="PMC3659910.nxml.gz-246" start="11830">Friedman and colleagues developed a model for this disorder in rabbits by administering near-fatal amounts of ergocalciferol during pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-247" type="identity">
+         <class id="0_model"/>
+         <span end="11871" id="PMC3659910.nxml.gz-247" start="11866">model</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-248" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="11985" id="PMC3659910.nxml.gz-248" start="11977">Based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-249" type="identity">
+         <class id="subject_scope"/>
+         <span end="12173" id="PMC3659910.nxml.gz-249" start="11977">Based on these accumulated observations, the uncertain teratogenic potential of high doses of calciferol analogs or of the associated disturbances in mineral homeostasis continues to cause concern</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-250" type="identity">
+         <class id="observations"/>
+         <span end="12016" id="PMC3659910.nxml.gz-250" start="12004">observations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-251" type="identity">
+         <class id="uncertain"/>
+         <span end="12031" id="PMC3659910.nxml.gz-251" start="12022">uncertain</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-252" type="identity">
+         <class id="potential"/>
+         <span end="12053" id="PMC3659910.nxml.gz-252" start="12044">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-253" type="identity">
+         <class id="associated"/>
+         <span end="12110" id="PMC3659910.nxml.gz-253" start="12100">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-254" type="identity">
+         <class id="important_consideration"/>
+         <span end="12173" id="PMC3659910.nxml.gz-254" start="12166">concern</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-255" type="identity">
+         <class id="various...studies"/>
+         <span end="12182" id="PMC3659910.nxml.gz-255" start="12175">Various</span>
+         <span end="12196" id="PMC3659910.nxml.gz-256" start="12189">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-257" type="identity">
+         <class id="subject_scope"/>
+         <span end="12274" id="PMC3659910.nxml.gz-257" start="12175">Various human studies are done so far involving pharmacological doses of vitamin D during pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-258" type="identity">
+         <class id="so_far"/>
+         <span end="12212" id="PMC3659910.nxml.gz-258" start="12206">so far</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-259" type="identity">
+         <class id="subject_scope"/>
+         <span end="12468" id="PMC3659910.nxml.gz-259" start="12276">A study in human subjects involved the administration of 100,000 IU vitamin D per day (2.5 mg/day) throughout pregnancy to hypoparathyroid women to maintain serum calcium with no fatal outcome</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-260" type="identity">
+         <class id="involved"/>
+         <span end="12310" id="PMC3659910.nxml.gz-260" start="12302">involved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-261" type="identity">
+         <class id="subject_scope"/>
+         <span end="12686" id="PMC3659910.nxml.gz-261" start="12470">Goodenday, et al . reported that as hypoparathyroid patients have completed many pregnancies while receiving ergocalciferol,[21] it is unlikely that material vitamin D, 25(OH) D, or 24,25(OH) 2D per se are teratogens</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-262" type="identity">
+         <class id="reported"/>
+         <span end="12497" id="PMC3659910.nxml.gz-262" start="12489">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-263" type="identity">
+         <class id="unlikely"/>
+         <span end="12613" id="PMC3659910.nxml.gz-263" start="12605">unlikely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-264" type="identity">
+         <class id="subject_scope"/>
+         <span end="12845" id="PMC3659910.nxml.gz-264" start="12688">Most prenatal vitamins have around 400 IU of vitamin D, and most health groups recommend taking no more than 2,000 IU of the vitamin in supplement form daily</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-265" type="identity">
+         <class id="most"/>
+         <span end="12692" id="PMC3659910.nxml.gz-265" start="12688">Most</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-266" type="identity">
+         <class id="most"/>
+         <span end="12752" id="PMC3659910.nxml.gz-266" start="12748">most</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-267" type="identity">
+         <class id="recommend"/>
+         <span end="12776" id="PMC3659910.nxml.gz-267" start="12767">recommend</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-268" type="identity">
+         <class id="subject_scope"/>
+         <span end="13031" id="PMC3659910.nxml.gz-268" start="12847">Eventually, as circulating 25(OH) D increases to toxic concentrations, the classic situation of hypercalciuria, hypercalcemia, and, finally, extraskeletal calcification becomes evident</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-269" type="identity">
+         <class id="probable_understanding"/>
+         <span end="13031" id="PMC3659910.nxml.gz-269" start="13024">evident</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-270" type="identity">
+         <class id="subject_scope"/>
+         <span end="13166" id="PMC3659910.nxml.gz-270" start="13033">Hypercalciuria due to excessive vitamin D intakes is always accompanied by circulating 25(OH) D concentrations &gt;250nmol/L (100 ng/mL)</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-271" type="identity">
+         <class id="accompanied"/>
+         <span end="13104" id="PMC3659910.nxml.gz-271" start="13093">accompanied</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-272" type="identity">
+         <class id="subject_scope"/>
+         <span end="13358" id="PMC3659910.nxml.gz-272" start="13174">To attain circulating 25(OH) D concentrations that exceed 250 nmol/L (100 ng/mL), a daily vitamin D intake well in excess of 10,000 IU/d (250 μg/d) for several months would be required</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-273" type="identity">
+         <class id="would_be"/>
+         <span end="13349" id="PMC3659910.nxml.gz-273" start="13341">would be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-274" type="identity">
+         <class id="required"/>
+         <span end="13358" id="PMC3659910.nxml.gz-274" start="13350">required</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-275" type="identity">
+         <class id="however"/>
+         <span end="13367" id="PMC3659910.nxml.gz-275" start="13360">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-276" type="identity">
+         <class id="subject_scope"/>
+         <span end="13457" id="PMC3659910.nxml.gz-276" start="13360">However, hypervitaminosis D has never occurred when physiologic amounts of vitamin D are ingested</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-277" type="identity">
+         <class id="probable_understanding"/>
+         <span end="13406" id="PMC3659910.nxml.gz-277" start="13392">never occurred</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-278" type="identity">
+         <class id="subject_scope"/>
+         <span end="13542" id="PMC3659910.nxml.gz-278" start="13459">In addition, no case of hypervitaminosis D from sun exposure has ever been reported</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-279" type="identity">
+         <class id="probable_understanding"/>
+         <span end="13475" id="PMC3659910.nxml.gz-279" start="13472">no </span>
+         <span end="13528" id="PMC3659910.nxml.gz-280" start="13524">ever</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-281" type="identity">
+         <class id="has...been"/>
+         <span end="13523" id="PMC3659910.nxml.gz-281" start="13520">has</span>
+         <span end="13533" id="PMC3659910.nxml.gz-282" start="13529">been</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-283" type="identity">
+         <class id="reported"/>
+         <span end="13542" id="PMC3659910.nxml.gz-283" start="13534">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-284" type="identity">
+         <class id="subject_scope"/>
+         <span end="13858" id="PMC3659910.nxml.gz-284" start="13544">This is supported by the recent finding from a randomized, double-blind, placebo-controlled trial examining the effects of a single annual megadose of vitamin D3 (500,000 IU, equivalent to approximately 1370 IU/d) on fall and fracture outcomes in community-dwelling elderly women with a history of fall or fracture</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-285" type="identity">
+         <class id="supported"/>
+         <span end="13561" id="PMC3659910.nxml.gz-285" start="13552">supported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-286" type="identity">
+         <class id="recent"/>
+         <span end="13575" id="PMC3659910.nxml.gz-286" start="13569">recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-287" type="identity">
+         <class id="finding"/>
+         <span end="13583" id="PMC3659910.nxml.gz-287" start="13576">finding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-288" type="identity">
+         <class id="effects"/>
+         <span end="13663" id="PMC3659910.nxml.gz-288" start="13656">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-289" type="identity">
+         <class id="role"/>
+         <span end="13865" id="PMC3659910.nxml.gz-289" start="13861">Role</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-290" type="identity">
+         <class id="subject_scope"/>
+         <span end="13896" id="PMC3659910.nxml.gz-290" start="13861">Role of vitamin D in pregnant women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-291" type="identity">
+         <class id="subject_scope"/>
+         <span end="14018" id="PMC3659910.nxml.gz-291" start="13897">Adequate vitamin D intake is essential for maternal and fetal health during pregnancy, and prevention of adverse outcomes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-292" type="identity">
+         <class id="essential"/>
+         <span end="13935" id="PMC3659910.nxml.gz-292" start="13926">essential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-293" type="identity">
+         <class id="prevention"/>
+         <span end="13998" id="PMC3659910.nxml.gz-293" start="13988">prevention</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-294" type="identity">
+         <class id="recent"/>
+         <span end="14026" id="PMC3659910.nxml.gz-294" start="14020">Recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-295" type="identity">
+         <class id="subject_scope"/>
+         <span end="14123" id="PMC3659910.nxml.gz-295" start="14020">Recent work emphasizes the importance of non-classical roles of vitamin D in pregnancy and the placenta</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-296" type="identity">
+         <class id="important_consideration"/>
+         <span end="14042" id="PMC3659910.nxml.gz-296" start="14032">emphasizes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-297" type="identity">
+         <class id="importance"/>
+         <span end="14057" id="PMC3659910.nxml.gz-297" start="14047">importance</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-298" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="14074" id="PMC3659910.nxml.gz-298" start="14061">non-classical</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-299" type="identity">
+         <class id="roles"/>
+         <span end="14080" id="PMC3659910.nxml.gz-299" start="14075">roles</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-300" type="identity">
+         <class id="subject_scope"/>
+         <span end="14385" id="PMC3659910.nxml.gz-300" start="14125">Vitamin D deficiency during pregnancy is associated with the non-classical actions of this hormone, being linked with preeclampsia, insulin resistance, gestational diabetes mellitus,[22] bacterial vaginosis, and an increased risk for caesarean section delivery</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-301" type="identity">
+         <class id="associated"/>
+         <span end="14176" id="PMC3659910.nxml.gz-301" start="14166">associated</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-302" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="14199" id="PMC3659910.nxml.gz-302" start="14186">non-classical</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-303" type="identity">
+         <class id="linked"/>
+         <span end="14237" id="PMC3659910.nxml.gz-303" start="14231">linked</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-304" type="identity">
+         <class id="increased_risk"/>
+         <span end="14354" id="PMC3659910.nxml.gz-304" start="14340">increased risk</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3659910.nxml.gz-305" type="identity">
+         <class id="subject_scope"/>
+         <span end="14640" id="PMC3659910.nxml.gz-305" start="14387">Women who have vitamin D deficiency do not usually feel any different but in some may have muscle weakness and weakened bones. Pregnancy does not exacerbate hypocalcaemia and secondary hyperparathyroidism in people with pre-existing vitamin D deficiency</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-306" type="identity">
+         <class id="usually"/>
+         <span end="14437" id="PMC3659910.nxml.gz-306" start="14430">usually</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-307" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="14460" id="PMC3659910.nxml.gz-307" start="14457">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-308" type="identity">
+         <class id="some"/>
+         <span end="14468" id="PMC3659910.nxml.gz-308" start="14464">some</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-309" type="identity">
+         <class id="may"/>
+         <span end="14472" id="PMC3659910.nxml.gz-309" start="14469">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-310" type="identity">
+         <class id="subject_scope"/>
+         <span end="14849" id="PMC3659910.nxml.gz-310" start="14642">A new study finds that women who develop severe preeclampsia tend to have lower blood levels of vitamin D than healthy pregnant women raising the possibility that the vitamin plays a role in the complication</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-311" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="14653" id="PMC3659910.nxml.gz-311" start="14644">new study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-312" type="identity">
+         <class id="finds"/>
+         <span end="14659" id="PMC3659910.nxml.gz-312" start="14654">finds</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-313" type="identity">
+         <class id="severe"/>
+         <span end="14689" id="PMC3659910.nxml.gz-313" start="14683">severe</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-314" type="identity">
+         <class id="probable_understanding"/>
+         <span end="14707" id="PMC3659910.nxml.gz-314" start="14703">tend</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-315" type="identity">
+         <class id="possibility"/>
+         <span end="14799" id="PMC3659910.nxml.gz-315" start="14788">possibility</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-316" type="identity">
+         <class id="role"/>
+         <span end="14829" id="PMC3659910.nxml.gz-316" start="14825">role</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-317" type="identity">
+         <class id="important_consideration"/>
+         <span end="14849" id="PMC3659910.nxml.gz-317" start="14837">complication</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-318" type="identity">
+         <class id="subject_scope"/>
+         <span end="15051" id="PMC3659910.nxml.gz-318" start="14963">Vitamin D supplementation reduces preeclampsia risk, compared to unsupplemented controls</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-319" type="identity">
+         <class id="risk"/>
+         <span end="15014" id="PMC3659910.nxml.gz-319" start="15010">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-320" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="15027" id="PMC3659910.nxml.gz-320" start="15016">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-321" type="identity">
+         <class id="subject_scope"/>
+         <span end="15306" id="PMC3659910.nxml.gz-321" start="15057">Preeclampsia is associated with low circulating levels of IGF-I and 1,25(OH) 2D and, in vitro , IGF-1 increases 1,25(OH) 2D production by primary human syncytiotrophoblasts from placentas from normal pregnancies but not from preeclamptic pregnancies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-322" type="identity">
+         <class id="associated"/>
+         <span end="15083" id="PMC3659910.nxml.gz-322" start="15073">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-323" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="15276" id="PMC3659910.nxml.gz-323" start="15269">but not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-324" type="identity">
+         <class id="studies"/>
+         <span end="15315" id="PMC3659910.nxml.gz-324" start="15308">Studies</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3659910.nxml.gz-325" type="identity">
+         <class id="subject_scope"/>
+         <span end="15682" id="PMC3659910.nxml.gz-325" start="15308">Studies by other groups have reported abnormal expression of 1α-hydroxylase, a vitamin D—activating enzyme in preeclamptic pregnancies, revealing a potential role for 1,25(OH) 2D3 as a regulator of placentation. Induction of the 1α-hydroxylase in early gestation might provide a mechanism by which environmental or dietary vitamin D can influence fetal-placental development</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-326" type="identity">
+         <class id="have_reported"/>
+         <span end="15345" id="PMC3659910.nxml.gz-326" start="15332">have reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-327" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="15453" id="PMC3659910.nxml.gz-327" start="15444">revealing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-328" type="identity">
+         <class id="potential"/>
+         <span end="15465" id="PMC3659910.nxml.gz-328" start="15456">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-329" type="identity">
+         <class id="role"/>
+         <span end="15470" id="PMC3659910.nxml.gz-329" start="15466">role</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-330" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="15502" id="PMC3659910.nxml.gz-330" start="15493">regulator</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-331" type="identity">
+         <class id="might"/>
+         <span end="15576" id="PMC3659910.nxml.gz-331" start="15571">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-332" type="identity">
+         <class id="can"/>
+         <span end="15644" id="PMC3659910.nxml.gz-332" start="15641">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-333" type="identity">
+         <class id="influence"/>
+         <span end="15654" id="PMC3659910.nxml.gz-333" start="15645">influence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-334" type="identity">
+         <class id="subject_scope"/>
+         <span end="15843" id="PMC3659910.nxml.gz-334" start="15684">Two clinical trials support a potential role of vitamin D in the prevention of preeclampsia, although neither of these treated with vitamin D supplements alone</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-335" type="identity">
+         <class id="support"/>
+         <span end="15711" id="PMC3659910.nxml.gz-335" start="15704">support</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-336" type="identity">
+         <class id="potential"/>
+         <span end="15723" id="PMC3659910.nxml.gz-336" start="15714">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-337" type="identity">
+         <class id="role"/>
+         <span end="15728" id="PMC3659910.nxml.gz-337" start="15724">role</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-338" type="identity">
+         <class id="prevention"/>
+         <span end="15759" id="PMC3659910.nxml.gz-338" start="15749">prevention</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-339" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="15785" id="PMC3659910.nxml.gz-339" start="15777">although</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-340" type="identity">
+         <class id="although"/>
+         <span end="15785" id="PMC3659910.nxml.gz-340" start="15777">although</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-341" type="identity">
+         <class id="alone"/>
+         <span end="15843" id="PMC3659910.nxml.gz-341" start="15838">alone</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-342" type="identity">
+         <class id="subject_scope"/>
+         <span end="16195" id="PMC3659910.nxml.gz-342" start="16070">Vitamin D supplementation in early pregnancy should be explored for preventing preeclampsia and promoting neonatal well-being</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-343" type="identity">
+         <class id="should_be"/>
+         <span end="16124" id="PMC3659910.nxml.gz-343" start="16115">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-344" type="identity">
+         <class id="preventing"/>
+         <span end="16148" id="PMC3659910.nxml.gz-344" start="16138">preventing</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3659910.nxml.gz-345" type="identity">
+         <class id="subject_scope"/>
+         <span end="16356" id="PMC3659910.nxml.gz-345" start="16197">Vitamin D is known to influence insulin secretion. 1,25(OH) 2D regulates insulin secretion by pancreatic β-cells and thereby affects circulating glucose levels</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-346" type="identity">
+         <class id="is_known"/>
+         <span end="16215" id="PMC3659910.nxml.gz-346" start="16207">is known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-347" type="identity">
+         <class id="influence"/>
+         <span end="16228" id="PMC3659910.nxml.gz-347" start="16219">influence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-348" type="identity">
+         <class id="affects"/>
+         <span end="16329" id="PMC3659910.nxml.gz-348" start="16322">affects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-349" type="identity">
+         <class id="as_expected"/>
+         <span end="16373" id="PMC3659910.nxml.gz-349" start="16362">As expected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-350" type="identity">
+         <class id="subject_scope"/>
+         <span end="16527" id="PMC3659910.nxml.gz-350" start="16362">As expected, low concentration of 25(OH) D is a risk factor for insulin resistance, glucose intolerance, and features of metabolic syndrome in normoglycemic subjects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-351" type="identity">
+         <class id="risk_factor"/>
+         <span end="16421" id="PMC3659910.nxml.gz-351" start="16410">risk factor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-352" type="identity">
+         <class id="subject_scope"/>
+         <span end="16649" id="PMC3659910.nxml.gz-352" start="16529">Vitamin D deficiency during early pregnancy significantly increases the risk for gestational diabetes in later pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-353" type="identity">
+         <class id="risk"/>
+         <span end="16605" id="PMC3659910.nxml.gz-353" start="16601">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-354" type="identity">
+         <class id="subject_scope"/>
+         <span end="16729" id="PMC3659910.nxml.gz-354" start="16655">Vitamin D may influence the course of infectious diseases during pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-355" type="identity">
+         <class id="may"/>
+         <span end="16668" id="PMC3659910.nxml.gz-355" start="16665">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-356" type="identity">
+         <class id="influence"/>
+         <span end="16678" id="PMC3659910.nxml.gz-356" start="16669">influence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-357" type="identity">
+         <class id="subject_scope"/>
+         <span end="16823" id="PMC3659910.nxml.gz-357" start="16731">Low 25(OH) D levels are correlated with increased bacterial vaginosis in the first trimester</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-358" type="identity">
+         <class id="correlated"/>
+         <span end="16765" id="PMC3659910.nxml.gz-358" start="16755">correlated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-359" type="identity">
+         <class id="subject_scope"/>
+         <span end="17018" id="PMC3659910.nxml.gz-359" start="16825">Bacterial vaginosis is more prevalent in black women, who typically have lower serum 25(OH) D concentrations and have a six-fold higher chance of vitamin D deficiency, compared with white women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-360" type="identity">
+         <class id="prevalent"/>
+         <span end="16862" id="PMC3659910.nxml.gz-360" start="16853">prevalent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-361" type="identity">
+         <class id="typically"/>
+         <span end="16892" id="PMC3659910.nxml.gz-361" start="16883">typically</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-362" type="identity">
+         <class id="chance"/>
+         <span end="16967" id="PMC3659910.nxml.gz-362" start="16961">chance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-363" type="identity">
+         <class id="subject_scope"/>
+         <span end="17149" id="PMC3659910.nxml.gz-363" start="17020">Vitamin D has effects on the immune system, cytokines, and antibacterial peptides that are likely to regulate the bacterial flora</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-364" type="identity">
+         <class id="effects"/>
+         <span end="17041" id="PMC3659910.nxml.gz-364" start="17034">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-365" type="identity">
+         <class id="likely"/>
+         <span end="17117" id="PMC3659910.nxml.gz-365" start="17111">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-366" type="identity">
+         <class id="subject_scope"/>
+         <span end="17297" id="PMC3659910.nxml.gz-366" start="17151">Nutritional vitamin D status has very recently been linked to the human innate immune system and its ability to contain Mycobacterium tuberculosis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-367" type="identity">
+         <class id="recently"/>
+         <span end="17197" id="PMC3659910.nxml.gz-367" start="17189">recently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-368" type="identity">
+         <class id="linked"/>
+         <span end="17209" id="PMC3659910.nxml.gz-368" start="17203">linked</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-369" type="identity">
+         <class id="subject_scope"/>
+         <span end="17459" id="PMC3659910.nxml.gz-369" start="17299">Serum 25(OH) D levels are inversely related to primary cesarean section in nulliparous women, an unexpected and unexplained maternal outcome recently identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-370" type="identity">
+         <class id="related"/>
+         <span end="17342" id="PMC3659910.nxml.gz-370" start="17335">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-371" type="identity">
+         <class id="unexpected"/>
+         <span end="17406" id="PMC3659910.nxml.gz-371" start="17396">unexpected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-372" type="identity">
+         <class id="unexplained"/>
+         <span end="17422" id="PMC3659910.nxml.gz-372" start="17411">unexplained</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-373" type="identity">
+         <class id="recently"/>
+         <span end="17448" id="PMC3659910.nxml.gz-373" start="17440">recently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-374" type="identity">
+         <class id="identified"/>
+         <span end="17459" id="PMC3659910.nxml.gz-374" start="17449">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-375" type="identity">
+         <class id="subject_scope"/>
+         <span end="17599" id="PMC3659910.nxml.gz-375" start="17461">The risk was four-fold higher in women with serum 25(OH) D levels below 37.5 nmol/L (15ng/mL) controlling for multiple confounding factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-376" type="identity">
+         <class id="risk"/>
+         <span end="17469" id="PMC3659910.nxml.gz-376" start="17465">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-377" type="identity">
+         <class id="subject_scope"/>
+         <span end="17663" id="PMC3659910.nxml.gz-377" start="17601">VDR and 1,25(OH) 2D normally increase skeletal muscle function</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-378" type="identity">
+         <class id="normally"/>
+         <span end="17629" id="PMC3659910.nxml.gz-378" start="17621">normally</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-379" type="identity">
+         <class id="conversely"/>
+         <span end="17675" id="PMC3659910.nxml.gz-379" start="17665">Conversely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-380" type="identity">
+         <class id="subject_scope"/>
+         <span end="17833" id="PMC3659910.nxml.gz-380" start="17665">Conversely, vitamin D deficiency results in proximal muscle weakness and decreased lower extremity muscle function perhaps contributing to the risk for cesarean section</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-381" type="identity">
+         <class id="weakness"/>
+         <span end="17733" id="PMC3659910.nxml.gz-381" start="17725">weakness</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-382" type="identity">
+         <class id="perhaps"/>
+         <span end="17787" id="PMC3659910.nxml.gz-382" start="17780">perhaps</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-383" type="identity">
+         <class id="contributing_to"/>
+         <span end="17803" id="PMC3659910.nxml.gz-383" start="17788">contributing to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-384" type="identity">
+         <class id="risk"/>
+         <span end="17812" id="PMC3659910.nxml.gz-384" start="17808">risk</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-385" type="identity">
+         <class id="subject_scope"/>
+         <span end="17951" id="PMC3659910.nxml.gz-385" start="17835">The Cochrane Library issued a review of vitamin D supplementation during pregnancy and identified 7 relevant studies</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-386" type="identity">
+         <class id="identified"/>
+         <span end="17932" id="PMC3659910.nxml.gz-386" start="17922">identified</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-387" type="identity">
+         <class id="relevant"/>
+         <span end="17943" id="PMC3659910.nxml.gz-387" start="17935">relevant</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-388" type="identity">
+         <class id="studies"/>
+         <span end="17951" id="PMC3659910.nxml.gz-388" start="17944">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-389" type="identity">
+         <class id="subject_scope"/>
+         <span end="18103" id="PMC3659910.nxml.gz-389" start="17953">The Cochrane review concluded that there is not enough evidence to evaluate the requirements and effects of vitamin D supplementation during pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-390" type="identity">
+         <class id="concluded"/>
+         <span end="17982" id="PMC3659910.nxml.gz-390" start="17973">concluded</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-391" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="18007" id="PMC3659910.nxml.gz-391" start="17997">not enough</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-392" type="identity">
+         <class id="evidence"/>
+         <span end="18016" id="PMC3659910.nxml.gz-392" start="18008">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-393" type="identity">
+         <class id="future_work"/>
+         <span end="18028" id="PMC3659910.nxml.gz-393" start="18017">to evaluate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-394" type="identity">
+         <class id="requirements"/>
+         <span end="18045" id="PMC3659910.nxml.gz-394" start="18033">requirements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-395" type="identity">
+         <class id="effects"/>
+         <span end="18057" id="PMC3659910.nxml.gz-395" start="18050">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-396" type="identity">
+         <class id="subject_scope"/>
+         <span end="18398" id="PMC3659910.nxml.gz-396" start="18105">Data from three trials involving 463 women show a trend for women who receive vitamin D supplementation during pregnancy to more frequently have a baby with a birth weight below 2500 grams than those women receiving no treatment or placebo, although the statistical significance was borderline</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-397" type="identity">
+         <class id="show"/>
+         <span end="18152" id="PMC3659910.nxml.gz-397" start="18148">show</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-398" type="identity">
+         <class id="trend"/>
+         <span end="18160" id="PMC3659910.nxml.gz-398" start="18155">trend</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-399" type="identity">
+         <class id="problem_complication"/>
+         <span end="18354" id="PMC3659910.nxml.gz-399" start="18346">although</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-400" type="identity">
+         <class id="although"/>
+         <span end="18354" id="PMC3659910.nxml.gz-400" start="18346">although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-401" type="identity">
+         <class id="subject_scope"/>
+         <span end="18593" id="PMC3659910.nxml.gz-401" start="18400">Animal models of vitamin D deficiency have shown just how important adequate nutritional intakes of vitamin D are to skeletal, cardiovascular, and neurologic development in experimental animals</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-402" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="18413" id="PMC3659910.nxml.gz-402" start="18407">models</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-403" type="identity">
+         <class id="have_shown"/>
+         <span end="18448" id="PMC3659910.nxml.gz-403" start="18438">have shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-404" type="identity">
+         <class id="important"/>
+         <span end="18467" id="PMC3659910.nxml.gz-404" start="18458">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-405" type="identity">
+         <class id="subject_scope"/>
+         <span end="18820" id="PMC3659910.nxml.gz-405" start="18599">Weishaar and Simpson[28] showed that lengthy periods of vitamin D deficiency in rats are associated with profound changes in cardiovascular function, including increases in cardiac and vascular muscle contractile function</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-406" type="identity">
+         <class id="showed"/>
+         <span end="18630" id="PMC3659910.nxml.gz-406" start="18624">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-407" type="identity">
+         <class id="associated"/>
+         <span end="18698" id="PMC3659910.nxml.gz-407" start="18688">associated</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-408" type="identity">
+         <class id="important_consideration"/>
+         <span end="18712" id="PMC3659910.nxml.gz-408" start="18704">profound</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3659910.nxml.gz-409" type="identity">
+         <class id="subject_scope"/>
+         <span end="18982" id="PMC3659910.nxml.gz-409" start="18822">A recent study provides evidence with reference to the consequences of vitamin D deficiency on the neurodevelopment of the fetus during pregnancy in a rat model</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-410" type="identity">
+         <class id="recent_study"/>
+         <span end="18836" id="PMC3659910.nxml.gz-410" start="18824">recent study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-411" type="identity">
+         <class id="evidence"/>
+         <span end="18854" id="PMC3659910.nxml.gz-411" start="18846">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-412" type="identity">
+         <class id="important_consideration"/>
+         <span end="18889" id="PMC3659910.nxml.gz-412" start="18877">consequences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-413" type="identity">
+         <class id="0_model"/>
+         <span end="18982" id="PMC3659910.nxml.gz-413" start="18977">model</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-414" type="identity">
+         <class id="subject_scope"/>
+         <span end="19174" id="PMC3659910.nxml.gz-414" start="18988">A study on rodents showed that hypovitaminosis D trabecular bone loss, and concluded that vitamin D is indispensable for normal bone mineralization during the reproductive period in rats</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-415" type="identity">
+         <class id="showed"/>
+         <span end="19013" id="PMC3659910.nxml.gz-415" start="19007">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-416" type="identity">
+         <class id="concluded"/>
+         <span end="19072" id="PMC3659910.nxml.gz-416" start="19063">concluded</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-417" type="identity">
+         <class id="indispensable"/>
+         <span end="19104" id="PMC3659910.nxml.gz-417" start="19091">indispensable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-418" type="identity">
+         <class id="subject_scope"/>
+         <span end="19257" id="PMC3659910.nxml.gz-418" start="19180">Vitamin D appears to have a protective effect against multiple sclerosis (MS)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-419" type="identity">
+         <class id="appears"/>
+         <span end="19197" id="PMC3659910.nxml.gz-419" start="19190">appears</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-420" type="identity">
+         <class id="protective"/>
+         <span end="19218" id="PMC3659910.nxml.gz-420" start="19208">protective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-421" type="identity">
+         <class id="effect"/>
+         <span end="19225" id="PMC3659910.nxml.gz-421" start="19219">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-422" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="19267" id="PMC3659910.nxml.gz-422" start="19259">Research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-423" type="identity">
+         <class id="subject_scope"/>
+         <span end="19520" id="PMC3659910.nxml.gz-423" start="19259">Research has found direct connections between vitamin D and the genes known to be involved in MS, but exact pathology and whether vitamin D supplements during pregnancy or childhood can lessen the likelihood of the child developing MS later in life is not known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-424" type="identity">
+         <class id="found"/>
+         <span end="19277" id="PMC3659910.nxml.gz-424" start="19272">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-425" type="identity">
+         <class id="connections"/>
+         <span end="19296" id="PMC3659910.nxml.gz-425" start="19285">connections</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-426" type="identity">
+         <class id="known"/>
+         <span end="19334" id="PMC3659910.nxml.gz-426" start="19329">known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-427" type="identity">
+         <class id="involved"/>
+         <span end="19349" id="PMC3659910.nxml.gz-427" start="19341">involved</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-428" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="19360" id="PMC3659910.nxml.gz-428" start="19357">but</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-429" type="identity">
+         <class id="but"/>
+         <span end="19360" id="PMC3659910.nxml.gz-429" start="19357">but</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3659910.nxml.gz-430" type="identity">
+         <class id="whether...or"/>
+         <span end="19388" id="PMC3659910.nxml.gz-430" start="19381">whether</span>
+         <span end="19430" id="PMC3659910.nxml.gz-431" start="19428">or</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-432" type="identity">
+         <class id="not_known"/>
+         <span end="19520" id="PMC3659910.nxml.gz-432" start="19511">not known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-433" type="identity">
+         <class id="subject_scope"/>
+         <span end="19888" id="PMC3659910.nxml.gz-433" start="19522">While there is interest in the role of vitamin D in the prevention of multiple sclerosis, following epidemiological studies demonstrating an association between vitamin D supplementation and reduced prevalence of the disease, future research, including randomized controlled trials in pregnant or nonpregnant individuals, is awaited to confirm or refute such benefit</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-434" type="identity">
+         <class id="important_consideration"/>
+         <span end="19545" id="PMC3659910.nxml.gz-434" start="19537">interest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-435" type="identity">
+         <class id="role"/>
+         <span end="19557" id="PMC3659910.nxml.gz-435" start="19553">role</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-436" type="identity">
+         <class id="prevention"/>
+         <span end="19588" id="PMC3659910.nxml.gz-436" start="19578">prevention</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-437" type="identity">
+         <class id="studies"/>
+         <span end="19645" id="PMC3659910.nxml.gz-437" start="19638">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-438" type="identity">
+         <class id="demonstrating"/>
+         <span end="19659" id="PMC3659910.nxml.gz-438" start="19646">demonstrating</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-439" type="identity">
+         <class id="association"/>
+         <span end="19674" id="PMC3659910.nxml.gz-439" start="19663">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-440" type="identity">
+         <class id="prevalence"/>
+         <span end="19731" id="PMC3659910.nxml.gz-440" start="19721">prevalence</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-441" type="identity">
+         <class id="future_research"/>
+         <span end="19763" id="PMC3659910.nxml.gz-441" start="19748">future research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-442" type="identity">
+         <class id="future_work"/>
+         <span end="19854" id="PMC3659910.nxml.gz-442" start="19847">awaited</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-443" type="identity">
+         <class id="to_confirm"/>
+         <span end="19865" id="PMC3659910.nxml.gz-443" start="19855">to confirm</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-444" type="identity">
+         <class id="or"/>
+         <span end="19868" id="PMC3659910.nxml.gz-444" start="19866">or</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-445" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="19875" id="PMC3659910.nxml.gz-445" start="19869">refute</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-446" type="identity">
+         <class id="benefit"/>
+         <span end="19888" id="PMC3659910.nxml.gz-446" start="19881">benefit</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-447" type="identity">
+         <class id="probable_understanding"/>
+         <span end="19897" id="PMC3659910.nxml.gz-447" start="19890">Because</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-448" type="identity">
+         <class id="subject_scope"/>
+         <span end="20091" id="PMC3659910.nxml.gz-448" start="19890">Because the poor vitamin D stores of the mother may impair vitamin D state in the infant, it is important to know whether rickets can be prevented in breast fed infants by supplementation of the mother</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-449" type="identity">
+         <class id="important_consideration"/>
+         <span end="19906" id="PMC3659910.nxml.gz-449" start="19902">poor</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-450" type="identity">
+         <class id="may"/>
+         <span end="19941" id="PMC3659910.nxml.gz-450" start="19938">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-451" type="identity">
+         <class id="important"/>
+         <span end="19995" id="PMC3659910.nxml.gz-451" start="19986">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-452" type="identity">
+         <class id="explicit_question"/>
+         <span end="20011" id="PMC3659910.nxml.gz-452" start="20004">whether</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-453" type="identity">
+         <class id="prevented"/>
+         <span end="20036" id="PMC3659910.nxml.gz-453" start="20027">prevented</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-454" type="identity">
+         <class id="subject_scope"/>
+         <span end="20262" id="PMC3659910.nxml.gz-454" start="20097">The Canadian Pediatric Society recommended 2000 IU of vitamin D3 for pregnant and lactating mothers with periodic blood tests to check levels of 25(OH) D and calcium</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3659910.nxml.gz-455" type="identity">
+         <class id="recommended"/>
+         <span end="20139" id="PMC3659910.nxml.gz-455" start="20128">recommended</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-456" type="identity">
+         <class id="subject_scope"/>
+         <span end="20443" id="PMC3659910.nxml.gz-456" start="20268">The American Academy of Pediatrics recommendations focus on supplementing the infant and make no specific recommendations about universally supplementing breastfeeding mothers</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3659910.nxml.gz-457" type="identity">
+         <class id="recommendations"/>
+         <span end="20318" id="PMC3659910.nxml.gz-457" start="20303">recommendations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-458" type="identity">
+         <class id="important_consideration"/>
+         <span end="20324" id="PMC3659910.nxml.gz-458" start="20319">focus</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-459" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20373" id="PMC3659910.nxml.gz-459" start="20362">no specific</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3659910.nxml.gz-460" type="identity">
+         <class id="recommendations"/>
+         <span end="20389" id="PMC3659910.nxml.gz-460" start="20374">recommendations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-461" type="identity">
+         <class id="subject_scope"/>
+         <span end="20580" id="PMC3659910.nxml.gz-461" start="20445">A sufficient supply of vitamin D to the breast fed infant is achieved only by increasing the maternal supplementation up to 2000 IU/day</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-462" type="identity">
+         <class id="only"/>
+         <span end="20519" id="PMC3659910.nxml.gz-462" start="20515">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-463" type="identity">
+         <class id="as_such"/>
+         <span end="20589" id="PMC3659910.nxml.gz-463" start="20582">As such</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-464" type="identity">
+         <class id="subject_scope"/>
+         <span end="20747" id="PMC3659910.nxml.gz-464" start="20582">As such a dose is far higher than the daily dietary allowance recommended for lactating mothers its safety over prolonged periods is not known and should be examined</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3659910.nxml.gz-465" type="identity">
+         <class id="recommended"/>
+         <span end="20655" id="PMC3659910.nxml.gz-465" start="20644">recommended</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-466" type="identity">
+         <class id="safety"/>
+         <span end="20688" id="PMC3659910.nxml.gz-466" start="20682">safety</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-467" type="identity">
+         <class id="not_known"/>
+         <span end="20724" id="PMC3659910.nxml.gz-467" start="20715">not known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-468" type="identity">
+         <class id="should_be"/>
+         <span end="20738" id="PMC3659910.nxml.gz-468" start="20729">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-469" type="identity">
+         <class id="other"/>
+         <span end="20754" id="PMC3659910.nxml.gz-469" start="20749">Other</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-470" type="identity">
+         <class id="subject_scope"/>
+         <span end="20881" id="PMC3659910.nxml.gz-470" start="20749">Other suggests vitamin D supplementation of 400 IU/day to breast fed infants is the most secure way of preventing rickets in infants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-471" type="identity">
+         <class id="suggests"/>
+         <span end="20763" id="PMC3659910.nxml.gz-471" start="20755">suggests</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-472" type="identity">
+         <class id="most"/>
+         <span end="20837" id="PMC3659910.nxml.gz-472" start="20833">most</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-473" type="identity">
+         <class id="preventing"/>
+         <span end="20862" id="PMC3659910.nxml.gz-473" start="20852">preventing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-474" type="identity">
+         <class id="role"/>
+         <span end="20892" id="PMC3659910.nxml.gz-474" start="20888">Role</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-475" type="identity">
+         <class id="subject_scope"/>
+         <span end="20927" id="PMC3659910.nxml.gz-475" start="20888">Role of vitamin D in newborn and infant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-476" type="identity">
+         <class id="subject_scope"/>
+         <span end="21008" id="PMC3659910.nxml.gz-476" start="20928">Adequate maternal vitamin D levels are also important for fetal and child health</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-477" type="identity">
+         <class id="important"/>
+         <span end="20981" id="PMC3659910.nxml.gz-477" start="20972">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-478" type="identity">
+         <class id="subject_scope"/>
+         <span end="21154" id="PMC3659910.nxml.gz-478" start="21010">Fetal Vitamin D concentrations are mainly dependent on maternal concentration, and maternal deficiency may lead to adverse outcomes in offspring</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-479" type="identity">
+         <class id="mainly"/>
+         <span end="21051" id="PMC3659910.nxml.gz-479" start="21045">mainly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-480" type="identity">
+         <class id="dependent"/>
+         <span end="21061" id="PMC3659910.nxml.gz-480" start="21052">dependent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-481" type="identity">
+         <class id="may"/>
+         <span end="21116" id="PMC3659910.nxml.gz-481" start="21113">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-482" type="identity">
+         <class id="lead_to"/>
+         <span end="21124" id="PMC3659910.nxml.gz-482" start="21117">lead to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-483" type="identity">
+         <class id="subject_scope"/>
+         <span end="21307" id="PMC3659910.nxml.gz-483" start="21156">Vitamin D-deficiency in mothers have significantly increased risk of infantile rickets due to inadequate maternal–fetal transfer of 25-hydroxyvitamin D</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-484" type="identity">
+         <class id="increased_risk"/>
+         <span end="21221" id="PMC3659910.nxml.gz-484" start="21207">increased risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-485" type="identity">
+         <class id="probable_understanding"/>
+         <span end="21249" id="PMC3659910.nxml.gz-485" start="21243">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-486" type="identity">
+         <class id="important_consideration"/>
+         <span end="21260" id="PMC3659910.nxml.gz-486" start="21250">inadequate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-487" type="identity">
+         <class id="recent"/>
+         <span end="21319" id="PMC3659910.nxml.gz-487" start="21313">Recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-488" type="identity">
+         <class id="subject_scope"/>
+         <span end="21617" id="PMC3659910.nxml.gz-488" start="21313">Recent retrospective studies found a significant and previously undetected association of maternal vitamin D deficiency with rickets-associated infant heart failure and with acute lower respiratory tract infection,[33] a serious complication often associated with sepsis without clinical signs of rickets</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-489" type="identity">
+         <class id="studies"/>
+         <span end="21341" id="PMC3659910.nxml.gz-489" start="21334">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-490" type="identity">
+         <class id="found"/>
+         <span end="21347" id="PMC3659910.nxml.gz-490" start="21342">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-491" type="identity">
+         <class id="previously"/>
+         <span end="21376" id="PMC3659910.nxml.gz-491" start="21366">previously</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-492" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="21387" id="PMC3659910.nxml.gz-492" start="21377">undetected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-493" type="identity">
+         <class id="association"/>
+         <span end="21399" id="PMC3659910.nxml.gz-493" start="21388">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-494" type="identity">
+         <class id="associated"/>
+         <span end="21456" id="PMC3659910.nxml.gz-494" start="21446">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-495" type="identity">
+         <class id="serious"/>
+         <span end="21541" id="PMC3659910.nxml.gz-495" start="21534">serious</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-496" type="identity">
+         <class id="important_consideration"/>
+         <span end="21554" id="PMC3659910.nxml.gz-496" start="21542">complication</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-497" type="identity">
+         <class id="often"/>
+         <span end="21560" id="PMC3659910.nxml.gz-497" start="21555">often</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-498" type="identity">
+         <class id="associated"/>
+         <span end="21571" id="PMC3659910.nxml.gz-498" start="21561">associated</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-499" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="21606" id="PMC3659910.nxml.gz-499" start="21601">signs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-500" type="identity">
+         <class id="subject_scope"/>
+         <span end="21744" id="PMC3659910.nxml.gz-500" start="21619">While vitamin D supplementation in pregnancy has previously been associated with reduced risk of wheezing and type 1 diabetes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-501" type="identity">
+         <class id="previously"/>
+         <span end="21678" id="PMC3659910.nxml.gz-501" start="21668">previously</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-502" type="identity">
+         <class id="associated"/>
+         <span end="21694" id="PMC3659910.nxml.gz-502" start="21684">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-503" type="identity">
+         <class id="risk"/>
+         <span end="21712" id="PMC3659910.nxml.gz-503" start="21708">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-504" type="identity">
+         <class id="subject_scope"/>
+         <span end="21892" id="PMC3659910.nxml.gz-504" start="21750">A few studies have observed that maternal Vitamin D concentrations are related to offspring birth weight and growth during the postnatal years</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-505" type="identity">
+         <class id="few_studies"/>
+         <span end="21763" id="PMC3659910.nxml.gz-505" start="21752">few studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-506" type="identity">
+         <class id="observed"/>
+         <span end="21777" id="PMC3659910.nxml.gz-506" start="21769">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-507" type="identity">
+         <class id="related"/>
+         <span end="21828" id="PMC3659910.nxml.gz-507" start="21821">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-508" type="identity">
+         <class id="subject_scope"/>
+         <span end="22030" id="PMC3659910.nxml.gz-508" start="21894">Lower maternal vitamin D status was associated with lower bone mineral concentration and impaired glucose homeostasis in newborn infants</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-509" type="identity">
+         <class id="associated"/>
+         <span end="21940" id="PMC3659910.nxml.gz-509" start="21930">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-510" type="identity">
+         <class id="subject_scope"/>
+         <span end="22310" id="PMC3659910.nxml.gz-510" start="22036">Maternal vitamin D deficiency also has been associated with craniotabes,[35] a softening of skull bones that is one of the earliest signs of vitamin D deficiency, in a case study with neonatal seizures of a hypocalcemic infant and with impaired skeletal development in utero</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-511" type="identity">
+         <class id="associated"/>
+         <span end="22090" id="PMC3659910.nxml.gz-511" start="22080">associated</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-512" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="22173" id="PMC3659910.nxml.gz-512" start="22168">signs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-513" type="identity">
+         <class id="interestingly"/>
+         <span end="22329" id="PMC3659910.nxml.gz-513" start="22316">Interestingly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-514" type="identity">
+         <class id="subject_scope"/>
+         <span end="22554" id="PMC3659910.nxml.gz-514" start="22316">Interestingly, vitamin D deficiency during pregnancy is also associated with risks of health problems later in childhood, including improper bone development at 9 yrs of age, asthma,[36] dental cavities, schizophrenia, and type I diabetes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-515" type="identity">
+         <class id="associated"/>
+         <span end="22387" id="PMC3659910.nxml.gz-515" start="22377">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-516" type="identity">
+         <class id="risks"/>
+         <span end="22398" id="PMC3659910.nxml.gz-516" start="22393">risks</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-517" type="identity">
+         <class id="important_consideration"/>
+         <span end="22417" id="PMC3659910.nxml.gz-517" start="22409">problems</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-518" type="identity">
+         <class id="the_concept"/>
+         <span end="22574" id="PMC3659910.nxml.gz-518" start="22563">The concept</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-519" type="identity">
+         <class id="subject_scope"/>
+         <span end="22712" id="PMC3659910.nxml.gz-519" start="22563">The concept that maternal nutritional status influences the risk of chronic disorders in the offspring has attracted interest over the past 2 decades</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-520" type="identity">
+         <class id="influences"/>
+         <span end="22618" id="PMC3659910.nxml.gz-520" start="22608">influences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-521" type="identity">
+         <class id="risk"/>
+         <span end="22627" id="PMC3659910.nxml.gz-521" start="22623">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-522" type="identity">
+         <class id="important_consideration"/>
+         <span end="22688" id="PMC3659910.nxml.gz-522" start="22680">interest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-523" type="identity">
+         <class id="difficult_task"/>
+         <span end="22721" id="PMC3659910.nxml.gz-523" start="22714">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-524" type="identity">
+         <class id="subject_scope"/>
+         <span end="22809" id="PMC3659910.nxml.gz-524" start="22714">However, very few studies have been in position to examine this association directly in animals</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-525" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="22731" id="PMC3659910.nxml.gz-525" start="22723">very few</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-526" type="identity">
+         <class id="few_studies"/>
+         <span end="22739" id="PMC3659910.nxml.gz-526" start="22728">few studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-527" type="identity">
+         <class id="have_been"/>
+         <span end="22749" id="PMC3659910.nxml.gz-527" start="22740">have been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-528" type="identity">
+         <class id="association"/>
+         <span end="22789" id="PMC3659910.nxml.gz-528" start="22778">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-529" type="identity">
+         <class id="subject_scope"/>
+         <span end="22921" id="PMC3659910.nxml.gz-529" start="22811">Women of Indian origin, especially pregnant women, are known to have a high prevalence of vitamin D deficiency</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-530" type="identity">
+         <class id="important_consideration"/>
+         <span end="22845" id="PMC3659910.nxml.gz-530" start="22835">especially</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-531" type="identity">
+         <class id="especially"/>
+         <span end="22845" id="PMC3659910.nxml.gz-531" start="22835">especially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-532" type="identity">
+         <class id="known"/>
+         <span end="22871" id="PMC3659910.nxml.gz-532" start="22866">known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-533" type="identity">
+         <class id="prevalence"/>
+         <span end="22897" id="PMC3659910.nxml.gz-533" start="22887">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-534" type="identity">
+         <class id="subject_scope"/>
+         <span end="23060" id="PMC3659910.nxml.gz-534" start="22923">In Indian women calcium intakes are low and the demands on calcium economy are high because of repeated cycles of pregnancy and lactation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-535" type="identity">
+         <class id="probable_understanding"/>
+         <span end="23014" id="PMC3659910.nxml.gz-535" start="23007">because</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-536" type="identity">
+         <class id="subject_scope"/>
+         <span end="23200" id="PMC3659910.nxml.gz-536" start="23062">A study in pregnant women in South India assessed maternal vitamin D status by measuring serum 25-hydroxyvitamin D in stored serum samples</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-537" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="23111" id="PMC3659910.nxml.gz-537" start="23103">assessed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-538" type="identity">
+         <class id="although"/>
+         <span end="23320" id="PMC3659910.nxml.gz-538" start="23312">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-539" type="identity">
+         <class id="subject_scope"/>
+         <span end="23404" id="PMC3659910.nxml.gz-539" start="23312">Although there was no association between maternal Vitamin D status and offspring birth size</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-540" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="23416" id="PMC3659910.nxml.gz-540" start="23406">At present</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-541" type="identity">
+         <class id="subject_scope"/>
+         <span end="23493" id="PMC3659910.nxml.gz-541" start="23406">At present, vitamin D supplementation is not a part of antenatal care programs in India</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-542" type="identity">
+         <class id="subject_scope"/>
+         <span end="23809" id="PMC3659910.nxml.gz-542" start="23543">Women of reproductive age are assumed to be able to obtain the recommended intake for almost all vitamins without the use of supplements, and no national organization recommends routine vitamin D supplementation during pregnancy unless a woman is at nutritional risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-543" type="identity">
+         <class id="assumed"/>
+         <span end="23580" id="PMC3659910.nxml.gz-543" start="23573">assumed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-544" type="identity">
+         <class id="to_be"/>
+         <span end="23586" id="PMC3659910.nxml.gz-544" start="23581">to be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-545" type="identity">
+         <class id="recommended"/>
+         <span end="23617" id="PMC3659910.nxml.gz-545" start="23606">recommended</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-546" type="identity">
+         <class id="almost_all"/>
+         <span end="23639" id="PMC3659910.nxml.gz-546" start="23629">almost all</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-547" type="identity">
+         <class id="recommends"/>
+         <span end="23720" id="PMC3659910.nxml.gz-547" start="23710">recommends</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-548" type="identity">
+         <class id="risk"/>
+         <span end="23809" id="PMC3659910.nxml.gz-548" start="23805">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-549" type="identity">
+         <class id="subject_scope"/>
+         <span end="24083" id="PMC3659910.nxml.gz-549" start="23943">One approach is to consider serum testing in patients at high risk for vitamin D deficiency but treating without testing those at lower risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-550" type="identity">
+         <class id="consider"/>
+         <span end="23970" id="PMC3659910.nxml.gz-550" start="23962">consider</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-551" type="identity">
+         <class id="risk"/>
+         <span end="24009" id="PMC3659910.nxml.gz-551" start="24005">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-552" type="identity">
+         <class id="but"/>
+         <span end="24038" id="PMC3659910.nxml.gz-552" start="24035">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-553" type="identity">
+         <class id="risk"/>
+         <span end="24083" id="PMC3659910.nxml.gz-553" start="24079">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-554" type="identity">
+         <class id="subject_scope"/>
+         <span end="24274" id="PMC3659910.nxml.gz-554" start="24085">The basis for these recommendations was made before it was possible to measure the circulating concentration of 25-hydroxyvitamin D [25(OH) D], the indicator of nutritional vitamin D status</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-555" type="identity">
+         <class id="probable_understanding"/>
+         <span end="24094" id="PMC3659910.nxml.gz-555" start="24089">basis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-556" type="identity">
+         <class id="recommendations"/>
+         <span end="24120" id="PMC3659910.nxml.gz-556" start="24105">recommendations</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-557" type="identity">
+         <class id="difficult_task"/>
+         <span end="24152" id="PMC3659910.nxml.gz-557" start="24130">before it was possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-558" type="identity">
+         <class id="indicator"/>
+         <span end="24242" id="PMC3659910.nxml.gz-558" start="24233">indicator</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-559" type="identity">
+         <class id="subject_scope"/>
+         <span end="24557" id="PMC3659910.nxml.gz-559" start="24282">Endocrine Society Issues Practice Guideline on Vitamin D and the guideline recommend that clinicians screen for vitamin D deficiency in people at risk for deficiency, including obese individuals, blacks, pregnant and lactating women, and patients with malabsorption syndromes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-560" type="identity">
+         <class id="guideline"/>
+         <span end="24356" id="PMC3659910.nxml.gz-560" start="24347">guideline</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-561" type="identity">
+         <class id="recommend"/>
+         <span end="24366" id="PMC3659910.nxml.gz-561" start="24357">recommend</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-562" type="identity">
+         <class id="at_risk"/>
+         <span end="24432" id="PMC3659910.nxml.gz-562" start="24425">at risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-563" type="identity">
+         <class id="subject_scope"/>
+         <span end="24685" id="PMC3659910.nxml.gz-563" start="24563">If electing to test vitamin D status, serum 25-hydroxyvitamin D is the accepted biomarker to be offered early in pregnancy</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-564" type="identity">
+         <class id="important_consideration"/>
+         <span end="24565" id="PMC3659910.nxml.gz-564" start="24563">If</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-565" type="identity">
+         <class id="accepted"/>
+         <span end="24642" id="PMC3659910.nxml.gz-565" start="24634">accepted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-566" type="identity">
+         <class id="biomarker"/>
+         <span end="24652" id="PMC3659910.nxml.gz-566" start="24643">biomarker</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-567" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="24699" id="PMC3659910.nxml.gz-567" start="24691">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-568" type="identity">
+         <class id="subject_scope"/>
+         <span end="24850" id="PMC3659910.nxml.gz-568" start="24691">Although 1,25(OH) 2D is the active circulating form of vitamin D, measuring this level is not helpful because it is quickly and tightly regulated by the kidney</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-569" type="identity">
+         <class id="difficult_task"/>
+         <span end="24792" id="PMC3659910.nxml.gz-569" start="24781">not helpful</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-570" type="identity">
+         <class id="because"/>
+         <span end="24800" id="PMC3659910.nxml.gz-570" start="24793">because</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3659910.nxml.gz-571" type="identity">
+         <class id="subject_scope"/>
+         <span end="24997" id="PMC3659910.nxml.gz-571" start="24852">True deficiency would be evident only by measuring 25(OH) D. Of note, questions have been raised regarding the need for standardization of assays</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-572" type="identity">
+         <class id="would_be"/>
+         <span end="24876" id="PMC3659910.nxml.gz-572" start="24868">would be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-573" type="identity">
+         <class id="evident"/>
+         <span end="24884" id="PMC3659910.nxml.gz-573" start="24877">evident</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-574" type="identity">
+         <class id="only"/>
+         <span end="24889" id="PMC3659910.nxml.gz-574" start="24885">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-575" type="identity">
+         <class id="of_note"/>
+         <span end="24920" id="PMC3659910.nxml.gz-575" start="24913">Of note</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-576" type="identity">
+         <class id="questions"/>
+         <span end="24931" id="PMC3659910.nxml.gz-576" start="24922">questions</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-577" type="identity">
+         <class id="explicit_question"/>
+         <span end="24948" id="PMC3659910.nxml.gz-577" start="24942">raised</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-578" type="identity">
+         <class id="the_need"/>
+         <span end="24967" id="PMC3659910.nxml.gz-578" start="24959">the need</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-579" type="identity">
+         <class id="subject_scope"/>
+         <span end="25121" id="PMC3659910.nxml.gz-579" start="24999">A large laboratory (Quest Diagnostics) recently reported the possibility of thousands of incorrect vitamin D level results</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-580" type="identity">
+         <class id="recently"/>
+         <span end="25046" id="PMC3659910.nxml.gz-580" start="25038">recently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-581" type="identity">
+         <class id="reported"/>
+         <span end="25055" id="PMC3659910.nxml.gz-581" start="25047">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-582" type="identity">
+         <class id="possibility"/>
+         <span end="25071" id="PMC3659910.nxml.gz-582" start="25060">possibility</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-583" type="identity">
+         <class id="problem_complication"/>
+         <span end="25097" id="PMC3659910.nxml.gz-583" start="25088">incorrect</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-584" type="identity">
+         <class id="incorrect"/>
+         <span end="25097" id="PMC3659910.nxml.gz-584" start="25088">incorrect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-585" type="identity">
+         <class id="subject_scope"/>
+         <span end="25204" id="PMC3659910.nxml.gz-585" start="25123">Sunlight expo-sure questionnaires are imprecise and are not currently recommended</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-586" type="identity">
+         <class id="problem_complication"/>
+         <span end="25170" id="PMC3659910.nxml.gz-586" start="25161">imprecise</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-587" type="identity">
+         <class id="recommended"/>
+         <span end="25204" id="PMC3659910.nxml.gz-587" start="25193">recommended</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-588" type="identity">
+         <class id="subject_scope"/>
+         <span end="25325" id="PMC3659910.nxml.gz-588" start="25206">There is no consensus about the optimal 25(OH) D level, but many experts accept a range 75nmol/L (≥30 ng/mL) as optimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-589" type="identity">
+         <class id="no_consensus"/>
+         <span end="25227" id="PMC3659910.nxml.gz-589" start="25215">no consensus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-590" type="identity">
+         <class id="optimal"/>
+         <span end="25245" id="PMC3659910.nxml.gz-590" start="25238">optimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-591" type="identity">
+         <class id="probable_understanding"/>
+         <span end="25265" id="PMC3659910.nxml.gz-591" start="25262">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-592" type="identity">
+         <class id="many"/>
+         <span end="25270" id="PMC3659910.nxml.gz-592" start="25266">many</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-593" type="identity">
+         <class id="probable_understanding"/>
+         <span end="25278" id="PMC3659910.nxml.gz-593" start="25271">experts</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-594" type="identity">
+         <class id="optimal"/>
+         <span end="25325" id="PMC3659910.nxml.gz-594" start="25318">optimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-595" type="identity">
+         <class id="controversy"/>
+         <span end="25342" id="PMC3659910.nxml.gz-595" start="25331">Controversy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-596" type="identity">
+         <class id="subject_scope"/>
+         <span end="25473" id="PMC3659910.nxml.gz-596" start="25331">Controversy exists regarding the optimum concentration of serum 25-hydroxyvitamin D for defining vitamin D deficiency, especially in pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-597" type="identity">
+         <class id="defining"/>
+         <span end="25427" id="PMC3659910.nxml.gz-597" start="25419">defining</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-598" type="identity">
+         <class id="important_consideration"/>
+         <span end="25460" id="PMC3659910.nxml.gz-598" start="25450">especially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-599" type="identity">
+         <class id="most"/>
+         <span end="25479" id="PMC3659910.nxml.gz-599" start="25475">Most</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-600" type="identity">
+         <class id="subject_scope"/>
+         <span end="25569" id="PMC3659910.nxml.gz-600" start="25475">Most experts agree that serum vitamin D levels below 50 nmol/L (20 ng/mL) represent deficiency</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-601" type="identity">
+         <class id="probable_understanding"/>
+         <span end="25487" id="PMC3659910.nxml.gz-601" start="25480">experts</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-602" type="identity">
+         <class id="represent"/>
+         <span end="25558" id="PMC3659910.nxml.gz-602" start="25549">represent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-603" type="identity">
+         <class id="however"/>
+         <span end="25578" id="PMC3659910.nxml.gz-603" start="25571">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-604" type="identity">
+         <class id="subject_scope"/>
+         <span end="25702" id="PMC3659910.nxml.gz-604" start="25571">However this current practice is based on the skeletal actions of the vitamin and may not be applicable for its non-classic actions</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-605" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="25591" id="PMC3659910.nxml.gz-605" start="25584">current</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-606" type="identity">
+         <class id="probable_understanding"/>
+         <span end="25612" id="PMC3659910.nxml.gz-606" start="25604">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-607" type="identity">
+         <class id="may_not"/>
+         <span end="25660" id="PMC3659910.nxml.gz-607" start="25653">may not</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-608" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="25694" id="PMC3659910.nxml.gz-608" start="25683">non-classic</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-609" type="identity">
+         <class id="subject_scope"/>
+         <span end="25839" id="PMC3659910.nxml.gz-609" start="25704">As was recently pointed out in a Cochrane review, the topic of maternal vitamin D requirements during pregnancy has been poorly studied</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-610" type="identity">
+         <class id="recently"/>
+         <span end="25719" id="PMC3659910.nxml.gz-610" start="25711">recently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-611" type="identity">
+         <class id="pointed"/>
+         <span end="25727" id="PMC3659910.nxml.gz-611" start="25720">pointed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-612" type="identity">
+         <class id="requirements"/>
+         <span end="25798" id="PMC3659910.nxml.gz-612" start="25786">requirements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-613" type="identity">
+         <class id="has...been"/>
+         <span end="25824" id="PMC3659910.nxml.gz-613" start="25816">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-614" type="identity">
+         <class id="problem_complication"/>
+         <span end="25831" id="PMC3659910.nxml.gz-614" start="25825">poorly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-615" type="identity">
+         <class id="subject_scope"/>
+         <span end="25923" id="PMC3659910.nxml.gz-615" start="25841">The reality is that the actual vitamin D requirement during pregnancy is not known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-616" type="identity">
+         <class id="requirement"/>
+         <span end="25893" id="PMC3659910.nxml.gz-616" start="25882">requirement</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-617" type="identity">
+         <class id="not_known"/>
+         <span end="25923" id="PMC3659910.nxml.gz-617" start="25914">not known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-618" type="identity">
+         <class id="subject_scope"/>
+         <span end="26004" id="PMC3659910.nxml.gz-618" start="25925">For that matter, the requirement for the general population is not known either</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-619" type="identity">
+         <class id="requirement"/>
+         <span end="25957" id="PMC3659910.nxml.gz-619" start="25946">requirement</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-620" type="identity">
+         <class id="not_known"/>
+         <span end="25997" id="PMC3659910.nxml.gz-620" start="25988">not known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-621" type="identity">
+         <class id="subject_scope"/>
+         <span end="26064" id="PMC3659910.nxml.gz-621" start="26006">There is no dietary recommended intake (DRI) for vitamin D</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-622" type="identity">
+         <class id="no"/>
+         <span end="26017" id="PMC3659910.nxml.gz-622" start="26015">no</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-623" type="identity">
+         <class id="recommended"/>
+         <span end="26037" id="PMC3659910.nxml.gz-623" start="26026">recommended</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-624" type="identity">
+         <class id="subject_scope"/>
+         <span end="26167" id="PMC3659910.nxml.gz-624" start="26066">What is known today is that for a pregnant woman, the adequate intake for vitamin D is 200 IU per day</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-625" type="identity">
+         <class id="is_known"/>
+         <span end="26079" id="PMC3659910.nxml.gz-625" start="26071">is known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-626" type="identity">
+         <class id="however"/>
+         <span end="26176" id="PMC3659910.nxml.gz-626" start="26169">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-627" type="identity">
+         <class id="subject_scope"/>
+         <span end="26322" id="PMC3659910.nxml.gz-627" start="26169">However this recommended level, which was largely arbitrarily set, seems to be less helpful to improve the nutritional vitamin D status of pregnant women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-628" type="identity">
+         <class id="recommended"/>
+         <span end="26193" id="PMC3659910.nxml.gz-628" start="26182">recommended</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-629" type="identity">
+         <class id="largely"/>
+         <span end="26218" id="PMC3659910.nxml.gz-629" start="26211">largely</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-630" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="26230" id="PMC3659910.nxml.gz-630" start="26219">arbitrarily</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-631" type="identity">
+         <class id="seems"/>
+         <span end="26241" id="PMC3659910.nxml.gz-631" start="26236">seems</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-632" type="identity">
+         <class id="to_be"/>
+         <span end="26247" id="PMC3659910.nxml.gz-632" start="26242">to be</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-633" type="identity">
+         <class id="important_consideration"/>
+         <span end="26260" id="PMC3659910.nxml.gz-633" start="26248">less helpful</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-634" type="identity">
+         <class id="improve"/>
+         <span end="26271" id="PMC3659910.nxml.gz-634" start="26264">improve</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-635" type="identity">
+         <class id="subject_scope"/>
+         <span end="26414" id="PMC3659910.nxml.gz-635" start="26324">National Osteoporosis Foundation's (NOF) recommends 400-800IU vitamin D for pregnant women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-636" type="identity">
+         <class id="recommends"/>
+         <span end="26375" id="PMC3659910.nxml.gz-636" start="26365">recommends</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-637" type="identity">
+         <class id="subject_scope"/>
+         <span end="26743" id="PMC3659910.nxml.gz-637" start="26416">A recent systematic review concluded that antenatal vitamin D supplementation is effective in improving the vitamin D status of Asian and white women, improves growth in the first year of life in South Asian babies and therefore may contribute to reducing the incidence of rickets in this latter group, without evidence of harm</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-638" type="identity">
+         <class id="recent"/>
+         <span end="26424" id="PMC3659910.nxml.gz-638" start="26418">recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-639" type="identity">
+         <class id="concluded"/>
+         <span end="26452" id="PMC3659910.nxml.gz-639" start="26443">concluded</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-640" type="identity">
+         <class id="effective"/>
+         <span end="26506" id="PMC3659910.nxml.gz-640" start="26497">effective</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-641" type="identity">
+         <class id="future_work"/>
+         <span end="26575" id="PMC3659910.nxml.gz-641" start="26567">improves</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-642" type="identity">
+         <class id="therefore"/>
+         <span end="26644" id="PMC3659910.nxml.gz-642" start="26635">therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-643" type="identity">
+         <class id="future_prediction"/>
+         <span end="26648" id="PMC3659910.nxml.gz-643" start="26645">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-644" type="identity">
+         <class id="contribute"/>
+         <span end="26659" id="PMC3659910.nxml.gz-644" start="26649">contribute</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-645" type="identity">
+         <class id="evidence"/>
+         <span end="26735" id="PMC3659910.nxml.gz-645" start="26727">evidence</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-646" type="identity">
+         <class id="subject_scope"/>
+         <span end="26818" id="PMC3659910.nxml.gz-646" start="26749">The NICE guidelines for antenatal care were therefore updated in 2008</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-647" type="identity">
+         <class id="guidelines"/>
+         <span end="26768" id="PMC3659910.nxml.gz-647" start="26758">guidelines</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-648" type="identity">
+         <class id="therefore"/>
+         <span end="26802" id="PMC3659910.nxml.gz-648" start="26793">therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-649" type="identity">
+         <class id="subject_scope"/>
+         <span end="27038" id="PMC3659910.nxml.gz-649" start="26820">Current NICE guidance states clearly that pregnant women are informed, at their first antenatal booking, of the importance of adequate vitamin D during pregnancy and after, to maintain their own and their baby's health</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-650" type="identity">
+         <class id="guidance"/>
+         <span end="26841" id="PMC3659910.nxml.gz-650" start="26833">guidance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-651" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="26848" id="PMC3659910.nxml.gz-651" start="26842">states</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-652" type="identity">
+         <class id="importance"/>
+         <span end="26942" id="PMC3659910.nxml.gz-652" start="26932">importance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-653" type="identity">
+         <class id="subject_scope"/>
+         <span end="27134" id="PMC3659910.nxml.gz-653" start="27040">These women are advised to take 10 micrograms per day in the form of a multivitamin supplement</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-654" type="identity">
+         <class id="advised"/>
+         <span end="27063" id="PMC3659910.nxml.gz-654" start="27056">advised</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-655" type="identity">
+         <class id="subject_scope"/>
+         <span end="27201" id="PMC3659910.nxml.gz-655" start="27136">It is crucial to ensure that at-risk women are aware of this need</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-656" type="identity">
+         <class id="crucial"/>
+         <span end="27149" id="PMC3659910.nxml.gz-656" start="27142">crucial</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-657" type="identity">
+         <class id="important_consideration"/>
+         <span end="27172" id="PMC3659910.nxml.gz-657" start="27165">at-risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-658" type="identity">
+         <class id="important_consideration"/>
+         <span end="27201" id="PMC3659910.nxml.gz-658" start="27197">need</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-659" type="identity">
+         <class id="subject_scope"/>
+         <span end="27425" id="PMC3659910.nxml.gz-659" start="27203">Those identified as at-risk include: Women from black and ethnic minorities who are socially-excluded, women with limited exposure to sunlight, especially those who are housebound and obese women with prepregnancy BMI &gt; 30</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-660" type="identity">
+         <class id="identified"/>
+         <span end="27219" id="PMC3659910.nxml.gz-660" start="27209">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-661" type="identity">
+         <class id="important_consideration"/>
+         <span end="27230" id="PMC3659910.nxml.gz-661" start="27223">at-risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-662" type="identity">
+         <class id="important_consideration"/>
+         <span end="27357" id="PMC3659910.nxml.gz-662" start="27347">especially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-663" type="identity">
+         <class id="subject_scope"/>
+         <span end="27492" id="PMC3659910.nxml.gz-663" start="27427">Current U.S. guidelines call for pregnant women to get 400-600 IU</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-664" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="27434" id="PMC3659910.nxml.gz-664" start="27427">Current</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-665" type="identity">
+         <class id="guidelines"/>
+         <span end="27450" id="PMC3659910.nxml.gz-665" start="27440">guidelines</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-666" type="identity">
+         <class id="call"/>
+         <span end="27455" id="PMC3659910.nxml.gz-666" start="27451">call</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-667" type="identity">
+         <class id="difficult_task"/>
+         <span end="27501" id="PMC3659910.nxml.gz-667" start="27494">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-668" type="identity">
+         <class id="subject_scope"/>
+         <span end="27600" id="PMC3659910.nxml.gz-668" start="27494">However, research in recent years has been challenging those ideas on what is enough, and what is too much</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-669" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="27511" id="PMC3659910.nxml.gz-669" start="27503">research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-670" type="identity">
+         <class id="recent"/>
+         <span end="27521" id="PMC3659910.nxml.gz-670" start="27515">recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-671" type="identity">
+         <class id="has_been"/>
+         <span end="27536" id="PMC3659910.nxml.gz-671" start="27528">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-672" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="27548" id="PMC3659910.nxml.gz-672" start="27537">challenging</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-673" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="27560" id="PMC3659910.nxml.gz-673" start="27555">ideas</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-674" type="identity">
+         <class id="what"/>
+         <span end="27568" id="PMC3659910.nxml.gz-674" start="27564">what</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-675" type="identity">
+         <class id="what"/>
+         <span end="27588" id="PMC3659910.nxml.gz-675" start="27584">what</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-676" type="identity">
+         <class id="subject_scope"/>
+         <span end="27648" id="PMC3659910.nxml.gz-676" start="27602">The U.S. guidelines are currently under review</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-677" type="identity">
+         <class id="guidelines"/>
+         <span end="27621" id="PMC3659910.nxml.gz-677" start="27611">guidelines</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-678" type="identity">
+         <class id="currently"/>
+         <span end="27635" id="PMC3659910.nxml.gz-678" start="27626">currently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-679" type="identity">
+         <class id="subject_scope"/>
+         <span end="27750" id="PMC3659910.nxml.gz-679" start="27650">For now, though, 600 IU in prenatal vitamins remains the recommended daily intake for pregnant women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-680" type="identity">
+         <class id="though"/>
+         <span end="27665" id="PMC3659910.nxml.gz-680" start="27659">though</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-681" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="27702" id="PMC3659910.nxml.gz-681" start="27695">remains</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-682" type="identity">
+         <class id="recommended"/>
+         <span end="27718" id="PMC3659910.nxml.gz-682" start="27707">recommended</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-683" type="identity">
+         <class id="however"/>
+         <span end="27759" id="PMC3659910.nxml.gz-683" start="27752">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-684" type="identity">
+         <class id="subject_scope"/>
+         <span end="27875" id="PMC3659910.nxml.gz-684" start="27752">However, getting 25(OH) D levels consistently above 75 nmol/L (30 ng/mL) may require at least 1500-2000 IU/day of vitamin D</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-685" type="identity">
+         <class id="may"/>
+         <span end="27828" id="PMC3659910.nxml.gz-685" start="27825">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-686" type="identity">
+         <class id="require"/>
+         <span end="27836" id="PMC3659910.nxml.gz-686" start="27829">require</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-687" type="identity">
+         <class id="at_least"/>
+         <span end="27845" id="PMC3659910.nxml.gz-687" start="27837">at least</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-688" type="identity">
+         <class id="subject_scope"/>
+         <span end="28035" id="PMC3659910.nxml.gz-688" start="27877">If a mother is vitamin D deficient, breast milk is not a good source of vitamin D, so infants need to be given vitamin D supplementation until they are weaned</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-689" type="identity">
+         <class id="so"/>
+         <span end="27962" id="PMC3659910.nxml.gz-689" start="27960">so</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3659910.nxml.gz-690" type="identity">
+         <class id="important_consideration"/>
+         <span end="27981" id="PMC3659910.nxml.gz-690" start="27971">need to be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-691" type="identity">
+         <class id="subject_scope"/>
+         <span end="28181" id="PMC3659910.nxml.gz-691" start="28037">Also women are encouraged to continue to take vitamin D supplements after pregnancy to help protect against health problems such as osteoporosis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-692" type="identity">
+         <class id="important_consideration"/>
+         <span end="28062" id="PMC3659910.nxml.gz-692" start="28052">encouraged</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-693" type="identity">
+         <class id="help"/>
+         <span end="28128" id="PMC3659910.nxml.gz-693" start="28124">help</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-694" type="identity">
+         <class id="protect"/>
+         <span end="28136" id="PMC3659910.nxml.gz-694" start="28129">protect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-695" type="identity">
+         <class id="important_consideration"/>
+         <span end="28160" id="PMC3659910.nxml.gz-695" start="28152">problems</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-696" type="identity">
+         <class id="subject_scope"/>
+         <span end="28466" id="PMC3659910.nxml.gz-696" start="28183">It was recently shown that a maternal supplementation of 2100 IU vitamin D/day was needed, when administered during the period of lactation, in order to observe an increase in serum levels of 25(OH) D in the breast-fed infants comparable to that observed in children given 400 IU/day</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-697" type="identity">
+         <class id="recently"/>
+         <span end="28198" id="PMC3659910.nxml.gz-697" start="28190">recently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-698" type="identity">
+         <class id="shown"/>
+         <span end="28204" id="PMC3659910.nxml.gz-698" start="28199">shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-699" type="identity">
+         <class id="important_consideration"/>
+         <span end="28272" id="PMC3659910.nxml.gz-699" start="28266">needed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-700" type="identity">
+         <class id="subject_scope"/>
+         <span end="28615" id="PMC3659910.nxml.gz-700" start="28480">Vitamin D has emerged as something of a wonder supplement, according to the claims of dozens of studies published in the past few years</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-701" type="identity">
+         <class id="important_consideration"/>
+         <span end="28501" id="PMC3659910.nxml.gz-701" start="28494">emerged</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-702" type="identity">
+         <class id="according_to"/>
+         <span end="28551" id="PMC3659910.nxml.gz-702" start="28539">according to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-703" type="identity">
+         <class id="claims"/>
+         <span end="28562" id="PMC3659910.nxml.gz-703" start="28556">claims</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-704" type="identity">
+         <class id="studies"/>
+         <span end="28583" id="PMC3659910.nxml.gz-704" start="28576">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-705" type="identity">
+         <class id="few"/>
+         <span end="28609" id="PMC3659910.nxml.gz-705" start="28606">few</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-706" type="identity">
+         <class id="subject_scope"/>
+         <span end="28853" id="PMC3659910.nxml.gz-706" start="28617">The current lack of evidence of benefit for women at lower risk of vitamin D deficiency points to the need for further research into vitamin D supplementation in pregnant women with clinical neonatal and infant end-points under scrutiny</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-707" type="identity">
+         <class id="lack_of_evidence"/>
+         <span end="28645" id="PMC3659910.nxml.gz-707" start="28629">lack of evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-708" type="identity">
+         <class id="risk"/>
+         <span end="28680" id="PMC3659910.nxml.gz-708" start="28676">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-709" type="identity">
+         <class id="need_for_further_research"/>
+         <span end="28744" id="PMC3659910.nxml.gz-709" start="28719">need for further research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-710" type="identity">
+         <class id="scrutiny"/>
+         <span end="28853" id="PMC3659910.nxml.gz-710" start="28845">scrutiny</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-711" type="identity">
+         <class id="subject_scope"/>
+         <span end="28986" id="PMC3659910.nxml.gz-711" start="28855">There is a similar gap in the knowledge base for optimal dosing, as there is little empirical robust evidence to support 600 IU/day</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-712" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="28873" id="PMC3659910.nxml.gz-712" start="28866">similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-713" type="identity">
+         <class id="gap"/>
+         <span end="28877" id="PMC3659910.nxml.gz-713" start="28874">gap</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-714" type="identity">
+         <class id="optimal"/>
+         <span end="28911" id="PMC3659910.nxml.gz-714" start="28904">optimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-715" type="identity">
+         <class id="as"/>
+         <span end="28922" id="PMC3659910.nxml.gz-715" start="28920">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-716" type="identity">
+         <class id="little"/>
+         <span end="28938" id="PMC3659910.nxml.gz-716" start="28932">little</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-717" type="identity">
+         <class id="robust"/>
+         <span end="28955" id="PMC3659910.nxml.gz-717" start="28949">robust</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-718" type="identity">
+         <class id="evidence_to_support"/>
+         <span end="28975" id="PMC3659910.nxml.gz-718" start="28956">evidence to support</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-719" type="identity">
+         <class id="further_research"/>
+         <span end="29004" id="PMC3659910.nxml.gz-719" start="28988">Further research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-720" type="identity">
+         <class id="subject_scope"/>
+         <span end="29196" id="PMC3659910.nxml.gz-720" start="28988">Further research is required, particularly to establish the dose needed to supplement pregnant women with pre-existing deficiency and the optimal gestation at which vitamin D supplementation should be started</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-721" type="identity">
+         <class id="required"/>
+         <span end="29016" id="PMC3659910.nxml.gz-721" start="29008">required</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-722" type="identity">
+         <class id="important_consideration"/>
+         <span end="29030" id="PMC3659910.nxml.gz-722" start="29018">particularly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-723" type="identity">
+         <class id="important_consideration"/>
+         <span end="29059" id="PMC3659910.nxml.gz-723" start="29053">needed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-724" type="identity">
+         <class id="optimal"/>
+         <span end="29133" id="PMC3659910.nxml.gz-724" start="29126">optimal</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-725" type="identity">
+         <class id="important_consideration"/>
+         <span end="29188" id="PMC3659910.nxml.gz-725" start="29179">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-726" type="identity">
+         <class id="recommendations"/>
+         <span end="29213" id="PMC3659910.nxml.gz-726" start="29198">Recommendations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-727" type="identity">
+         <class id="subject_scope"/>
+         <span end="29384" id="PMC3659910.nxml.gz-727" start="29198">Recommendations should be made on informing women of the importance of maintaining adequate vitamin D stores in pregnancy, particularly for those at greatest risk of vitamin D deficiency</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-728" type="identity">
+         <class id="should_be"/>
+         <span end="29223" id="PMC3659910.nxml.gz-728" start="29214">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-729" type="identity">
+         <class id="importance"/>
+         <span end="29265" id="PMC3659910.nxml.gz-729" start="29255">importance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-730" type="identity">
+         <class id="important_consideration"/>
+         <span end="29333" id="PMC3659910.nxml.gz-730" start="29321">particularly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-731" type="identity">
+         <class id="risk"/>
+         <span end="29360" id="PMC3659910.nxml.gz-731" start="29356">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-732" type="identity">
+         <class id="sensible"/>
+         <span end="29394" id="PMC3659910.nxml.gz-732" start="29386">Sensible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-733" type="identity">
+         <class id="subject_scope"/>
+         <span end="29562" id="PMC3659910.nxml.gz-733" start="29386">Sensible sun exposure and education of the public about the beneficial effects of some limited sun exposure to satisfy their body's vitamin D requirements should be implemented</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-734" type="identity">
+         <class id="effects"/>
+         <span end="29464" id="PMC3659910.nxml.gz-734" start="29457">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-735" type="identity">
+         <class id="requirements"/>
+         <span end="29540" id="PMC3659910.nxml.gz-735" start="29528">requirements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-736" type="identity">
+         <class id="should_be"/>
+         <span end="29550" id="PMC3659910.nxml.gz-736" start="29541">should be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-737" type="identity">
+         <class id="future_studies"/>
+         <span end="29578" id="PMC3659910.nxml.gz-737" start="29564">Future studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-738" type="identity">
+         <class id="subject_scope"/>
+         <span end="29886" id="PMC3659910.nxml.gz-738" start="29564">Future studies are essential to determine the true vitamin D requirement during pregnancy not only for maternal skeletal preservation and fetal skeletal formation, but also for fetal “imprinting&quot; that may affect neurodevelopment, immune function and chronic disease susceptibility soon after birth as well as later in life</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-739" type="identity">
+         <class id="essential"/>
+         <span end="29592" id="PMC3659910.nxml.gz-739" start="29583">essential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-740" type="identity">
+         <class id="requirement"/>
+         <span end="29636" id="PMC3659910.nxml.gz-740" start="29625">requirement</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3659910.nxml.gz-741" type="identity">
+         <class id="not_only...but...also"/>
+         <span end="29662" id="PMC3659910.nxml.gz-741" start="29654">not only</span>
+         <span end="29736" id="PMC3659910.nxml.gz-742" start="29728">but also</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-743" type="identity">
+         <class id="future_prediction"/>
+         <span end="29768" id="PMC3659910.nxml.gz-743" start="29765">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-744" type="identity">
+         <class id="affect"/>
+         <span end="29775" id="PMC3659910.nxml.gz-744" start="29769">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3659910.nxml.gz-745" type="identity">
+         <class id="susceptibility"/>
+         <span end="29844" id="PMC3659910.nxml.gz-745" start="29830">susceptibility</span>
+      </annotation>
+   </document>
+</knowtator-project>

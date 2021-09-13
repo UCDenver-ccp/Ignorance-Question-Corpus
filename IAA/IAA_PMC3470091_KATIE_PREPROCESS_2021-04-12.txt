@@ -1,0 +1,71 @@
+ARTICLE:	PMC3470091
+
+CURRENT IGNORANCE TYPE:	important_consideration
+total annotations for annotator KATIE:	12
+total annotations for annotator PREPROCESS:	25
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+important_consideration	27	10	0	0	17	0.37	0.37
+
+CURRENT IGNORANCE TYPE:	alternative_options_controversy
+total annotations for annotator KATIE:	11
+total annotations for annotator PREPROCESS:	32
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options_controversy	32	11	0	0	21	0.34	0.34
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator KATIE:	48
+total annotations for annotator PREPROCESS:	89
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	91	45	1	0	45	0.49	0.51
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator KATIE:	10
+total annotations for annotator PREPROCESS:	43
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+probable_understanding	44	9	0	0	35	0.20	0.20
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator KATIE:	9
+total annotations for annotator PREPROCESS:	11
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	15	5	0	0	10	0.33	0.33
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator KATIE:	2
+total annotations for annotator PREPROCESS:	10
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	11	1	0	0	10	0.09	0.09
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator KATIE:	32
+total annotations for annotator PREPROCESS:	37
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	37	32	0	0	5	0.86	0.86
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator KATIE:	2
+total annotations for annotator PREPROCESS:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_prediction	3	2	0	0	1	0.67	0.67
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator KATIE:	11
+total annotations for annotator PREPROCESS:	40
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	40	11	0	0	29	0.28	0.28
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator KATIE:	1
+total annotations for annotator PREPROCESS:	33
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+full_unknown	33	1	0	0	32	0.03	0.03
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator KATIE:	3
+total annotations for annotator PREPROCESS:	9
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	9	3	0	0	6	0.33	0.33
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	360	130	1	2	227	0.36	0.37
+subject_scope	53	0	0	0	53	0.00	0.00

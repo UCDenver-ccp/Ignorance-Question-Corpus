@@ -1,0 +1,89 @@
+ARTICLE:	PMC3659910
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator ADJUDICATED:	142
+total annotations for annotator ANNOTATOR:	135
+total annotations for annotator PREPROCESS:	201
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	248	130	1	0	117	0.52	0.53
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator ADJUDICATED:	8
+total annotations for annotator ANNOTATOR:	8
+total annotations for annotator PREPROCESS:	24
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+full_unknown	24	8	0	0	16	0.33	0.33
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator ADJUDICATED:	39
+total annotations for annotator ANNOTATOR:	39
+total annotations for annotator PREPROCESS:	68
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	80	29	0	8	43	0.36	0.46
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator ADJUDICATED:	8
+total annotations for annotator ANNOTATOR:	6
+total annotations for annotator PREPROCESS:	32
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	42	6	0	0	36	0.14	0.14
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator ADJUDICATED:	84
+total annotations for annotator ANNOTATOR:	84
+total annotations for annotator PREPROCESS:	92
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	107	79	0	0	28	0.74	0.74
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator ADJUDICATED:	20
+total annotations for annotator ANNOTATOR:	19
+total annotations for annotator PREPROCESS:	27
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	42	19	0	0	23	0.45	0.45
+
+CURRENT IGNORANCE TYPE:	alternative_options_controversy
+total annotations for annotator ADJUDICATED:	29
+total annotations for annotator ANNOTATOR:	21
+total annotations for annotator PREPROCESS:	48
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options_controversy	62	20	1	0	41	0.32	0.34
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator ADJUDICATED:	9
+total annotations for annotator ANNOTATOR:	7
+total annotations for annotator PREPROCESS:	8
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	16	7	0	0	9	0.44	0.44
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator ADJUDICATED:	52
+total annotations for annotator ANNOTATOR:	49
+total annotations for annotator PREPROCESS:	66
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+probable_understanding	105	48	0	0	57	0.46	0.46
+
+CURRENT IGNORANCE TYPE:	important_consideration
+total annotations for annotator ADJUDICATED:	122
+total annotations for annotator ANNOTATOR:	116
+total annotations for annotator PREPROCESS:	87
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+important_consideration	174	78	0	2	94	0.45	0.46
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator ADJUDICATED:	10
+total annotations for annotator ANNOTATOR:	10
+total annotations for annotator PREPROCESS:	16
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_prediction	24	10	0	0	14	0.42	0.42
+
+CURRENT IGNORANCE TYPE:	explicit_question
+total annotations for annotator ADJUDICATED:	13
+total annotations for annotator ANNOTATOR:	13
+total annotations for annotator PREPROCESS:	27
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+explicit_question	33	13	0	0	20	0.39	0.39
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	925	452	3	37	433	0.49	0.53
+subject_scope	334	0	0	0	334	0.00	0.00

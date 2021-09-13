@@ -1,0 +1,1941 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC4037583.nxml.gz" text-file="PMC4037583.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="178" id="PMC4037583.nxml.gz-1" start="0">Differential Expression of Placental Glucocorticoid Receptors and Growth Arrest-Specific Transcript 5 in Term and Preterm Pregnancies: Evidence for Involvement of Maternal Stress</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-2" type="identity">
+         <class id="differential"/>
+         <span end="12" id="PMC4037583.nxml.gz-2" start="0">Differential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-3" type="identity">
+         <class id="evidence"/>
+         <span end="143" id="PMC4037583.nxml.gz-3" start="135">Evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-4" type="identity">
+         <class id="subject_scope"/>
+         <span end="238" id="PMC4037583.nxml.gz-4" start="189">Pregnancy-specific stress predicts birth outcomes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-5" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="223" id="PMC4037583.nxml.gz-5" start="215">predicts</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-6" type="identity">
+         <class id="subject_scope"/>
+         <span end="340" id="PMC4037583.nxml.gz-6" start="240">We hypothesized that there is a maternal stress-GR interaction that can influence fetal birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-7" type="identity">
+         <class id="hypothesized"/>
+         <span end="255" id="PMC4037583.nxml.gz-7" start="243">hypothesized</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-8" type="identity">
+         <class id="interaction"/>
+         <span end="302" id="PMC4037583.nxml.gz-8" start="291">interaction</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-9" type="identity">
+         <class id="can"/>
+         <span end="311" id="PMC4037583.nxml.gz-9" start="308">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-10" type="identity">
+         <class id="influence"/>
+         <span end="321" id="PMC4037583.nxml.gz-10" start="312">influence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-11" type="identity">
+         <class id="subject_scope"/>
+         <span end="611" id="PMC4037583.nxml.gz-11" start="342">This study examined the relationship between mothers' stress and attitude towards their pregnancies, placental glucocorticoid receptors (GRs) and growth arrest-specific transcript 5 (GAS5) expression, and the status of GR polymorphism, with their infants' birth weights</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-12" type="identity">
+         <class id="examined"/>
+         <span end="361" id="PMC4037583.nxml.gz-12" start="353">examined</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-13" type="identity">
+         <class id="relationship"/>
+         <span end="378" id="PMC4037583.nxml.gz-13" start="366">relationship</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-14" type="identity">
+         <class id="subject_scope"/>
+         <span end="759" id="PMC4037583.nxml.gz-14" start="613">GAS5 and GR α were the predominant transcripts in both term and preterm placentas, with GAS5 being primarily localized in the syncytiotrophoblasts</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-15" type="identity">
+         <class id="probable_understanding"/>
+         <span end="647" id="PMC4037583.nxml.gz-15" start="636">predominant</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-16" type="identity">
+         <class id="primarily"/>
+         <span end="721" id="PMC4037583.nxml.gz-16" start="712">primarily</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-17" type="identity">
+         <class id="subject_scope"/>
+         <span end="914" id="PMC4037583.nxml.gz-17" start="761">In an attempt to mimic moderate and high stress environment in vitro , BeWo and JEG-3 cytotrophoblast cell lines were treated with 10 nM–1000 nM cortisol</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-18" type="identity">
+         <class id="attempt"/>
+         <span end="774" id="PMC4037583.nxml.gz-18" start="767">attempt</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-19" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="920" id="PMC4037583.nxml.gz-19" start="916">Only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-20" type="identity">
+         <class id="subject_scope"/>
+         <span end="1080" id="PMC4037583.nxml.gz-20" start="916">Only expression of GAS5 was significantly upregulated by cortisol in all treatments compared with basal levels, but none of the GRs changed expression significantly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-21" type="identity">
+         <class id="compared_with"/>
+         <span end="1013" id="PMC4037583.nxml.gz-21" start="1000">compared with</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-22" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="1031" id="PMC4037583.nxml.gz-22" start="1028">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-23" type="identity">
+         <class id="none"/>
+         <span end="1036" id="PMC4037583.nxml.gz-23" start="1032">none</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-24" type="identity">
+         <class id="subject_scope"/>
+         <span end="1172" id="PMC4037583.nxml.gz-24" start="1082">In an attempt to assess a stress versus gene interaction, we studied four GR polymorphisms</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-25" type="identity">
+         <class id="attempt"/>
+         <span end="1095" id="PMC4037583.nxml.gz-25" start="1088">attempt</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-26" type="identity">
+         <class id="to_assess"/>
+         <span end="1105" id="PMC4037583.nxml.gz-26" start="1096">to assess</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-27" type="identity">
+         <class id="interaction"/>
+         <span end="1138" id="PMC4037583.nxml.gz-27" start="1127">interaction</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-28" type="identity">
+         <class id="subject_scope"/>
+         <span end="1389" id="PMC4037583.nxml.gz-28" start="1174">In the homozygous group for Tth111 I polymorphism, mothers with negative attitudes towards the pregnancy gave birth to infants with significantly lower birth weights compared to women with positive/neutral attitudes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-29" type="identity">
+         <class id="compared_to"/>
+         <span end="1351" id="PMC4037583.nxml.gz-29" start="1340">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-30" type="identity">
+         <class id="however"/>
+         <span end="1467" id="PMC4037583.nxml.gz-30" start="1460">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-31" type="identity">
+         <class id="subject_scope"/>
+         <span end="1537" id="PMC4037583.nxml.gz-31" start="1460">However, placental GAS5 levels were inversely correlated with maternal stress</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-32" type="identity">
+         <class id="correlated"/>
+         <span end="1516" id="PMC4037583.nxml.gz-32" start="1506">correlated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-33" type="identity">
+         <class id="subject_scope"/>
+         <span end="1656" id="PMC4037583.nxml.gz-33" start="1539">This study points towards a potential gene-environment interaction that could be of predictive value for fetal weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-34" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1556" id="PMC4037583.nxml.gz-34" start="1550">points</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-35" type="identity">
+         <class id="potential"/>
+         <span end="1576" id="PMC4037583.nxml.gz-35" start="1567">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-36" type="identity">
+         <class id="interaction"/>
+         <span end="1605" id="PMC4037583.nxml.gz-36" start="1594">interaction</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-37" type="identity">
+         <class id="could_be"/>
+         <span end="1619" id="PMC4037583.nxml.gz-37" start="1611">could be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-38" type="identity">
+         <class id="predictive"/>
+         <span end="1633" id="PMC4037583.nxml.gz-38" start="1623">predictive</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-39" type="identity">
+         <class id="subject_scope"/>
+         <span end="1871" id="PMC4037583.nxml.gz-39" start="1675">Pregnancy is associated with major physiological and future psychosocial changes and adaptation to these changes is crucial for normal fetal development and for healthy infant-mother relationships</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC4037583.nxml.gz-40" type="identity">
+         <class id="associated"/>
+         <span end="1698" id="PMC4037583.nxml.gz-40" start="1688">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-41" type="identity">
+         <class id="crucial"/>
+         <span end="1798" id="PMC4037583.nxml.gz-41" start="1791">crucial</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-42" type="identity">
+         <class id="subject_scope"/>
+         <span end="1984" id="PMC4037583.nxml.gz-42" start="1873">Maternal pregnancy-specific stress may be a more powerful contributor to birth outcomes than general stress [1]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-43" type="identity">
+         <class id="may_be"/>
+         <span end="1914" id="PMC4037583.nxml.gz-43" start="1908">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-44" type="identity">
+         <class id="contributor"/>
+         <span end="1942" id="PMC4037583.nxml.gz-44" start="1931">contributor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-45" type="identity">
+         <class id="than"/>
+         <span end="1965" id="PMC4037583.nxml.gz-45" start="1961">than</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-46" type="identity">
+         <class id="to_date"/>
+         <span end="2086" id="PMC4037583.nxml.gz-46" start="2079">To date</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-47" type="identity">
+         <class id="subject_scope"/>
+         <span end="2216" id="PMC4037583.nxml.gz-47" start="2079">To date, four splice variants of the GR gene have been reported, formed by alternative splicing, termed GR α , GR β , GR γ , and GR-P [2]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-48" type="identity">
+         <class id="have_been_reported"/>
+         <span end="2142" id="PMC4037583.nxml.gz-48" start="2124">have been reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-49" type="identity">
+         <class id="subject_scope"/>
+         <span end="2341" id="PMC4037583.nxml.gz-49" start="2218">Numerous studies have also reported the expression of different GR splice variants in different cell and tissue types [3–6]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-50" type="identity">
+         <class id="studies"/>
+         <span end="2234" id="PMC4037583.nxml.gz-50" start="2227">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-51" type="identity">
+         <class id="reported"/>
+         <span end="2253" id="PMC4037583.nxml.gz-51" start="2245">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-52" type="identity">
+         <class id="different"/>
+         <span end="2281" id="PMC4037583.nxml.gz-52" start="2272">different</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-53" type="identity">
+         <class id="different"/>
+         <span end="2313" id="PMC4037583.nxml.gz-53" start="2304">different</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-54" type="identity">
+         <class id="subject_scope"/>
+         <span end="2724" id="PMC4037583.nxml.gz-54" start="2504">In a recent study by Kino and colleagues it was demonstrated that GAS5 ncRNA may be a repressor for the GR by acting as a decoy “glucocorticoid response element (GRE),” thus, competing with DNA GREs for binding to the GR</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-55" type="identity">
+         <class id="a...study"/>
+         <span end="2508" id="PMC4037583.nxml.gz-55" start="2507">a</span>
+         <span end="2521" id="PMC4037583.nxml.gz-56" start="2516">study</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-57" type="identity">
+         <class id="recent_study"/>
+         <span end="2521" id="PMC4037583.nxml.gz-57" start="2509">recent study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-58" type="identity">
+         <class id="demonstrated"/>
+         <span end="2564" id="PMC4037583.nxml.gz-58" start="2552">demonstrated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-59" type="identity">
+         <class id="may_be"/>
+         <span end="2587" id="PMC4037583.nxml.gz-59" start="2581">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-60" type="identity">
+         <class id="thus"/>
+         <span end="2677" id="PMC4037583.nxml.gz-60" start="2673">thus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-61" type="identity">
+         <class id="subject_scope"/>
+         <span end="3054" id="PMC4037583.nxml.gz-61" start="2824">Changes in the epigenetic regulation of the fetal GR promoter have been associated with exposure to prenatal maternal stress [9] reflecting a possible effect of maternal stress on the expression and function of the GR in the fetus</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-62" type="identity">
+         <class id="regulation"/>
+         <span end="2860" id="PMC4037583.nxml.gz-62" start="2850">regulation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-63" type="identity">
+         <class id="associated"/>
+         <span end="2906" id="PMC4037583.nxml.gz-63" start="2896">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-64" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2963" id="PMC4037583.nxml.gz-64" start="2953">reflecting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-65" type="identity">
+         <class id="possible"/>
+         <span end="2974" id="PMC4037583.nxml.gz-65" start="2966">possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-66" type="identity">
+         <class id="effect"/>
+         <span end="2981" id="PMC4037583.nxml.gz-66" start="2975">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-67" type="identity">
+         <class id="subject_scope"/>
+         <span end="3233" id="PMC4037583.nxml.gz-67" start="3056">A GR Bcl I polymorphism has been associated with increased glucocorticoid sensitivity and was overrepresented in pregnant women with pathological, fetomaternal immune adaptation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-68" type="identity">
+         <class id="associated"/>
+         <span end="3099" id="PMC4037583.nxml.gz-68" start="3089">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-69" type="identity">
+         <class id="subject_scope"/>
+         <span end="3465" id="PMC4037583.nxml.gz-69" start="3235">Indeed, a number of polymorphisms have been described in the gene coding for the GR although it is still unclear whether the variability in the glucocorticoid responses observed is due to the polymorphisms or to other factors [10]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-70" type="identity">
+         <class id="number_of"/>
+         <span end="3254" id="PMC4037583.nxml.gz-70" start="3245">number of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-71" type="identity">
+         <class id="described"/>
+         <span end="3288" id="PMC4037583.nxml.gz-71" start="3279">described</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-72" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="3327" id="PMC4037583.nxml.gz-72" start="3319">although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-73" type="identity">
+         <class id="still_unclear"/>
+         <span end="3347" id="PMC4037583.nxml.gz-73" start="3334">still unclear</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-74" type="identity">
+         <class id="whether...or"/>
+         <span end="3355" id="PMC4037583.nxml.gz-74" start="3348">whether</span>
+         <span end="3443" id="PMC4037583.nxml.gz-75" start="3441">or</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-76" type="identity">
+         <class id="variability"/>
+         <span end="3371" id="PMC4037583.nxml.gz-76" start="3360">variability</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-77" type="identity">
+         <class id="other"/>
+         <span end="3452" id="PMC4037583.nxml.gz-77" start="3447">other</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-78" type="identity">
+         <class id="factors"/>
+         <span end="3460" id="PMC4037583.nxml.gz-78" start="3453">factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-79" type="identity">
+         <class id="subject_scope"/>
+         <span end="3551" id="PMC4037583.nxml.gz-79" start="3467">This sensitivity could be one mechanism linking maternal stress to fetal development</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-80" type="identity">
+         <class id="could_be"/>
+         <span end="3492" id="PMC4037583.nxml.gz-80" start="3484">could be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-81" type="identity">
+         <class id="linking"/>
+         <span end="3514" id="PMC4037583.nxml.gz-81" start="3507">linking</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-82" type="identity">
+         <class id="only"/>
+         <span end="3557" id="PMC4037583.nxml.gz-82" start="3553">Only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-83" type="identity">
+         <class id="subject_scope"/>
+         <span end="3709" id="PMC4037583.nxml.gz-83" start="3553">Only few of these polymorphisms are functionally relevant and these are the Tth111 I, the ER22/23EK, the N363S, the—already mentioned— Bcl I, and the GR-9 β</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-84" type="identity">
+         <class id="few"/>
+         <span end="3561" id="PMC4037583.nxml.gz-84" start="3558">few</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-85" type="identity">
+         <class id="relevant"/>
+         <span end="3610" id="PMC4037583.nxml.gz-85" start="3602">relevant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-86" type="identity">
+         <class id="studies"/>
+         <span end="3719" id="PMC4037583.nxml.gz-86" start="3712">Studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-87" type="identity">
+         <class id="subject_scope"/>
+         <span end="3940" id="PMC4037583.nxml.gz-87" start="3712">Studies have shown that at least three polymorphisms are associated with altered glucocorticoid sensitivity and also with changes in body composition and metabolic parameters [10,11], which could affect fetal development as well</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-88" type="identity">
+         <class id="have_shown"/>
+         <span end="3730" id="PMC4037583.nxml.gz-88" start="3720">have shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-89" type="identity">
+         <class id="at_least"/>
+         <span end="3744" id="PMC4037583.nxml.gz-89" start="3736">at least</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-90" type="identity">
+         <class id="associated"/>
+         <span end="3779" id="PMC4037583.nxml.gz-90" start="3769">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-91" type="identity">
+         <class id="could"/>
+         <span end="3907" id="PMC4037583.nxml.gz-91" start="3902">could</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-92" type="identity">
+         <class id="affect"/>
+         <span end="3914" id="PMC4037583.nxml.gz-92" start="3908">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-93" type="identity">
+         <class id="subject_scope"/>
+         <span end="4152" id="PMC4037583.nxml.gz-93" start="3942">This study examined the relationship between mothers' stress levels and attitude towards their pregnancies, placental GR and GAS5 expression, and the status of GR polymorphism, with their infants' birth weights</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-94" type="identity">
+         <class id="examined"/>
+         <span end="3961" id="PMC4037583.nxml.gz-94" start="3953">examined</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-95" type="identity">
+         <class id="relationship"/>
+         <span end="3978" id="PMC4037583.nxml.gz-95" start="3966">relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-96" type="identity">
+         <class id="subject_scope"/>
+         <span end="4250" id="PMC4037583.nxml.gz-96" start="4154">We also examined the maternal attitude versus gene interaction in relation to fetal birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-97" type="identity">
+         <class id="examined"/>
+         <span end="4170" id="PMC4037583.nxml.gz-97" start="4162">examined</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-98" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="4199" id="PMC4037583.nxml.gz-98" start="4193">versus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-99" type="identity">
+         <class id="interaction"/>
+         <span end="4216" id="PMC4037583.nxml.gz-99" start="4205">interaction</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-100" type="identity">
+         <class id="relation"/>
+         <span end="4228" id="PMC4037583.nxml.gz-100" start="4220">relation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-101" type="identity">
+         <class id="subject_scope"/>
+         <span end="4439" id="PMC4037583.nxml.gz-101" start="4252">Moreover, we tested the effect of cortisol on GR splicing and GAS5 expression of BeWo and JEG-3 placental cells, in an attempt to resemble a low, moderate, and high stress milieu in vitro</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-102" type="identity">
+         <class id="effect"/>
+         <span end="4282" id="PMC4037583.nxml.gz-102" start="4276">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-103" type="identity">
+         <class id="attempt"/>
+         <span end="4378" id="PMC4037583.nxml.gz-103" start="4371">attempt</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-104" type="identity">
+         <class id="subject_scope"/>
+         <span end="5442" id="PMC4037583.nxml.gz-104" start="5389">The exact cause of maternal stress was not identified</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-105" type="identity">
+         <class id="not...identified"/>
+         <span end="5442" id="PMC4037583.nxml.gz-105" start="5428">not identified</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-106" type="identity">
+         <class id="subject_scope"/>
+         <span end="13307" id="PMC4037583.nxml.gz-106" start="12823">We also tested the relationships between continuous predictors (women's age, stress) and infant weight, using Pearson correlations and partial correlations (when adjusting for age and BMI) and using  t -tests for dichotomous predictors (e.g., planned pregnancy) and ANOVA for testing the relationship between attitude type and infant birth weight, while controlling statistically for relevant confounders such as mothers' age, BMI, pregnancy planning, and pregnancy nutritional habits</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-107" type="identity">
+         <class id="relationships"/>
+         <span end="12855" id="PMC4037583.nxml.gz-107" start="12842">relationships</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-108" type="identity">
+         <class id="relationship"/>
+         <span end="13123" id="PMC4037583.nxml.gz-108" start="13111">relationship</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-109" type="identity">
+         <class id="confounders"/>
+         <span end="13227" id="PMC4037583.nxml.gz-109" start="13216">confounders</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-110" type="identity">
+         <class id="subject_scope"/>
+         <span end="13606" id="PMC4037583.nxml.gz-110" start="13364">Quantitative RT-PCR revealed that GAS5 and all GRs were expressed in human placentas ( n = 23); 13 were preterm labor (&lt;37 gestational weeks) and 10 were term (&gt;37 gestational weeks) labor, with GAS5 and GR α being the predominant transcripts</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-111" type="identity">
+         <class id="probable_understanding"/>
+         <span end="13594" id="PMC4037583.nxml.gz-111" start="13583">predominant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-112" type="identity">
+         <class id="subject_scope"/>
+         <span end="13946" id="PMC4037583.nxml.gz-112" start="13866">It is evident that the major transcripts in the human placenta are GR α and GAS5</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-113" type="identity">
+         <class id="evident"/>
+         <span end="13879" id="PMC4037583.nxml.gz-113" start="13872">evident</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-114" type="identity">
+         <class id="major"/>
+         <span end="13894" id="PMC4037583.nxml.gz-114" start="13889">major</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-115" type="identity">
+         <class id="subject_scope"/>
+         <span end="14105" id="PMC4037583.nxml.gz-115" start="13948">When relative mRNA abundance was calculated, an approximate 4-fold change in the GR α /GR-P in the preterm labor group was noted compared with the term group</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-116" type="identity">
+         <class id="approximate"/>
+         <span end="14007" id="PMC4037583.nxml.gz-116" start="13996">approximate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-117" type="identity">
+         <class id="noted"/>
+         <span end="14076" id="PMC4037583.nxml.gz-117" start="14071">noted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-118" type="identity">
+         <class id="compared_with"/>
+         <span end="14090" id="PMC4037583.nxml.gz-118" start="14077">compared with</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-119" type="identity">
+         <class id="subject_scope"/>
+         <span end="14238" id="PMC4037583.nxml.gz-119" start="14107">In addition, a twofold increase in the GR α /GAS5 ratio was also noted in the preterm group compared to the term group (seeTable 2)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-120" type="identity">
+         <class id="noted"/>
+         <span end="14177" id="PMC4037583.nxml.gz-120" start="14172">noted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-121" type="identity">
+         <class id="compared_to"/>
+         <span end="14210" id="PMC4037583.nxml.gz-121" start="14199">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-122" type="identity">
+         <class id="subject_scope"/>
+         <span end="14377" id="PMC4037583.nxml.gz-122" start="14240">In term placentas, there was a significant correlation between GR β and GR γ ( r = 0.580, P = 0.038) and with GR-P ( r = 0.980, P&lt; 0.001)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-123" type="identity">
+         <class id="significant"/>
+         <span end="14282" id="PMC4037583.nxml.gz-123" start="14271">significant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-124" type="identity">
+         <class id="correlation"/>
+         <span end="14294" id="PMC4037583.nxml.gz-124" start="14283">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-125" type="identity">
+         <class id="subject_scope"/>
+         <span end="14552" id="PMC4037583.nxml.gz-125" start="14379">In the preterm group, the dynamics of GR splicing were altered, since GR α correlated with GR-P ( r = 0.710, P = 0.021) and GR β correlated with GAS5 ( r = 0.792, P = 0.011)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-126" type="identity">
+         <class id="probable_understanding"/>
+         <span end="14448" id="PMC4037583.nxml.gz-126" start="14443">since</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-127" type="identity">
+         <class id="correlated"/>
+         <span end="14464" id="PMC4037583.nxml.gz-127" start="14454">correlated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-128" type="identity">
+         <class id="correlated"/>
+         <span end="14518" id="PMC4037583.nxml.gz-128" start="14508">correlated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-129" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="14561" id="PMC4037583.nxml.gz-129" start="14554">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-130" type="identity">
+         <class id="subject_scope"/>
+         <span end="14704" id="PMC4037583.nxml.gz-130" start="14554">However, no significant correlation was noted in the preterm group between fetal weight or maternal stress and the relative expression of GRs and GAS5</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-131" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="14565" id="PMC4037583.nxml.gz-131" start="14563">no</span>
+         <span end="14599" id="PMC4037583.nxml.gz-132" start="14594">noted</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-133" type="identity">
+         <class id="noted"/>
+         <span end="14599" id="PMC4037583.nxml.gz-133" start="14594">noted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-134" type="identity">
+         <class id="subject_scope"/>
+         <span end="14818" id="PMC4037583.nxml.gz-134" start="14706">In the term group, the only significant correlation was between GAS5 and maternal stress ( r = −0.711, P = 0.021</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-135" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="14733" id="PMC4037583.nxml.gz-135" start="14729">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-136" type="identity">
+         <class id="significant"/>
+         <span end="14745" id="PMC4037583.nxml.gz-136" start="14734">significant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-137" type="identity">
+         <class id="correlation"/>
+         <span end="14757" id="PMC4037583.nxml.gz-137" start="14746">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-138" type="identity">
+         <class id="due_to"/>
+         <span end="14827" id="PMC4037583.nxml.gz-138" start="14821">Due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-139" type="identity">
+         <class id="subject_scope"/>
+         <span end="14938" id="PMC4037583.nxml.gz-139" start="14821">Due to ethical restrictions, we were only able to assess the expression of GR α / β in 4 term and 3 preterm placentas</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-140" type="identity">
+         <class id="only"/>
+         <span end="14862" id="PMC4037583.nxml.gz-140" start="14858">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-141" type="identity">
+         <class id="probable_understanding"/>
+         <span end="14945" id="PMC4037583.nxml.gz-141" start="14940">Since</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-142" type="identity">
+         <class id="subject_scope"/>
+         <span end="15086" id="PMC4037583.nxml.gz-142" start="14940">Since GR is present as different isoforms, multiple bands were observed and there was an expected interpatient variation in the protein expression</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-143" type="identity">
+         <class id="observed"/>
+         <span end="15011" id="PMC4037583.nxml.gz-143" start="15003">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-144" type="identity">
+         <class id="expected"/>
+         <span end="15037" id="PMC4037583.nxml.gz-144" start="15029">expected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-145" type="identity">
+         <class id="subject_scope"/>
+         <span end="15293" id="PMC4037583.nxml.gz-145" start="15088">Scanning densitometry of the bands corresponding to GR α / β normalized over GAPDH revealed no apparent differences in the expression of these variants between the term and the preterm groups (Figure 1(b))</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-146" type="identity">
+         <class id="revealed"/>
+         <span end="15179" id="PMC4037583.nxml.gz-146" start="15171">revealed</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-147" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="15191" id="PMC4037583.nxml.gz-147" start="15180">no apparent</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-148" type="identity">
+         <class id="subject_scope"/>
+         <span end="15669" id="PMC4037583.nxml.gz-148" start="15456">Strong homogeneous staining mainly in the cytoplasm is detected in the syncytiotrophoblast cells on the outermost layer of the placental villi, with some scattered expression in cytotrophoblast cells (Figure 2(a))</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-149" type="identity">
+         <class id="mainly"/>
+         <span end="15490" id="PMC4037583.nxml.gz-149" start="15484">mainly</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-150" type="identity">
+         <class id="some"/>
+         <span end="15609" id="PMC4037583.nxml.gz-150" start="15605">some</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-151" type="identity">
+         <class id="subject_scope"/>
+         <span end="15749" id="PMC4037583.nxml.gz-151" start="15671">Using RNA FISH, GAS5 localized primarily in syncytiotrophoblasts (Figure 2(c))</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-152" type="identity">
+         <class id="primarily"/>
+         <span end="15711" id="PMC4037583.nxml.gz-152" start="15702">primarily</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-153" type="identity">
+         <class id="subject_scope"/>
+         <span end="15830" id="PMC4037583.nxml.gz-153" start="15751">This is a first time that GAS5 localization has been studied in human placentas</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-154" type="identity">
+         <class id="first_time"/>
+         <span end="15771" id="PMC4037583.nxml.gz-154" start="15761">first time</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-155" type="identity">
+         <class id="has...been"/>
+         <span end="15803" id="PMC4037583.nxml.gz-155" start="15795">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-156" type="identity">
+         <class id="subject_scope"/>
+         <span end="16233" id="PMC4037583.nxml.gz-156" start="16117">GAS5 was significantly lower in expression in JEG-3 cells when compared to BeWo under basal conditions (Figure 3(a))</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-157" type="identity">
+         <class id="compared_to"/>
+         <span end="16191" id="PMC4037583.nxml.gz-157" start="16180">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-158" type="identity">
+         <class id="subject_scope"/>
+         <span end="16383" id="PMC4037583.nxml.gz-158" start="16235">For the GRs, significantly higher expression levels were detected only for GR γ and GR-P in the JEG-3 cells compared to the BeWo cells (Figure 3(b))</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-159" type="identity">
+         <class id="detected"/>
+         <span end="16300" id="PMC4037583.nxml.gz-159" start="16292">detected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-160" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="16305" id="PMC4037583.nxml.gz-160" start="16301">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-161" type="identity">
+         <class id="compared_to"/>
+         <span end="16354" id="PMC4037583.nxml.gz-161" start="16343">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-162" type="identity">
+         <class id="subject_scope"/>
+         <span end="16592" id="PMC4037583.nxml.gz-162" start="16385">When BeWo and JEG-3 cells were treated with cortisol 10 nM, 100 nM, or 1000 nM, the expression of GAS5 was significantly upregulated (all P&lt; 0.05) compared with their corresponding basal levels (Figure 4(a))</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-163" type="identity">
+         <class id="compared_with"/>
+         <span end="16545" id="PMC4037583.nxml.gz-163" start="16532">compared with</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-164" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="16748" id="PMC4037583.nxml.gz-164" start="16741">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-165" type="identity">
+         <class id="subject_scope"/>
+         <span end="16944" id="PMC4037583.nxml.gz-165" start="16741">However, cortisol treatments did not exert any significant changes in the gene expression of GR α (Figure 4(b)), GR β (Figure 4(c)), GR γ (Figure 4(d)), and GR-P in either of the cell lines (Figure 4(e))</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-166" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="16777" id="PMC4037583.nxml.gz-166" start="16770">did not</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-167" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="16912" id="PMC4037583.nxml.gz-167" start="16906">either</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-168" type="identity">
+         <class id="either"/>
+         <span end="16912" id="PMC4037583.nxml.gz-168" start="16906">either</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-169" type="identity">
+         <class id="subject_scope"/>
+         <span end="17122" id="PMC4037583.nxml.gz-169" start="16946">In addition, there were no apparent changes in protein expression of GR α / β in BeWo cells treated with 10–1000 nM of cortisol, corroborating the qPCR studies (data not shown)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-170" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="16981" id="PMC4037583.nxml.gz-170" start="16970">no apparent</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-171" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="17088" id="PMC4037583.nxml.gz-171" start="17075">corroborating</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-172" type="identity">
+         <class id="probable_understanding"/>
+         <span end="17306" id="PMC4037583.nxml.gz-172" start="17301">Since</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-173" type="identity">
+         <class id="subject_scope"/>
+         <span end="17701" id="PMC4037583.nxml.gz-173" start="17301">Since the maternal attitude towards the pregnancy was a significant predictor of fetal birth weight, we reexamined this association as a function of the GR genepolymorphisms, resembling a gene-environment interaction and statistically controlling for mothers' age, BMI, pregnancy planning, and pregnancy nutritional habits, to remove any potential sources of statistical bias that could skew our data</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-174" type="identity">
+         <class id="significant"/>
+         <span end="17368" id="PMC4037583.nxml.gz-174" start="17357">significant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-175" type="identity">
+         <class id="predictor"/>
+         <span end="17378" id="PMC4037583.nxml.gz-175" start="17369">predictor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-176" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="17415" id="PMC4037583.nxml.gz-176" start="17405">reexamined</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-177" type="identity">
+         <class id="association"/>
+         <span end="17432" id="PMC4037583.nxml.gz-177" start="17421">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-178" type="identity">
+         <class id="interaction"/>
+         <span end="17517" id="PMC4037583.nxml.gz-178" start="17506">interaction</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-179" type="identity">
+         <class id="problem_complication"/>
+         <span end="17676" id="PMC4037583.nxml.gz-179" start="17672">bias</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-180" type="identity">
+         <class id="subject_scope"/>
+         <span end="17920" id="PMC4037583.nxml.gz-180" start="17703">Statistical analysis of the maternal Tht111 I polymorphism has shown an inverse correlation between negative maternal attitude and infant birth weight ( r = −0.41, P = 0.030), only in Tht111 I CC polymorphism subgroup</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-181" type="identity">
+         <class id="has_shown"/>
+         <span end="17771" id="PMC4037583.nxml.gz-181" start="17762">has shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-182" type="identity">
+         <class id="correlation"/>
+         <span end="17794" id="PMC4037583.nxml.gz-182" start="17783">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-183" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="17883" id="PMC4037583.nxml.gz-183" start="17879">only</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-184" type="identity">
+         <class id="subject_scope"/>
+         <span end="18069" id="PMC4037583.nxml.gz-184" start="17922">In Tht111 I CT, no significant correlations were noted, controlling for age, BMI, pregnancy planning, and consumption of fast food during pregnancy</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-185" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="17940" id="PMC4037583.nxml.gz-185" start="17938">no</span>
+         <span end="17976" id="PMC4037583.nxml.gz-186" start="17971">noted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-187" type="identity">
+         <class id="subject_scope"/>
+         <span end="18296" id="PMC4037583.nxml.gz-187" start="18071">These data point towards an interaction between stress and genetics, since only in the CC polymorphic GR group did negative maternal attitude predict fetal weight reduction, but not in the CT group, independent of confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-188" type="identity">
+         <class id="point"/>
+         <span end="18087" id="PMC4037583.nxml.gz-188" start="18082">point</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-189" type="identity">
+         <class id="interaction"/>
+         <span end="18110" id="PMC4037583.nxml.gz-189" start="18099">interaction</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-190" type="identity">
+         <class id="probable_understanding"/>
+         <span end="18145" id="PMC4037583.nxml.gz-190" start="18140">since</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-191" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="18150" id="PMC4037583.nxml.gz-191" start="18146">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-192" type="identity">
+         <class id="predict"/>
+         <span end="18220" id="PMC4037583.nxml.gz-192" start="18213">predict</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-193" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="18252" id="PMC4037583.nxml.gz-193" start="18245">but not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-194" type="identity">
+         <class id="independent"/>
+         <span end="18281" id="PMC4037583.nxml.gz-194" start="18270">independent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-195" type="identity">
+         <class id="confounders"/>
+         <span end="18296" id="PMC4037583.nxml.gz-195" start="18285">confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-196" type="identity">
+         <class id="hence"/>
+         <span end="18303" id="PMC4037583.nxml.gz-196" start="18298">Hence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-197" type="identity">
+         <class id="subject_scope"/>
+         <span end="18401" id="PMC4037583.nxml.gz-197" start="18298">Hence, the effects of maternal attitudes on fetal weight depend on the mother's polymorphism of GR gene</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-198" type="identity">
+         <class id="effects"/>
+         <span end="18316" id="PMC4037583.nxml.gz-198" start="18309">effects</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-199" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="18364" id="PMC4037583.nxml.gz-199" start="18355">depend on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-200" type="identity">
+         <class id="subject_scope"/>
+         <span end="18554" id="PMC4037583.nxml.gz-200" start="18403">None of the remaining GR polymorphism subgroups demonstrated any differential correlations between maternal attitudes and fetal weight (data not shown)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-201" type="identity">
+         <class id="demonstrated"/>
+         <span end="18463" id="PMC4037583.nxml.gz-201" start="18451">demonstrated</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-202" type="identity">
+         <class id="correlations"/>
+         <span end="18493" id="PMC4037583.nxml.gz-202" start="18481">correlations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-203" type="identity">
+         <class id="subject_scope"/>
+         <span end="18742" id="PMC4037583.nxml.gz-203" start="18571">The present study extends previous findings and provides evidence for the first time how maternal stress and GR polymorphisms can potentially affect fetal outcome together</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-204" type="identity">
+         <class id="present_study"/>
+         <span end="18588" id="PMC4037583.nxml.gz-204" start="18575">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-205" type="identity">
+         <class id="extends"/>
+         <span end="18596" id="PMC4037583.nxml.gz-205" start="18589">extends</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-206" type="identity">
+         <class id="previous"/>
+         <span end="18605" id="PMC4037583.nxml.gz-206" start="18597">previous</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-207" type="identity">
+         <class id="findings"/>
+         <span end="18614" id="PMC4037583.nxml.gz-207" start="18606">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-208" type="identity">
+         <class id="provides"/>
+         <span end="18627" id="PMC4037583.nxml.gz-208" start="18619">provides</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-209" type="identity">
+         <class id="evidence"/>
+         <span end="18636" id="PMC4037583.nxml.gz-209" start="18628">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-210" type="identity">
+         <class id="first_time"/>
+         <span end="18655" id="PMC4037583.nxml.gz-210" start="18645">first time</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-211" type="identity">
+         <class id="how"/>
+         <span end="18659" id="PMC4037583.nxml.gz-211" start="18656">how</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-212" type="identity">
+         <class id="can"/>
+         <span end="18700" id="PMC4037583.nxml.gz-212" start="18697">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-213" type="identity">
+         <class id="potentially"/>
+         <span end="18712" id="PMC4037583.nxml.gz-213" start="18701">potentially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-214" type="identity">
+         <class id="affect"/>
+         <span end="18719" id="PMC4037583.nxml.gz-214" start="18713">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-215" type="identity">
+         <class id="together"/>
+         <span end="18742" id="PMC4037583.nxml.gz-215" start="18734">together</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-216" type="identity">
+         <class id="subject_scope"/>
+         <span end="18913" id="PMC4037583.nxml.gz-216" start="18744">As reviewed previously, prenatal maternal stress has been shown to have long-term effects on the psychological as well as behavioral development of the offspring [15,16]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-217" type="identity">
+         <class id="previously"/>
+         <span end="18766" id="PMC4037583.nxml.gz-217" start="18756">previously</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-218" type="identity">
+         <class id="has_been_shown"/>
+         <span end="18807" id="PMC4037583.nxml.gz-218" start="18793">has been shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-219" type="identity">
+         <class id="effects"/>
+         <span end="18833" id="PMC4037583.nxml.gz-219" start="18826">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-220" type="identity">
+         <class id="subject_scope"/>
+         <span end="19203" id="PMC4037583.nxml.gz-220" start="18915">In our cohort, women with negative attitudes exhibited higher levels of stress during pregnancy compared to women with neutral/positive attitudes and gave birth to infants with lower birth weights than those with positive/neutral attitudes towards their pregnancy (500 gr difference [13])</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-221" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="18969" id="PMC4037583.nxml.gz-221" start="18960">exhibited</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-222" type="identity">
+         <class id="compared_to"/>
+         <span end="19022" id="PMC4037583.nxml.gz-222" start="19011">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-223" type="identity">
+         <class id="than"/>
+         <span end="19116" id="PMC4037583.nxml.gz-223" start="19112">than</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-224" type="identity">
+         <class id="subject_scope"/>
+         <span end="19544" id="PMC4037583.nxml.gz-224" start="19205">In terms of the polymorphisms analyses, only the maternal Tth111 I polymorphism was suggestive of a gene-environment interaction since, only in Tth111 I (CC), negative versus positive/neutral maternal attitudes towards the pregnancy predicted fetal weight reduction, but not in the Tth111 I (GC) group, independent of important confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-225" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="19249" id="PMC4037583.nxml.gz-225" start="19245">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-226" type="identity">
+         <class id="suggestive"/>
+         <span end="19299" id="PMC4037583.nxml.gz-226" start="19289">suggestive</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-227" type="identity">
+         <class id="interaction"/>
+         <span end="19333" id="PMC4037583.nxml.gz-227" start="19322">interaction</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-228" type="identity">
+         <class id="probable_understanding"/>
+         <span end="19339" id="PMC4037583.nxml.gz-228" start="19334">since</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-229" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="19345" id="PMC4037583.nxml.gz-229" start="19341">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-230" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="19447" id="PMC4037583.nxml.gz-230" start="19438">predicted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-231" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="19479" id="PMC4037583.nxml.gz-231" start="19472">but not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-232" type="identity">
+         <class id="independent"/>
+         <span end="19519" id="PMC4037583.nxml.gz-232" start="19508">independent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-233" type="identity">
+         <class id="important"/>
+         <span end="19532" id="PMC4037583.nxml.gz-233" start="19523">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-234" type="identity">
+         <class id="confounders"/>
+         <span end="19544" id="PMC4037583.nxml.gz-234" start="19533">confounders</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-235" type="identity">
+         <class id="subject_scope"/>
+         <span end="19634" id="PMC4037583.nxml.gz-235" start="19546">These confounders included women's age and BMI and were not explained by gestational age</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-236" type="identity">
+         <class id="confounders"/>
+         <span end="19563" id="PMC4037583.nxml.gz-236" start="19552">confounders</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-237" type="identity">
+         <class id="probable_understanding"/>
+         <span end="19615" id="PMC4037583.nxml.gz-237" start="19602">not explained</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-238" type="identity">
+         <class id="not_explained"/>
+         <span end="19615" id="PMC4037583.nxml.gz-238" start="19602">not explained</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-239" type="identity">
+         <class id="subject_scope"/>
+         <span end="19754" id="PMC4037583.nxml.gz-239" start="19636">Additionally, multiple other immune symptoms and demographic variables tested were also not predictive of fetal weight</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-240" type="identity">
+         <class id="other"/>
+         <span end="19664" id="PMC4037583.nxml.gz-240" start="19659">other</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-241" type="identity">
+         <class id="variables"/>
+         <span end="19706" id="PMC4037583.nxml.gz-241" start="19697">variables</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-242" type="identity">
+         <class id="predictive"/>
+         <span end="19738" id="PMC4037583.nxml.gz-242" start="19728">predictive</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-243" type="identity">
+         <class id="subject_scope"/>
+         <span end="19920" id="PMC4037583.nxml.gz-243" start="19756">This is the first time that a gene-environment interaction between a GR polymorphism and maternal attitudes towards pregnancy was found, in relation to fetal weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-244" type="identity">
+         <class id="first_time"/>
+         <span end="19778" id="PMC4037583.nxml.gz-244" start="19768">first time</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-245" type="identity">
+         <class id="interaction"/>
+         <span end="19814" id="PMC4037583.nxml.gz-245" start="19803">interaction</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-246" type="identity">
+         <class id="found"/>
+         <span end="19891" id="PMC4037583.nxml.gz-246" start="19886">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-247" type="identity">
+         <class id="relation"/>
+         <span end="19904" id="PMC4037583.nxml.gz-247" start="19896">relation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-248" type="identity">
+         <class id="subject_scope"/>
+         <span end="20041" id="PMC4037583.nxml.gz-248" start="19922">To this date there has been some contradicting evidence as to the role of these polymorphisms in fetal outcomes [17–19]</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC4037583.nxml.gz-249" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="19934" id="PMC4037583.nxml.gz-249" start="19922">To this date</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC4037583.nxml.gz-250" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="19949" id="PMC4037583.nxml.gz-250" start="19941">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-251" type="identity">
+         <class id="some"/>
+         <span end="19954" id="PMC4037583.nxml.gz-251" start="19950">some</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-252" type="identity">
+         <class id="contradicting"/>
+         <span end="19968" id="PMC4037583.nxml.gz-252" start="19955">contradicting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-253" type="identity">
+         <class id="evidence"/>
+         <span end="19977" id="PMC4037583.nxml.gz-253" start="19969">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-254" type="identity">
+         <class id="role"/>
+         <span end="19992" id="PMC4037583.nxml.gz-254" start="19988">role</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-255" type="identity">
+         <class id="subject_scope"/>
+         <span end="20196" id="PMC4037583.nxml.gz-255" start="20043">The human placenta is exposed to increased levels of cortisol as pregnancy progresses [20] and its effects are mediated via binding and activating the GR</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-256" type="identity">
+         <class id="effects"/>
+         <span end="20149" id="PMC4037583.nxml.gz-256" start="20142">effects</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-257" type="identity">
+         <class id="mediated"/>
+         <span end="20162" id="PMC4037583.nxml.gz-257" start="20154">mediated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-258" type="identity">
+         <class id="however"/>
+         <span end="20205" id="PMC4037583.nxml.gz-258" start="20198">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-259" type="identity">
+         <class id="subject_scope"/>
+         <span end="20288" id="PMC4037583.nxml.gz-259" start="20198">However, controversy surrounds the exact mechanisms by which these responses are regulated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-260" type="identity">
+         <class id="controversy"/>
+         <span end="20218" id="PMC4037583.nxml.gz-260" start="20207">controversy</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-261" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20238" id="PMC4037583.nxml.gz-261" start="20229">the exact</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-262" type="identity">
+         <class id="which"/>
+         <span end="20258" id="PMC4037583.nxml.gz-262" start="20253">which</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-263" type="identity">
+         <class id="subject_scope"/>
+         <span end="20407" id="PMC4037583.nxml.gz-263" start="20290">GR alternative splicing might also influence the subsequent activation of signalling pathways by glucocorticoids [20]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-264" type="identity">
+         <class id="might"/>
+         <span end="20319" id="PMC4037583.nxml.gz-264" start="20314">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-265" type="identity">
+         <class id="influence"/>
+         <span end="20334" id="PMC4037583.nxml.gz-265" start="20325">influence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-266" type="identity">
+         <class id="subject_scope"/>
+         <span end="20590" id="PMC4037583.nxml.gz-266" start="20409">In our study, we have shown that all known transcripts of GR splice variants are expressed in the human placenta with GR α being the predominant transcript in all categories studied</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC4037583.nxml.gz-267" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="20421" id="PMC4037583.nxml.gz-267" start="20412">our study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-268" type="identity">
+         <class id="have_shown"/>
+         <span end="20436" id="PMC4037583.nxml.gz-268" start="20426">have shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-269" type="identity">
+         <class id="known"/>
+         <span end="20451" id="PMC4037583.nxml.gz-269" start="20446">known</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-270" type="identity">
+         <class id="probable_understanding"/>
+         <span end="20553" id="PMC4037583.nxml.gz-270" start="20542">predominant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-271" type="identity">
+         <class id="subject_scope"/>
+         <span end="20665" id="PMC4037583.nxml.gz-271" start="20592">These data corroborate a previous preliminary study of placental GRs [20]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-272" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20614" id="PMC4037583.nxml.gz-272" start="20603">corroborate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-273" type="identity">
+         <class id="previous_study"/>
+         <span end="20625" id="PMC4037583.nxml.gz-273" start="20617">previous</span>
+         <span end="20643" id="PMC4037583.nxml.gz-274" start="20638">study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-275" type="identity">
+         <class id="subject_scope"/>
+         <span end="20752" id="PMC4037583.nxml.gz-275" start="20667">Moreover, we demonstrate for the first time the expression of GAS5 in human placentas</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-276" type="identity">
+         <class id="demonstrate"/>
+         <span end="20691" id="PMC4037583.nxml.gz-276" start="20680">demonstrate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-277" type="identity">
+         <class id="first_time"/>
+         <span end="20710" id="PMC4037583.nxml.gz-277" start="20700">first time</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-278" type="identity">
+         <class id="subject_scope"/>
+         <span end="20889" id="PMC4037583.nxml.gz-278" start="20754">We decided to incorporate GAS5 in the current study as it can act as a GR DNA binding decoy and as a result compromise its activity [8]</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC4037583.nxml.gz-279" type="identity">
+         <class id="decided"/>
+         <span end="20764" id="PMC4037583.nxml.gz-279" start="20757">decided</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC4037583.nxml.gz-280" type="identity">
+         <class id="probable_understanding"/>
+         <span end="20808" id="PMC4037583.nxml.gz-280" start="20806">as</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-281" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="20872" id="PMC4037583.nxml.gz-281" start="20862">compromise</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-282" type="identity">
+         <class id="interestingly"/>
+         <span end="20904" id="PMC4037583.nxml.gz-282" start="20891">Interestingly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-283" type="identity">
+         <class id="subject_scope"/>
+         <span end="20987" id="PMC4037583.nxml.gz-283" start="20891">Interestingly, GAS5 and GR α were the predominant transcripts in both term and preterm placentas</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-284" type="identity">
+         <class id="probable_understanding"/>
+         <span end="20940" id="PMC4037583.nxml.gz-284" start="20929">predominant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-285" type="identity">
+         <class id="here"/>
+         <span end="20993" id="PMC4037583.nxml.gz-285" start="20989">Here</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-286" type="identity">
+         <class id="subject_scope"/>
+         <span end="21165" id="PMC4037583.nxml.gz-286" start="20989">Here, we provide further information about the regulation of this transcript by cortisol using two in vitro models as it is upregulated by cortisol in a dose-independent manner</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-287" type="identity">
+         <class id="provide"/>
+         <span end="21005" id="PMC4037583.nxml.gz-287" start="20998">provide</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-288" type="identity">
+         <class id="further"/>
+         <span end="21013" id="PMC4037583.nxml.gz-288" start="21006">further</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-289" type="identity">
+         <class id="information"/>
+         <span end="21025" id="PMC4037583.nxml.gz-289" start="21014">information</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-290" type="identity">
+         <class id="regulation"/>
+         <span end="21046" id="PMC4037583.nxml.gz-290" start="21036">regulation</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-291" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="21103" id="PMC4037583.nxml.gz-291" start="21097">models</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-292" type="identity">
+         <class id="independent"/>
+         <span end="21158" id="PMC4037583.nxml.gz-292" start="21147">independent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-293" type="identity">
+         <class id="subject_scope"/>
+         <span end="21288" id="PMC4037583.nxml.gz-293" start="21167">This finding provides further evidence of regulation of GAS5 by stress and corroborates initial in vivo data in mice [21]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-294" type="identity">
+         <class id="finding"/>
+         <span end="21179" id="PMC4037583.nxml.gz-294" start="21172">finding</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-295" type="identity">
+         <class id="provides"/>
+         <span end="21188" id="PMC4037583.nxml.gz-295" start="21180">provides</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-296" type="identity">
+         <class id="further_evidence"/>
+         <span end="21205" id="PMC4037583.nxml.gz-296" start="21189">further evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-297" type="identity">
+         <class id="regulation"/>
+         <span end="21219" id="PMC4037583.nxml.gz-297" start="21209">regulation</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-298" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="21254" id="PMC4037583.nxml.gz-298" start="21242">corroborates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-299" type="identity">
+         <class id="subject_scope"/>
+         <span end="21452" id="PMC4037583.nxml.gz-299" start="21290">In this study using C57BL/6 male mice, stress induced GAS5 RNA levels in the hippocampus and this increase was accompanied by a rise of corticosterone levels [22]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-300" type="identity">
+         <class id="this_study"/>
+         <span end="21303" id="PMC4037583.nxml.gz-300" start="21293">this study</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC4037583.nxml.gz-301" type="identity">
+         <class id="accompanied"/>
+         <span end="21412" id="PMC4037583.nxml.gz-301" start="21401">accompanied</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-302" type="identity">
+         <class id="subject_scope"/>
+         <span end="21575" id="PMC4037583.nxml.gz-302" start="21454">These in vitro and in vivo observations together are highly suggestive of a functional link between stress and this ncRNA</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-303" type="identity">
+         <class id="observations"/>
+         <span end="21493" id="PMC4037583.nxml.gz-303" start="21481">observations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-304" type="identity">
+         <class id="together"/>
+         <span end="21502" id="PMC4037583.nxml.gz-304" start="21494">together</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-305" type="identity">
+         <class id="probable_understanding"/>
+         <span end="21513" id="PMC4037583.nxml.gz-305" start="21507">highly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-306" type="identity">
+         <class id="suggestive"/>
+         <span end="21524" id="PMC4037583.nxml.gz-306" start="21514">suggestive</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-307" type="identity">
+         <class id="link"/>
+         <span end="21545" id="PMC4037583.nxml.gz-307" start="21541">link</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-308" type="identity">
+         <class id="subject_scope"/>
+         <span end="21996" id="PMC4037583.nxml.gz-308" start="21746">In view of previous data in HeLa cells, where GAS5 translocates from the cytoplasm into the nucleus with GR in response to dexamethasone [8], this colocalization is highly suggestive of a potential crosstalk at placental level between GAS5 and the GR</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-309" type="identity">
+         <class id="view"/>
+         <span end="21753" id="PMC4037583.nxml.gz-309" start="21749">view</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-310" type="identity">
+         <class id="previous"/>
+         <span end="21765" id="PMC4037583.nxml.gz-310" start="21757">previous</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-311" type="identity">
+         <class id="probable_understanding"/>
+         <span end="21917" id="PMC4037583.nxml.gz-311" start="21911">highly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-312" type="identity">
+         <class id="suggestive"/>
+         <span end="21928" id="PMC4037583.nxml.gz-312" start="21918">suggestive</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-313" type="identity">
+         <class id="potential"/>
+         <span end="21943" id="PMC4037583.nxml.gz-313" start="21934">potential</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-314" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="21953" id="PMC4037583.nxml.gz-314" start="21944">crosstalk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-315" type="identity">
+         <class id="subject_scope"/>
+         <span end="22200" id="PMC4037583.nxml.gz-315" start="21998">Preterm labor is associated with high mortality and morbidity [22] and a recent study pointed towards an association between maternal stress and complications of pregnancy, especially preterm birth [23]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-316" type="identity">
+         <class id="associated"/>
+         <span end="22025" id="PMC4037583.nxml.gz-316" start="22015">associated</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-317" type="identity">
+         <class id="important_consideration"/>
+         <span end="22035" id="PMC4037583.nxml.gz-317" start="22031">high</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-318" type="identity">
+         <class id="recent_study"/>
+         <span end="22083" id="PMC4037583.nxml.gz-318" start="22071">recent study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-319" type="identity">
+         <class id="pointed"/>
+         <span end="22091" id="PMC4037583.nxml.gz-319" start="22084">pointed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-320" type="identity">
+         <class id="association"/>
+         <span end="22114" id="PMC4037583.nxml.gz-320" start="22103">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-321" type="identity">
+         <class id="important_consideration"/>
+         <span end="22156" id="PMC4037583.nxml.gz-321" start="22143">complications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-322" type="identity">
+         <class id="important_consideration"/>
+         <span end="22181" id="PMC4037583.nxml.gz-322" start="22171">especially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-323" type="identity">
+         <class id="subject_scope"/>
+         <span end="22431" id="PMC4037583.nxml.gz-323" start="22268">There is some controversy surrounding the exact function of GR β , but it appears to exert a dominant-negative effect on GR α -induced transcriptional activity [8]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-324" type="identity">
+         <class id="some"/>
+         <span end="22281" id="PMC4037583.nxml.gz-324" start="22277">some</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-325" type="identity">
+         <class id="controversy"/>
+         <span end="22293" id="PMC4037583.nxml.gz-325" start="22282">controversy</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-326" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="22315" id="PMC4037583.nxml.gz-326" start="22306">the exact</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-327" type="identity">
+         <class id="but"/>
+         <span end="22338" id="PMC4037583.nxml.gz-327" start="22335">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-328" type="identity">
+         <class id="appears"/>
+         <span end="22349" id="PMC4037583.nxml.gz-328" start="22342">appears</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-329" type="identity">
+         <class id="effect"/>
+         <span end="22385" id="PMC4037583.nxml.gz-329" start="22379">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-330" type="identity">
+         <class id="subject_scope"/>
+         <span end="22660" id="PMC4037583.nxml.gz-330" start="22529">GR γ is a ligand-dependent transcription factor with reduced transactivating activity and its function is still under investigation</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-331" type="identity">
+         <class id="factor"/>
+         <span end="22576" id="PMC4037583.nxml.gz-331" start="22570">factor</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-332" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="22660" id="PMC4037583.nxml.gz-332" start="22635">still under investigation</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-333" type="identity">
+         <class id="still"/>
+         <span end="22640" id="PMC4037583.nxml.gz-333" start="22635">still</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-334" type="identity">
+         <class id="investigation"/>
+         <span end="22660" id="PMC4037583.nxml.gz-334" start="22647">investigation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-335" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="22781" id="PMC4037583.nxml.gz-335" start="22772">Similarly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-336" type="identity">
+         <class id="subject_scope"/>
+         <span end="23000" id="PMC4037583.nxml.gz-336" start="22772">Similarly, little is known about the role of GR-P, a truncated isoform that lacks a large part of the ligand-binding domain, including the domains for silencing of GR in the absence of hormone and transcriptional activation [24]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-337" type="identity">
+         <class id="little_is_known"/>
+         <span end="22798" id="PMC4037583.nxml.gz-337" start="22783">little is known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-338" type="identity">
+         <class id="role"/>
+         <span end="22813" id="PMC4037583.nxml.gz-338" start="22809">role</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-339" type="identity">
+         <class id="subject_scope"/>
+         <span end="23092" id="PMC4037583.nxml.gz-339" start="23002">In our study, an approximate 4-fold change in the GR α /GR-P in preterm labor was detected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-340" type="identity">
+         <class id="our_study"/>
+         <span end="23014" id="PMC4037583.nxml.gz-340" start="23005">our study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-341" type="identity">
+         <class id="approximate"/>
+         <span end="23030" id="PMC4037583.nxml.gz-341" start="23019">approximate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-342" type="identity">
+         <class id="detected"/>
+         <span end="23092" id="PMC4037583.nxml.gz-342" start="23084">detected</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-343" type="identity">
+         <class id="subject_scope"/>
+         <span end="23207" id="PMC4037583.nxml.gz-343" start="23094">Johnson et al. have shown that placental GR-P mRNA levels were reduced significantly after spontaneous labor [20]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-344" type="identity">
+         <class id="have_shown"/>
+         <span end="23119" id="PMC4037583.nxml.gz-344" start="23109">have shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-345" type="identity">
+         <class id="subject_scope"/>
+         <span end="23325" id="PMC4037583.nxml.gz-345" start="23209">A twofold increase in the GR α /GAS5 ratio was also noted in the preterm group compared with the term group of women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-346" type="identity">
+         <class id="noted"/>
+         <span end="23266" id="PMC4037583.nxml.gz-346" start="23261">noted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-347" type="identity">
+         <class id="compared_with"/>
+         <span end="23301" id="PMC4037583.nxml.gz-347" start="23288">compared with</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-348" type="identity">
+         <class id="subject_scope"/>
+         <span end="23518" id="PMC4037583.nxml.gz-348" start="23327">It is attractive therefore to hypothesise that the change in the ratio of the splicing isoforms alters the responsiveness of placental GRs to cortisol and that this may affect gestational age</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-349" type="identity">
+         <class id="probable_understanding"/>
+         <span end="23343" id="PMC4037583.nxml.gz-349" start="23327">It is attractive</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-350" type="identity">
+         <class id="therefore"/>
+         <span end="23353" id="PMC4037583.nxml.gz-350" start="23344">therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-351" type="identity">
+         <class id="hypothesise"/>
+         <span end="23368" id="PMC4037583.nxml.gz-351" start="23357">hypothesise</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-352" type="identity">
+         <class id="may"/>
+         <span end="23495" id="PMC4037583.nxml.gz-352" start="23492">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-353" type="identity">
+         <class id="affect"/>
+         <span end="23502" id="PMC4037583.nxml.gz-353" start="23496">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-354" type="identity">
+         <class id="subject_scope"/>
+         <span end="23721" id="PMC4037583.nxml.gz-354" start="23520">We would like to propose a potential model where, during preterm birth, GR α is the predominant receptor since there is a decrease in negative regulators such as GR β , GR γ , and the “pseudo-GRE” GAS5</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-355" type="identity">
+         <class id="would"/>
+         <span end="23528" id="PMC4037583.nxml.gz-355" start="23523">would</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-356" type="identity">
+         <class id="propose"/>
+         <span end="23544" id="PMC4037583.nxml.gz-356" start="23537">propose</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-357" type="identity">
+         <class id="future_prediction"/>
+         <span end="23556" id="PMC4037583.nxml.gz-357" start="23547">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-358" type="identity">
+         <class id="0_model"/>
+         <span end="23562" id="PMC4037583.nxml.gz-358" start="23557">model</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-359" type="identity">
+         <class id="probable_understanding"/>
+         <span end="23615" id="PMC4037583.nxml.gz-359" start="23604">predominant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-360" type="identity">
+         <class id="probable_understanding"/>
+         <span end="23630" id="PMC4037583.nxml.gz-360" start="23625">since</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-361" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="23673" id="PMC4037583.nxml.gz-361" start="23663">regulators</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-362" type="identity">
+         <class id="subject_scope"/>
+         <span end="23876" id="PMC4037583.nxml.gz-362" start="23723">These ratio changes will ultimately lead to an augmented response towards glucocorticoids with potential detrimental effects for the mother and the fetus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-363" type="identity">
+         <class id="will"/>
+         <span end="23747" id="PMC4037583.nxml.gz-363" start="23743">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-364" type="identity">
+         <class id="ultimately"/>
+         <span end="23758" id="PMC4037583.nxml.gz-364" start="23748">ultimately</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-365" type="identity">
+         <class id="lead_to"/>
+         <span end="23766" id="PMC4037583.nxml.gz-365" start="23759">lead to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-366" type="identity">
+         <class id="future_prediction"/>
+         <span end="23827" id="PMC4037583.nxml.gz-366" start="23818">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-367" type="identity">
+         <class id="detrimental"/>
+         <span end="23839" id="PMC4037583.nxml.gz-367" start="23828">detrimental</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-368" type="identity">
+         <class id="effects"/>
+         <span end="23847" id="PMC4037583.nxml.gz-368" start="23840">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-369" type="identity">
+         <class id="it_is_possible"/>
+         <span end="23892" id="PMC4037583.nxml.gz-369" start="23878">It is possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-370" type="identity">
+         <class id="subject_scope"/>
+         <span end="24068" id="PMC4037583.nxml.gz-370" start="23878">It is possible that this change of relative transcript abundance ratio might be involved in the correlation between negative maternal attitudes (hence highly stressed) and fetal birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-371" type="identity">
+         <class id="might"/>
+         <span end="23954" id="PMC4037583.nxml.gz-371" start="23949">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-372" type="identity">
+         <class id="involved"/>
+         <span end="23966" id="PMC4037583.nxml.gz-372" start="23958">involved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-373" type="identity">
+         <class id="correlation"/>
+         <span end="23985" id="PMC4037583.nxml.gz-373" start="23974">correlation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-374" type="identity">
+         <class id="hence"/>
+         <span end="24028" id="PMC4037583.nxml.gz-374" start="24023">hence</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC4037583.nxml.gz-375" type="identity">
+         <class id="subject_scope"/>
+         <span end="24334" id="PMC4037583.nxml.gz-375" start="24070">In terms of the polymorphic study, our study provides a novel insight into the involvement of GR polymorphisms in pregnancy outcome. We have identified a specific group of mothers (Tht III I polymorphism, CC group) in whom maternal attitudes predicted fetal weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-376" type="identity">
+         <class id="the...study"/>
+         <span end="24085" id="PMC4037583.nxml.gz-376" start="24082">the</span>
+         <span end="24103" id="PMC4037583.nxml.gz-377" start="24098">study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-378" type="identity">
+         <class id="our_study"/>
+         <span end="24114" id="PMC4037583.nxml.gz-378" start="24105">our study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-379" type="identity">
+         <class id="provides"/>
+         <span end="24123" id="PMC4037583.nxml.gz-379" start="24115">provides</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-380" type="identity">
+         <class id="novel"/>
+         <span end="24131" id="PMC4037583.nxml.gz-380" start="24126">novel</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-381" type="identity">
+         <class id="insight"/>
+         <span end="24139" id="PMC4037583.nxml.gz-381" start="24132">insight</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-382" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="24160" id="PMC4037583.nxml.gz-382" start="24149">involvement</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-383" type="identity">
+         <class id="identified"/>
+         <span end="24221" id="PMC4037583.nxml.gz-383" start="24211">identified</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-384" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="24321" id="PMC4037583.nxml.gz-384" start="24312">predicted</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-385" type="identity">
+         <class id="predicted"/>
+         <span end="24321" id="PMC4037583.nxml.gz-385" start="24312">predicted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-386" type="identity">
+         <class id="subject_scope"/>
+         <span end="24493" id="PMC4037583.nxml.gz-386" start="24336">In a past study, a similar gene-environment interaction was noted between the ER22/23EK polymorphism and the effect of childhood adversity on depression [17]</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-387" type="identity">
+         <class id="a...study"/>
+         <span end="24340" id="PMC4037583.nxml.gz-387" start="24339">a</span>
+         <span end="24351" id="PMC4037583.nxml.gz-388" start="24346">study</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-389" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="24351" id="PMC4037583.nxml.gz-389" start="24341">past study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-390" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="24362" id="PMC4037583.nxml.gz-390" start="24355">similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-391" type="identity">
+         <class id="interaction"/>
+         <span end="24391" id="PMC4037583.nxml.gz-391" start="24380">interaction</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-392" type="identity">
+         <class id="noted"/>
+         <span end="24401" id="PMC4037583.nxml.gz-392" start="24396">noted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-393" type="identity">
+         <class id="effect"/>
+         <span end="24451" id="PMC4037583.nxml.gz-393" start="24445">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-394" type="identity">
+         <class id="subject_scope"/>
+         <span end="24640" id="PMC4037583.nxml.gz-394" start="24495">We acknowledge that measurement of GR polymorphisms posed certain limitations, for example, the use of cell lines as in vitro experimental models</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-395" type="identity">
+         <class id="acknowledge"/>
+         <span end="24509" id="PMC4037583.nxml.gz-395" start="24498">acknowledge</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-396" type="identity">
+         <class id="problem_complication"/>
+         <span end="24572" id="PMC4037583.nxml.gz-396" start="24561">limitations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-397" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="24640" id="PMC4037583.nxml.gz-397" start="24634">models</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-398" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="24650" id="PMC4037583.nxml.gz-398" start="24642">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-399" type="identity">
+         <class id="subject_scope"/>
+         <span end="24789" id="PMC4037583.nxml.gz-399" start="24642">Although both cell lines (JEG-3 and BeWo) could represent a cytotrophoblastic milieu in vitro , they have differences in their fusogenic capacities</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-400" type="identity">
+         <class id="could"/>
+         <span end="24689" id="PMC4037583.nxml.gz-400" start="24684">could</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-401" type="identity">
+         <class id="represent"/>
+         <span end="24699" id="PMC4037583.nxml.gz-401" start="24690">represent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-402" type="identity">
+         <class id="differences"/>
+         <span end="24759" id="PMC4037583.nxml.gz-402" start="24748">differences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-403" type="identity">
+         <class id="subject_scope"/>
+         <span end="24922" id="PMC4037583.nxml.gz-403" start="24791">In addition, microarray analyses demonstrated that many transcripts were differentially expressed between JEG-3 and BeWo cells [25]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-404" type="identity">
+         <class id="demonstrated"/>
+         <span end="24836" id="PMC4037583.nxml.gz-404" start="24824">demonstrated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-405" type="identity">
+         <class id="many"/>
+         <span end="24846" id="PMC4037583.nxml.gz-405" start="24842">many</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-406" type="identity">
+         <class id="differentially"/>
+         <span end="24878" id="PMC4037583.nxml.gz-406" start="24864">differentially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-407" type="identity">
+         <class id="subject_scope"/>
+         <span end="25027" id="PMC4037583.nxml.gz-407" start="24924">It would be of interest to repeat these experiments in primary cell lines of syncytialised trophoblasts</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-408" type="identity">
+         <class id="would_be"/>
+         <span end="24935" id="PMC4037583.nxml.gz-408" start="24927">would be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-409" type="identity">
+         <class id="of_interest"/>
+         <span end="24947" id="PMC4037583.nxml.gz-409" start="24936">of interest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-410" type="identity">
+         <class id="subject_scope"/>
+         <span end="25115" id="PMC4037583.nxml.gz-410" start="25029">This experiment would provide a better insight into the regulation of GAS5 by cortisol</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-411" type="identity">
+         <class id="would"/>
+         <span end="25050" id="PMC4037583.nxml.gz-411" start="25045">would</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-412" type="identity">
+         <class id="provide"/>
+         <span end="25058" id="PMC4037583.nxml.gz-412" start="25051">provide</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-413" type="identity">
+         <class id="future_prediction"/>
+         <span end="25067" id="PMC4037583.nxml.gz-413" start="25061">better</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-414" type="identity">
+         <class id="insight"/>
+         <span end="25075" id="PMC4037583.nxml.gz-414" start="25068">insight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-415" type="identity">
+         <class id="regulation"/>
+         <span end="25095" id="PMC4037583.nxml.gz-415" start="25085">regulation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-416" type="identity">
+         <class id="however"/>
+         <span end="25124" id="PMC4037583.nxml.gz-416" start="25117">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-417" type="identity">
+         <class id="subject_scope"/>
+         <span end="25265" id="PMC4037583.nxml.gz-417" start="25117">However and despite these limitations, there is a wealth of literature using those two cell lines as experimental models to study placental function</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-418" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="25136" id="PMC4037583.nxml.gz-418" start="25129">despite</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-419" type="identity">
+         <class id="problem_complication"/>
+         <span end="25154" id="PMC4037583.nxml.gz-419" start="25143">limitations</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-420" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="25187" id="PMC4037583.nxml.gz-420" start="25167">wealth of literature</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-421" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="25237" id="PMC4037583.nxml.gz-421" start="25231">models</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-422" type="identity">
+         <class id="subject_scope"/>
+         <span end="25498" id="PMC4037583.nxml.gz-422" start="25267">It would also be of interest to expand these observations in human myometrium that is a key organ responsible for quiescence and contractility responses and also assess whether changes in GR transcripts are due to labor or nonlabor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-423" type="identity">
+         <class id="would"/>
+         <span end="25275" id="PMC4037583.nxml.gz-423" start="25270">would</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-424" type="identity">
+         <class id="of_interest"/>
+         <span end="25295" id="PMC4037583.nxml.gz-424" start="25284">of interest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-425" type="identity">
+         <class id="observations"/>
+         <span end="25324" id="PMC4037583.nxml.gz-425" start="25312">observations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-426" type="identity">
+         <class id="key"/>
+         <span end="25358" id="PMC4037583.nxml.gz-426" start="25355">key</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-427" type="identity">
+         <class id="responsible"/>
+         <span end="25376" id="PMC4037583.nxml.gz-427" start="25365">responsible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-428" type="identity">
+         <class id="whether...or"/>
+         <span end="25443" id="PMC4037583.nxml.gz-428" start="25436">whether</span>
+         <span end="25489" id="PMC4037583.nxml.gz-429" start="25487">or</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-430" type="identity">
+         <class id="to_test"/>
+         <span end="25507" id="PMC4037583.nxml.gz-430" start="25500">To test</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-431" type="identity">
+         <class id="subject_scope"/>
+         <span end="25648" id="PMC4037583.nxml.gz-431" start="25500">To test this, we have performed qPCR for all GRs and GAS5 in the same cohort of placentas divided this time to labor ( n = 18) and nonlabor ( n = 5)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-432" type="identity">
+         <class id="subject_scope"/>
+         <span end="25757" id="PMC4037583.nxml.gz-432" start="25650">There was no apparent change in the expression of any of the genes in these two categories (data not shown)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-433" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="25671" id="PMC4037583.nxml.gz-433" start="25660">no apparent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-434" type="identity">
+         <class id="therefore"/>
+         <span end="25768" id="PMC4037583.nxml.gz-434" start="25759">Therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-435" type="identity">
+         <class id="subject_scope"/>
+         <span end="25852" id="PMC4037583.nxml.gz-435" start="25759">Therefore, at placental level, the contractile status does not really affect GR transcription</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-436" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="25828" id="PMC4037583.nxml.gz-436" start="25813">does not really</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-437" type="identity">
+         <class id="affect"/>
+         <span end="25835" id="PMC4037583.nxml.gz-437" start="25829">affect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-438" type="identity">
+         <class id="subject_scope"/>
+         <span end="25951" id="PMC4037583.nxml.gz-438" start="25854">We acknowledge that our sample included small numbers in certain categories of polymorphic groups</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-439" type="identity">
+         <class id="acknowledge"/>
+         <span end="25868" id="PMC4037583.nxml.gz-439" start="25857">acknowledge</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-440" type="identity">
+         <class id="small"/>
+         <span end="25899" id="PMC4037583.nxml.gz-440" start="25894">small</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-441" type="identity">
+         <class id="subject_scope"/>
+         <span end="26122" id="PMC4037583.nxml.gz-441" start="25953">Moreover, the nature of maternal stress was not identified and further analytical approaches are needed to provide conclusive evidence for a gene-environment interaction</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-442" type="identity">
+         <class id="was_not"/>
+         <span end="26000" id="PMC4037583.nxml.gz-442" start="25993">was not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-443" type="identity">
+         <class id="future_work"/>
+         <span end="26023" id="PMC4037583.nxml.gz-443" start="26016">further</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-444" type="identity">
+         <class id="are_needed"/>
+         <span end="26056" id="PMC4037583.nxml.gz-444" start="26046">are needed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-445" type="identity">
+         <class id="evidence"/>
+         <span end="26087" id="PMC4037583.nxml.gz-445" start="26079">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-446" type="identity">
+         <class id="interaction"/>
+         <span end="26122" id="PMC4037583.nxml.gz-446" start="26111">interaction</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-447" type="identity">
+         <class id="nevertheless"/>
+         <span end="26136" id="PMC4037583.nxml.gz-447" start="26124">Nevertheless</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-448" type="identity">
+         <class id="subject_scope"/>
+         <span end="26356" id="PMC4037583.nxml.gz-448" start="26124">Nevertheless, the statistically significant effect and the size of differences observed between mothers with negative versus positive and neutral attitudes in the Tht111 I CC polymorphism group suggest that this effect may be robust</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-449" type="identity">
+         <class id="effect"/>
+         <span end="26174" id="PMC4037583.nxml.gz-449" start="26168">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-450" type="identity">
+         <class id="observed"/>
+         <span end="26211" id="PMC4037583.nxml.gz-450" start="26203">observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-451" type="identity">
+         <class id="suggest"/>
+         <span end="26325" id="PMC4037583.nxml.gz-451" start="26318">suggest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-452" type="identity">
+         <class id="effect"/>
+         <span end="26342" id="PMC4037583.nxml.gz-452" start="26336">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-453" type="identity">
+         <class id="may_be"/>
+         <span end="26349" id="PMC4037583.nxml.gz-453" start="26343">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-454" type="identity">
+         <class id="robust"/>
+         <span end="26356" id="PMC4037583.nxml.gz-454" start="26350">robust</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-455" type="identity">
+         <class id="subject_scope"/>
+         <span end="26538" id="PMC4037583.nxml.gz-455" start="26358">Second, the distribution of Bcl I polymorphism seen in this sample may be unique, since there are important geographical/ethnic differences in the prevalence of these polymorphisms</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-456" type="identity">
+         <class id="seen"/>
+         <span end="26409" id="PMC4037583.nxml.gz-456" start="26405">seen</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-457" type="identity">
+         <class id="may_be"/>
+         <span end="26431" id="PMC4037583.nxml.gz-457" start="26425">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-458" type="identity">
+         <class id="unique"/>
+         <span end="26438" id="PMC4037583.nxml.gz-458" start="26432">unique</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-459" type="identity">
+         <class id="probable_understanding"/>
+         <span end="26445" id="PMC4037583.nxml.gz-459" start="26440">since</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-460" type="identity">
+         <class id="important"/>
+         <span end="26465" id="PMC4037583.nxml.gz-460" start="26456">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-461" type="identity">
+         <class id="differences"/>
+         <span end="26497" id="PMC4037583.nxml.gz-461" start="26486">differences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-462" type="identity">
+         <class id="prevalence"/>
+         <span end="26515" id="PMC4037583.nxml.gz-462" start="26505">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-463" type="identity">
+         <class id="subject_scope"/>
+         <span end="26668" id="PMC4037583.nxml.gz-463" start="26540">It should be emphasized that, in the present study, we included a fairly homogeneous cohort of Mediterranean patients from Crete</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-464" type="identity">
+         <class id="should_be_emphasized"/>
+         <span end="26563" id="PMC4037583.nxml.gz-464" start="26543">should be emphasized</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC4037583.nxml.gz-465" type="identity">
+         <class id="present_study"/>
+         <span end="26590" id="PMC4037583.nxml.gz-465" start="26577">present study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-466" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="26677" id="PMC4037583.nxml.gz-466" start="26670">Despite</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-467" type="identity">
+         <class id="subject_scope"/>
+         <span end="26874" id="PMC4037583.nxml.gz-467" start="26670">Despite these limitations, this is the first study to demonstrate a gene-maternal environment synergism in relation to infant birth weight, using a very brief assessment of maternal attitudes to pregnancy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-468" type="identity">
+         <class id="problem_complication"/>
+         <span end="26695" id="PMC4037583.nxml.gz-468" start="26684">limitations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-469" type="identity">
+         <class id="first_study"/>
+         <span end="26720" id="PMC4037583.nxml.gz-469" start="26709">first study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-470" type="identity">
+         <class id="demonstrate"/>
+         <span end="26735" id="PMC4037583.nxml.gz-470" start="26724">demonstrate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-471" type="identity">
+         <class id="relation"/>
+         <span end="26785" id="PMC4037583.nxml.gz-471" start="26777">relation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-472" type="identity">
+         <class id="should"/>
+         <span end="26882" id="PMC4037583.nxml.gz-472" start="26876">Should</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-473" type="identity">
+         <class id="subject_scope"/>
+         <span end="27147" id="PMC4037583.nxml.gz-473" start="26876">Should these data be replicated in a much wider cohort, given the simplicity in assessing such attitudes and the feasibility to identify the homozygous group of women early on in pregnancy, these findings may have significant implications for public health and prevention</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC4037583.nxml.gz-474" type="identity">
+         <class id="replicated"/>
+         <span end="26907" id="PMC4037583.nxml.gz-474" start="26897">replicated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-475" type="identity">
+         <class id="given"/>
+         <span end="26937" id="PMC4037583.nxml.gz-475" start="26932">given</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-476" type="identity">
+         <class id="these_findings"/>
+         <span end="27080" id="PMC4037583.nxml.gz-476" start="27066">these findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-477" type="identity">
+         <class id="future_prediction"/>
+         <span end="27084" id="PMC4037583.nxml.gz-477" start="27081">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-478" type="identity">
+         <class id="significant"/>
+         <span end="27101" id="PMC4037583.nxml.gz-478" start="27090">significant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-479" type="identity">
+         <class id="implications"/>
+         <span end="27114" id="PMC4037583.nxml.gz-479" start="27102">implications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-480" type="identity">
+         <class id="public_health"/>
+         <span end="27132" id="PMC4037583.nxml.gz-480" start="27119">public health</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-481" type="identity">
+         <class id="subject_scope"/>
+         <span end="27480" id="PMC4037583.nxml.gz-481" start="27149">For example, based on the polymorphic profile and our brief assessment of mothers' attitude towards the pregnancy, we could screen noninvasively and identify mothers during pregnancy that may benefit from stress-management strategies, and this could possibly dramatically improve health outcomes for the mother as well as the fetus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-482" type="identity">
+         <class id="probable_understanding"/>
+         <span end="27170" id="PMC4037583.nxml.gz-482" start="27162">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-483" type="identity">
+         <class id="future_work"/>
+         <span end="27272" id="PMC4037583.nxml.gz-483" start="27267">could</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-484" type="identity">
+         <class id="identify"/>
+         <span end="27306" id="PMC4037583.nxml.gz-484" start="27298">identify</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-485" type="identity">
+         <class id="future_prediction"/>
+         <span end="27340" id="PMC4037583.nxml.gz-485" start="27337">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-486" type="identity">
+         <class id="benefit"/>
+         <span end="27348" id="PMC4037583.nxml.gz-486" start="27341">benefit</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-487" type="identity">
+         <class id="strategies"/>
+         <span end="27382" id="PMC4037583.nxml.gz-487" start="27372">strategies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-488" type="identity">
+         <class id="future_prediction"/>
+         <span end="27398" id="PMC4037583.nxml.gz-488" start="27393">could</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-489" type="identity">
+         <class id="possibly"/>
+         <span end="27407" id="PMC4037583.nxml.gz-489" start="27399">possibly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC4037583.nxml.gz-490" type="identity">
+         <class id="improve"/>
+         <span end="27428" id="PMC4037583.nxml.gz-490" start="27421">improve</span>
+      </annotation>
+   </document>
+</knowtator-project>

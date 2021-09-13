@@ -1,0 +1,77 @@
+ARTICLE:	PMC5524288
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator ANNOTATOR:	3
+total annotations for annotator PREPROCESS:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	3	3	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator ANNOTATOR:	3
+total annotations for annotator PREPROCESS:	5
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+full_unknown	5	3	0	0	2	0.60	0.60
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator ANNOTATOR:	5
+total annotations for annotator PREPROCESS:	8
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	8	5	0	0	3	0.62	0.62
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator ANNOTATOR:	35
+total annotations for annotator PREPROCESS:	60
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	61	34	0	0	27	0.56	0.56
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator ANNOTATOR:	12
+total annotations for annotator PREPROCESS:	29
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+probable_understanding	34	7	0	0	27	0.21	0.21
+
+CURRENT IGNORANCE TYPE:	important_consideration
+total annotations for annotator ANNOTATOR:	51
+total annotations for annotator PREPROCESS:	60
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+important_consideration	68	43	0	0	25	0.63	0.63
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator ANNOTATOR:	71
+total annotations for annotator PREPROCESS:	146
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	148	69	0	0	79	0.47	0.47
+
+CURRENT IGNORANCE TYPE:	alternative_options_controversy
+total annotations for annotator ANNOTATOR:	10
+total annotations for annotator PREPROCESS:	27
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options_controversy	27	10	0	0	17	0.37	0.37
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator ANNOTATOR:	6
+total annotations for annotator PREPROCESS:	57
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	59	4	0	0	55	0.07	0.07
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator ANNOTATOR:	6
+total annotations for annotator PREPROCESS:	49
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	49	6	0	0	43	0.12	0.12
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator ANNOTATOR:	4
+total annotations for annotator PREPROCESS:	17
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	18	3	0	0	15	0.17	0.17
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator ANNOTATOR:	10
+total annotations for annotator PREPROCESS:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_prediction	11	2	0	0	9	0.18	0.18
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	491	189	0	7	295	0.38	0.40
+subject_scope	64	0	0	0	64	0.00	0.00

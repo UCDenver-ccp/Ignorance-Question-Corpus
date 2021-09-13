@@ -1,0 +1,892 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC3789799.nxml.gz" text-file="PMC3789799.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="81" id="PMC3789799.nxml.gz-1" start="0">Characterization of Two ENU-Induced Mutations Affecting Mouse Skeletal Morphology</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-2" type="identity">
+         <class id="affecting"/>
+         <span end="55" id="PMC3789799.nxml.gz-2" start="46">Affecting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-3" type="identity">
+         <class id="subject_scope"/>
+         <span end="219" id="PMC3789799.nxml.gz-3" start="92">Using the N -ethyl- N -nitrosourea (ENU) mutagenesis screen, we have identified two skeletal morphology mutants, Skm1 and Skm2 </span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-4" type="identity">
+         <class id="identified"/>
+         <span end="171" id="PMC3789799.nxml.gz-4" start="161">identified</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-5" type="identity">
+         <class id="subject_scope"/>
+         <span end="411" id="PMC3789799.nxml.gz-5" start="221">Positional cloning and candidate gene sequencing localized the causative point mutations within the genes coding for natriuretic peptide receptor C (NPR-C) and filamin b (FLNB), respectively</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-6" type="identity">
+         <class id="candidate"/>
+         <span end="253" id="PMC3789799.nxml.gz-6" start="244">candidate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-7" type="identity">
+         <class id="subject_scope"/>
+         <span end="698" id="PMC3789799.nxml.gz-7" start="612">These mutant mice will serve as useful models for the study of vertebral malformations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-8" type="identity">
+         <class id="will"/>
+         <span end="634" id="PMC3789799.nxml.gz-8" start="630">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-9" type="identity">
+         <class id="serve"/>
+         <span end="640" id="PMC3789799.nxml.gz-9" start="635">serve</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-10" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="657" id="PMC3789799.nxml.gz-10" start="651">models</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-11" type="identity">
+         <class id="subject_scope"/>
+         <span end="917" id="PMC3789799.nxml.gz-11" start="700">Vertebral malformations that cause kyphosis or scoliosis are an important health problem that can result in disability and suffering attributable to both physical pain and psychological distress from the disfigurement</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-12" type="identity">
+         <class id="important"/>
+         <span end="773" id="PMC3789799.nxml.gz-12" start="764">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-13" type="identity">
+         <class id="important_consideration"/>
+         <span end="788" id="PMC3789799.nxml.gz-13" start="781">problem</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-14" type="identity">
+         <class id="attributable"/>
+         <span end="845" id="PMC3789799.nxml.gz-14" start="833">attributable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-15" type="identity">
+         <class id="subject_scope"/>
+         <span end="1168" id="PMC3789799.nxml.gz-15" start="919">Congenital spine deformities occur with an approximate frequency of 0.5–1 per 1000 live births (Sparrow et al. 2011) and may arise sporadically or as the result of an underlying heritable abnormality in genes that contribute to vertebral development</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-16" type="identity">
+         <class id="approximate"/>
+         <span end="973" id="PMC3789799.nxml.gz-16" start="962">approximate</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-17" type="identity">
+         <class id="may"/>
+         <span end="1043" id="PMC3789799.nxml.gz-17" start="1040">may</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-18" type="identity">
+         <class id="or"/>
+         <span end="1065" id="PMC3789799.nxml.gz-18" start="1063">or</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-19" type="identity">
+         <class id="underlying"/>
+         <span end="1096" id="PMC3789799.nxml.gz-19" start="1086">underlying</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-20" type="identity">
+         <class id="contribute"/>
+         <span end="1143" id="PMC3789799.nxml.gz-20" start="1133">contribute</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-21" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="1178" id="PMC3789799.nxml.gz-21" start="1170">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-22" type="identity">
+         <class id="subject_scope"/>
+         <span end="1472" id="PMC3789799.nxml.gz-22" start="1170">Although there is evidence that the embryonic environment, including oxygen tension, exposure to teratogens, and prenatal vitamin deficiencies, can all contribute to congenital defects (Hensinger 2009), the genetic contribution to the pathogenesis of vertebral malformation syndromes is less understood</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-23" type="identity">
+         <class id="there_is_evidence"/>
+         <span end="1196" id="PMC3789799.nxml.gz-23" start="1179">there is evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-24" type="identity">
+         <class id="can"/>
+         <span end="1317" id="PMC3789799.nxml.gz-24" start="1314">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-25" type="identity">
+         <class id="contribute"/>
+         <span end="1332" id="PMC3789799.nxml.gz-25" start="1322">contribute</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-26" type="identity">
+         <class id="contribution"/>
+         <span end="1397" id="PMC3789799.nxml.gz-26" start="1385">contribution</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-27" type="identity">
+         <class id="less"/>
+         <span end="1461" id="PMC3789799.nxml.gz-27" start="1457">less</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-28" type="identity">
+         <class id="subject_scope"/>
+         <span end="1739" id="PMC3789799.nxml.gz-28" start="1474">This is largely attributable to the fact that, in humans, vertebral malformation syndromes often represent a sporadic occurrence within a family and traditional linkage analysis to identify the chromosomal regions responsible for these defects is often not possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-29" type="identity">
+         <class id="largely"/>
+         <span end="1489" id="PMC3789799.nxml.gz-29" start="1482">largely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-30" type="identity">
+         <class id="attributable"/>
+         <span end="1502" id="PMC3789799.nxml.gz-30" start="1490">attributable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-31" type="identity">
+         <class id="often"/>
+         <span end="1570" id="PMC3789799.nxml.gz-31" start="1565">often</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-32" type="identity">
+         <class id="represent"/>
+         <span end="1580" id="PMC3789799.nxml.gz-32" start="1571">represent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-33" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1699" id="PMC3789799.nxml.gz-33" start="1688">responsible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-34" type="identity">
+         <class id="not_possible"/>
+         <span end="1739" id="PMC3789799.nxml.gz-34" start="1727">not possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-35" type="identity">
+         <class id="subject_scope"/>
+         <span end="1842" id="PMC3789799.nxml.gz-35" start="1741">As a result, the genetic etiology of many congenital vertebral malformation syndromes remains unknown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-36" type="identity">
+         <class id="remains_unknown"/>
+         <span end="1842" id="PMC3789799.nxml.gz-36" start="1827">remains unknown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-37" type="identity">
+         <class id="subject_scope"/>
+         <span end="2068" id="PMC3789799.nxml.gz-37" start="1844">However, familial occurrences (Miller et al. 2006;Wynne-Davies 1975) and twin studies (Kesling and Reinker 1997) have shown that the cause of spinal deformities, including scoliosis and kyphosis, can have a genetic component</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3789799.nxml.gz-38" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="1851" id="PMC3789799.nxml.gz-38" start="1844">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-39" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1873" id="PMC3789799.nxml.gz-39" start="1862">occurrences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-40" type="identity">
+         <class id="studies"/>
+         <span end="1929" id="PMC3789799.nxml.gz-40" start="1922">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-41" type="identity">
+         <class id="have_shown"/>
+         <span end="1967" id="PMC3789799.nxml.gz-41" start="1957">have shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-42" type="identity">
+         <class id="can"/>
+         <span end="2043" id="PMC3789799.nxml.gz-42" start="2040">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-43" type="identity">
+         <class id="subject_scope"/>
+         <span end="2270" id="PMC3789799.nxml.gz-43" start="2070">Using model organisms and using a phenotype-driven approach to identify causal genes underlying spinal deformities can overcome some of the limitations to studying the genetic basis of these syndromes</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3789799.nxml.gz-44" type="identity">
+         <class id="0_model"/>
+         <span end="2081" id="PMC3789799.nxml.gz-44" start="2076">model</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-45" type="identity">
+         <class id="to_identify"/>
+         <span end="2141" id="PMC3789799.nxml.gz-45" start="2130">to identify</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-46" type="identity">
+         <class id="underlying"/>
+         <span end="2165" id="PMC3789799.nxml.gz-46" start="2155">underlying</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-47" type="identity">
+         <class id="can"/>
+         <span end="2188" id="PMC3789799.nxml.gz-47" start="2185">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-48" type="identity">
+         <class id="limitations"/>
+         <span end="2221" id="PMC3789799.nxml.gz-48" start="2210">limitations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-49" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="2233" id="PMC3789799.nxml.gz-49" start="2222">to studying</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-50" type="identity">
+         <class id="basis"/>
+         <span end="2251" id="PMC3789799.nxml.gz-50" start="2246">basis</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-51" type="identity">
+         <class id="subject_scope"/>
+         <span end="2618" id="PMC3789799.nxml.gz-51" start="2272">Mouse models have contributed greatly to our understanding of molecular embryonic development, including vertebral formation and segmentation (Sparrow et al. 2011), and the use of forward genetics screens has been shown to be a valuable tool for the discovery of mutations that are important during skeletogenesis in the mouse (Mohan et al. 2008)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-52" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2284" id="PMC3789799.nxml.gz-52" start="2278">models</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-53" type="identity">
+         <class id="important_consideration"/>
+         <span end="2309" id="PMC3789799.nxml.gz-53" start="2290">contributed greatly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-54" type="identity">
+         <class id="has_been_shown"/>
+         <span end="2491" id="PMC3789799.nxml.gz-54" start="2477">has been shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-55" type="identity">
+         <class id="to_be"/>
+         <span end="2497" id="PMC3789799.nxml.gz-55" start="2492">to be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-56" type="identity">
+         <class id="valuable"/>
+         <span end="2508" id="PMC3789799.nxml.gz-56" start="2500">valuable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-57" type="identity">
+         <class id="discovery"/>
+         <span end="2531" id="PMC3789799.nxml.gz-57" start="2522">discovery</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-58" type="identity">
+         <class id="important"/>
+         <span end="2563" id="PMC3789799.nxml.gz-58" start="2554">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-59" type="identity">
+         <class id="subject_scope"/>
+         <span end="2904" id="PMC3789799.nxml.gz-59" start="2620">N -ethyl- N -nitrosourea (ENU) is a chemical mutagen that introduces random point mutations into the mouse genome that, together with positional cloning or exome sequencing, permits the identification of phenotype–genotype relationships in an unbiased manner (Probst and Justice 2010)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-60" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2801" id="PMC3789799.nxml.gz-60" start="2794">permits</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-61" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2820" id="PMC3789799.nxml.gz-61" start="2806">identification</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-62" type="identity">
+         <class id="relationships"/>
+         <span end="2856" id="PMC3789799.nxml.gz-62" start="2843">relationships</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-63" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2871" id="PMC3789799.nxml.gz-63" start="2863">unbiased</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-64" type="identity">
+         <class id="subject_scope"/>
+         <span end="3142" id="PMC3789799.nxml.gz-64" start="2906">In this article, we report the identification of two mutations affecting skeletal morphology, skeletal morphology 1 ( skm1 ) and skeletal morphology 2 ( Skm2 ), in a recessive ENU mutagenesis screen for infectious disease susceptibility</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-65" type="identity">
+         <class id="this_article"/>
+         <span end="2921" id="PMC3789799.nxml.gz-65" start="2909">this article</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-66" type="identity">
+         <class id="affecting"/>
+         <span end="2978" id="PMC3789799.nxml.gz-66" start="2969">affecting</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-67" type="identity">
+         <class id="subject_scope"/>
+         <span end="3276" id="PMC3789799.nxml.gz-67" start="3144">Homozygous Skm1 mice show kyphosis or an elongated torso and homozygous Skm2 mice exhibit shortened stature, scoliosis, and lordosis</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-68" type="identity">
+         <class id="show"/>
+         <span end="3169" id="PMC3789799.nxml.gz-68" start="3165">show</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3789799.nxml.gz-69" type="identity">
+         <class id="subject_scope"/>
+         <span end="3524" id="PMC3789799.nxml.gz-69" start="3278">We show that Skm1 and Skm2 mice carry a missense mutation in the Npr3 and Flnb genes, respectively. These mutants provide important tools for the study of skeletal malformation disorders that result from the loss of a functional Npr3 or Flnb gene</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-70" type="identity">
+         <class id="show"/>
+         <span end="3285" id="PMC3789799.nxml.gz-70" start="3281">show</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-71" type="identity">
+         <class id="probable_understanding"/>
+         <span end="3399" id="PMC3789799.nxml.gz-71" start="3392">provide</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-72" type="identity">
+         <class id="important"/>
+         <span end="3409" id="PMC3789799.nxml.gz-72" start="3400">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-73" type="identity">
+         <class id="subject_scope"/>
+         <span end="6002" id="PMC3789799.nxml.gz-73" start="5852">During our ENU mutagenesis screen for infectious disease susceptibility, we identified two mutations that contribute to skeletal malformations in mice</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-74" type="identity">
+         <class id="identified"/>
+         <span end="5938" id="PMC3789799.nxml.gz-74" start="5928">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-75" type="identity">
+         <class id="contribute"/>
+         <span end="5968" id="PMC3789799.nxml.gz-75" start="5958">contribute</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-76" type="identity">
+         <class id="subject_scope"/>
+         <span end="6266" id="PMC3789799.nxml.gz-76" start="6004">In our pipeline, ENU-mutagenized mice were bred to homozygosity in a three-generation breeding scheme (Figure 1A), and although G3 progeny were to be screened for susceptibility to bacterial infection, mice were initially examined for gross morphological defects</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-77" type="identity">
+         <class id="examined"/>
+         <span end="6234" id="PMC3789799.nxml.gz-77" start="6226">examined</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-78" type="identity">
+         <class id="here"/>
+         <span end="6272" id="PMC3789799.nxml.gz-78" start="6268">Here</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-79" type="identity">
+         <class id="subject_scope"/>
+         <span end="6372" id="PMC3789799.nxml.gz-79" start="6268">Here, we report the identification of two pedigrees based on their skeletal disfigurement, Skm1 and Skm2</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-80" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="6328" id="PMC3789799.nxml.gz-80" start="6320">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-81" type="identity">
+         <class id="subject_scope"/>
+         <span end="6973" id="PMC3789799.nxml.gz-81" start="6926">Skm2 mice exhibit severe scoliosis and lordosis</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-82" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="6943" id="PMC3789799.nxml.gz-82" start="6936">exhibit</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3789799.nxml.gz-83" type="identity">
+         <class id="severe"/>
+         <span end="6950" id="PMC3789799.nxml.gz-83" start="6944">severe</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-84" type="identity">
+         <class id="subject_scope"/>
+         <span end="7454" id="PMC3789799.nxml.gz-84" start="7286">Skm2 mice presented a more severe phenotype and were readily identified after birth by a shortened stature, abnormal gait, and severe scoliosis and lordosis (Figure 1C)</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3789799.nxml.gz-85" type="identity">
+         <class id="severe"/>
+         <span end="7319" id="PMC3789799.nxml.gz-85" start="7313">severe</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3789799.nxml.gz-86" type="identity">
+         <class id="severe"/>
+         <span end="7419" id="PMC3789799.nxml.gz-86" start="7413">severe</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-87" type="identity">
+         <class id="subject_scope"/>
+         <span end="7575" id="PMC3789799.nxml.gz-87" start="7456">In addition, Skm2 mutants were dehydrated and presented with tachypnea, likely as a consequence of thoracic deformities</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-88" type="identity">
+         <class id="likely"/>
+         <span end="7534" id="PMC3789799.nxml.gz-88" start="7528">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-89" type="identity">
+         <class id="consequence"/>
+         <span end="7551" id="PMC3789799.nxml.gz-89" start="7540">consequence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-90" type="identity">
+         <class id="subject_scope"/>
+         <span end="7704" id="PMC3789799.nxml.gz-90" start="7577">At weaning, only eight Skm2 mutants out of 84 progeny were identified (9.5% ratio), suggesting embryonic or perinatal mortality</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-91" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="7593" id="PMC3789799.nxml.gz-91" start="7589">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-92" type="identity">
+         <class id="identified"/>
+         <span end="7646" id="PMC3789799.nxml.gz-92" start="7636">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-93" type="identity">
+         <class id="suggesting"/>
+         <span end="7671" id="PMC3789799.nxml.gz-93" start="7661">suggesting</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-94" type="identity">
+         <class id="or"/>
+         <span end="7684" id="PMC3789799.nxml.gz-94" start="7682">or</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-95" type="identity">
+         <class id="subject_scope"/>
+         <span end="8201" id="PMC3789799.nxml.gz-95" start="8060">The Skm1 mutants generated a significant linkage (LOD score = 3.612) at chromosome 15 at marker rs13482455 (16.73 Mb) (Figure 2A, top panel )</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-96" type="identity">
+         <class id="important_consideration"/>
+         <span end="8100" id="PMC3789799.nxml.gz-96" start="8089">significant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-97" type="identity">
+         <class id="subject_scope"/>
+         <span end="8334" id="PMC3789799.nxml.gz-97" start="8203">The region of the mutation was localized to a 22.6 Mb interval on chromosome 15 (Figure 2B, left panel ) containing 180 known genes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-98" type="identity">
+         <class id="probable_understanding"/>
+         <span end="8328" id="PMC3789799.nxml.gz-98" start="8323">known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-99" type="identity">
+         <class id="candidate"/>
+         <span end="8345" id="PMC3789799.nxml.gz-99" start="8336">Candidate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-100" type="identity">
+         <class id="subject_scope"/>
+         <span end="8593" id="PMC3789799.nxml.gz-100" start="8336">Candidate genes were prioritized based on reported phenotypes and natriuretic peptide receptor C ( Npr3 ) was selected for sequencing based on the existence of seven known alleles (spontaneous and generated) with phenotypes similar to those of the Skm1 mice</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-101" type="identity">
+         <class id="probable_understanding"/>
+         <span end="8377" id="PMC3789799.nxml.gz-101" start="8369">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-102" type="identity">
+         <class id="reported"/>
+         <span end="8386" id="PMC3789799.nxml.gz-102" start="8378">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-103" type="identity">
+         <class id="probable_understanding"/>
+         <span end="8478" id="PMC3789799.nxml.gz-103" start="8470">based on</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-104" type="identity">
+         <class id="probable_understanding"/>
+         <span end="8507" id="PMC3789799.nxml.gz-104" start="8502">known</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-105" type="identity">
+         <class id="known"/>
+         <span end="8507" id="PMC3789799.nxml.gz-105" start="8502">known</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-106" type="identity">
+         <class id="similar_to"/>
+         <span end="8570" id="PMC3789799.nxml.gz-106" start="8560">similar to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-107" type="identity">
+         <class id="subject_scope"/>
+         <span end="8784" id="PMC3789799.nxml.gz-107" start="8595">Sequencing of genomic DNA revealed a T-to-A transversion at nucleotide position 1151, causing a mutation from an isoleucine residue to an asparagine residue (I384N) (Figure 3A, left panel )</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-108" type="identity">
+         <class id="revealed"/>
+         <span end="8629" id="PMC3789799.nxml.gz-108" start="8621">revealed</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-109" type="identity">
+         <class id="probable_understanding"/>
+         <span end="8688" id="PMC3789799.nxml.gz-109" start="8681">causing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-110" type="identity">
+         <class id="subject_scope"/>
+         <span end="8951" id="PMC3789799.nxml.gz-110" start="8786">The mutation underlying the Skm1 phenotype occurred at a residue that is highly conserved across species (Figure 3B, upper panel ) and mouse strains (data not shown)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-111" type="identity">
+         <class id="underlying"/>
+         <span end="8809" id="PMC3789799.nxml.gz-111" start="8799">underlying</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-112" type="identity">
+         <class id="subject_scope"/>
+         <span end="9118" id="PMC3789799.nxml.gz-112" start="8953">This mutation occurs within the membrane proximal region of the extracellular domain of the receptor, which is important for ligand binding (Figure 3C, upper panel )</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-113" type="identity">
+         <class id="important"/>
+         <span end="9073" id="PMC3789799.nxml.gz-113" start="9064">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-114" type="identity">
+         <class id="subject_scope"/>
+         <span end="9809" id="PMC3789799.nxml.gz-114" start="9691">Identification of mutations underlying skeletal morphology mutant 1 ( Skm1 ) and skeletal morphology mutant 2 ( Skm2 )</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-115" type="identity">
+         <class id="underlying"/>
+         <span end="9729" id="PMC3789799.nxml.gz-115" start="9719">underlying</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-116" type="identity">
+         <class id="subject_scope"/>
+         <span end="10761" id="PMC3789799.nxml.gz-116" start="10618">The Skm2 mutants generated a significant linkage (LOD score = 3.612) at chromosome 14 at marker rs3687889 (19.69 Mb) (Figure 2A, bottom panel )</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-117" type="identity">
+         <class id="important_consideration"/>
+         <span end="10658" id="PMC3789799.nxml.gz-117" start="10647">significant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-118" type="identity">
+         <class id="subject_scope"/>
+         <span end="11076" id="PMC3789799.nxml.gz-118" start="10763">Genotyping of 120 mice, including 10 mice with a deviant phenotype, confined the mutation to a region of 24.6 Mb on chromosome 14 (Figure 2B, right panel ), containing 394 known/predicted genes and 3 genes with the associated mouse phenotype of kyphosis [ Ataxin 7 , Topoisomerase ( DNA ) II beta , and Filamin b]</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-119" type="identity">
+         <class id="probable_understanding"/>
+         <span end="10839" id="PMC3789799.nxml.gz-119" start="10831">confined</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-120" type="identity">
+         <class id="probable_understanding"/>
+         <span end="10940" id="PMC3789799.nxml.gz-120" start="10935">known</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-121" type="identity">
+         <class id="known"/>
+         <span end="10940" id="PMC3789799.nxml.gz-121" start="10935">known</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-122" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="10950" id="PMC3789799.nxml.gz-122" start="10941">predicted</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-123" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="10950" id="PMC3789799.nxml.gz-123" start="10941">predicted</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-124" type="identity">
+         <class id="associated"/>
+         <span end="10988" id="PMC3789799.nxml.gz-124" start="10978">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-125" type="identity">
+         <class id="subject_scope"/>
+         <span end="11346" id="PMC3789799.nxml.gz-125" start="11078">DNA sequence analysis of Flnb revealed a T-to-C transition at nucleotide position 481 converting a serine residue to a proline residue (S96P), resulting in a missense mutation (Figure 3A, right panel ) within the actin-binding domain of FLNB (Figure 3C, bottom panel )</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-126" type="identity">
+         <class id="revealed"/>
+         <span end="11116" id="PMC3789799.nxml.gz-126" start="11108">revealed</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-127" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="11230" id="PMC3789799.nxml.gz-127" start="11221">resulting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-128" type="identity">
+         <class id="subject_scope"/>
+         <span end="11878" id="PMC3789799.nxml.gz-128" start="11739">Skm1 mice were thin and exhibited a marked thoracolumbar kyphosis (Figure 4, C and D) compared to wild-type littermates (Figure 4, A and B)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-129" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="11836" id="PMC3789799.nxml.gz-129" start="11825">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-130" type="identity">
+         <class id="subject_scope"/>
+         <span end="12164" id="PMC3789799.nxml.gz-130" start="11880">Skm1 mice also exhibited arachnodactyly characterized by elongated phalanges (Figure 5, B and D), compared to wild-type littermates (Figure 5, A and C), and kinked tail (Figure 5B), attributable to either the presence of hemivertebrae or fused vertebrae in the tail region (Figure 5E)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-131" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="11989" id="PMC3789799.nxml.gz-131" start="11978">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-132" type="identity">
+         <class id="attributable"/>
+         <span end="12074" id="PMC3789799.nxml.gz-132" start="12062">attributable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-133" type="identity">
+         <class id="either...or"/>
+         <span end="12084" id="PMC3789799.nxml.gz-133" start="12078">either</span>
+         <span end="12117" id="PMC3789799.nxml.gz-134" start="12115">or</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-135" type="identity">
+         <class id="subject_scope"/>
+         <span end="12320" id="PMC3789799.nxml.gz-135" start="12166">Skm2 mice exhibited abnormal skeleton morphology, with severe scoliosis (the convexity of the curve pointing to the left) and lordosis (Figure 4, E and F)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-136" type="identity">
+         <class id="severe"/>
+         <span end="12227" id="PMC3789799.nxml.gz-136" start="12221">severe</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-137" type="identity">
+         <class id="subject_scope"/>
+         <span end="12452" id="PMC3789799.nxml.gz-137" start="12322">In addition, the mutant mice showed an abnormal thoracic cage with less ribs, a malformed sternum, and fusion of several vertebrae</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-138" type="identity">
+         <class id="showed"/>
+         <span end="12357" id="PMC3789799.nxml.gz-138" start="12351">showed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-139" type="identity">
+         <class id="subject_scope"/>
+         <span end="13407" id="PMC3789799.nxml.gz-139" start="13255">Using a large-scale ENU mutagenesis screen, we have identified two novel mutations, Skm1 and Skm2 , that result in congenital spinal deformities in mice</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-140" type="identity">
+         <class id="identified"/>
+         <span end="13317" id="PMC3789799.nxml.gz-140" start="13307">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-141" type="identity">
+         <class id="novel"/>
+         <span end="13327" id="PMC3789799.nxml.gz-141" start="13322">novel</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-142" type="identity">
+         <class id="subject_scope"/>
+         <span end="13634" id="PMC3789799.nxml.gz-142" start="13409">The genes underlying these new ENU-derived mutants have previously been associated with skeletal abnormalities in both mice and humans, and thus serve as excellent tools for the study of the human skeleton and its development</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-143" type="identity">
+         <class id="underlying"/>
+         <span end="13429" id="PMC3789799.nxml.gz-143" start="13419">underlying</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-144" type="identity">
+         <class id="new"/>
+         <span end="13439" id="PMC3789799.nxml.gz-144" start="13436">new</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-145" type="identity">
+         <class id="have...been"/>
+         <span end="13464" id="PMC3789799.nxml.gz-145" start="13460">have</span>
+         <span end="13480" id="PMC3789799.nxml.gz-146" start="13476">been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-147" type="identity">
+         <class id="associated"/>
+         <span end="13491" id="PMC3789799.nxml.gz-147" start="13481">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-148" type="identity">
+         <class id="thus"/>
+         <span end="13553" id="PMC3789799.nxml.gz-148" start="13549">thus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-149" type="identity">
+         <class id="serve"/>
+         <span end="13559" id="PMC3789799.nxml.gz-149" start="13554">serve</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-150" type="identity">
+         <class id="as"/>
+         <span end="13562" id="PMC3789799.nxml.gz-150" start="13560">as</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-151" type="identity">
+         <class id="future_work"/>
+         <span end="13592" id="PMC3789799.nxml.gz-151" start="13573">tools for the study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-152" type="identity">
+         <class id="subject_scope"/>
+         <span end="13977" id="PMC3789799.nxml.gz-152" start="13731">Natriuretic peptides (NP), which are important in cardiovascular homeostasis through the maintenance of blood pressure and extracellular fluid volume, comprise three structurally related molecules: atrial NP, brain NP, and C-type NP (Potter 2011)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-153" type="identity">
+         <class id="important"/>
+         <span end="13777" id="PMC3789799.nxml.gz-153" start="13768">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-154" type="identity">
+         <class id="related"/>
+         <span end="13917" id="PMC3789799.nxml.gz-154" start="13910">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-155" type="identity">
+         <class id="subject_scope"/>
+         <span end="14130" id="PMC3789799.nxml.gz-155" start="13979">Osteocrin, a bone-secreted protein important in osteoblast regulation, shows homology to the NP family and can also bind to NPR-C (Moffatt et al. 2007)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-156" type="identity">
+         <class id="important"/>
+         <span end="14023" id="PMC3789799.nxml.gz-156" start="14014">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-157" type="identity">
+         <class id="regulation"/>
+         <span end="14048" id="PMC3789799.nxml.gz-157" start="14038">regulation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-158" type="identity">
+         <class id="shows"/>
+         <span end="14055" id="PMC3789799.nxml.gz-158" start="14050">shows</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-159" type="identity">
+         <class id="similarly"/>
+         <span end="14496" id="PMC3789799.nxml.gz-159" start="14487">Similarly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-160" type="identity">
+         <class id="subject_scope"/>
+         <span end="14546" id="PMC3789799.nxml.gz-160" start="14487">Similarly, Skm1 mice also exhibit these skeletal phenotypes</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-161" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="14520" id="PMC3789799.nxml.gz-161" start="14513">exhibit</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-162" type="identity">
+         <class id="subject_scope"/>
+         <span end="14706" id="PMC3789799.nxml.gz-162" start="14548">The Skm1 mutation occurs within the membrane proximal region of the extracellular domain of Npr3 , suggesting that ligand binding may be altered in these mice</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-163" type="identity">
+         <class id="suggesting"/>
+         <span end="14657" id="PMC3789799.nxml.gz-163" start="14647">suggesting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-164" type="identity">
+         <class id="may_be"/>
+         <span end="14684" id="PMC3789799.nxml.gz-164" start="14678">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-165" type="identity">
+         <class id="subject_scope"/>
+         <span end="14801" id="PMC3789799.nxml.gz-165" start="14708">A mutation in this domain would prevent clearance of the NPs and result in their accumulation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-166" type="identity">
+         <class id="would"/>
+         <span end="14739" id="PMC3789799.nxml.gz-166" start="14734">would</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-167" type="identity">
+         <class id="prevent"/>
+         <span end="14747" id="PMC3789799.nxml.gz-167" start="14740">prevent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-168" type="identity">
+         <class id="together"/>
+         <span end="15086" id="PMC3789799.nxml.gz-168" start="15078">Together</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-169" type="identity">
+         <class id="subject_scope"/>
+         <span end="15202" id="PMC3789799.nxml.gz-169" start="15078">Together, these data suggest that an accumulation of NPR-C ligands in the Skm1 mice may contribute to the skeletal phenotype</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-170" type="identity">
+         <class id="suggest"/>
+         <span end="15106" id="PMC3789799.nxml.gz-170" start="15099">suggest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-171" type="identity">
+         <class id="may"/>
+         <span end="15165" id="PMC3789799.nxml.gz-171" start="15162">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-172" type="identity">
+         <class id="contribute"/>
+         <span end="15176" id="PMC3789799.nxml.gz-172" start="15166">contribute</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-173" type="identity">
+         <class id="subject_scope"/>
+         <span end="15354" id="PMC3789799.nxml.gz-173" start="15204">More recently, using a genome-wide analysis, NPR3 was shown to be associated with overall body height and trunk length in humans (Soranzo et al. 2009)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-174" type="identity">
+         <class id="recently"/>
+         <span end="15217" id="PMC3789799.nxml.gz-174" start="15209">recently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-175" type="identity">
+         <class id="was_shown"/>
+         <span end="15263" id="PMC3789799.nxml.gz-175" start="15254">was shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-176" type="identity">
+         <class id="associated"/>
+         <span end="15280" id="PMC3789799.nxml.gz-176" start="15270">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-177" type="identity">
+         <class id="explicit_question"/>
+         <span end="15363" id="PMC3789799.nxml.gz-177" start="15356">Whether</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-178" type="identity">
+         <class id="subject_scope"/>
+         <span end="15543" id="PMC3789799.nxml.gz-178" start="15356">Whether the I384N mutation observed in the Skm1 mice correlates to a SNP in human patients with kyphosis or in a subset of individuals with increased torso length remains to be determined</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-179" type="identity">
+         <class id="whether...or"/>
+         <span end="15363" id="PMC3789799.nxml.gz-179" start="15356">Whether</span>
+         <span end="15463" id="PMC3789799.nxml.gz-180" start="15461">or</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-181" type="identity">
+         <class id="correlates"/>
+         <span end="15419" id="PMC3789799.nxml.gz-181" start="15409">correlates</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-182" type="identity">
+         <class id="full_unknown"/>
+         <span end="15543" id="PMC3789799.nxml.gz-182" start="15519">remains to be determined</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-183" type="identity">
+         <class id="remains"/>
+         <span end="15526" id="PMC3789799.nxml.gz-183" start="15519">remains</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-184" type="identity">
+         <class id="to_be"/>
+         <span end="15532" id="PMC3789799.nxml.gz-184" start="15527">to be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-185" type="identity">
+         <class id="subject_scope"/>
+         <span end="15696" id="PMC3789799.nxml.gz-185" start="15545">The gene underlying the mutation in Skm2 mice, Flnb , encodes filamin B, a member of a family of cytoplasmic proteins including filamin A and filamin C</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-186" type="identity">
+         <class id="underlying"/>
+         <span end="15564" id="PMC3789799.nxml.gz-186" start="15554">underlying</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-187" type="identity">
+         <class id="subject_scope"/>
+         <span end="15892" id="PMC3789799.nxml.gz-187" start="15698">These proteins provide a scaffold for the cytoskeletal network by crosslinking actin to the cytoskeleton, thereby regulating intracellular signaling and protein trafficking (Stossel et al. 2001)</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3789799.nxml.gz-188" type="identity">
+         <class id="thereby"/>
+         <span end="15811" id="PMC3789799.nxml.gz-188" start="15804">thereby</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-189" type="identity">
+         <class id="subject_scope"/>
+         <span end="16149" id="PMC3789799.nxml.gz-189" start="15894">The Skm2 mutation lies within a highly conserved hydrophobic region in the actin-binding site 2 (ABS2), which corresponds to the last α-helix of the calponin homology domain 1, and is critical for the binding of F-actin (van der Flier and Sonnenberg 2001)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-190" type="identity">
+         <class id="critical"/>
+         <span end="16086" id="PMC3789799.nxml.gz-190" start="16078">critical</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-191" type="identity">
+         <class id="subject_scope"/>
+         <span end="16410" id="PMC3789799.nxml.gz-191" start="16151">Mice that lack functional Flnb have been generated that exhibit impaired development of the microvascular and skeletal systems, including lack of invertebral discs and kyphotic and scoliotic spines (Farrington-Rock et al. 2008;Lu et al. 2007;Zhou et al. 2007)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-192" type="identity">
+         <class id="have_been"/>
+         <span end="16191" id="PMC3789799.nxml.gz-192" start="16182">have been</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3789799.nxml.gz-193" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="16214" id="PMC3789799.nxml.gz-193" start="16207">exhibit</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-194" type="identity">
+         <class id="important_consideration"/>
+         <span end="16223" id="PMC3789799.nxml.gz-194" start="16215">impaired</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-195" type="identity">
+         <class id="subject_scope"/>
+         <span end="16564" id="PMC3789799.nxml.gz-195" start="16412">The mutation in Skm2 (S96P) recapitulates the phenotype observed in the knockout mice, suggesting that this residue is critical for the function of FLNB</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-196" type="identity">
+         <class id="suggesting"/>
+         <span end="16509" id="PMC3789799.nxml.gz-196" start="16499">suggesting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-197" type="identity">
+         <class id="critical"/>
+         <span end="16539" id="PMC3789799.nxml.gz-197" start="16531">critical</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-198" type="identity">
+         <class id="interestingly"/>
+         <span end="16579" id="PMC3789799.nxml.gz-198" start="16566">Interestingly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-199" type="identity">
+         <class id="subject_scope"/>
+         <span end="16806" id="PMC3789799.nxml.gz-199" start="16566">Interestingly, Flnb knockout is associated with embryonic lethality beginning at E11.5 and &lt;3% of Flnb−/− survive to birth, with all mice being killed by 4 weeks of age because of impaired movement and reduced body weight (Zhou et al. 2007)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-200" type="identity">
+         <class id="associated"/>
+         <span end="16608" id="PMC3789799.nxml.gz-200" start="16598">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-201" type="identity">
+         <class id="although"/>
+         <span end="16816" id="PMC3789799.nxml.gz-201" start="16808">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-202" type="identity">
+         <class id="subject_scope"/>
+         <span end="16981" id="PMC3789799.nxml.gz-202" start="16808">Although Skm2 mice are viable, the occurrence of the mutant phenotype (eight mutants in 84 pups) suggests that there may be some embryonic lethality in the Skm2 mice as well</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-203" type="identity">
+         <class id="suggests"/>
+         <span end="16913" id="PMC3789799.nxml.gz-203" start="16905">suggests</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-204" type="identity">
+         <class id="may_be"/>
+         <span end="16931" id="PMC3789799.nxml.gz-204" start="16925">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-205" type="identity">
+         <class id="some"/>
+         <span end="16936" id="PMC3789799.nxml.gz-205" start="16932">some</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-206" type="identity">
+         <class id="subject_scope"/>
+         <span end="17187" id="PMC3789799.nxml.gz-206" start="16983">Mutations in human FLNB have been found in various skeletal disorders with vertebral abnormalities, including spondylocarpotarsal synostosis, boomerang dysplasia, Larsen syndrome, and atelosteogenesis III</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-207" type="identity">
+         <class id="have_been"/>
+         <span end="17016" id="PMC3789799.nxml.gz-207" start="17007">have been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-208" type="identity">
+         <class id="found"/>
+         <span end="17022" id="PMC3789799.nxml.gz-208" start="17017">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-209" type="identity">
+         <class id="consistent"/>
+         <span end="17326" id="PMC3789799.nxml.gz-209" start="17316">Consistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-210" type="identity">
+         <class id="subject_scope"/>
+         <span end="17456" id="PMC3789799.nxml.gz-210" start="17316">Consistent with the Flnb knockout mice, the Skm2 phenotype resembles that seen in human vertebral malformation syndromes involving this gene</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-211" type="identity">
+         <class id="seen"/>
+         <span end="17394" id="PMC3789799.nxml.gz-211" start="17390">seen</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-212" type="identity">
+         <class id="to_our_knowledge"/>
+         <span end="17474" id="PMC3789799.nxml.gz-212" start="17458">To our knowledge</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-213" type="identity">
+         <class id="subject_scope"/>
+         <span end="17550" id="PMC3789799.nxml.gz-213" start="17458">To our knowledge, this is the first chemically induced allele of Flnb that has been reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-214" type="identity">
+         <class id="this"/>
+         <span end="17480" id="PMC3789799.nxml.gz-214" start="17476">this</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-215" type="identity">
+         <class id="first"/>
+         <span end="17493" id="PMC3789799.nxml.gz-215" start="17488">first</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-216" type="identity">
+         <class id="has_been"/>
+         <span end="17541" id="PMC3789799.nxml.gz-216" start="17533">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-217" type="identity">
+         <class id="reported"/>
+         <span end="17550" id="PMC3789799.nxml.gz-217" start="17542">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-218" type="identity">
+         <class id="our_findings"/>
+         <span end="17564" id="PMC3789799.nxml.gz-218" start="17552">Our findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-219" type="identity">
+         <class id="subject_scope"/>
+         <span end="17667" id="PMC3789799.nxml.gz-219" start="17552">Our findings emphasize the utility of ENU mutagenesis for the identification of genes important in spinal formation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-220" type="identity">
+         <class id="emphasize"/>
+         <span end="17574" id="PMC3789799.nxml.gz-220" start="17565">emphasize</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-221" type="identity">
+         <class id="important"/>
+         <span end="17647" id="PMC3789799.nxml.gz-221" start="17638">important</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-222" type="identity">
+         <class id="subject_scope"/>
+         <span end="17818" id="PMC3789799.nxml.gz-222" start="17669">Comparisons of mouse phenotypes with clinical descriptions will facilitate a better understanding of the genetic component of vertebral malformations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-223" type="identity">
+         <class id="will"/>
+         <span end="17732" id="PMC3789799.nxml.gz-223" start="17728">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3789799.nxml.gz-224" type="identity">
+         <class id="better_understanding"/>
+         <span end="17766" id="PMC3789799.nxml.gz-224" start="17746">better understanding</span>
+      </annotation>
+   </document>
+</knowtator-project>

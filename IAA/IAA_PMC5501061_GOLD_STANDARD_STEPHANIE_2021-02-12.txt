@@ -1,0 +1,17 @@
+ARTICLE:	PMC5501061
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator GOLD_STANDARD:	3
+total annotations for annotator STEPHANIE:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	3	0	0	2	1	0.00	0.67
+
+CURRENT IGNORANCE TYPE:	subject_scope
+total annotations for annotator GOLD_STANDARD:	4
+total annotations for annotator STEPHANIE:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+subject_scope	5	1	1	0	3	0.20	0.40
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	10	0	0	0	10	0.00	0.00
+subject_scope	5	1	1	0	3	0.20	0.40

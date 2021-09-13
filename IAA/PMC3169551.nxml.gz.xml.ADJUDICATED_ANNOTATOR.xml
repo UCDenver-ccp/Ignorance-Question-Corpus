@@ -1,0 +1,1212 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC3169551.nxml.gz" text-file="PMC3169551.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="141" id="PMC3169551.nxml.gz-1" start="0">Weekly Iron-Folic Acid Supplementation with Regular Deworming Is Cost-Effective in Preventing Anaemia in Women of Reproductive Age in Vietnam</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-2" type="identity">
+         <class id="preventing"/>
+         <span end="93" id="PMC3169551.nxml.gz-2" start="83">Preventing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-3" type="identity">
+         <class id="subject_scope"/>
+         <span end="365" id="PMC3169551.nxml.gz-3" start="164">To estimate the cost and cost-effectiveness of a project administering de-worming and weekly iron-folic acid supplementation to control anaemia in women of reproductive age in Yen Bai province, Vietnam</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-4" type="identity">
+         <class id="estimate"/>
+         <span end="175" id="PMC3169551.nxml.gz-4" start="167">estimate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-5" type="identity">
+         <class id="subject_scope"/>
+         <span end="564" id="PMC3169551.nxml.gz-5" start="389">Cost effectiveness was evaluated using data on programmatic costs based on two surveys in 2006 and 2009 and impact on anaemia and iron status collected in 2006, 2007, and 2008</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-6" type="identity">
+         <class id="evaluated"/>
+         <span end="421" id="PMC3169551.nxml.gz-6" start="412">evaluated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-7" type="identity">
+         <class id="probable_understanding"/>
+         <span end="463" id="PMC3169551.nxml.gz-7" start="455">based on</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-8" type="identity">
+         <class id="impact"/>
+         <span end="503" id="PMC3169551.nxml.gz-8" start="497">impact</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-9" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1390" id="PMC3169551.nxml.gz-9" start="1382">Based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-10" type="identity">
+         <class id="subject_scope"/>
+         <span end="1468" id="PMC3169551.nxml.gz-10" start="1382">Based on estimated productivity gains for adult women, the benefit:cost ratio is 6.7∶1</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-11" type="identity">
+         <class id="estimated"/>
+         <span end="1400" id="PMC3169551.nxml.gz-11" start="1391">estimated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-12" type="identity">
+         <class id="subject_scope"/>
+         <span end="1913" id="PMC3169551.nxml.gz-12" start="1628">The study shows that weekly iron-folic acid supplementation and regular de-worming is a low-cost and cost-effective intervention and would be appropriate for population-based introduction in settings with a high prevalence of anaemia and iron deficiency and low malaria infection rates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-13" type="identity">
+         <class id="shows"/>
+         <span end="1643" id="PMC3169551.nxml.gz-13" start="1638">shows</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-14" type="identity">
+         <class id="intervention"/>
+         <span end="1756" id="PMC3169551.nxml.gz-14" start="1744">intervention</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-15" type="identity">
+         <class id="would_be"/>
+         <span end="1769" id="PMC3169551.nxml.gz-15" start="1761">would be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-16" type="identity">
+         <class id="appropriate"/>
+         <span end="1781" id="PMC3169551.nxml.gz-16" start="1770">appropriate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-17" type="identity">
+         <class id="prevalence"/>
+         <span end="1850" id="PMC3169551.nxml.gz-17" start="1840">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-18" type="identity">
+         <class id="subject_scope"/>
+         <span end="2028" id="PMC3169551.nxml.gz-18" start="1929">WHO estimates suggest that globally up to 500 million women of reproductive age suffer from anaemia</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-19" type="identity">
+         <class id="estimates"/>
+         <span end="1942" id="PMC3169551.nxml.gz-19" start="1933">estimates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-20" type="identity">
+         <class id="suggest"/>
+         <span end="1950" id="PMC3169551.nxml.gz-20" start="1943">suggest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-21" type="identity">
+         <class id="globally"/>
+         <span end="1964" id="PMC3169551.nxml.gz-21" start="1956">globally</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-22" type="identity">
+         <class id="suffer"/>
+         <span end="2015" id="PMC3169551.nxml.gz-22" start="2009">suffer</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-23" type="identity">
+         <class id="subject_scope"/>
+         <span end="2173" id="PMC3169551.nxml.gz-23" start="2030">Women and children are most vulnerable due to greater iron requirements and those in resource constrained countries are particularly at risk[1]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-24" type="identity">
+         <class id="most"/>
+         <span end="2057" id="PMC3169551.nxml.gz-24" start="2053">most</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-25" type="identity">
+         <class id="important_consideration"/>
+         <span end="2068" id="PMC3169551.nxml.gz-25" start="2058">vulnerable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-26" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2075" id="PMC3169551.nxml.gz-26" start="2069">due to</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-27" type="identity">
+         <class id="requirements"/>
+         <span end="2101" id="PMC3169551.nxml.gz-27" start="2089">requirements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-28" type="identity">
+         <class id="important_consideration"/>
+         <span end="2162" id="PMC3169551.nxml.gz-28" start="2150">particularly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-29" type="identity">
+         <class id="at_risk"/>
+         <span end="2170" id="PMC3169551.nxml.gz-29" start="2163">at risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-30" type="identity">
+         <class id="severe"/>
+         <span end="2181" id="PMC3169551.nxml.gz-30" start="2175">Severe</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-31" type="identity">
+         <class id="subject_scope"/>
+         <span end="2482" id="PMC3169551.nxml.gz-31" start="2175">Severe maternal anaemia increases the risk of maternal and neonatal mortality and morbidity while less severe anaemia and iron deficiency have been linked to sub-optimal fetal growth, premature birth and low birth weight, as well as iron deficiency in infants[2]–[4]which may impair cognitive development[5]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-32" type="identity">
+         <class id="risk"/>
+         <span end="2217" id="PMC3169551.nxml.gz-32" start="2213">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-33" type="identity">
+         <class id="severe"/>
+         <span end="2284" id="PMC3169551.nxml.gz-33" start="2278">severe</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-34" type="identity">
+         <class id="have_been"/>
+         <span end="2322" id="PMC3169551.nxml.gz-34" start="2313">have been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-35" type="identity">
+         <class id="linked"/>
+         <span end="2329" id="PMC3169551.nxml.gz-35" start="2323">linked</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-36" type="identity">
+         <class id="which"/>
+         <span end="2446" id="PMC3169551.nxml.gz-36" start="2441">which</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-37" type="identity">
+         <class id="may"/>
+         <span end="2450" id="PMC3169551.nxml.gz-37" start="2447">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-38" type="identity">
+         <class id="subject_scope"/>
+         <span end="2652" id="PMC3169551.nxml.gz-38" start="2484">On a broader scale the reduced capacity for work and education due to anaemia and iron deficiency can adversely impact a population's social and economic development[6]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-39" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2553" id="PMC3169551.nxml.gz-39" start="2547">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-40" type="identity">
+         <class id="can"/>
+         <span end="2585" id="PMC3169551.nxml.gz-40" start="2582">can</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-41" type="identity">
+         <class id="impact"/>
+         <span end="2602" id="PMC3169551.nxml.gz-41" start="2596">impact</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-42" type="identity">
+         <class id="subject_scope"/>
+         <span end="2788" id="PMC3169551.nxml.gz-42" start="2654">WHO guidelines recommend daily iron supplementation for pregnant women and children 6–24 months where anaemia rates are 40% or more[7]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-43" type="identity">
+         <class id="important_consideration"/>
+         <span end="2668" id="PMC3169551.nxml.gz-43" start="2658">guidelines</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-44" type="identity">
+         <class id="recommend"/>
+         <span end="2678" id="PMC3169551.nxml.gz-44" start="2669">recommend</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-45" type="identity">
+         <class id="subject_scope"/>
+         <span end="3030" id="PMC3169551.nxml.gz-45" start="2790">A recent international expert consultation organized by WHO went further and recommended weekly supplementation with iron and folic acid for all non-pregnant women of reproductive age in areas where anaemia prevalence is greater than 20%[8]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-46" type="identity">
+         <class id="recent"/>
+         <span end="2798" id="PMC3169551.nxml.gz-46" start="2792">recent</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-47" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2819" id="PMC3169551.nxml.gz-47" start="2813">expert</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-48" type="identity">
+         <class id="further"/>
+         <span end="2862" id="PMC3169551.nxml.gz-48" start="2855">further</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-49" type="identity">
+         <class id="recommended"/>
+         <span end="2878" id="PMC3169551.nxml.gz-49" start="2867">recommended</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-50" type="identity">
+         <class id="prevalence"/>
+         <span end="3007" id="PMC3169551.nxml.gz-50" start="2997">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-51" type="identity">
+         <class id="subject_scope"/>
+         <span end="3248" id="PMC3169551.nxml.gz-51" start="3032">A systematic review of 25 original studies concluded that this approach of weekly iron and folic acid supplementation was safe and also effective in improving haemoglobin concentration in women of reproductive age[9]</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-52" type="identity">
+         <class id="original"/>
+         <span end="3066" id="PMC3169551.nxml.gz-52" start="3058">original</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-53" type="identity">
+         <class id="studies"/>
+         <span end="3074" id="PMC3169551.nxml.gz-53" start="3067">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-54" type="identity">
+         <class id="concluded"/>
+         <span end="3084" id="PMC3169551.nxml.gz-54" start="3075">concluded</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-55" type="identity">
+         <class id="safe"/>
+         <span end="3158" id="PMC3169551.nxml.gz-55" start="3154">safe</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-56" type="identity">
+         <class id="effective"/>
+         <span end="3177" id="PMC3169551.nxml.gz-56" start="3168">effective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-57" type="identity">
+         <class id="however"/>
+         <span end="3257" id="PMC3169551.nxml.gz-57" start="3250">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-58" type="identity">
+         <class id="subject_scope"/>
+         <span end="3422" id="PMC3169551.nxml.gz-58" start="3250">However, there is no data on cost and cost-effectiveness of population-based weekly supplementation programs, and limited data on other nutritional supplementation programs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-59" type="identity">
+         <class id="no_data"/>
+         <span end="3275" id="PMC3169551.nxml.gz-59" start="3268">no data</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-60" type="identity">
+         <class id="limited...data"/>
+         <span end="3376" id="PMC3169551.nxml.gz-60" start="3364">limited data</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-61" type="identity">
+         <class id="subject_scope"/>
+         <span end="3549" id="PMC3169551.nxml.gz-61" start="3424">In Vietnam, there has been an increasing awareness of nutritional deficiencies and anaemia, particularly in rural populations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-62" type="identity">
+         <class id="has_been"/>
+         <span end="3450" id="PMC3169551.nxml.gz-62" start="3442">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-63" type="identity">
+         <class id="awareness"/>
+         <span end="3474" id="PMC3169551.nxml.gz-63" start="3465">awareness</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-64" type="identity">
+         <class id="important_consideration"/>
+         <span end="3528" id="PMC3169551.nxml.gz-64" start="3516">particularly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-65" type="identity">
+         <class id="subject_scope"/>
+         <span end="3720" id="PMC3169551.nxml.gz-65" start="3551">A national survey in 2000 found anaemia rates were 24.3% for non-pregnant women nationally (26.3% in rural areas), and 32.2% in pregnant women (33.8% in rural areas)[10]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-66" type="identity">
+         <class id="found"/>
+         <span end="3582" id="PMC3169551.nxml.gz-66" start="3577">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-67" type="identity">
+         <class id="subject_scope"/>
+         <span end="3900" id="PMC3169551.nxml.gz-67" start="3722">Contributing factors included lack of variety in the diet associated with low income, compounded by high rates of infection with soil-transmitted helminths, particularly hookworm</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-68" type="identity">
+         <class id="factors"/>
+         <span end="3742" id="PMC3169551.nxml.gz-68" start="3735">factors</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-69" type="identity">
+         <class id="problem_complication"/>
+         <span end="3759" id="PMC3169551.nxml.gz-69" start="3752">lack of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-70" type="identity">
+         <class id="associated"/>
+         <span end="3790" id="PMC3169551.nxml.gz-70" start="3780">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-71" type="identity">
+         <class id="important_consideration"/>
+         <span end="3891" id="PMC3169551.nxml.gz-71" start="3879">particularly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-72" type="identity">
+         <class id="subject_scope"/>
+         <span end="4093" id="PMC3169551.nxml.gz-72" start="3902">A study of pregnant women in the rural central highlands in 2001 identified anaemia prevalence in pregnant women, post-partum women and non-pregnant women of 53%, 62% and 54% respectively[11]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-73" type="identity">
+         <class id="identified"/>
+         <span end="3977" id="PMC3169551.nxml.gz-73" start="3967">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-74" type="identity">
+         <class id="prevalence"/>
+         <span end="3996" id="PMC3169551.nxml.gz-74" start="3986">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-75" type="identity">
+         <class id="as"/>
+         <span end="4097" id="PMC3169551.nxml.gz-75" start="4095">As</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-76" type="identity">
+         <class id="subject_scope"/>
+         <span end="4285" id="PMC3169551.nxml.gz-76" start="4095">As a consequence the Vietnam National Nutrition Strategy 2011–2020 has the reduction of iron deficiency anemia in children less than 5 years of age and reproductive-age women as an objective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-77" type="identity">
+         <class id="consequence"/>
+         <span end="4111" id="PMC3169551.nxml.gz-77" start="4100">consequence</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-78" type="identity">
+         <class id="future_work"/>
+         <span end="4285" id="PMC3169551.nxml.gz-78" start="4276">objective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-79" type="identity">
+         <class id="difficult_task"/>
+         <span end="4294" id="PMC3169551.nxml.gz-79" start="4287">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-80" type="identity">
+         <class id="subject_scope"/>
+         <span end="4369" id="PMC3169551.nxml.gz-80" start="4287">However the costs of potential strategies for achieving this are currently unknown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-81" type="identity">
+         <class id="potential"/>
+         <span end="4317" id="PMC3169551.nxml.gz-81" start="4308">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-82" type="identity">
+         <class id="strategies"/>
+         <span end="4328" id="PMC3169551.nxml.gz-82" start="4318">strategies</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-83" type="identity">
+         <class id="this"/>
+         <span end="4347" id="PMC3169551.nxml.gz-83" start="4343">this</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-84" type="identity">
+         <class id="currently"/>
+         <span end="4361" id="PMC3169551.nxml.gz-84" start="4352">currently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-85" type="identity">
+         <class id="unknown"/>
+         <span end="4369" id="PMC3169551.nxml.gz-85" start="4362">unknown</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-86" type="identity">
+         <class id="subject_scope"/>
+         <span end="4743" id="PMC3169551.nxml.gz-86" start="4371">In 2006, following a baseline study of the prevalence of anaemia, iron deficiency and soil transmitted helminth infection prevalences[12], we introduced an anaemia and helminth control program consisting of weekly iron-folic acid supplementation and regular deworming for women of reproductive age in Yen Bai, a rural province in the northern mountainous region of Vietnam</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-87" type="identity">
+         <class id="prevalence"/>
+         <span end="4424" id="PMC3169551.nxml.gz-87" start="4414">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-88" type="identity">
+         <class id="subject_scope"/>
+         <span end="5002" id="PMC3169551.nxml.gz-88" start="4824">We report here the cost and cost-effectiveness of the de-worming and weekly iron-folic acid intervention, which has now been delivered to women in Yen Bai province since May 2006</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-89" type="identity">
+         <class id="here"/>
+         <span end="4838" id="PMC3169551.nxml.gz-89" start="4834">here</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-90" type="identity">
+         <class id="intervention"/>
+         <span end="4928" id="PMC3169551.nxml.gz-90" start="4916">intervention</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-91" type="identity">
+         <class id="subject_scope"/>
+         <span end="6139" id="PMC3169551.nxml.gz-91" start="5957">Pregnant women were advised to use the daily supplements provided through Government antenatal clinics, or if these were not available, to use a double dose of the weekly supplements</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-92" type="identity">
+         <class id="problem_complication"/>
+         <span end="6091" id="PMC3169551.nxml.gz-92" start="6078">not available</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-93" type="identity">
+         <class id="subject_scope"/>
+         <span end="6638" id="PMC3169551.nxml.gz-93" start="6296">The impact of the program on women's iron and helminth infection status in the first 12 months was assessed using structured questionnaires, stool examination and haemoglobin assessment at the field site, and blood sample analysis for ferritin, soluble Transferrin Receptor and C-Reactive Protein (to identify the presence of acute infection)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-94" type="identity">
+         <class id="assessed"/>
+         <span end="6403" id="PMC3169551.nxml.gz-94" start="6395">assessed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-95" type="identity">
+         <class id="subject_scope"/>
+         <span end="6965" id="PMC3169551.nxml.gz-95" start="6713">With evidence of the program's positive impact on women's iron status the weekly supplement program with twice-yearly de-worming was scaled up to province level (with an estimated target group of 250,000 women of reproductive age) commencing March 2008</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-96" type="identity">
+         <class id="evidence"/>
+         <span end="6726" id="PMC3169551.nxml.gz-96" start="6718">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-97" type="identity">
+         <class id="impact"/>
+         <span end="6759" id="PMC3169551.nxml.gz-97" start="6753">impact</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3169551.nxml.gz-98" type="identity">
+         <class id="subject_scope"/>
+         <span end="7417" id="PMC3169551.nxml.gz-98" start="7033">The effectiveness of the distribution system and women's compliance were assessed by an independent Non-Government Organization at 10 weeks and 18 and 36 months post-implementation. Structured questionnaires were administered to assess the availability of supplements at each level of the distribution chain and women's attitude about, and their history of, taking the supplements[13]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-99" type="identity">
+         <class id="assessed"/>
+         <span end="7114" id="PMC3169551.nxml.gz-99" start="7106">assessed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-100" type="identity">
+         <class id="to_assess"/>
+         <span end="7268" id="PMC3169551.nxml.gz-100" start="7259">to assess</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-101" type="identity">
+         <class id="subject_scope"/>
+         <span end="7805" id="PMC3169551.nxml.gz-101" start="7687">In addition, participating women were surveyed to assess their estimate of costs involved in accessing the supplements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-102" type="identity">
+         <class id="to_assess"/>
+         <span end="7743" id="PMC3169551.nxml.gz-102" start="7734">to assess</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-103" type="identity">
+         <class id="involved"/>
+         <span end="7776" id="PMC3169551.nxml.gz-103" start="7768">involved</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-104" type="identity">
+         <class id="subject_scope"/>
+         <span end="9778" id="PMC3169551.nxml.gz-104" start="9570">Personnel costs were imputed based on information obtained from interviews with district, commune and village health workers about their total salary and the proportion of time they spent on this intervention</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-105" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="9598" id="PMC3169551.nxml.gz-105" start="9591">imputed</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-106" type="identity">
+         <class id="probable_understanding"/>
+         <span end="9607" id="PMC3169551.nxml.gz-106" start="9599">based on</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-107" type="identity">
+         <class id="subject_scope"/>
+         <span end="14210" id="PMC3169551.nxml.gz-107" start="13950">This was based on the independent monitoring survey one year after the province-wide expansion of the program, at which time 81% of surveyed women were receiving the supplements regularly and 87% of those were taking 75% or more of the supplied supplements[13]</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-108" type="identity">
+         <class id="probable_understanding"/>
+         <span end="13967" id="PMC3169551.nxml.gz-108" start="13959">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-109" type="identity">
+         <class id="future_prediction"/>
+         <span end="14582" id="PMC3169551.nxml.gz-109" start="14574">Assuming</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-110" type="identity">
+         <class id="subject_scope"/>
+         <span end="14752" id="PMC3169551.nxml.gz-110" start="14574">Assuming that anaemia cases prevented is the measure of effectiveness, the cost-effectiveness of the intervention is USD 4.24 per anaemia case prevented (USD133900 / (175581×18))</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-111" type="identity">
+         <class id="intervention"/>
+         <span end="14687" id="PMC3169551.nxml.gz-111" start="14675">intervention</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-112" type="identity">
+         <class id="prevented"/>
+         <span end="14726" id="PMC3169551.nxml.gz-112" start="14717">prevented</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-113" type="identity">
+         <class id="subject_scope"/>
+         <span end="15345" id="PMC3169551.nxml.gz-113" start="15027">These authors estimate that the productivity gains for an individual removed from anaemia are 5% in manual occupations (70% of employment in a country such as Viet Nam), and 17% in heavy manual occupations (which form 12.7% of employment in manual occupations in Viet Nam: the share of agriculture in GDP is 22.1%)[16]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-114" type="identity">
+         <class id="estimate"/>
+         <span end="15049" id="PMC3169551.nxml.gz-114" start="15041">estimate</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-115" type="identity">
+         <class id="subject_scope"/>
+         <span end="15800" id="PMC3169551.nxml.gz-115" start="15506">Reducing anaemia rates by 18.2% for women of reproductive age therefore constitutes a 6.7% reduction in anaemia on average in the labour force (using the proportion of women of reproductive age in the overall labour force in Vietnam: women's labour force participation rate is similar to men's)</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-116" type="identity">
+         <class id="therefore"/>
+         <span end="15577" id="PMC3169551.nxml.gz-116" start="15568">therefore</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-117" type="identity">
+         <class id="subject_scope"/>
+         <span end="16018" id="PMC3169551.nxml.gz-117" start="15802">The estimated dollar value per capita of the productivity gains are calculated as USD1.29, i.e. $5.18 per woman of reproductive age, as compared to the cost of supplementation per woman of reproductive age of USD0.76</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-118" type="identity">
+         <class id="estimated"/>
+         <span end="15815" id="PMC3169551.nxml.gz-118" start="15806">estimated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-119" type="identity">
+         <class id="hence"/>
+         <span end="16025" id="PMC3169551.nxml.gz-119" start="16020">Hence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-120" type="identity">
+         <class id="subject_scope"/>
+         <span end="16162" id="PMC3169551.nxml.gz-120" start="16020">Hence the benefit: cost ratio is approximately 6.7∶1, just based on improvements in productivity of women of reproductive age in the workforce</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-121" type="identity">
+         <class id="approximately"/>
+         <span end="16066" id="PMC3169551.nxml.gz-121" start="16053">approximately</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-122" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="16087" id="PMC3169551.nxml.gz-122" start="16079">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-123" type="identity">
+         <class id="this_means_that"/>
+         <span end="16179" id="PMC3169551.nxml.gz-123" start="16164">This means that</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-124" type="identity">
+         <class id="subject_scope"/>
+         <span end="16316" id="PMC3169551.nxml.gz-124" start="16164">This means that for each dollar invested in a weekly iron supplementation and de-worming program the monetary value in terms of productivity was USD6.70</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-125" type="identity">
+         <class id="subject_scope"/>
+         <span end="16557" id="PMC3169551.nxml.gz-125" start="16318">There may be additional financial benefits associated with reductions in other health care costs such as those associated with reduced maternal and infant mortality, and a reduction in neural tube defects which cannot readily be quantified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-126" type="identity">
+         <class id="may_be"/>
+         <span end="16330" id="PMC3169551.nxml.gz-126" start="16324">may be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-127" type="identity">
+         <class id="benefits"/>
+         <span end="16360" id="PMC3169551.nxml.gz-127" start="16352">benefits</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-128" type="identity">
+         <class id="associated"/>
+         <span end="16371" id="PMC3169551.nxml.gz-128" start="16361">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-129" type="identity">
+         <class id="associated"/>
+         <span end="16439" id="PMC3169551.nxml.gz-129" start="16429">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-130" type="identity">
+         <class id="cannot"/>
+         <span end="16535" id="PMC3169551.nxml.gz-130" start="16529">cannot</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-131" type="identity">
+         <class id="subject_scope"/>
+         <span end="16741" id="PMC3169551.nxml.gz-131" start="16559">In addition there are possible effects on reduced anaemia in children and men associated with de-worming women of reproductive age and a consequent reduction in helminth transmission</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-132" type="identity">
+         <class id="possible"/>
+         <span end="16589" id="PMC3169551.nxml.gz-132" start="16581">possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-133" type="identity">
+         <class id="effects"/>
+         <span end="16597" id="PMC3169551.nxml.gz-133" start="16590">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-134" type="identity">
+         <class id="associated"/>
+         <span end="16647" id="PMC3169551.nxml.gz-134" start="16637">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-135" type="identity">
+         <class id="subject_scope"/>
+         <span end="17276" id="PMC3169551.nxml.gz-135" start="17050">The provision of iron-folic acid supplements on a weekly basis for women of reproductive age is aimed at improving iron stores, particularly prior to pregnancy and during the first trimester before women access ante-natal care</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-136" type="identity">
+         <class id="probable_understanding"/>
+         <span end="17151" id="PMC3169551.nxml.gz-136" start="17146">aimed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-137" type="identity">
+         <class id="important_consideration"/>
+         <span end="17190" id="PMC3169551.nxml.gz-137" start="17178">particularly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-138" type="identity">
+         <class id="subject_scope"/>
+         <span end="17384" id="PMC3169551.nxml.gz-138" start="17278">Pre-pregnancy weekly supplements that contain folic acid may also decrease the risk of neural tube defects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-139" type="identity">
+         <class id="may"/>
+         <span end="17338" id="PMC3169551.nxml.gz-139" start="17335">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-140" type="identity">
+         <class id="risk"/>
+         <span end="17361" id="PMC3169551.nxml.gz-140" start="17357">risk</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3169551.nxml.gz-141" type="identity">
+         <class id="subject_scope"/>
+         <span end="17603" id="PMC3169551.nxml.gz-141" start="17386">A successful supplementation program must include training of health care system workers, provision of accessible educational materials for the target group and the broader community and a reliable distribution system</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-142" type="identity">
+         <class id="must"/>
+         <span end="17427" id="PMC3169551.nxml.gz-142" start="17423">must</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-143" type="identity">
+         <class id="important_consideration"/>
+         <span end="17536" id="PMC3169551.nxml.gz-143" start="17530">target</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-144" type="identity">
+         <class id="reliable"/>
+         <span end="17583" id="PMC3169551.nxml.gz-144" start="17575">reliable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-145" type="identity">
+         <class id="therefore"/>
+         <span end="17614" id="PMC3169551.nxml.gz-145" start="17605">Therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-146" type="identity">
+         <class id="subject_scope"/>
+         <span end="17699" id="PMC3169551.nxml.gz-146" start="17605">Therefore these costs need to be incorporated into the overall cost of an intervention program</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-147" type="identity">
+         <class id="need_to_be"/>
+         <span end="17637" id="PMC3169551.nxml.gz-147" start="17627">need to be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-148" type="identity">
+         <class id="intervention"/>
+         <span end="17691" id="PMC3169551.nxml.gz-148" start="17679">intervention</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-149" type="identity">
+         <class id="subject_scope"/>
+         <span end="17858" id="PMC3169551.nxml.gz-149" start="17701">We have demonstrated the effective uptake of weekly iron-folic acid supplementation by 70% of woman in Yen Bai province with an annual cost of USD 0.76/woman</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-150" type="identity">
+         <class id="demonstrated"/>
+         <span end="17721" id="PMC3169551.nxml.gz-150" start="17709">demonstrated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-151" type="identity">
+         <class id="effective"/>
+         <span end="17735" id="PMC3169551.nxml.gz-151" start="17726">effective</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-152" type="identity">
+         <class id="subject_scope"/>
+         <span end="18063" id="PMC3169551.nxml.gz-152" start="17860">This compares to estimates by the National Institute of Nutrition that only 20% of pregnant women are covered by the national antenatal program of daily iron supplementation for which there is no costing</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-153" type="identity">
+         <class id="estimates"/>
+         <span end="17886" id="PMC3169551.nxml.gz-153" start="17877">estimates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-154" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="17935" id="PMC3169551.nxml.gz-154" start="17931">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-155" type="identity">
+         <class id="subject_scope"/>
+         <span end="18232" id="PMC3169551.nxml.gz-155" start="18070">The costing reported here includes distribution of supplements, health staff training, production and distribution of educational materials and regular monitoring</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-156" type="identity">
+         <class id="reported"/>
+         <span end="18090" id="PMC3169551.nxml.gz-156" start="18082">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-157" type="identity">
+         <class id="here"/>
+         <span end="18095" id="PMC3169551.nxml.gz-157" start="18091">here</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-158" type="identity">
+         <class id="subject_scope"/>
+         <span end="18311" id="PMC3169551.nxml.gz-158" start="18234">The possible reasons for the higher uptake of the weekly supplements are many</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-159" type="identity">
+         <class id="possible"/>
+         <span end="18246" id="PMC3169551.nxml.gz-159" start="18238">possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-160" type="identity">
+         <class id="reasons"/>
+         <span end="18254" id="PMC3169551.nxml.gz-160" start="18247">reasons</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-161" type="identity">
+         <class id="many"/>
+         <span end="18311" id="PMC3169551.nxml.gz-161" start="18307">many</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-162" type="identity">
+         <class id="subject_scope"/>
+         <span end="18364" id="PMC3169551.nxml.gz-162" start="18313">One likely reason for the difference is convenience</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-163" type="identity">
+         <class id="likely"/>
+         <span end="18323" id="PMC3169551.nxml.gz-163" start="18317">likely</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-164" type="identity">
+         <class id="reason"/>
+         <span end="18330" id="PMC3169551.nxml.gz-164" start="18324">reason</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-165" type="identity">
+         <class id="difference"/>
+         <span end="18349" id="PMC3169551.nxml.gz-165" start="18339">difference</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-166" type="identity">
+         <class id="subject_scope"/>
+         <span end="18504" id="PMC3169551.nxml.gz-166" start="18366">Antenatal supplements for pregnant women have to be accessed at the Commune Health Station, which is generally further for women to travel</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-167" type="identity">
+         <class id="have_to_be"/>
+         <span end="18417" id="PMC3169551.nxml.gz-167" start="18407">have to be</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-168" type="identity">
+         <class id="generally"/>
+         <span end="18476" id="PMC3169551.nxml.gz-168" start="18467">generally</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-169" type="identity">
+         <class id="subject_scope"/>
+         <span end="18613" id="PMC3169551.nxml.gz-169" start="18506">Weekly supplements for women of reproductive age in the program reported here are accessed at village level</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-170" type="identity">
+         <class id="reported"/>
+         <span end="18578" id="PMC3169551.nxml.gz-170" start="18570">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-171" type="identity">
+         <class id="here"/>
+         <span end="18583" id="PMC3169551.nxml.gz-171" start="18579">here</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-172" type="identity">
+         <class id="subject_scope"/>
+         <span end="18741" id="PMC3169551.nxml.gz-172" start="18615">The 2009 survey identified that it took women an average of 17 minutes to access the distribution point for weekly supplements</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-173" type="identity">
+         <class id="identified"/>
+         <span end="18641" id="PMC3169551.nxml.gz-173" start="18631">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-174" type="identity">
+         <class id="another"/>
+         <span end="18750" id="PMC3169551.nxml.gz-174" start="18743">Another</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-175" type="identity">
+         <class id="subject_scope"/>
+         <span end="18842" id="PMC3169551.nxml.gz-175" start="18743">Another reason for high compliance with the weekly program was the maintenance of a reliable supply</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-176" type="identity">
+         <class id="reason"/>
+         <span end="18757" id="PMC3169551.nxml.gz-176" start="18751">reason</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-177" type="identity">
+         <class id="reliable"/>
+         <span end="18835" id="PMC3169551.nxml.gz-177" start="18827">reliable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-178" type="identity">
+         <class id="subject_scope"/>
+         <span end="19031" id="PMC3169551.nxml.gz-178" start="18844">A previous study has shown that a poor distribution system and irregular availability were the most significant environmental risk factors for taking iron supplementation continuously[19]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-179" type="identity">
+         <class id="previous_study"/>
+         <span end="18860" id="PMC3169551.nxml.gz-179" start="18846">previous study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-180" type="identity">
+         <class id="has_shown"/>
+         <span end="18870" id="PMC3169551.nxml.gz-180" start="18861">has shown</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-181" type="identity">
+         <class id="important_consideration"/>
+         <span end="18882" id="PMC3169551.nxml.gz-181" start="18878">poor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-182" type="identity">
+         <class id="risk_factors"/>
+         <span end="18982" id="PMC3169551.nxml.gz-182" start="18970">risk factors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-183" type="identity">
+         <class id="subject_scope"/>
+         <span end="19159" id="PMC3169551.nxml.gz-183" start="19033">Also, weekly supplements may be better tolerated, with less frequent side-effects thereby increasing acceptance and compliance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-184" type="identity">
+         <class id="may_be"/>
+         <span end="19064" id="PMC3169551.nxml.gz-184" start="19058">may be</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-185" type="identity">
+         <class id="probable_understanding"/>
+         <span end="19122" id="PMC3169551.nxml.gz-185" start="19115">thereby</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-186" type="identity">
+         <class id="subject_scope"/>
+         <span end="19334" id="PMC3169551.nxml.gz-186" start="19161">The extensive training and community education program was another positive factor which increased acceptance of the supplements as a valuable contribution to women's health</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-187" type="identity">
+         <class id="another"/>
+         <span end="19227" id="PMC3169551.nxml.gz-187" start="19220">another</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-188" type="identity">
+         <class id="factor"/>
+         <span end="19243" id="PMC3169551.nxml.gz-188" start="19237">factor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-189" type="identity">
+         <class id="valuable"/>
+         <span end="19303" id="PMC3169551.nxml.gz-189" start="19295">valuable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-190" type="identity">
+         <class id="contribution"/>
+         <span end="19316" id="PMC3169551.nxml.gz-190" start="19304">contribution</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-191" type="identity">
+         <class id="subject_scope"/>
+         <span end="19442" id="PMC3169551.nxml.gz-191" start="19336">The main limitation of the impact evaluation was the lack of a control arm where no intervention was given</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-192" type="identity">
+         <class id="limitation"/>
+         <span end="19355" id="PMC3169551.nxml.gz-192" start="19345">limitation</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-193" type="identity">
+         <class id="problem_complication"/>
+         <span end="19355" id="PMC3169551.nxml.gz-193" start="19345">limitation</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-194" type="identity">
+         <class id="problem_complication"/>
+         <span end="19396" id="PMC3169551.nxml.gz-194" start="19389">lack of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-195" type="identity">
+         <class id="subject_scope"/>
+         <span end="19699" id="PMC3169551.nxml.gz-195" start="19444">However, we considered it unethical to withhold iron-folic acid supplementation and deworming from women of reproductive age over a long period of time given the evidence from short-term studies on the efficacy of weekly iron-folic acid supplementation[8]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-196" type="identity">
+         <class id="unethical"/>
+         <span end="19479" id="PMC3169551.nxml.gz-196" start="19470">unethical</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-197" type="identity">
+         <class id="given"/>
+         <span end="19601" id="PMC3169551.nxml.gz-197" start="19596">given</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-198" type="identity">
+         <class id="evidence"/>
+         <span end="19614" id="PMC3169551.nxml.gz-198" start="19606">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-199" type="identity">
+         <class id="studies"/>
+         <span end="19638" id="PMC3169551.nxml.gz-199" start="19631">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-200" type="identity">
+         <class id="efficacy"/>
+         <span end="19654" id="PMC3169551.nxml.gz-200" start="19646">efficacy</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-201" type="identity">
+         <class id="subject_scope"/>
+         <span end="19875" id="PMC3169551.nxml.gz-201" start="19701">A previous study in Viet Nam followed women of reproductive age receiving weekly supplements, some of whom became pregnant at various points during the 12 months of follow-up</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-202" type="identity">
+         <class id="previous_study"/>
+         <span end="19717" id="PMC3169551.nxml.gz-202" start="19703">previous study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-203" type="identity">
+         <class id="subject_scope"/>
+         <span end="20128" id="PMC3169551.nxml.gz-203" start="20009">Our study did not have a sample group large or accessible enough to allow an assessment of long-term pregnancy outcomes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-204" type="identity">
+         <class id="difficult_task"/>
+         <span end="20026" id="PMC3169551.nxml.gz-204" start="20019">did not</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-205" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20026" id="PMC3169551.nxml.gz-205" start="20023">not</span>
+         <span end="20073" id="PMC3169551.nxml.gz-206" start="20067">enough</span>
+      </annotation>
+      <annotation annotator="ANNOTATOR" id="PMC3169551.nxml.gz-207" type="identity">
+         <class id="allow"/>
+         <span end="20082" id="PMC3169551.nxml.gz-207" start="20077">allow</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-208" type="identity">
+         <class id="subject_scope"/>
+         <span end="20308" id="PMC3169551.nxml.gz-208" start="20130">With a larger sample, it would be possible to extend our calculations to estimate the cost per death averted with a reduction of the prevalence of severe anemia in pregnant women</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-209" type="identity">
+         <class id="would_be"/>
+         <span end="20163" id="PMC3169551.nxml.gz-209" start="20155">would be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-210" type="identity">
+         <class id="future_work"/>
+         <span end="20172" id="PMC3169551.nxml.gz-210" start="20164">possible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-211" type="identity">
+         <class id="estimate"/>
+         <span end="20211" id="PMC3169551.nxml.gz-211" start="20203">estimate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-212" type="identity">
+         <class id="prevalence"/>
+         <span end="20273" id="PMC3169551.nxml.gz-212" start="20263">prevalence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-213" type="identity">
+         <class id="severe"/>
+         <span end="20283" id="PMC3169551.nxml.gz-213" start="20277">severe</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-214" type="identity">
+         <class id="subject_scope"/>
+         <span end="20470" id="PMC3169551.nxml.gz-214" start="20310">The relative risk of mortality associated with a 10 g/L increase in hemoglobin is estimated as 0.75 for maternal mortality, and 0.72 for perinatal mortality[21]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-215" type="identity">
+         <class id="risk"/>
+         <span end="20327" id="PMC3169551.nxml.gz-215" start="20323">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-216" type="identity">
+         <class id="associated"/>
+         <span end="20351" id="PMC3169551.nxml.gz-216" start="20341">associated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-217" type="identity">
+         <class id="estimated"/>
+         <span end="20401" id="PMC3169551.nxml.gz-217" start="20392">estimated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-218" type="identity">
+         <class id="subject_scope"/>
+         <span end="20629" id="PMC3169551.nxml.gz-218" start="20472">The annual cost of USD0.76 per woman treated is consistent with a cost estimate of USD10-13 per pregnancy[22],[23], since pregnant women receive more tablets</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-219" type="identity">
+         <class id="consistent"/>
+         <span end="20530" id="PMC3169551.nxml.gz-219" start="20520">consistent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-220" type="identity">
+         <class id="estimate"/>
+         <span end="20551" id="PMC3169551.nxml.gz-220" start="20543">estimate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-221" type="identity">
+         <class id="probable_understanding"/>
+         <span end="20593" id="PMC3169551.nxml.gz-221" start="20588">since</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-222" type="identity">
+         <class id="subject_scope"/>
+         <span end="20843" id="PMC3169551.nxml.gz-222" start="20631">A recent trial in northern China identified an annual cost of USD40.00 to improve antenatal, delivery and postnatal care of which 22% (USD8.80) was to supply and distribute daily supplements to pregnant women[24]</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-223" type="identity">
+         <class id="recent"/>
+         <span end="20639" id="PMC3169551.nxml.gz-223" start="20633">recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-224" type="identity">
+         <class id="identified"/>
+         <span end="20674" id="PMC3169551.nxml.gz-224" start="20664">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-225" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20849" id="PMC3169551.nxml.gz-225" start="20845">Data</span>
+         <span end="20915" id="PMC3169551.nxml.gz-226" start="20911">weak</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-227" type="identity">
+         <class id="subject_scope"/>
+         <span end="20915" id="PMC3169551.nxml.gz-227" start="20845">Data on cost per pregnancy of daily iron supplementation is quite weak</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-228" type="identity">
+         <class id="subject_scope"/>
+         <span end="21263" id="PMC3169551.nxml.gz-228" start="21035">For those countries in the Southeast Asia region (SearD) with high adult and child mortality rates, they estimate the cost as $10.12 (but as high as $46.04 per pregnancy in the low mortality countries in the Europe region, EurA)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-229" type="identity">
+         <class id="estimate"/>
+         <span end="21148" id="PMC3169551.nxml.gz-229" start="21140">estimate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-230" type="identity">
+         <class id="but"/>
+         <span end="21172" id="PMC3169551.nxml.gz-230" start="21169">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-231" type="identity">
+         <class id="subject_scope"/>
+         <span end="21420" id="PMC3169551.nxml.gz-231" start="21265">Behrman, Alderman and Hoddinott, 2004[23], cite estimates for Nepal of $13.14 per pregnancy (based on program estimates extrapolated from a research study)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-232" type="identity">
+         <class id="estimates"/>
+         <span end="21322" id="PMC3169551.nxml.gz-232" start="21313">estimates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-233" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="21366" id="PMC3169551.nxml.gz-233" start="21358">based on</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-234" type="identity">
+         <class id="estimates"/>
+         <span end="21384" id="PMC3169551.nxml.gz-234" start="21375">estimates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-235" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="21413" id="PMC3169551.nxml.gz-235" start="21405">research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-236" type="identity">
+         <class id="subject_scope"/>
+         <span end="21586" id="PMC3169551.nxml.gz-236" start="21422">The estimated benefit:cost ratio of 6.7∶1 is similar to the median benefit:cost ratio for iron fortification estimated by Horton and Ross[6]for a range of countries</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-237" type="identity">
+         <class id="estimated"/>
+         <span end="21435" id="PMC3169551.nxml.gz-237" start="21426">estimated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-238" type="identity">
+         <class id="similar_to"/>
+         <span end="21477" id="PMC3169551.nxml.gz-238" start="21467">similar to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-239" type="identity">
+         <class id="estimated"/>
+         <span end="21540" id="PMC3169551.nxml.gz-239" start="21531">estimated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-240" type="identity">
+         <class id="subject_scope"/>
+         <span end="21676" id="PMC3169551.nxml.gz-240" start="21588">Supplementation of women is more costly per person, but has a stronger effect on anaemia</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-241" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="21643" id="PMC3169551.nxml.gz-241" start="21640">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-242" type="identity">
+         <class id="effect"/>
+         <span end="21665" id="PMC3169551.nxml.gz-242" start="21659">effect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-243" type="identity">
+         <class id="however"/>
+         <span end="21685" id="PMC3169551.nxml.gz-243" start="21678">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-244" type="identity">
+         <class id="subject_scope"/>
+         <span end="21897" id="PMC3169551.nxml.gz-244" start="21678">However, fortification benefits both men and women while supplementation directly benefits only women and will only have large labour market benefits in countries where women's participation in the labour market is high</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-245" type="identity">
+         <class id="benefits"/>
+         <span end="21709" id="PMC3169551.nxml.gz-245" start="21701">benefits</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-246" type="identity">
+         <class id="benefits"/>
+         <span end="21768" id="PMC3169551.nxml.gz-246" start="21760">benefits</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-247" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="21773" id="PMC3169551.nxml.gz-247" start="21769">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-248" type="identity">
+         <class id="will"/>
+         <span end="21788" id="PMC3169551.nxml.gz-248" start="21784">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-249" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="21793" id="PMC3169551.nxml.gz-249" start="21789">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-250" type="identity">
+         <class id="benefits"/>
+         <span end="21827" id="PMC3169551.nxml.gz-250" start="21819">benefits</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-251" type="identity">
+         <class id="difficult_task"/>
+         <span end="21998" id="PMC3169551.nxml.gz-251" start="21991">However</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-252" type="identity">
+         <class id="subject_scope"/>
+         <span end="22194" id="PMC3169551.nxml.gz-252" start="21991">However, in Viet Nam fortification of cereals is not easily available for rural areas (rice, the main staple, is more costly to fortify, and less feasible to fortify given the lack of central processing)</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-253" type="identity">
+         <class id="difficult_task"/>
+         <span end="22043" id="PMC3169551.nxml.gz-253" start="22040">not</span>
+         <span end="22060" id="PMC3169551.nxml.gz-254" start="22051">available</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-255" type="identity">
+         <class id="given"/>
+         <span end="22162" id="PMC3169551.nxml.gz-255" start="22157">given</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-256" type="identity">
+         <class id="problem_complication"/>
+         <span end="22174" id="PMC3169551.nxml.gz-256" start="22167">lack of</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-257" type="identity">
+         <class id="subject_scope"/>
+         <span end="22302" id="PMC3169551.nxml.gz-257" start="22196">There have been experiments with fortification of fish sauce however this is not yet on a commercial scale</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-258" type="identity">
+         <class id="have...been"/>
+         <span end="22211" id="PMC3169551.nxml.gz-258" start="22202">have been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-259" type="identity">
+         <class id="difficult_task"/>
+         <span end="22264" id="PMC3169551.nxml.gz-259" start="22257">however</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-260" type="identity">
+         <class id="future_work"/>
+         <span end="22280" id="PMC3169551.nxml.gz-260" start="22273">not yet</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-261" type="identity">
+         <class id="at_present"/>
+         <span end="22314" id="PMC3169551.nxml.gz-261" start="22304">At present</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-262" type="identity">
+         <class id="subject_scope"/>
+         <span end="22424" id="PMC3169551.nxml.gz-262" start="22304">At present a supplementation program is the most feasible method for addressing iron and folate deficiencies in Viet Nam</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-263" type="identity">
+         <class id="most"/>
+         <span end="22352" id="PMC3169551.nxml.gz-263" start="22348">most</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-264" type="identity">
+         <class id="feasible"/>
+         <span end="22361" id="PMC3169551.nxml.gz-264" start="22353">feasible</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-265" type="identity">
+         <class id="subject_scope"/>
+         <span end="22600" id="PMC3169551.nxml.gz-265" start="22426">The cost of coverage with weekly iron-folic acid is comparable to program estimates for distribution of other nutritional supplements such as twice-yearly vitamin A, and zinc</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-266" type="identity">
+         <class id="comparable"/>
+         <span end="22488" id="PMC3169551.nxml.gz-266" start="22478">comparable</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-267" type="identity">
+         <class id="estimates"/>
+         <span end="22509" id="PMC3169551.nxml.gz-267" start="22500">estimates</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-268" type="identity">
+         <class id="subject_scope"/>
+         <span end="22819" id="PMC3169551.nxml.gz-268" start="22602">A recent survey[25]of the cost of micronutrient supplementation programs (both published and “grey” literature) identified 43 studies, of which 31 were for vitamin A, and the rest for iron (7), iodine (4) and zinc (1)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-269" type="identity">
+         <class id="recent"/>
+         <span end="22610" id="PMC3169551.nxml.gz-269" start="22604">recent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-270" type="identity">
+         <class id="identified"/>
+         <span end="22724" id="PMC3169551.nxml.gz-270" start="22714">identified</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-271" type="identity">
+         <class id="studies"/>
+         <span end="22735" id="PMC3169551.nxml.gz-271" start="22728">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-272" type="identity">
+         <class id="subject_scope"/>
+         <span end="22969" id="PMC3169551.nxml.gz-272" start="22821">Mean cost per beneficiary were calculated as USD1.95 (vitamin A), USD3.64 (iodine), USD0.52 (zinc – only 1 program), but was not calculated for iron</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-273" type="identity">
+         <class id="only"/>
+         <span end="22925" id="PMC3169551.nxml.gz-273" start="22921">only</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-274" type="identity">
+         <class id="problem_complication"/>
+         <span end="22941" id="PMC3169551.nxml.gz-274" start="22938">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-275" type="identity">
+         <class id="was_not"/>
+         <span end="22949" id="PMC3169551.nxml.gz-275" start="22942">was not</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-276" type="identity">
+         <class id="subject_scope"/>
+         <span end="23110" id="PMC3169551.nxml.gz-276" start="22971">Mean cost per person-year of “useful” coverage was estimated as USD8.53 (vitamin A) and USD0.74 (iodine) but not available for iron or zinc</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-277" type="identity">
+         <class id="estimated"/>
+         <span end="23031" id="PMC3169551.nxml.gz-277" start="23022">estimated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-278" type="identity">
+         <class id="not_available"/>
+         <span end="23093" id="PMC3169551.nxml.gz-278" start="23080">not available</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-279" type="identity">
+         <class id="although"/>
+         <span end="23120" id="PMC3169551.nxml.gz-279" start="23112">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-280" type="identity">
+         <class id="subject_scope"/>
+         <span end="23290" id="PMC3169551.nxml.gz-280" start="23112">Although Vitamin A capsules were less costly than iron per person (USD0.12/person/year compared to USD0.36), delivery costs for vitamin A were higher: USD1.83 compared to USD0.40</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-281" type="identity">
+         <class id="compared_to"/>
+         <span end="23210" id="PMC3169551.nxml.gz-281" start="23199">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-282" type="identity">
+         <class id="compared_to"/>
+         <span end="23282" id="PMC3169551.nxml.gz-282" start="23271">compared to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-283" type="identity">
+         <class id="subject_scope"/>
+         <span end="23445" id="PMC3169551.nxml.gz-283" start="23292">This may reflect lower coverage with volunteer health workers and lower population densities in Africa, where most costing studies of vitamin A were done</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-284" type="identity">
+         <class id="may"/>
+         <span end="23300" id="PMC3169551.nxml.gz-284" start="23297">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-285" type="identity">
+         <class id="probable_understanding"/>
+         <span end="23308" id="PMC3169551.nxml.gz-285" start="23301">reflect</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-286" type="identity">
+         <class id="studies"/>
+         <span end="23422" id="PMC3169551.nxml.gz-286" start="23415">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-287" type="identity">
+         <class id="subject_scope"/>
+         <span end="23536" id="PMC3169551.nxml.gz-287" start="23447">The reported cost structures of delivery for these programs were however somewhat similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-288" type="identity">
+         <class id="reported"/>
+         <span end="23459" id="PMC3169551.nxml.gz-288" start="23451">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-289" type="identity">
+         <class id="somewhat"/>
+         <span end="23528" id="PMC3169551.nxml.gz-289" start="23520">somewhat</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-290" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="23536" id="PMC3169551.nxml.gz-290" start="23529">similar</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-291" type="identity">
+         <class id="subject_scope"/>
+         <span end="24165" id="PMC3169551.nxml.gz-291" start="23926">The costs of providing weekly iron-folic acid in a program setting may also be useful for estimating costs of providing micronutrient powders for home fortification for children 6–36 months, and for therapeutic zinc for children under five</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-292" type="identity">
+         <class id="may"/>
+         <span end="23996" id="PMC3169551.nxml.gz-292" start="23993">may</span>
+      </annotation>
+      <annotation annotator="ADJUDICATED" id="PMC3169551.nxml.gz-293" type="identity">
+         <class id="estimating"/>
+         <span end="24026" id="PMC3169551.nxml.gz-293" start="24016">estimating</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-294" type="identity">
+         <class id="subject_scope"/>
+         <span end="24243" id="PMC3169551.nxml.gz-294" start="24167">Program cost data for these latter two interventions are almost non-existent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-295" type="identity">
+         <class id="interventions"/>
+         <span end="24219" id="PMC3169551.nxml.gz-295" start="24206">interventions</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-296" type="identity">
+         <class id="full_unknown"/>
+         <span end="24243" id="PMC3169551.nxml.gz-296" start="24231">non-existent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-297" type="identity">
+         <class id="subject_scope"/>
+         <span end="24387" id="PMC3169551.nxml.gz-297" start="24245">This study therefore fills a major gap in the cost literature, namely estimating the cost of implementing weekly iron supplementation programs</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-298" type="identity">
+         <class id="major"/>
+         <span end="24279" id="PMC3169551.nxml.gz-298" start="24274">major</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-299" type="identity">
+         <class id="gap"/>
+         <span end="24283" id="PMC3169551.nxml.gz-299" start="24280">gap</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-300" type="identity">
+         <class id="estimating"/>
+         <span end="24325" id="PMC3169551.nxml.gz-300" start="24315">estimating</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-301" type="identity">
+         <class id="subject_scope"/>
+         <span end="24668" id="PMC3169551.nxml.gz-301" start="24389">It has policy significance given the recommendation to expand coverage of supplementation with weekly iron and folic acid supplements to women of reproductive age, as well as for other similar supplementation programs, such as multiple micronutrient powders and zinc for children</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-302" type="identity">
+         <class id="significance"/>
+         <span end="24415" id="PMC3169551.nxml.gz-302" start="24403">significance</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-303" type="identity">
+         <class id="given"/>
+         <span end="24421" id="PMC3169551.nxml.gz-303" start="24416">given</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3169551.nxml.gz-304" type="identity">
+         <class id="recommendation"/>
+         <span end="24440" id="PMC3169551.nxml.gz-304" start="24426">recommendation</span>
+      </annotation>
+   </document>
+</knowtator-project>

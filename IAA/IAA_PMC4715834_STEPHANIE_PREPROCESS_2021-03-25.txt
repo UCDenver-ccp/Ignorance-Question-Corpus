@@ -1,0 +1,65 @@
+ARTICLE:	PMC4715834
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator STEPHANIE:	17
+total annotations for annotator PREPROCESS:	17
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	17	17	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	alternative_options_controversy
+total annotations for annotator STEPHANIE:	13
+total annotations for annotator PREPROCESS:	24
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options_controversy	24	13	0	0	11	0.54	0.54
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator STEPHANIE:	12
+total annotations for annotator PREPROCESS:	25
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	25	12	0	0	13	0.48	0.48
+
+CURRENT IGNORANCE TYPE:	important_consideration
+total annotations for annotator STEPHANIE:	13
+total annotations for annotator PREPROCESS:	20
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+important_consideration	21	12	0	0	9	0.57	0.57
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator STEPHANIE:	19
+total annotations for annotator PREPROCESS:	29
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+probable_understanding	29	19	0	0	10	0.66	0.66
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator STEPHANIE:	10
+total annotations for annotator PREPROCESS:	10
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	10	10	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator STEPHANIE:	10
+total annotations for annotator PREPROCESS:	11
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	12	9	0	0	3	0.75	0.75
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator STEPHANIE:	4
+total annotations for annotator PREPROCESS:	6
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	6	4	0	0	2	0.67	0.67
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator STEPHANIE:	7
+total annotations for annotator PREPROCESS:	99
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	99	7	0	0	92	0.07	0.07
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator STEPHANIE:	39
+total annotations for annotator PREPROCESS:	69
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	69	39	0	0	30	0.57	0.57
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	356	142	0	0	214	0.40	0.40
+subject_scope	46	0	0	0	46	0.00	0.00

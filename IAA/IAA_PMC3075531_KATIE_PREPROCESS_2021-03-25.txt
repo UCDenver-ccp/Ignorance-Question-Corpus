@@ -1,0 +1,77 @@
+ARTICLE:	PMC3075531
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator KATIE:	49
+total annotations for annotator PREPROCESS:	57
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	58	48	0	0	10	0.83	0.83
+
+CURRENT IGNORANCE TYPE:	alternative_options_controversy
+total annotations for annotator KATIE:	24
+total annotations for annotator PREPROCESS:	35
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options_controversy	35	24	0	0	11	0.69	0.69
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator KATIE:	10
+total annotations for annotator PREPROCESS:	22
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	22	10	0	0	12	0.45	0.45
+
+CURRENT IGNORANCE TYPE:	important_consideration
+total annotations for annotator KATIE:	20
+total annotations for annotator PREPROCESS:	17
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+important_consideration	21	16	0	0	5	0.76	0.76
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator KATIE:	22
+total annotations for annotator PREPROCESS:	38
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+probable_understanding	43	17	0	0	26	0.40	0.40
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator KATIE:	8
+total annotations for annotator PREPROCESS:	12
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_prediction	13	7	0	0	6	0.54	0.54
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator KATIE:	1
+total annotations for annotator PREPROCESS:	13
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	13	1	0	0	12	0.08	0.08
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator KATIE:	15
+total annotations for annotator PREPROCESS:	16
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	21	10	0	0	11	0.48	0.48
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator KATIE:	2
+total annotations for annotator PREPROCESS:	6
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	6	2	0	0	4	0.33	0.33
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator KATIE:	9
+total annotations for annotator PREPROCESS:	13
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	14	8	0	0	6	0.57	0.57
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator KATIE:	72
+total annotations for annotator PREPROCESS:	128
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	129	71	0	0	58	0.55	0.55
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator KATIE:	6
+total annotations for annotator PREPROCESS:	39
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+full_unknown	39	6	0	0	33	0.15	0.15
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	422	220	1	3	198	0.52	0.53
+subject_scope	70	0	0	0	70	0.00	0.00

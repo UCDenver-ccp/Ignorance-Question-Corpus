@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC3800883.nxml.gz" text-file="PMC3800883.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="218" id="PMC3800883.nxml.gz-1" start="57">The fast changing life style of the modern era has caused increase in the pregnancy complications, anamolies etc. due to the change in the diet of pregnant women</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3800883.nxml.gz-2" type="identity">
+         <class id="complications"/>
+         <span end="154" id="PMC3800883.nxml.gz-2" start="141">complications</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-3" type="identity">
+         <class id="due...to"/>
+         <span end="177" id="PMC3800883.nxml.gz-3" start="171">due to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-4" type="identity">
+         <class id="subject_scope"/>
+         <span end="293" id="PMC3800883.nxml.gz-4" start="220">Ayurveda has focused on this concept &amp; have explained it very effectively</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-5" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="240" id="PMC3800883.nxml.gz-5" start="233">focused</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3800883.nxml.gz-6" type="identity">
+         <class id="this_concept"/>
+         <span end="256" id="PMC3800883.nxml.gz-6" start="244">this concept</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3800883.nxml.gz-7" type="identity">
+         <class id="explained"/>
+         <span end="273" id="PMC3800883.nxml.gz-7" start="264">explained</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3800883.nxml.gz-8" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="293" id="PMC3800883.nxml.gz-8" start="282">effectively</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3800883.nxml.gz-9" type="identity">
+         <class id="subject_scope"/>
+         <span end="450" id="PMC3800883.nxml.gz-9" start="295">The diet of pregnant woman is not only explained according to the need of the mother but also by the fetus, which is advised month wise (masanumasik patya)</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3800883.nxml.gz-10" type="identity">
+         <class id="explained"/>
+         <span end="343" id="PMC3800883.nxml.gz-10" start="334">explained</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3800883.nxml.gz-11" type="identity">
+         <class id="according_to"/>
+         <span end="356" id="PMC3800883.nxml.gz-11" start="344">according to</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3800883.nxml.gz-12" type="identity">
+         <class id="but"/>
+         <span end="383" id="PMC3800883.nxml.gz-12" start="380">but</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-13" type="identity">
+         <class id="thus"/>
+         <span end="456" id="PMC3800883.nxml.gz-13" start="452">Thus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-14" type="identity">
+         <class id="subject_scope"/>
+         <span end="620" id="PMC3800883.nxml.gz-14" start="452">Thus, it is very necessary to promote the pregnant women to take proper diet i.e. masanumasik patya which will lead to healthly &amp; safe motherhood along with its outcome</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-15" type="identity">
+         <class id="very_necessary"/>
+         <span end="478" id="PMC3800883.nxml.gz-15" start="464">very necessary</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-16" type="identity">
+         <class id="will"/>
+         <span end="562" id="PMC3800883.nxml.gz-16" start="558">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-17" type="identity">
+         <class id="lead_to"/>
+         <span end="570" id="PMC3800883.nxml.gz-17" start="563">lead to</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3800883.nxml.gz-18" type="identity">
+         <class id="thus"/>
+         <span end="874" id="PMC3800883.nxml.gz-18" start="870">Thus</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3800883.nxml.gz-19" type="identity">
+         <class id="subject_scope"/>
+         <span end="985" id="PMC3800883.nxml.gz-19" start="870">Thus, patya advised is madhura, shita, drava (liquid), which will prevent dehydration &amp; supply required nourishment</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3800883.nxml.gz-20" type="identity">
+         <class id="which"/>
+         <span end="930" id="PMC3800883.nxml.gz-20" start="925">which</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3800883.nxml.gz-21" type="identity">
+         <class id="will"/>
+         <span end="935" id="PMC3800883.nxml.gz-21" start="931">will</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3800883.nxml.gz-22" type="identity">
+         <class id="subject_scope"/>
+         <span end="1306" id="PMC3800883.nxml.gz-22" start="1247">Mild laxatives and basti, which will smoothen genital tract</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3800883.nxml.gz-23" type="identity">
+         <class id="will"/>
+         <span end="1283" id="PMC3800883.nxml.gz-23" start="1279">will</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3800883.nxml.gz-24" type="identity">
+         <class id="according_to"/>
+         <span end="1320" id="PMC3800883.nxml.gz-24" start="1308">According to</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3800883.nxml.gz-25" type="identity">
+         <class id="subject_scope"/>
+         <span end="1436" id="PMC3800883.nxml.gz-25" start="1308">According to Ayurvedic diets, the junk &amp; fast food which is prevalent now is not benificial for mother &amp; fetus is also described</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3800883.nxml.gz-26" type="identity">
+         <class id="described"/>
+         <span end="1436" id="PMC3800883.nxml.gz-26" start="1427">described</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-27" type="identity">
+         <class id="subject_scope"/>
+         <span end="1555" id="PMC3800883.nxml.gz-27" start="1447">As mentioned above, the diet of pregnant woman according to month is proved to se helpful for mother &amp; fetus</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3800883.nxml.gz-28" type="identity">
+         <class id="according_to"/>
+         <span end="1506" id="PMC3800883.nxml.gz-28" start="1494">according to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-29" type="identity">
+         <class id="proved"/>
+         <span end="1522" id="PMC3800883.nxml.gz-29" start="1516">proved</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-30" type="identity">
+         <class id="subject_scope"/>
+         <span end="1609" id="PMC3800883.nxml.gz-30" start="1557">Also the present diet substances causes complication</span>
+      </annotation>
+      <annotation annotator="STEPHANIE" id="PMC3800883.nxml.gz-31" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1596" id="PMC3800883.nxml.gz-31" start="1590">causes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-32" type="identity">
+         <class id="complication"/>
+         <span end="1609" id="PMC3800883.nxml.gz-32" start="1597">complication</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-33" type="identity">
+         <class id="thus"/>
+         <span end="1615" id="PMC3800883.nxml.gz-33" start="1611">Thus</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-34" type="identity">
+         <class id="subject_scope"/>
+         <span end="1657" id="PMC3800883.nxml.gz-34" start="1611">Thus Masanumasik patya is the need of the hour</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-35" type="identity">
+         <class id="the_need_of_the_hour"/>
+         <span end="1657" id="PMC3800883.nxml.gz-35" start="1637">the need of the hour</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-36" type="identity">
+         <class id="subject_scope"/>
+         <span end="1869" id="PMC3800883.nxml.gz-36" start="1672">It is therefore clear that the diet of pregnant woman according to Ayurveda will prevent many complications of pregnancy, which will lead to healthy pregnancy &amp; healthy fetus &amp; finally good outcome</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-37" type="identity">
+         <class id="therefore"/>
+         <span end="1687" id="PMC3800883.nxml.gz-37" start="1678">therefore</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-38" type="identity">
+         <class id="according_to"/>
+         <span end="1738" id="PMC3800883.nxml.gz-38" start="1726">according to</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-39" type="identity">
+         <class id="will"/>
+         <span end="1752" id="PMC3800883.nxml.gz-39" start="1748">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-40" type="identity">
+         <class id="complications"/>
+         <span end="1779" id="PMC3800883.nxml.gz-40" start="1766">complications</span>
+      </annotation>
+      <annotation annotator="KATIE" id="PMC3800883.nxml.gz-41" type="identity">
+         <class id="which"/>
+         <span end="1799" id="PMC3800883.nxml.gz-41" start="1794">which</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-42" type="identity">
+         <class id="will"/>
+         <span end="1804" id="PMC3800883.nxml.gz-42" start="1800">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3800883.nxml.gz-43" type="identity">
+         <class id="lead_to"/>
+         <span end="1812" id="PMC3800883.nxml.gz-43" start="1805">lead to</span>
+      </annotation>
+   </document>
+</knowtator-project>

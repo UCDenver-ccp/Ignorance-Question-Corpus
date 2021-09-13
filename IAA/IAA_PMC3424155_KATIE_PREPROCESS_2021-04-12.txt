@@ -1,0 +1,77 @@
+ARTICLE:	PMC3424155
+
+CURRENT IGNORANCE TYPE:	important_consideration
+total annotations for annotator KATIE:	26
+total annotations for annotator PREPROCESS:	33
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+important_consideration	42	17	0	0	25	0.40	0.40
+
+CURRENT IGNORANCE TYPE:	alternative_options_controversy
+total annotations for annotator KATIE:	10
+total annotations for annotator PREPROCESS:	82
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options_controversy	83	9	0	0	74	0.11	0.11
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator KATIE:	55
+total annotations for annotator PREPROCESS:	179
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	181	53	0	0	128	0.29	0.29
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator KATIE:	17
+total annotations for annotator PREPROCESS:	46
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+probable_understanding	48	15	0	0	33	0.31	0.31
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator KATIE:	42
+total annotations for annotator PREPROCESS:	21
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	49	14	0	0	35	0.29	0.29
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator KATIE:	8
+total annotations for annotator PREPROCESS:	19
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	21	6	0	0	15	0.29	0.29
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator KATIE:	52
+total annotations for annotator PREPROCESS:	61
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	61	52	0	0	9	0.85	0.85
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator KATIE:	17
+total annotations for annotator PREPROCESS:	46
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	46	16	0	1	29	0.35	0.37
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator KATIE:	3
+total annotations for annotator PREPROCESS:	69
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+full_unknown	69	3	0	0	66	0.04	0.04
+
+CURRENT IGNORANCE TYPE:	explicit_question
+total annotations for annotator KATIE:	3
+total annotations for annotator PREPROCESS:	14
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+explicit_question	14	3	0	0	11	0.21	0.21
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator KATIE:	1
+total annotations for annotator PREPROCESS:	13
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	13	1	0	0	12	0.08	0.08
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator KATIE:	1
+total annotations for annotator PREPROCESS:	10
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	10	1	0	0	9	0.10	0.10
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	631	190	0	9	432	0.30	0.32
+subject_scope	85	0	0	0	85	0.00	0.00
