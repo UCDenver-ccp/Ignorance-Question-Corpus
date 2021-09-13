@@ -1,0 +1,256 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC3313761.nxml.gz" text-file="PMC3313761.nxml.gz.txt">
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-1" type="identity">
+         <class id="weight"/>
+         <span end="165" id="PMC3313761.nxml.gz-1" start="159">weight</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-2" type="identity">
+         <class id="interact"/>
+         <span end="374" id="PMC3313761.nxml.gz-2" start="366">interact</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-3" type="identity">
+         <class id="while"/>
+         <span end="519" id="PMC3313761.nxml.gz-3" start="514">while</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-4" type="identity">
+         <class id="investigations"/>
+         <span end="626" id="PMC3313761.nxml.gz-4" start="612">Investigations</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-5" type="identity">
+         <class id="revealed"/>
+         <span end="635" id="PMC3313761.nxml.gz-5" start="627">revealed</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-6" type="identity">
+         <class id="differ"/>
+         <span end="671" id="PMC3313761.nxml.gz-6" start="665">differ</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-7" type="identity">
+         <class id="issue"/>
+         <span end="737" id="PMC3313761.nxml.gz-7" start="732">issue</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-8" type="identity">
+         <class id="while"/>
+         <span end="839" id="PMC3313761.nxml.gz-8" start="834">While</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-9" type="identity">
+         <class id="subject_scope"/>
+         <span end="1220" id="PMC3313761.nxml.gz-9" start="1028">In view of hypocalcemia, the child was treated with 2 ml/kg of 10% calcium gluconate followed by maintenance calcium, following which the stridor disappeared and there were no further seizures</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-10" type="identity">
+         <class id="subject_scope"/>
+         <span end="1220" id="PMC3313761.nxml.gz-10" start="1028">In view of hypocalcemia, the child was treated with 2 ml/kg of 10% calcium gluconate followed by maintenance calcium, following which the stridor disappeared and there were no further seizures</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-11" type="identity">
+         <class id="view"/>
+         <span end="1035" id="PMC3313761.nxml.gz-11" start="1031">view</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-12" type="identity">
+         <class id="which"/>
+         <span end="1161" id="PMC3313761.nxml.gz-12" start="1156">which</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-13" type="identity">
+         <class id="appeared"/>
+         <span end="1185" id="PMC3313761.nxml.gz-13" start="1177">appeared</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-14" type="identity">
+         <class id="call"/>
+         <span end="1404" id="PMC3313761.nxml.gz-14" start="1400">call</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-15" type="identity">
+         <class id="call"/>
+         <span end="1423" id="PMC3313761.nxml.gz-15" start="1419">call</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-16" type="identity">
+         <class id="is"/>
+         <span end="1603" id="PMC3313761.nxml.gz-16" start="1601">is</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-17" type="identity">
+         <class id="subject_scope"/>
+         <span end="1857" id="PMC3313761.nxml.gz-17" start="1703">Hypocalcemia has also been shown to occur in exclusively breast fed babies not exposed to sunlight and in infants whose mothers are deficient in vitamin D</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-18" type="identity">
+         <class id="subject_scope"/>
+         <span end="1857" id="PMC3313761.nxml.gz-18" start="1703">Hypocalcemia has also been shown to occur in exclusively breast fed babies not exposed to sunlight and in infants whose mothers are deficient in vitamin D</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-19" type="identity">
+         <class id="has...been"/>
+         <span end="1719" id="PMC3313761.nxml.gz-19" start="1716">has</span>
+         <span end="1729" id="PMC3313761.nxml.gz-20" start="1725">been</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-21" type="identity">
+         <class id="rarely"/>
+         <span end="2020" id="PMC3313761.nxml.gz-21" start="2014">rarely</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-22" type="identity">
+         <class id="due_to"/>
+         <span end="2035" id="PMC3313761.nxml.gz-22" start="2029">due to</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-23" type="identity">
+         <class id="subject_scope"/>
+         <span end="2133" id="PMC3313761.nxml.gz-23" start="2050">Stridor occurring as a consequence of nutritional rickets is reported in literature</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-24" type="identity">
+         <class id="subject_scope"/>
+         <span end="2133" id="PMC3313761.nxml.gz-24" start="2050">Stridor occurring as a consequence of nutritional rickets is reported in literature</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-25" type="identity">
+         <class id="is"/>
+         <span end="2110" id="PMC3313761.nxml.gz-25" start="2108">is</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-26" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2133" id="PMC3313761.nxml.gz-26" start="2120">in literature</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-27" type="identity">
+         <class id="subject_scope"/>
+         <span end="2246" id="PMC3313761.nxml.gz-27" start="2138">Hypocalcemic laryngospasm causing stridor and tetany in a child with renal dysplasia has also been described</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-28" type="identity">
+         <class id="subject_scope"/>
+         <span end="2246" id="PMC3313761.nxml.gz-28" start="2138">Hypocalcemic laryngospasm causing stridor and tetany in a child with renal dysplasia has also been described</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-29" type="identity">
+         <class id="has...been"/>
+         <span end="2226" id="PMC3313761.nxml.gz-29" start="2223">has</span>
+         <span end="2236" id="PMC3313761.nxml.gz-30" start="2232">been</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-31" type="identity">
+         <class id="subject_scope"/>
+         <span end="2357" id="PMC3313761.nxml.gz-31" start="2251">A fatal case of biphasic wheezing in an infant attributed to hypocalcemia has been described in literature</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-32" type="identity">
+         <class id="subject_scope"/>
+         <span end="2357" id="PMC3313761.nxml.gz-32" start="2251">A fatal case of biphasic wheezing in an infant attributed to hypocalcemia has been described in literature</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-33" type="identity">
+         <class id="has...been"/>
+         <span end="2333" id="PMC3313761.nxml.gz-33" start="2325">has been</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-34" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2357" id="PMC3313761.nxml.gz-34" start="2344">in literature</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-35" type="identity">
+         <class id="subject_scope"/>
+         <span end="2521" id="PMC3313761.nxml.gz-35" start="2362">Vitamin D by itself has been shown to have beneficial effects in children who wheeze by up regulating antimicrobial proteins or through multiple immune effects</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-36" type="identity">
+         <class id="subject_scope"/>
+         <span end="2521" id="PMC3313761.nxml.gz-36" start="2362">Vitamin D by itself has been shown to have beneficial effects in children who wheeze by up regulating antimicrobial proteins or through multiple immune effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-37" type="identity">
+         <class id="has...been"/>
+         <span end="2390" id="PMC3313761.nxml.gz-37" start="2382">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-38" type="identity">
+         <class id="effects"/>
+         <span end="2423" id="PMC3313761.nxml.gz-38" start="2416">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-39" type="identity">
+         <class id="effects"/>
+         <span end="2521" id="PMC3313761.nxml.gz-39" start="2514">effects</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-40" type="identity">
+         <class id="subject_scope"/>
+         <span end="2653" id="PMC3313761.nxml.gz-40" start="2523">Higher prenatal vitamin D levels are shown to have a protective role against wheezing in young children in epidemiological studies</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-41" type="identity">
+         <class id="subject_scope"/>
+         <span end="2653" id="PMC3313761.nxml.gz-41" start="2523">Higher prenatal vitamin D levels are shown to have a protective role against wheezing in young children in epidemiological studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-42" type="identity">
+         <class id="role"/>
+         <span end="2591" id="PMC3313761.nxml.gz-42" start="2587">role</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-43" type="identity">
+         <class id="subject_scope"/>
+         <span end="2776" id="PMC3313761.nxml.gz-43" start="2658">The above observations highlight the fact that vitamin D has a key role to play in the pathogenesis of wheezing/asthma</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-44" type="identity">
+         <class id="subject_scope"/>
+         <span end="2776" id="PMC3313761.nxml.gz-44" start="2658">The above observations highlight the fact that vitamin D has a key role to play in the pathogenesis of wheezing/asthma</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-45" type="identity">
+         <class id="role"/>
+         <span end="2729" id="PMC3313761.nxml.gz-45" start="2725">role</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-46" type="identity">
+         <class id="here"/>
+         <span end="2802" id="PMC3313761.nxml.gz-46" start="2798">here</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-47" type="identity">
+         <class id="only"/>
+         <span end="2952" id="PMC3313761.nxml.gz-47" start="2948">only</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-48" type="identity">
+         <class id="subject_scope"/>
+         <span end="3099" id="PMC3313761.nxml.gz-48" start="2979">This case report highlights the importance of measuring serum calcium levels in infants with acute stridor and or wheeze</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-49" type="identity">
+         <class id="subject_scope"/>
+         <span end="3099" id="PMC3313761.nxml.gz-49" start="2979">This case report highlights the importance of measuring serum calcium levels in infants with acute stridor and or wheeze</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-50" type="identity">
+         <class id="importance"/>
+         <span end="3021" id="PMC3313761.nxml.gz-50" start="3011">importance</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-51" type="identity">
+         <class id="subject_scope"/>
+         <span end="3331" id="PMC3313761.nxml.gz-51" start="3207">Prompt resolution of symptoms on correction of hypocalcemia as had happened in our case has also been reported in literature</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-52" type="identity">
+         <class id="subject_scope"/>
+         <span end="3331" id="PMC3313761.nxml.gz-52" start="3207">Prompt resolution of symptoms on correction of hypocalcemia as had happened in our case has also been reported in literature</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-53" type="identity">
+         <class id="has...been"/>
+         <span end="3298" id="PMC3313761.nxml.gz-53" start="3295">has</span>
+         <span end="3308" id="PMC3313761.nxml.gz-54" start="3304">been</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-55" type="identity">
+         <class id="while"/>
+         <span end="3341" id="PMC3313761.nxml.gz-55" start="3336">While</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-56" type="identity">
+         <class id="subject_scope"/>
+         <span end="3499" id="PMC3313761.nxml.gz-56" start="3336">While treating young infants with acute stridor and or wheeze, it would be prudent to consider hypocalcemia especially when one or several risk factors are present</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-57" type="identity">
+         <class id="subject_scope"/>
+         <span end="3499" id="PMC3313761.nxml.gz-57" start="3336">While treating young infants with acute stridor and or wheeze, it would be prudent to consider hypocalcemia especially when one or several risk factors are present</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-58" type="identity">
+         <class id="would_be"/>
+         <span end="3410" id="PMC3313761.nxml.gz-58" start="3402">would be</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-59" type="identity">
+         <class id="prudent"/>
+         <span end="3418" id="PMC3313761.nxml.gz-59" start="3411">prudent</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-60" type="identity">
+         <class id="consider"/>
+         <span end="3430" id="PMC3313761.nxml.gz-60" start="3422">consider</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-61" type="identity">
+         <class id="when"/>
+         <span end="3459" id="PMC3313761.nxml.gz-61" start="3455">when</span>
+      </annotation>
+      <annotation annotator="EMILY" id="PMC3313761.nxml.gz-62" type="identity">
+         <class id="usually"/>
+         <span end="3531" id="PMC3313761.nxml.gz-62" start="3524">usually</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-63" type="identity">
+         <class id="subject_scope"/>
+         <span end="3619" id="PMC3313761.nxml.gz-63" start="3563">Vitamin D therapy may be of benefit in wheezing children</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3313761.nxml.gz-64" type="identity">
+         <class id="subject_scope"/>
+         <span end="3619" id="PMC3313761.nxml.gz-64" start="3563">Vitamin D therapy may be of benefit in wheezing children</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3313761.nxml.gz-65" type="identity">
+         <class id="may_be"/>
+         <span end="3587" id="PMC3313761.nxml.gz-65" start="3581">may be</span>
+      </annotation>
+   </document>
+</knowtator-project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC1474522.nxml.gz" text-file="PMC1474522.nxml.gz.txt">
+      <annotation annotator="EXACT_MATCH" id="PMC1474522.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="85" id="PMC1474522.nxml.gz-1" start="0">Lesions of testis and epididymis associated with prenatal diethylstilbestrol exposure</span>
+      </annotation>
+   </document>
+</knowtator-project>

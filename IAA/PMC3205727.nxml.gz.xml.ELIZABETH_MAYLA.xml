@@ -1,0 +1,1829 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC3205727.nxml.gz" text-file="PMC3205727.nxml.gz.txt">
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-1" type="identity">
+         <class id="subject_scope"/>
+         <span end="66" id="PMC3205727.nxml.gz-1" start="0">Maternal Behaviors during Pregnancy Impact Offspring Obesity Risk
+</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-2" type="identity">
+         <class id="impact"/>
+         <span end="42" id="PMC3205727.nxml.gz-2" start="36">Impact</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-3" type="identity">
+         <class id="subject_scope"/>
+         <span end="245" id="PMC3205727.nxml.gz-3" start="76">This study investigated the effects of maternal changes during pregnancy in diet, exercise, and psychosocial factors on offspring weight parameters at birth and 6 months</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-4" type="identity">
+         <class id="this_study"/>
+         <span end="86" id="PMC3205727.nxml.gz-4" start="76">This study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-5" type="identity">
+         <class id="investigated"/>
+         <span end="99" id="PMC3205727.nxml.gz-5" start="87">investigated</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-6" type="identity">
+         <class id="subject_scope"/>
+         <span end="612" id="PMC3205727.nxml.gz-6" start="247">In overweight/obese (OW/OB; n = 132) mothers, greater % kcal from sweets early in pregnancy was the strongest, independent predictor of higher weight for age (WFA) (beta = 0.19; P = 0.004), higher odds of macrosomia (OR = 1.1 (1.0–1.2); P = 0.004) andWFA &gt; 90th percentile at birth (OR = 1.2 (1.1–1.3); P = 0.002) and higher WFA at 6 months (beta = 0.30; P = 0.002)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-7" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="379" id="PMC3205727.nxml.gz-7" start="370">predictor</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-8" type="identity">
+         <class id="subject_scope"/>
+         <span end="462" id="PMC3205727.nxml.gz-8" start="437">higher odds of macrosomia</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-9" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="448" id="PMC3205727.nxml.gz-9" start="444">odds</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-10" type="identity">
+         <class id="subject_scope"/>
+         <span end="784" id="PMC3205727.nxml.gz-10" start="614">In normal weight ( n = 153) mothers, higher intake of soft drinks was the strongest predictor of higher offspring WFA at birth (beta = 0.16; P = 0.04) but not at 6 months</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-11" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="707" id="PMC3205727.nxml.gz-11" start="698">predictor</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-12" type="identity">
+         <class id="subject_scope"/>
+         <span end="918" id="PMC3205727.nxml.gz-12" start="786">Prenatal physical activity, depressive symptoms, and sleep-related variables did not significantly predict offspring weight outcomes</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-13" type="identity">
+         <class id="related"/>
+         <span end="852" id="PMC3205727.nxml.gz-13" start="845">related</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-14" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="892" id="PMC3205727.nxml.gz-14" start="885">predict</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-15" type="identity">
+         <class id="subject_scope"/>
+         <span end="962" id="PMC3205727.nxml.gz-15" start="920">Mothers' eating behaviors during pregnancy</span>
+         <span end="1051" id="PMC3205727.nxml.gz-16" start="1010">may have a lasting effect on child weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-17" type="identity">
+         <class id="may"/>
+         <span end="1013" id="PMC3205727.nxml.gz-17" start="1010">may</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-18" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1074" id="PMC3205727.nxml.gz-18" start="1070">Risk</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-19" type="identity">
+         <class id="subject_scope"/>
+         <span end="1085" id="PMC3205727.nxml.gz-19" start="1070">Risk of obesity</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-20" type="identity">
+         <class id="subject_scope"/>
+         <span end="1158" id="PMC3205727.nxml.gz-20" start="1070">Risk of obesity is shaped, in large part, by early life events starting during gestation</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-21" type="identity">
+         <class id="is"/>
+         <span end="1088" id="PMC3205727.nxml.gz-21" start="1086">is</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-22" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1110" id="PMC3205727.nxml.gz-22" start="1097">in large part</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-23" type="identity">
+         <class id="subject_scope"/>
+         <span end="1229" id="PMC3205727.nxml.gz-23" start="1160">One powerful early life exposure is maternal obesity during pregnancy</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-24" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1262" id="PMC3205727.nxml.gz-24" start="1231">Studies have consistently found</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-25" type="identity">
+         <class id="subject_scope"/>
+         <span end="1404" id="PMC3205727.nxml.gz-25" start="1231">Studies have consistently found that higher maternal weight entering and during pregnancy increases risk for obesity among offspring in childhood, adolescence, and adulthood</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-26" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1256" id="PMC3205727.nxml.gz-26" start="1244">consistently</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-27" type="identity">
+         <class id="consistently"/>
+         <span end="1256" id="PMC3205727.nxml.gz-27" start="1244">consistently</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-28" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1335" id="PMC3205727.nxml.gz-28" start="1331">risk</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-29" type="identity">
+         <class id="subject_scope"/>
+         <span end="1404" id="PMC3205727.nxml.gz-29" start="1331">risk for obesity among offspring in childhood, adolescence, and adulthood</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-30" type="identity">
+         <class id="subject_scope"/>
+         <span end="1622" id="PMC3205727.nxml.gz-30" start="1412">While shared genes account for some of the similarity in maternal and offspring weight, evidence suggests that exposure to the uterine environment of an obese woman itself may directly program offspring obesity</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-31" type="identity">
+         <class id="alternative_options"/>
+         <span end="1417" id="PMC3205727.nxml.gz-31" start="1412">While</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-32" type="identity">
+         <class id="subject_scope"/>
+         <span end="1498" id="PMC3205727.nxml.gz-32" start="1418">shared genes account for some of the similarity in maternal and offspring weight</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-33" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1442" id="PMC3205727.nxml.gz-33" start="1431">account for</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-34" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1447" id="PMC3205727.nxml.gz-34" start="1443">some</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-35" type="identity">
+         <class id="subject_scope"/>
+         <span end="1498" id="PMC3205727.nxml.gz-35" start="1443">some of the similarity in maternal and offspring weight</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-36" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1465" id="PMC3205727.nxml.gz-36" start="1455">similarity</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-37" type="identity">
+         <class id="subject_scope"/>
+         <span end="1498" id="PMC3205727.nxml.gz-37" start="1455">similarity in maternal and offspring weight</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-38" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="1508" id="PMC3205727.nxml.gz-38" start="1500">evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-39" type="identity">
+         <class id="suggests"/>
+         <span end="1517" id="PMC3205727.nxml.gz-39" start="1509">suggests</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-40" type="identity">
+         <class id="may"/>
+         <span end="1587" id="PMC3205727.nxml.gz-40" start="1584">may</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-41" type="identity">
+         <class id="subject_scope"/>
+         <span end="1719" id="PMC3205727.nxml.gz-41" start="1628">Another independent determinant of offspring weight status is gestational weight gain (GWG)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-42" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1659" id="PMC3205727.nxml.gz-42" start="1648">determinant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-43" type="identity">
+         <class id="subject_scope"/>
+         <span end="1952" id="PMC3205727.nxml.gz-43" start="1721">Both excessive [4] and inadequate [5] weight gain in the mother during gestation have been shown to lead to overly rapid fetal and infant growth rates and the programming of future risk of childhood overweight and metabolic disease</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-44" type="identity">
+         <class id="have_been_shown"/>
+         <span end="1817" id="PMC3205727.nxml.gz-44" start="1802">have been shown</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-45" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1828" id="PMC3205727.nxml.gz-45" start="1821">lead to</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-46" type="identity">
+         <class id="future"/>
+         <span end="1901" id="PMC3205727.nxml.gz-46" start="1895">future</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-47" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1906" id="PMC3205727.nxml.gz-47" start="1902">risk</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-48" type="identity">
+         <class id="subject_scope"/>
+         <span end="2009" id="PMC3205727.nxml.gz-48" start="1965">excessive GWG remains of predominant concern</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-49" type="identity">
+         <class id="remains"/>
+         <span end="1986" id="PMC3205727.nxml.gz-49" start="1979">remains</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-50" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2001" id="PMC3205727.nxml.gz-50" start="1990">predominant</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-51" type="identity">
+         <class id="concern"/>
+         <span end="2009" id="PMC3205727.nxml.gz-51" start="2002">concern</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-52" type="identity">
+         <class id="recommended"/>
+         <span end="2059" id="PMC3205727.nxml.gz-52" start="2048">recommended</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-53" type="identity">
+         <class id="subject_scope"/>
+         <span end="2189" id="PMC3205727.nxml.gz-53" start="2061">Also, approximately 40% of normal weight women gain more than recommended [6], increasing the risk of obesity in their offspring</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-54" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="2159" id="PMC3205727.nxml.gz-54" start="2155">risk</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-55" type="identity">
+         <class id="subject_scope"/>
+         <span end="2189" id="PMC3205727.nxml.gz-55" start="2155">risk of obesity in their offspring</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-56" type="identity">
+         <class id="subject_scope"/>
+         <span end="2437" id="PMC3205727.nxml.gz-56" start="2191">Although maternal obesity and excessive GWG are both the result of energy intake exceeding energy expenditure, few studies have examined the specific influences of maternal dietary and exercise behaviors during pregnancy on offspring obesity risk</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-57" type="identity">
+         <class id="although"/>
+         <span end="2199" id="PMC3205727.nxml.gz-57" start="2191">Although</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-58" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="2255" id="PMC3205727.nxml.gz-58" start="2248">result </span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-59" type="identity">
+         <class id="few_studies"/>
+         <span end="2313" id="PMC3205727.nxml.gz-59" start="2302">few studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-60" type="identity">
+         <class id="influences"/>
+         <span end="2351" id="PMC3205727.nxml.gz-60" start="2341">influences</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-61" type="identity">
+         <class id="some_evidence"/>
+         <span end="2452" id="PMC3205727.nxml.gz-61" start="2439">Some evidence</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-62" type="identity">
+         <class id="subject_scope"/>
+         <span end="2563" id="PMC3205727.nxml.gz-62" start="2439">Some evidence suggests that maternal prenatal intake of protein and fat [7–9] may be positively associated with birth weight</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-63" type="identity">
+         <class id="suggests"/>
+         <span end="2461" id="PMC3205727.nxml.gz-63" start="2453">suggests</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-64" type="identity">
+         <class id="may_be"/>
+         <span end="2523" id="PMC3205727.nxml.gz-64" start="2517">may be</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-65" type="identity">
+         <class id="associated"/>
+         <span end="2545" id="PMC3205727.nxml.gz-65" start="2535">associated</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-66" type="identity">
+         <class id="subject_scope"/>
+         <span end="2729" id="PMC3205727.nxml.gz-66" start="2565">In animal models, prenatal exposures to overnutrition, high-fat and high-protein diets, “junk” food, and stress have been linked with greater adiposity in offspring</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-67" type="identity">
+         <class id="models"/>
+         <span end="2581" id="PMC3205727.nxml.gz-67" start="2575">models</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-68" type="identity">
+         <class id="linked"/>
+         <span end="2693" id="PMC3205727.nxml.gz-68" start="2687">linked</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-69" type="identity">
+         <class id="subject_scope"/>
+         <span end="2937" id="PMC3205727.nxml.gz-69" start="2739">In nonpregnant humans, intake of soft drinks and junk food [13], higher dietary disinhibition [14], and restrictive dieting practices [15] have been positively correlated with overweight in children</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-70" type="identity">
+         <class id="have_been"/>
+         <span end="2887" id="PMC3205727.nxml.gz-70" start="2878">have been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-71" type="identity">
+         <class id="correlated"/>
+         <span end="2909" id="PMC3205727.nxml.gz-71" start="2899">correlated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-72" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2963" id="PMC3205727.nxml.gz-72" start="2948">little research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-73" type="identity">
+         <class id="subject_scope"/>
+         <span end="3147" id="PMC3205727.nxml.gz-73" start="2948">little research has comprehensively examined the impact of maternal prenatal behaviors and psychosocial variables measured during pregnancy on subsequent offspring weight status at birth and 6 months</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-74" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2992" id="PMC3205727.nxml.gz-74" start="2984">examined</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-75" type="identity">
+         <class id="impact"/>
+         <span end="3003" id="PMC3205727.nxml.gz-75" start="2997">impact</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-76" type="identity">
+         <class id="subject_scope"/>
+         <span end="3263" id="PMC3205727.nxml.gz-76" start="3149">This information is critical for the design of future intervention trials targeting obesity prevention in children</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-77" type="identity">
+         <class id="critical"/>
+         <span end="3177" id="PMC3205727.nxml.gz-77" start="3169">critical</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-78" type="identity">
+         <class id="future_intervention"/>
+         <span end="3215" id="PMC3205727.nxml.gz-78" start="3196">future intervention</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-79" type="identity">
+         <class id="subject_scope"/>
+         <span end="3420" id="PMC3205727.nxml.gz-79" start="3265">The primary aim of this study was to examine the impact of GWG, maternal eating and exercise behaviors, and psychosocial factors on offspring weight status</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-80" type="identity">
+         <class id="aim"/>
+         <span end="3280" id="PMC3205727.nxml.gz-80" start="3277">aim</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-81" type="identity">
+         <class id="to_examine"/>
+         <span end="3309" id="PMC3205727.nxml.gz-81" start="3299">to examine</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-82" type="identity">
+         <class id="impact"/>
+         <span end="3320" id="PMC3205727.nxml.gz-82" start="3314">impact</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-83" type="identity">
+         <class id="subject_scope"/>
+         <span end="3713" id="PMC3205727.nxml.gz-83" start="3422">We hypothesized that offspring exposed to maternal obesity, excessive GWG, poor prenatal eating habits, less exercise in pregnancy, and greater maternal psychosocial distress during gestation would have higher weight for age (WFA) z -scores at birth and 6 months than nonexposed counterparts</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-84" type="identity">
+         <class id="hypothesized"/>
+         <span end="3437" id="PMC3205727.nxml.gz-84" start="3425">hypothesized</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-85" type="identity">
+         <class id="less"/>
+         <span end="3530" id="PMC3205727.nxml.gz-85" start="3526">less</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-86" type="identity">
+         <class id="would"/>
+         <span end="3619" id="PMC3205727.nxml.gz-86" start="3614">would</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-87" type="identity">
+         <class id="none"/>
+         <span end="3694" id="PMC3205727.nxml.gz-87" start="3690">none</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-88" type="identity">
+         <class id="potential"/>
+         <span end="4998" id="PMC3205727.nxml.gz-88" start="4989">potential</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-89" type="identity">
+         <class id="subject_scope"/>
+         <span end="5055" id="PMC3205727.nxml.gz-89" start="4989">potential impact of GDM on both offspring and maternal weight gain</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-90" type="identity">
+         <class id="impact"/>
+         <span end="5005" id="PMC3205727.nxml.gz-90" start="4999">impact</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-91" type="identity">
+         <class id="subject_scope"/>
+         <span end="8389" id="PMC3205727.nxml.gz-91" start="8205">The Block Food Frequency questionnaire was used to assess daily caloric intake, calories from sugar-sweetened beverages, and percent intake from fat, protein, carbohydrates, and sweets</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-92" type="identity">
+         <class id="to_assess"/>
+         <span end="8262" id="PMC3205727.nxml.gz-92" start="8253">to assess</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-93" type="identity">
+         <class id="subject_scope"/>
+         <span end="8465" id="PMC3205727.nxml.gz-93" start="8391">This questionnaire has been well validated [23] and validated in pregnancy</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-94" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="8433" id="PMC3205727.nxml.gz-94" start="8424">validated</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-95" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="8452" id="PMC3205727.nxml.gz-95" start="8443">validated</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-96" type="identity">
+         <class id="subject_scope"/>
+         <span end="8652" id="PMC3205727.nxml.gz-96" start="8557">Fast food consumption was assessed based on self-report questions used in our previous research</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-97" type="identity">
+         <class id="assessed"/>
+         <span end="8591" id="PMC3205727.nxml.gz-97" start="8583">assessed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-98" type="identity">
+         <class id="subject_scope"/>
+         <span end="8916" id="PMC3205727.nxml.gz-98" start="8659">Energy expenditure was measured using the Paffenbarger Physical Activity Questionnaire [26], a measure which estimates weekly energy expenditure from self-reports of stairs climbed, blocks walked, and other recreational activities performed in the past week</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-99" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="8777" id="PMC3205727.nxml.gz-99" start="8768">estimates</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-100" type="identity">
+         <class id="subject_scope"/>
+         <span end="9008" id="PMC3205727.nxml.gz-100" start="8918">The Edinburgh Postnatal Depression Scale was used to examine levels of depressive symptoms</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-101" type="identity">
+         <class id="to_examine"/>
+         <span end="8978" id="PMC3205727.nxml.gz-101" start="8968">to examine</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-102" type="identity">
+         <class id="subject_scope"/>
+         <span end="9102" id="PMC3205727.nxml.gz-102" start="9015">The Eating Inventory (EI) [28] was used to assess cognitive restraint and disinhibition</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-103" type="identity">
+         <class id="to_assess"/>
+         <span end="9064" id="PMC3205727.nxml.gz-103" start="9055">to assess</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-104" type="identity">
+         <class id="subject_scope"/>
+         <span end="9176" id="PMC3205727.nxml.gz-104" start="9104">Stress was assessed using the short form of the Perceived Stress Scale [</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-105" type="identity">
+         <class id="assessed"/>
+         <span end="9123" id="PMC3205727.nxml.gz-105" start="9115">assessed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-106" type="identity">
+         <class id="subject_scope"/>
+         <span end="9249" id="PMC3205727.nxml.gz-106" start="9181">Sleep was assessed using the General Sleep Disturbance questionnaire</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-107" type="identity">
+         <class id="assessed"/>
+         <span end="9199" id="PMC3205727.nxml.gz-107" start="9191">assessed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-108" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="9368" id="PMC3205727.nxml.gz-108" start="9360">Analyses</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-109" type="identity">
+         <class id="subject_scope"/>
+         <span end="9592" id="PMC3205727.nxml.gz-109" start="9360">Analyses were conducted separately for normal weight and overweight/obese women, given the observed difference in impact of the lifestyle treatment on GWG [16] and effects of maternal prepregnancy weight on offspring weight outcomes</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-110" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="9470" id="PMC3205727.nxml.gz-110" start="9451">observed difference</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-111" type="identity">
+         <class id="impact"/>
+         <span end="9480" id="PMC3205727.nxml.gz-111" start="9474">impact</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-112" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="9531" id="PMC3205727.nxml.gz-112" start="9524">effects</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-113" type="identity">
+         <class id="subject_scope"/>
+         <span end="9731" id="PMC3205727.nxml.gz-113" start="9599">Pearson's product moment correlations were conducted to examine unadjusted associations between WFA z -scores and maternal variables</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-114" type="identity">
+         <class id="correlations"/>
+         <span end="9636" id="PMC3205727.nxml.gz-114" start="9624">correlations</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-115" type="identity">
+         <class id="to_examine"/>
+         <span end="9662" id="PMC3205727.nxml.gz-115" start="9652">to examine</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-116" type="identity">
+         <class id="associations"/>
+         <span end="9686" id="PMC3205727.nxml.gz-116" start="9674">associations</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-117" type="identity">
+         <class id="subject_scope"/>
+         <span end="10089" id="PMC3205727.nxml.gz-117" start="9733">Multiple regression (for continuous outcomes) and logistic regression (for categorical outcomes) were used to examine predictors of infant macrosomia, and WFA z -scores at birth and 6 months, and changes in WFA z -scores, adjusting for treatment group, infant sex, recruitment clinic, weeks of gestation at delivery, and breastfeeding (in 6-month analyses)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-118" type="identity">
+         <class id="to_examine"/>
+         <span end="9850" id="PMC3205727.nxml.gz-118" start="9840">to examine</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-119" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="10101" id="PMC3205727.nxml.gz-119" start="10091">Predictors</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-120" type="identity">
+         <class id="subject_scope"/>
+         <span end="10195" id="PMC3205727.nxml.gz-120" start="10091">Predictors included both baseline and pregnancy changes over time (between entry and 30-weeks gestation)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-121" type="identity">
+         <class id="subject_scope"/>
+         <span end="10317" id="PMC3205727.nxml.gz-121" start="10197">To determine the most robust set of predictors and correlates of infant outcomes, multiple regression analyses were used</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-122" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="10209" id="PMC3205727.nxml.gz-122" start="10200">determine</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-123" type="identity">
+         <class id="correlates"/>
+         <span end="10258" id="PMC3205727.nxml.gz-123" start="10248">correlates</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-124" type="identity">
+         <class id="subject_scope"/>
+         <span end="10839" id="PMC3205727.nxml.gz-124" start="10319">To arrive at a final regression model, stepwise analyses were first conducted within predefined categories (i.e., demographic (age, parity, race, marital status, education, prepregnancy BMI), physical activity (calories expended per week in moderate physical activity TV hours per day), macronutrient (% of calories from fat, carbohydrates, protein, sweets, and total calories), dietary components (fast food and sugar-sweetened soft drinks) psychosocial variables (mood, restraint, disinhibition, and stress), and sleep</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-125" type="identity">
+         <class id="0_model"/>
+         <span end="10356" id="PMC3205727.nxml.gz-125" start="10351">model</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-126" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="10375" id="PMC3205727.nxml.gz-126" start="10367">analyses</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-127" type="identity">
+         <class id="subject_scope"/>
+         <span end="11004" id="PMC3205727.nxml.gz-127" start="10841">Variables that were significant or approached significance ( P&lt; 0.10) within each category in the stepwise analyses were included together in a comprehensive model</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-128" type="identity">
+         <class id="0_model"/>
+         <span end="11004" id="PMC3205727.nxml.gz-128" start="10999">model</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-129" type="identity">
+         <class id="subject_scope"/>
+         <span end="11193" id="PMC3205727.nxml.gz-129" start="11006">Macronutrient (i.e., % kcal from sweets, fat, and protein) and specific dietary components (i.e., fast food or soft drinks) were analyzed in separate models due to their high collinearity</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-130" type="identity">
+         <class id="models"/>
+         <span end="11162" id="PMC3205727.nxml.gz-130" start="11156">models</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-131" type="identity">
+         <class id="difficult_task"/>
+         <span end="11193" id="PMC3205727.nxml.gz-131" start="11176">high collinearity</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-132" type="identity">
+         <class id="subject_scope"/>
+         <span end="11378" id="PMC3205727.nxml.gz-132" start="11195">Similarly, as the percentage of calories from fat and carbohydrates was highly correlated ( r = −.90; P = .0001), only the percentage of calories from fat was used in initial modeling</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-133" type="identity">
+         <class id="correlated"/>
+         <span end="11284" id="PMC3205727.nxml.gz-133" start="11274">correlated</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-134" type="identity">
+         <class id="0_model"/>
+         <span end="11477" id="PMC3205727.nxml.gz-134" start="11380">Similar analyses were conducted using logistic regression to examine impact on odds of macrosomia</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-135" type="identity">
+         <class id="to_examine"/>
+         <span end="11448" id="PMC3205727.nxml.gz-135" start="11438">to examine</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-136" type="identity">
+         <class id="impact"/>
+         <span end="11455" id="PMC3205727.nxml.gz-136" start="11449">impact</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-137" type="identity">
+         <class id="subject_scope"/>
+         <span end="11612" id="PMC3205727.nxml.gz-137" start="11479">Prepregnancy BMI was also examined as a categorical predictor (median split within weight groups), but the same results were observed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-138" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="11513" id="PMC3205727.nxml.gz-138" start="11505">examined</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-139" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="11598" id="PMC3205727.nxml.gz-139" start="11591">results</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-140" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="11612" id="PMC3205727.nxml.gz-140" start="11604">observed</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-141" type="identity">
+         <class id="subject_scope"/>
+         <span end="11801" id="PMC3205727.nxml.gz-141" start="11614">Exploratory analyses examined whether treatment condition (intervention versus standard care) interacted with dietary variables and physical activity in predicting offspring weight status</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-142" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="11643" id="PMC3205727.nxml.gz-142" start="11635">examined</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-143" type="identity">
+         <class id="whether...and"/>
+         <span end="11651" id="PMC3205727.nxml.gz-143" start="11644">whether</span>
+         <span end="11745" id="PMC3205727.nxml.gz-144" start="11742">and</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-145" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="11718" id="PMC3205727.nxml.gz-145" start="11708">interacted</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-146" type="identity">
+         <class id="interact"/>
+         <span end="11716" id="PMC3205727.nxml.gz-146" start="11708">interact</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-147" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="11777" id="PMC3205727.nxml.gz-147" start="11767">predicting</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-148" type="identity">
+         <class id="subject_scope"/>
+         <span end="12009" id="PMC3205727.nxml.gz-148" start="11803">After adjustments (infant sex, recruitment clinic, weeks of gestation at delivery, and breastfeeding), no significant interactions were observed in normal weight or overweight/obese mothers (data not shown)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-149" type="identity">
+         <class id="interactions"/>
+         <span end="11933" id="PMC3205727.nxml.gz-149" start="11921">interactions</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-150" type="identity">
+         <class id="subject_scope"/>
+         <span end="14388" id="PMC3205727.nxml.gz-150" start="14229">In initial unadjusted analyses, several significant associations between overweight/obese mothers' prenatal behaviors and offspring WFA z -scores were observed</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-151" type="identity">
+         <class id="associations"/>
+         <span end="14293" id="PMC3205727.nxml.gz-151" start="14281">associations</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-152" type="identity">
+         <class id="subject_scope"/>
+         <span end="14668" id="PMC3205727.nxml.gz-152" start="14400">Multiple regression analyses were then conducted to determine the most robust set of predictors of offspring weight parameters after adjustment for treatment group, infant sex, recruitment clinic, weeks of gestation at delivery, and breastfeeding (in 6-month analyses)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-153" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="14461" id="PMC3205727.nxml.gz-153" start="14449">to determine</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-154" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="14495" id="PMC3205727.nxml.gz-154" start="14485">predictors</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-155" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="14679" id="PMC3205727.nxml.gz-155" start="14670">Examining</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-156" type="identity">
+         <class id="subject_scope"/>
+         <span end="14836" id="PMC3205727.nxml.gz-156" start="14670">Examining predictors of birth weight, the strongest predictor of higher WFA z score was consumption of a greater percentage of calories from sweets early in pregnancy</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-157" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="14690" id="PMC3205727.nxml.gz-157" start="14680">predictors</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-158" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="14731" id="PMC3205727.nxml.gz-158" start="14722">predictor</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-159" type="identity">
+         <class id="subject_scope"/>
+         <span end="15088" id="PMC3205727.nxml.gz-159" start="14872">Similarly, greater consumption of sweets early in pregnancy was significantly related to higher odds of macrosomia (OR = 1.1 (1.0, 1.2); P =  0.004) and WFA &gt;90th percentile at birth (OR = 1.2 (1.1, 1.3); P =  0.002)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-160" type="identity">
+         <class id="related"/>
+         <span end="14957" id="PMC3205727.nxml.gz-160" start="14950">related</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-161" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="14972" id="PMC3205727.nxml.gz-161" start="14968">odds</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-162" type="identity">
+         <class id="subject_scope"/>
+         <span end="15244" id="PMC3205727.nxml.gz-162" start="15090">Each 1% increase in percentage of calories consumed from sweets early in pregnancy increased the odds of macrosomia by 10% and WFA &gt;90th percentile by 20%</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-163" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="15191" id="PMC3205727.nxml.gz-163" start="15187">odds</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-164" type="identity">
+         <class id="subject_scope"/>
+         <span end="15513" id="PMC3205727.nxml.gz-164" start="15246">At 6 months, the strongest predictors of higher WFA z -scores were greater percentage of calories from sweets early in pregnancy (beta = 0.30; t = 3.2; P =  0.002) and also greater increases in percentage of calories from protein during pregnancy beta = 0.20;Table 3)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-165" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="15283" id="PMC3205727.nxml.gz-165" start="15273">predictors</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-166" type="identity">
+         <class id="subject_scope"/>
+         <span end="15697" id="PMC3205727.nxml.gz-166" start="15515">Higher percentage of calories from protein early in pregnancy (OR = 0.38 (0.19, 0.78); P =  0.04) was also a significant predictor of reduced odds of WFA &gt;90th percentile at 6 months</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-167" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="15645" id="PMC3205727.nxml.gz-167" start="15636">predictor</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-168" type="identity">
+         <class id="subject_scope"/>
+         <span end="15846" id="PMC3205727.nxml.gz-168" start="15699">We examined GWG as an independent predictor and potential mediator of effects of maternal prenatal behaviors on offspring weight outcomes (Table 3)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-169" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="15710" id="PMC3205727.nxml.gz-169" start="15702">examined</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-170" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="15742" id="PMC3205727.nxml.gz-170" start="15733">predictor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-171" type="identity">
+         <class id="potential"/>
+         <span end="15756" id="PMC3205727.nxml.gz-171" start="15747">potential</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-172" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="15765" id="PMC3205727.nxml.gz-172" start="15757">mediator</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-173" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="15776" id="PMC3205727.nxml.gz-173" start="15769">effects</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-174" type="identity">
+         <class id="subject_scope"/>
+         <span end="16151" id="PMC3205727.nxml.gz-174" start="15848">Children of overweight/obese mothers who were exposed to excessive GWG ( n = 84) had an approximate 4.0-fold increase in odds (CI (1.0, 15.1); P =  0.04) of being macrosomic and had higher WFA z -scores at birth (0.62 ± 0.84 versus 0.05 ± 0.95; P =  0.002) compared with children exposed to adequate GWG</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-175" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="15973" id="PMC3205727.nxml.gz-175" start="15969">odds</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-176" type="identity">
+         <class id="subject_scope"/>
+         <span end="16461" id="PMC3205727.nxml.gz-176" start="16153">Also, at 6 months, children exposed to excessive GWG had near significant ( P =  .06) higher odds of WFA z score &gt;90th percentile compared with children exposed to adequate weight gain (OR = 6.2 (0.94, 41.1), but no significant association was seen on WFA z -scores (0.45 ± 0.14 versus 0.08 ± 0.18; P =  .11)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-177" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="16250" id="PMC3205727.nxml.gz-177" start="16246">odds</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-178" type="identity">
+         <class id="association"/>
+         <span end="16392" id="PMC3205727.nxml.gz-178" start="16381">association</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-179" type="identity">
+         <class id="subject_scope"/>
+         <span end="16545" id="PMC3205727.nxml.gz-179" start="16463">When analyzing maternal GWG as a continuous measure, similar results were observed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-180" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="16477" id="PMC3205727.nxml.gz-180" start="16468">analyzing</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-181" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="16531" id="PMC3205727.nxml.gz-181" start="16524">results</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-182" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="16545" id="PMC3205727.nxml.gz-182" start="16537">observed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-183" type="identity">
+         <class id="subject_scope"/>
+         <span end="16710" id="PMC3205727.nxml.gz-183" start="16547">Total GWG was positively predictive of higher child WFA z score at birth (beta =.41; t = 4.9; P =  .0001) and macrosomia at birth (OR = 1.2 (1.1, 1.3); P =  0.001)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-184" type="identity">
+         <class id="probable_understanding"/>
+         <span end="16582" id="PMC3205727.nxml.gz-184" start="16572">predictive</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-185" type="identity">
+         <class id="subject_scope"/>
+         <span end="16854" id="PMC3205727.nxml.gz-185" start="16712">At 6 months, no significant effects were seen for GWG on odds of WFA &gt;90th percentile ( P =  .11) or average z -scores ( P =  .16) at 6 months</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-186" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="16747" id="PMC3205727.nxml.gz-186" start="16740">effects</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-187" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="16865" id="PMC3205727.nxml.gz-187" start="16856">Examining</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-188" type="identity">
+         <class id="subject_scope"/>
+         <span end="17127" id="PMC3205727.nxml.gz-188" start="16856">Examining GWG as a potential mediator, the effects of maternal prenatal behaviors on offspring weight outcomes were generally attenuated (i.e., P value increases between 0.01 and 0.06 across analyses) but not entirely removed when GWG was included in the models (Table 3)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-189" type="identity">
+         <class id="potential"/>
+         <span end="16884" id="PMC3205727.nxml.gz-189" start="16875">potential</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-190" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="16906" id="PMC3205727.nxml.gz-190" start="16899">effects</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-191" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="16992" id="PMC3205727.nxml.gz-191" start="16982">attenuated</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-192" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="17081" id="PMC3205727.nxml.gz-192" start="17074">removed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-193" type="identity">
+         <class id="when"/>
+         <span end="17086" id="PMC3205727.nxml.gz-193" start="17082">when</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-194" type="identity">
+         <class id="models"/>
+         <span end="17117" id="PMC3205727.nxml.gz-194" start="17111">models</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-195" type="identity">
+         <class id="subject_scope"/>
+         <span end="17338" id="PMC3205727.nxml.gz-195" start="17157">In initial, unadjusted analyses, few significant correlations were found between prenatal behaviors and WFA z -scores at birth and 6 months in the offspring of normal weight mothers</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-196" type="identity">
+         <class id="few"/>
+         <span end="17193" id="PMC3205727.nxml.gz-196" start="17190">few</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-197" type="identity">
+         <class id="correlations"/>
+         <span end="17218" id="PMC3205727.nxml.gz-197" start="17206">correlations</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-198" type="identity">
+         <class id="subject_scope"/>
+         <span end="17519" id="PMC3205727.nxml.gz-198" start="17340">Only lower maternal fat intake (−0.22; P = 0.01) and trend for higher carbohydrate intake (0.16; P = 0.06) early in pregnancy were correlated with higher WFA z -scores at 6 months</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-199" type="identity">
+         <class id="only"/>
+         <span end="17344" id="PMC3205727.nxml.gz-199" start="17340">Only</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-200" type="identity">
+         <class id="trend"/>
+         <span end="17398" id="PMC3205727.nxml.gz-200" start="17393">trend</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-201" type="identity">
+         <class id="correlated"/>
+         <span end="17481" id="PMC3205727.nxml.gz-201" start="17471">correlated</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-202" type="identity">
+         <class id="subject_scope"/>
+         <span end="17757" id="PMC3205727.nxml.gz-202" start="17521">In final, multiple regression analyses that included adjustments for confounding variables, the strongest predictor of higher WFA z score at birth was greater consumption of soft drinks early in pregnancy (beta = 0.16; P = 0.04;Table 4)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-203" type="identity">
+         <class id="problem_complication"/>
+         <span end="17611" id="PMC3205727.nxml.gz-203" start="17590">confounding variables</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-204" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="17636" id="PMC3205727.nxml.gz-204" start="17627">predictor</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-205" type="identity">
+         <class id="subject_scope"/>
+         <span end="17909" id="PMC3205727.nxml.gz-205" start="17759">The omnibus tests of model coefficients predicting macrosomia and WFA &gt;90th percentile at birth were insignificant and few cases of each were observed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-206" type="identity">
+         <class id="0_model"/>
+         <span end="17785" id="PMC3205727.nxml.gz-206" start="17780">model</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-207" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="17809" id="PMC3205727.nxml.gz-207" start="17799">predicting</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-208" type="identity">
+         <class id="few"/>
+         <span end="17881" id="PMC3205727.nxml.gz-208" start="17878">few</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-209" type="identity">
+         <class id="subject_scope"/>
+         <span end="18144" id="PMC3205727.nxml.gz-209" start="17911">At 6 months, higher percentage of calories from fat early in pregnancy was a significant predictor of lower WFA z -scores (Table 4; beta = −0.35; P = 0.001) and reduced odds of WFA &gt;90th percentile (OR = 0.81 (0.70, 0.94); P =  .007)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-210" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="18009" id="PMC3205727.nxml.gz-210" start="18000">predictor</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-211" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="18084" id="PMC3205727.nxml.gz-211" start="18080">odds</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-212" type="identity">
+         <class id="subject_scope"/>
+         <span end="18410" id="PMC3205727.nxml.gz-212" start="18146">Similar, but in the inverse direction, results were observed in models where percentage of calories from carbohydrates (instead of fat) was included (B = 0.04 (0.01, 0.06); beta = 0.27; P =.006 for WFA z and OR = 1.1 (1.1, 1.3); P = 0.005 for WFA &gt;90th percentile)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-213" type="identity">
+         <class id="models"/>
+         <span end="18216" id="PMC3205727.nxml.gz-213" start="18210">models</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-214" type="identity">
+         <class id="subject_scope"/>
+         <span end="18621" id="PMC3205727.nxml.gz-214" start="18412">Decreases in perceived stress during pregnancy were also independently related to higher odds of WFA &gt;90th percentile (OR = 1.5 (1.1, 2.0); P =  .01) but did not independently predict WFA z -scores at 6 months</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-215" type="identity">
+         <class id="related"/>
+         <span end="18490" id="PMC3205727.nxml.gz-215" start="18483">related</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-216" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="18505" id="PMC3205727.nxml.gz-216" start="18501">odds</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-217" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="18595" id="PMC3205727.nxml.gz-217" start="18588">predict</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-218" type="identity">
+         <class id="subject_scope"/>
+         <span end="18765" id="PMC3205727.nxml.gz-218" start="18623">We also examined GWG as an independent predictor and potential mediator of effects of maternal prenatal behaviors on weight outcomes (Table 4)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-219" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="18639" id="PMC3205727.nxml.gz-219" start="18631">examined</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-220" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="18671" id="PMC3205727.nxml.gz-220" start="18662">predictor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-221" type="identity">
+         <class id="potential"/>
+         <span end="18685" id="PMC3205727.nxml.gz-221" start="18676">potential</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-222" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="18705" id="PMC3205727.nxml.gz-222" start="18698">effects</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-223" type="identity">
+         <class id="subject_scope"/>
+         <span end="19061" id="PMC3205727.nxml.gz-223" start="18767">Children of normal weight mothers who were exposed to excessive GWG ( n = 71) had higher WFA z -scores at birth (0.42 ± 0.75 versus 0.03 ± 0.73; P = 0.002) compared with children exposed to adequate GWG, but no significant effects were seen on odds of macrosomia or WFA z score &gt;90th percentile</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-224" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="18997" id="PMC3205727.nxml.gz-224" start="18990">effects</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-225" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="19015" id="PMC3205727.nxml.gz-225" start="19011">odds</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-226" type="identity">
+         <class id="subject_scope"/>
+         <span end="19398" id="PMC3205727.nxml.gz-226" start="19063">At 6 months, children of normal weight mothers exposed to excessive GWG had significantly ( P = 0.03) higher odds of WFA z score &gt;90th percentile compared with children exposed to adequate weight gain (OR = 4.0 (1.2, 13.6)), but no significant association was seen on WFA z -scores at 6 months (0.27 ± 0.83 versus 0.39 ± 1.1; P =  .28)</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-227" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="19176" id="PMC3205727.nxml.gz-227" start="19172">odds</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-228" type="identity">
+         <class id="association"/>
+         <span end="19318" id="PMC3205727.nxml.gz-228" start="19307">association</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-229" type="identity">
+         <class id="subject_scope"/>
+         <span end="19489" id="PMC3205727.nxml.gz-229" start="19400">When analyzing maternal GWG as a continuous measure, no significant effects were observed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-230" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="19414" id="PMC3205727.nxml.gz-230" start="19405">analyzing</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-231" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="19475" id="PMC3205727.nxml.gz-231" start="19468">effects</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-232" type="identity">
+         <class id="subject_scope"/>
+         <span end="19638" id="PMC3205727.nxml.gz-232" start="19491">Examining GWG as a potential mediator, the effects of maternal prenatal behaviors on offspring weight outcomes were generally attenuated (Table 4).</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-233" type="identity">
+         <class id="potential"/>
+         <span end="19519" id="PMC3205727.nxml.gz-233" start="19510">potential</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-234" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="19541" id="PMC3205727.nxml.gz-234" start="19534">effects</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-235" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="19601" id="PMC3205727.nxml.gz-235" start="19593">outcomes</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-236" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="19627" id="PMC3205727.nxml.gz-236" start="19617">attenuated</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-237" type="identity">
+         <class id="subject_scope"/>
+         <span end="19892" id="PMC3205727.nxml.gz-237" start="19654">This is one of the few studies to prospectively and simultaneously examine the impact of dietary, physical activity, and psychosocial parameters during pregnancy on the offspring weight status of overweight/obese and normal weight mothers</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-238" type="identity">
+         <class id="is"/>
+         <span end="19661" id="PMC3205727.nxml.gz-238" start="19659">is</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-239" type="identity">
+         <class id="few_studies"/>
+         <span end="19684" id="PMC3205727.nxml.gz-239" start="19673">few studies</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-240" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="19701" id="PMC3205727.nxml.gz-240" start="19688">prospectively</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-241" type="identity">
+         <class id="explicit_question"/>
+         <span end="19728" id="PMC3205727.nxml.gz-241" start="19721">examine</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-242" type="identity">
+         <class id="impact"/>
+         <span end="19739" id="PMC3205727.nxml.gz-242" start="19733">impact</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-243" type="identity">
+         <class id="subject_scope"/>
+         <span end="20036" id="PMC3205727.nxml.gz-243" start="19894">In obese mothers, we found that higher intake of sweets early in pregnancy was related to higher offspring weight status at birth and 6 months</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-244" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="19920" id="PMC3205727.nxml.gz-244" start="19915">found</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-245" type="identity">
+         <class id="related"/>
+         <span end="19980" id="PMC3205727.nxml.gz-245" start="19973">related</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-246" type="identity">
+         <class id="subject_scope"/>
+         <span end="20163" id="PMC3205727.nxml.gz-246" start="20038">In normal weight mothers, higher intake of soft drinks was the strongest predictor of higher offspring weight status at birth</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-247" type="identity">
+         <class id="subject_scope"/>
+         <span end="20221" id="PMC3205727.nxml.gz-247" start="20038">In normal weight mothers, higher intake of soft drinks was the strongest predictor of higher offspring weight status at birth but was not a significant predictor of weight at 6 months</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-248" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="20120" id="PMC3205727.nxml.gz-248" start="20111">predictor</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-249" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="20199" id="PMC3205727.nxml.gz-249" start="20190">predictor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-250" type="identity">
+         <class id="subject_scope"/>
+         <span end="20362" id="PMC3205727.nxml.gz-250" start="20223">No prior studies have specifically examined impacts of maternal intake of sweets or soft drinks in pregnancy on offspring weight parameters</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-251" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20239" id="PMC3205727.nxml.gz-251" start="20223">No prior studies</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-252" type="identity">
+         <class id="full_unknown"/>
+         <span end="20239" id="PMC3205727.nxml.gz-252" start="20223">No prior studies</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-253" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20266" id="PMC3205727.nxml.gz-253" start="20258">examined</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-254" type="identity">
+         <class id="impacts"/>
+         <span end="20274" id="PMC3205727.nxml.gz-254" start="20267">impacts</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-255" type="identity">
+         <class id="subject_scope"/>
+         <span end="20614" id="PMC3205727.nxml.gz-255" start="20364">Our findings are consistent with some studies in nonpregnant adults and children showing a connection between higher intake of sweets and soft drinks and increased weight status [32], but conflicting results have been reported in association with GWG</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-256" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20376" id="PMC3205727.nxml.gz-256" start="20368">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-257" type="identity">
+         <class id="consistent"/>
+         <span end="20391" id="PMC3205727.nxml.gz-257" start="20381">consistent</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-258" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20409" id="PMC3205727.nxml.gz-258" start="20397">some studies</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-259" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="20465" id="PMC3205727.nxml.gz-259" start="20455">connection</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-260" type="identity">
+         <class id="conflicting"/>
+         <span end="20563" id="PMC3205727.nxml.gz-260" start="20552">conflicting</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-261" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20571" id="PMC3205727.nxml.gz-261" start="20564">results</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-262" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20590" id="PMC3205727.nxml.gz-262" start="20572">have been reported</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-263" type="identity">
+         <class id="have_been"/>
+         <span end="20581" id="PMC3205727.nxml.gz-263" start="20572">have been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-264" type="identity">
+         <class id="association"/>
+         <span end="20605" id="PMC3205727.nxml.gz-264" start="20594">association</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-265" type="identity">
+         <class id="subject_scope"/>
+         <span end="20852" id="PMC3205727.nxml.gz-265" start="20621">Overall, the current study extends existing work by suggesting that exposure to foods or drinks high in sugar content early in gestation may predispose offspring to higher weight status early in infancy, independent of maternal GWG</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-266" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="20647" id="PMC3205727.nxml.gz-266" start="20630">the current study</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-267" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="20669" id="PMC3205727.nxml.gz-267" start="20656">existing work</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-268" type="identity">
+         <class id="suggesting"/>
+         <span end="20683" id="PMC3205727.nxml.gz-268" start="20673">suggesting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-269" type="identity">
+         <class id="may"/>
+         <span end="20761" id="PMC3205727.nxml.gz-269" start="20758">may</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-270" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="20772" id="PMC3205727.nxml.gz-270" start="20762">predispose</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-271" type="identity">
+         <class id="alternative_options"/>
+         <span end="20839" id="PMC3205727.nxml.gz-271" start="20825">independent of</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-272" type="identity">
+         <class id="subject_scope"/>
+         <span end="21040" id="PMC3205727.nxml.gz-272" start="20854">In obese mothers, lower protein intake early in pregnancy and increased protein intakes over the course of the pregnancy were independently related to higher offspring weight at 6 months</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-273" type="identity">
+         <class id="related"/>
+         <span end="21001" id="PMC3205727.nxml.gz-273" start="20994">related</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-274" type="identity">
+         <class id="subject_scope"/>
+         <span end="21273" id="PMC3205727.nxml.gz-274" start="21042">Studies of protein intake in pregnancy have indicated that higher maternal protein intake was positively associated with birth weight [8,9], but there are notable exceptions [34,35] and most studies assessed diet later in gestation</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-275" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="21049" id="PMC3205727.nxml.gz-275" start="21042">Studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-276" type="identity">
+         <class id="indicated"/>
+         <span end="21095" id="PMC3205727.nxml.gz-276" start="21086">indicated</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-277" type="identity">
+         <class id="associated"/>
+         <span end="21157" id="PMC3205727.nxml.gz-277" start="21147">associated</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-278" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="21215" id="PMC3205727.nxml.gz-278" start="21197">notable exceptions</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-279" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="21240" id="PMC3205727.nxml.gz-279" start="21228">most studies</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-280" type="identity">
+         <class id="assessed"/>
+         <span end="21249" id="PMC3205727.nxml.gz-280" start="21241">assessed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-281" type="identity">
+         <class id="subject_scope"/>
+         <span end="21449" id="PMC3205727.nxml.gz-281" start="21288">in normal weight mothers, lower fat intake (and higher carbohydrate intake) early in pregnancy was a significant predictor of higher offspring weight at 6 months</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-282" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="21410" id="PMC3205727.nxml.gz-282" start="21401">predictor</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-283" type="identity">
+         <class id="subject_scope"/>
+         <span end="21587" id="PMC3205727.nxml.gz-283" start="21451">Inverse associations between fat intake early in pregnancy and offspring weight have been reported previously [36], but not consistently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-284" type="identity">
+         <class id="associations"/>
+         <span end="21471" id="PMC3205727.nxml.gz-284" start="21459">associations</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-285" type="identity">
+         <class id="have...been"/>
+         <span end="21540" id="PMC3205727.nxml.gz-285" start="21531">have been</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-286" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="21549" id="PMC3205727.nxml.gz-286" start="21541">reported</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-287" type="identity">
+         <class id="previously"/>
+         <span end="21560" id="PMC3205727.nxml.gz-287" start="21550">previously</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-288" type="identity">
+         <class id="not_consistently"/>
+         <span end="21587" id="PMC3205727.nxml.gz-288" start="21571">not consistently</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-289" type="identity">
+         <class id="subject_scope"/>
+         <span end="21755" id="PMC3205727.nxml.gz-289" start="21594">Nutritional effects on the fetus and mother may vary with prepregnancy body weight, trimester of exposure during pregnancy, and overall balance of macronutrients</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-290" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="21613" id="PMC3205727.nxml.gz-290" start="21606">effects</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-291" type="identity">
+         <class id="may"/>
+         <span end="21641" id="PMC3205727.nxml.gz-291" start="21638">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-292" type="identity">
+         <class id="vary"/>
+         <span end="21646" id="PMC3205727.nxml.gz-292" start="21642">vary</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-293" type="identity">
+         <class id="although"/>
+         <span end="21772" id="PMC3205727.nxml.gz-293" start="21764">Although</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-294" type="identity">
+         <class id="subject_scope"/>
+         <span end="21918" id="PMC3205727.nxml.gz-294" start="21773">a recent pilot randomized trial [39] found no significant impact of a low glycemic index diet on the offspring weight of overweight/obese mothers</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-295" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="21781" id="PMC3205727.nxml.gz-295" start="21775">recent</span>
+         <span end="21804" id="PMC3205727.nxml.gz-296" start="21799">trial</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-297" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="21818" id="PMC3205727.nxml.gz-297" start="21816">no</span>
+         <span end="21837" id="PMC3205727.nxml.gz-298" start="21831">impact</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-299" type="identity">
+         <class id="subject_scope"/>
+         <span end="22151" id="PMC3205727.nxml.gz-299" start="21920">future, larger randomized trials and research with more frequent assessments of diet in pregnancy are needed to untangle the relationship between weight status, time in pregnancy of nutrient exposures, and offspring weight outcomes</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-300" type="identity">
+         <class id="future_work"/>
+         <span end="21965" id="PMC3205727.nxml.gz-300" start="21920">future, larger randomized trials and research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-301" type="identity">
+         <class id="are_needed"/>
+         <span end="22028" id="PMC3205727.nxml.gz-301" start="22018">are needed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-302" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="22040" id="PMC3205727.nxml.gz-302" start="22032">untangle</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-303" type="identity">
+         <class id="relationship"/>
+         <span end="22057" id="PMC3205727.nxml.gz-303" start="22045">relationship</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-304" type="identity">
+         <class id="surprisingly"/>
+         <span end="22165" id="PMC3205727.nxml.gz-304" start="22153">Surprisingly</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-305" type="identity">
+         <class id="subject_scope"/>
+         <span end="22312" id="PMC3205727.nxml.gz-305" start="22153">Surprisingly, physical activity and television viewing were not significantly related to offspring weight outcomes in normal weight or overweight/obese mothers</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-306" type="identity">
+         <class id="related"/>
+         <span end="22238" id="PMC3205727.nxml.gz-306" start="22231">related</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-307" type="identity">
+         <class id="subject_scope"/>
+         <span end="22453" id="PMC3205727.nxml.gz-307" start="22314">Low levels of physical activity and sedentary lifestyle are known contributing factors to obesity and weight gain in the general population</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-308" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="22379" id="PMC3205727.nxml.gz-308" start="22374">known</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-309" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="22400" id="PMC3205727.nxml.gz-309" start="22380">contributing factors</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-310" type="identity">
+         <class id="subject_scope"/>
+         <span end="22593" id="PMC3205727.nxml.gz-310" start="22460">Also, increasing physical activity during pregnancy has been related to lower GWG in some [41] but not all [42] observational studies</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-311" type="identity">
+         <class id="has...been"/>
+         <span end="22520" id="PMC3205727.nxml.gz-311" start="22512">has been</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-312" type="identity">
+         <class id="related"/>
+         <span end="22528" id="PMC3205727.nxml.gz-312" start="22521">related</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-313" type="identity">
+         <class id="difficult_task"/>
+         <span end="22549" id="PMC3205727.nxml.gz-313" start="22545">some</span>
+         <span end="22566" id="PMC3205727.nxml.gz-314" start="22555">but not all</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-315" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="22593" id="PMC3205727.nxml.gz-315" start="22586">studies</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-316" type="identity">
+         <class id="few...studies"/>
+         <span end="22598" id="PMC3205727.nxml.gz-316" start="22595">Few</span>
+         <span end="22634" id="PMC3205727.nxml.gz-317" start="22627">studies</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-318" type="identity">
+         <class id="subject_scope"/>
+         <span end="22776" id="PMC3205727.nxml.gz-318" start="22595">Few clinical trial intervention studies have specifically measured changes in physical activity during pregnancy, but available evidence suggests little to no effect on maternal GWG</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-319" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="22731" id="PMC3205727.nxml.gz-319" start="22713">available evidence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-320" type="identity">
+         <class id="suggests"/>
+         <span end="22740" id="PMC3205727.nxml.gz-320" start="22732">suggests</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-321" type="identity">
+         <class id="little_to_no"/>
+         <span end="22753" id="PMC3205727.nxml.gz-321" start="22741">little to no</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-322" type="identity">
+         <class id="subject_scope"/>
+         <span end="22915" id="PMC3205727.nxml.gz-322" start="22786">Other research has found that a reduction in physical activity by bed rest was associated with an increase in infant birth weight</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-323" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="22800" id="PMC3205727.nxml.gz-323" start="22786">Other research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-324" type="identity">
+         <class id="associated"/>
+         <span end="22875" id="PMC3205727.nxml.gz-324" start="22865">associated</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-325" type="identity">
+         <class id="subject_scope"/>
+         <span end="23173" id="PMC3205727.nxml.gz-325" start="22922">Overall, findings from the current study support a stronger role for maternal intake than expenditure in predicting offspring weight outcomes, but additional studies with objective measures of physical activity (e.g., accelerometry) are clearly needed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-326" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="22962" id="PMC3205727.nxml.gz-326" start="22931">findings from the current study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-327" type="identity">
+         <class id="support"/>
+         <span end="22970" id="PMC3205727.nxml.gz-327" start="22963">support</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-328" type="identity">
+         <class id="alternative_options"/>
+         <span end="22981" id="PMC3205727.nxml.gz-328" start="22971">a stronger</span>
+         <span end="23011" id="PMC3205727.nxml.gz-329" start="23007">than</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-330" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="22986" id="PMC3205727.nxml.gz-330" start="22982">role</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-331" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="23037" id="PMC3205727.nxml.gz-331" start="23027">predicting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-332" type="identity">
+         <class id="future_work"/>
+         <span end="23087" id="PMC3205727.nxml.gz-332" start="23069">additional studies</span>
+      </annotation>
+      <annotation annotator="MAIN_CATEGORY" id="PMC3205727.nxml.gz-333" type="identity">
+         <class id="future_work"/>
+         <span end="23158" id="PMC3205727.nxml.gz-333" start="23155">are</span>
+         <span end="23173" id="PMC3205727.nxml.gz-334" start="23167">needed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-335" type="identity">
+         <class id="subject_scope"/>
+         <span end="23313" id="PMC3205727.nxml.gz-335" start="23175">Also, few maternal psychosocial predictors of offspring weight status were observed within both overweight/obese and normal weight mothers</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-336" type="identity">
+         <class id="few"/>
+         <span end="23184" id="PMC3205727.nxml.gz-336" start="23181">few</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-337" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="23217" id="PMC3205727.nxml.gz-337" start="23207">predictors</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-338" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="23258" id="PMC3205727.nxml.gz-338" start="23250">observed</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-339" type="identity">
+         <class id="subject_scope"/>
+         <span end="23773" id="PMC3205727.nxml.gz-339" start="23315">Increases in stress were related to lower offspring weight status in normal weight mothers (adjusted analyses) and overweight/obese mothers (unadjusted analyses), which is consistent with earlier research on stress in relation to inadequate GWG [45] and long-term offspring health [46]. Overall, however, the current study's findings suggest that dietary variables may exert more of an effect than maternal psychosocial variables on offspring weight outcomes</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-340" type="identity">
+         <class id="related"/>
+         <span end="23347" id="PMC3205727.nxml.gz-340" start="23340">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-341" type="identity">
+         <class id="consistent"/>
+         <span end="23497" id="PMC3205727.nxml.gz-341" start="23487">consistent</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-342" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="23519" id="PMC3205727.nxml.gz-342" start="23503">earlier research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-343" type="identity">
+         <class id="relation"/>
+         <span end="23541" id="PMC3205727.nxml.gz-343" start="23533">relation</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-344" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="23648" id="PMC3205727.nxml.gz-344" start="23624">current study's findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-345" type="identity">
+         <class id="suggest"/>
+         <span end="23656" id="PMC3205727.nxml.gz-345" start="23649">suggest</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-346" type="identity">
+         <class id="may"/>
+         <span end="23683" id="PMC3205727.nxml.gz-346" start="23680">may</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-347" type="identity">
+         <class id="alternative_options"/>
+         <span end="23712" id="PMC3205727.nxml.gz-347" start="23690">more of an effect than</span>
+         <span end="23747" id="PMC3205727.nxml.gz-348" start="23745">on</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-349" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="24209" id="PMC3205727.nxml.gz-349" start="24201">We found</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-350" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="24244" id="PMC3205727.nxml.gz-350" start="24234">predictors</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-351" type="identity">
+         <class id="subject_scope"/>
+         <span end="24496" id="PMC3205727.nxml.gz-351" start="24300">Birth weight is an independent predictor of the development of obesity; however, increases in weight during the first 3–6 months of life are also influential on long-term increased risk of obesity</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-352" type="identity">
+         <class id="subject_scope"/>
+         <span end="24370" id="PMC3205727.nxml.gz-352" start="24300">Birth weight is an independent predictor of the development of obesity</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-353" type="identity">
+         <class id="is"/>
+         <span end="24315" id="PMC3205727.nxml.gz-353" start="24313">is</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-354" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="24340" id="PMC3205727.nxml.gz-354" start="24331">predictor</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-355" type="identity">
+         <class id="alternative_options"/>
+         <span end="24379" id="PMC3205727.nxml.gz-355" start="24372">however</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-356" type="identity">
+         <class id="subject_scope"/>
+         <span end="24497" id="PMC3205727.nxml.gz-356" start="24380"> increases in weight during the first 3–6 months of life are also influential on long-term increased risk of obesity </span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-357" type="identity">
+         <class id="first"/>
+         <span end="24417" id="PMC3205727.nxml.gz-357" start="24412">first</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-358" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="24457" id="PMC3205727.nxml.gz-358" start="24446">influential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-359" type="identity">
+         <class id="subject_scope"/>
+         <span end="24694" id="PMC3205727.nxml.gz-359" start="24506">Future research is needed to determine whether differences in postnatal feeding behaviors might explain differential growth rates in offspring of normal weight and overweight/obese mothers</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-360" type="identity">
+         <class id="future_work"/>
+         <span end="24531" id="PMC3205727.nxml.gz-360" start="24506">Future research is needed</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-361" type="identity">
+         <class id="future_research"/>
+         <span end="24521" id="PMC3205727.nxml.gz-361" start="24506">Future research</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-362" type="identity">
+         <class id="research_is_needed"/>
+         <span end="24531" id="PMC3205727.nxml.gz-362" start="24513">research is needed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-363" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="24544" id="PMC3205727.nxml.gz-363" start="24532">to determine</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-364" type="identity">
+         <class id="whether...and"/>
+         <span end="24552" id="PMC3205727.nxml.gz-364" start="24545">whether</span>
+         <span end="24669" id="PMC3205727.nxml.gz-365" start="24666">and</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-366" type="identity">
+         <class id="might"/>
+         <span end="24601" id="PMC3205727.nxml.gz-366" start="24596">might</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-367" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="24609" id="PMC3205727.nxml.gz-367" start="24602">explain</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-368" type="identity">
+         <class id="subject_scope"/>
+         <span end="24847" id="PMC3205727.nxml.gz-368" start="24696">Excessive GWG was related to offspring weight but more strongly at birth than at 6 months and was not significantly related to changes in WFA z -scores</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-369" type="identity">
+         <class id="related"/>
+         <span end="24721" id="PMC3205727.nxml.gz-369" start="24714">related</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-370" type="identity">
+         <class id="related"/>
+         <span end="24819" id="PMC3205727.nxml.gz-370" start="24812">related</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-371" type="identity">
+         <class id="subject_scope"/>
+         <span end="24937" id="PMC3205727.nxml.gz-371" start="24849">The association between GWG and offspring overweight may decrease as children grow older</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-372" type="identity">
+         <class id="association"/>
+         <span end="24864" id="PMC3205727.nxml.gz-372" start="24853">association</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-373" type="identity">
+         <class id="may"/>
+         <span end="24905" id="PMC3205727.nxml.gz-373" start="24902">may</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-374" type="identity">
+         <class id="subject_scope"/>
+         <span end="25124" id="PMC3205727.nxml.gz-374" start="24947">Similarly, maternal prenatal behaviors may differentially impact birth and 6 months offspring weights (e.g., protein impacting 6 month but not birth weight in the current study)</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-375" type="identity">
+         <class id="may"/>
+         <span end="24989" id="PMC3205727.nxml.gz-375" start="24986">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-376" type="identity">
+         <class id="impact"/>
+         <span end="25011" id="PMC3205727.nxml.gz-376" start="25005">impact</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-377" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="25073" id="PMC3205727.nxml.gz-377" start="25064">impacting</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-378" type="identity">
+         <class id="interestingly"/>
+         <span end="25139" id="PMC3205727.nxml.gz-378" start="25126">Interestingly</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-379" type="identity">
+         <class id="subject_scope"/>
+         <span end="25288" id="PMC3205727.nxml.gz-379" start="25126">Interestingly, adjustment for GWG attenuated but generally did not completely remove the impact of dietary variables on offspring weight, particularly at 6 months</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-380" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="25170" id="PMC3205727.nxml.gz-380" start="25160">attenuated</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-381" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="25210" id="PMC3205727.nxml.gz-381" start="25204">remove</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-382" type="identity">
+         <class id="impact"/>
+         <span end="25221" id="PMC3205727.nxml.gz-382" start="25215">impact</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-383" type="identity">
+         <class id="subject_scope"/>
+         <span end="25419" id="PMC3205727.nxml.gz-383" start="25290">This suggests that dietary exposures may impact offspring weight status above and beyond the potential influence of excessive GWG</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-384" type="identity">
+         <class id="suggests"/>
+         <span end="25303" id="PMC3205727.nxml.gz-384" start="25295">suggests</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-385" type="identity">
+         <class id="may"/>
+         <span end="25330" id="PMC3205727.nxml.gz-385" start="25327">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-386" type="identity">
+         <class id="impact"/>
+         <span end="25337" id="PMC3205727.nxml.gz-386" start="25331">impact</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-387" type="identity">
+         <class id="alternative_options"/>
+         <span end="25378" id="PMC3205727.nxml.gz-387" start="25362">above and beyond</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-388" type="identity">
+         <class id="potential"/>
+         <span end="25392" id="PMC3205727.nxml.gz-388" start="25383">potential</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-389" type="identity">
+         <class id="influence"/>
+         <span end="25402" id="PMC3205727.nxml.gz-389" start="25393">influence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-390" type="identity">
+         <class id="future_research"/>
+         <span end="25436" id="PMC3205727.nxml.gz-390" start="25421">Future research</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-391" type="identity">
+         <class id="subject_scope"/>
+         <span end="25619" id="PMC3205727.nxml.gz-391" start="25421">Future research with more frequent assessments of offspring weight and, potentially, analysis of growth velocities [51] might better inform how and when nutrient exposures in pregnancy impact growth</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-392" type="identity">
+         <class id="potentially"/>
+         <span end="25504" id="PMC3205727.nxml.gz-392" start="25493">potentially</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-393" type="identity">
+         <class id="might"/>
+         <span end="25546" id="PMC3205727.nxml.gz-393" start="25541">might</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-394" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="25560" id="PMC3205727.nxml.gz-394" start="25554">inform</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-395" type="identity">
+         <class id="how"/>
+         <span end="25564" id="PMC3205727.nxml.gz-395" start="25561">how</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-396" type="identity">
+         <class id="when"/>
+         <span end="25573" id="PMC3205727.nxml.gz-396" start="25569">when</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-397" type="identity">
+         <class id="impact"/>
+         <span end="25612" id="PMC3205727.nxml.gz-397" start="25606">impact</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-398" type="identity">
+         <class id="this_study"/>
+         <span end="25631" id="PMC3205727.nxml.gz-398" start="25621">This study</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-399" type="identity">
+         <class id="subject_scope"/>
+         <span end="25797" id="PMC3205727.nxml.gz-399" start="25621">This study is one of the first to prospectively examine impacts of prenatal diet, physical activity, and psychosocial exposures on offspring weight outcomes in a diverse sample</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-400" type="identity">
+         <class id="first"/>
+         <span end="25651" id="PMC3205727.nxml.gz-400" start="25646">first</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-401" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="25654" id="PMC3205727.nxml.gz-401" start="25652">to</span>
+         <span end="25676" id="PMC3205727.nxml.gz-402" start="25669">examine</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-403" type="identity">
+         <class id="impacts"/>
+         <span end="25684" id="PMC3205727.nxml.gz-403" start="25677">impacts</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-404" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="25777" id="PMC3205727.nxml.gz-404" start="25769">outcomes</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-405" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="25808" id="PMC3205727.nxml.gz-405" start="25799">The study</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-406" type="identity">
+         <class id="subject_scope"/>
+         <span end="26034" id="PMC3205727.nxml.gz-406" start="25802"> study was able to adjust for several important confounds, including length of gestation and infant sex; however, the sample size was moderate, and only 69% of the offspring (mostly non-Hispanic White) had data available at 6 months</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-407" type="identity">
+         <class id="important"/>
+         <span end="25849" id="PMC3205727.nxml.gz-407" start="25840">important</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-408" type="identity">
+         <class id="difficult_task"/>
+         <span end="25859" id="PMC3205727.nxml.gz-408" start="25850">confounds</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-409" type="identity">
+         <class id="only"/>
+         <span end="25954" id="PMC3205727.nxml.gz-409" start="25950">only</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-410" type="identity">
+         <class id="subject_scope"/>
+         <span end="26171" id="PMC3205727.nxml.gz-410" start="26081">free of diseases that might contraindicate participation in a lifestyle intervention study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-411" type="identity">
+         <class id="might"/>
+         <span end="26108" id="PMC3205727.nxml.gz-411" start="26103">might</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-412" type="identity">
+         <class id="subject_scope"/>
+         <span end="26233" id="PMC3205727.nxml.gz-412" start="26179">findings may not generalize to the population at large</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-413" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="26187" id="PMC3205727.nxml.gz-413" start="26179">findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-414" type="identity">
+         <class id="may"/>
+         <span end="26191" id="PMC3205727.nxml.gz-414" start="26188">may</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-415" type="identity">
+         <class id="probable_understanding"/>
+         <span end="26206" id="PMC3205727.nxml.gz-415" start="26196">generalize</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-416" type="identity">
+         <class id="subject_scope"/>
+         <span end="26417" id="PMC3205727.nxml.gz-416" start="26235">A self-report, food frequency questionnaire was used, which is useful in ranking nutrient intakes of individual subjects but can be subject to bias, particularly in obese individuals</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-417" type="identity">
+         <class id="difficult_task"/>
+         <span end="26382" id="PMC3205727.nxml.gz-417" start="26367">subject to bias</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-418" type="identity">
+         <class id="bias"/>
+         <span end="26382" id="PMC3205727.nxml.gz-418" start="26378">bias</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-419" type="identity">
+         <class id="subject_scope"/>
+         <span end="26477" id="PMC3205727.nxml.gz-419" start="26424">The study lacked a valid measurement of infant height</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-420" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="26434" id="PMC3205727.nxml.gz-420" start="26424">The study </span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-421" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="26440" id="PMC3205727.nxml.gz-421" start="26434">lacked</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-422" type="identity">
+         <class id="lack"/>
+         <span end="26438" id="PMC3205727.nxml.gz-422" start="26434">lack</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-423" type="identity">
+         <class id="although"/>
+         <span end="26487" id="PMC3205727.nxml.gz-423" start="26479">Although</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-424" type="identity">
+         <class id="subject_scope"/>
+         <span end="26627" id="PMC3205727.nxml.gz-424" start="26479">Although prepregnancy weight was self-reported, our research has found that women in this study were quite accurate in recalling prepregnancy weight</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-425" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="26539" id="PMC3205727.nxml.gz-425" start="26527">our research</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-426" type="identity">
+         <class id="this_study"/>
+         <span end="26574" id="PMC3205727.nxml.gz-426" start="26564">this study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-427" type="identity">
+         <class id="this...study"/>
+         <span end="26638" id="PMC3205727.nxml.gz-427" start="26634">This</span>
+         <span end="26644" id="PMC3205727.nxml.gz-428" start="26639">study</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-429" type="identity">
+         <class id="subject_scope"/>
+         <span end="26921" id="PMC3205727.nxml.gz-429" start="26634">This study's focus was on predictors of large for gestational age at birth and 6 months, but future research is needed to examine predictors of small for gestational age, which may also predispose offspring to increased fat mass and incidence of metabolic syndrome as children and adults</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-430" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="26670" id="PMC3205727.nxml.gz-430" start="26660">predictors</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-431" type="identity">
+         <class id="future_work"/>
+         <span end="26752" id="PMC3205727.nxml.gz-431" start="26727">future research is needed</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-432" type="identity">
+         <class id="future_research"/>
+         <span end="26742" id="PMC3205727.nxml.gz-432" start="26727">future research</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-433" type="identity">
+         <class id="research_is_needed"/>
+         <span end="26752" id="PMC3205727.nxml.gz-433" start="26734">research is needed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-434" type="identity">
+         <class id="to_examine"/>
+         <span end="26763" id="PMC3205727.nxml.gz-434" start="26753">to examine</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-435" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="26774" id="PMC3205727.nxml.gz-435" start="26764">predictors</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-436" type="identity">
+         <class id="may"/>
+         <span end="26814" id="PMC3205727.nxml.gz-436" start="26811">may</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-437" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="26830" id="PMC3205727.nxml.gz-437" start="26820">predispose</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-438" type="identity">
+         <class id="subject_scope"/>
+         <span end="27087" id="PMC3205727.nxml.gz-438" start="26928">Also, excessive GWG was classified based on the 1990 IOM GWG guidelines; our data were collected before the newly revised 2009 IOM GWG guidelines were released</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-439" type="identity">
+         <class id="full_unknown"/>
+         <span end="27049" id="PMC3205727.nxml.gz-439" start="27036">newly revised</span>
+         <span end="27073" id="PMC3205727.nxml.gz-440" start="27063">guidelines</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-441" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="27110" id="PMC3205727.nxml.gz-441" start="27102">analyses</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-442" type="identity">
+         <class id="subject_scope"/>
+         <span end="27173" id="PMC3205727.nxml.gz-442" start="27102">analyses using the 2009 criteria confirmed the current study's findings</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-443" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="27144" id="PMC3205727.nxml.gz-443" start="27135">confirmed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-444" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="27173" id="PMC3205727.nxml.gz-444" start="27149">current study's findings</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-445" type="identity">
+         <class id="subject_scope"/>
+         <span end="27427" id="PMC3205727.nxml.gz-445" start="27208">Findings from the current study indicate that excessive GWG and mothers' eating behaviors during pregnancy, especially intake of sweets in overweight/obese mothers, may influence offspring weight status early in infancy</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-446" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="27239" id="PMC3205727.nxml.gz-446" start="27208">Findings from the current study</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-447" type="identity">
+         <class id="indicate"/>
+         <span end="27248" id="PMC3205727.nxml.gz-447" start="27240">indicate</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-448" type="identity">
+         <class id="may"/>
+         <span end="27376" id="PMC3205727.nxml.gz-448" start="27373">may</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-449" type="identity">
+         <class id="influence"/>
+         <span end="27386" id="PMC3205727.nxml.gz-449" start="27377">influence</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-450" type="identity">
+         <class id="more_research"/>
+         <span end="27442" id="PMC3205727.nxml.gz-450" start="27429">More research</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-451" type="identity">
+         <class id="subject_scope"/>
+         <span end="27590" id="PMC3205727.nxml.gz-451" start="27429">More research with larger sample sizes and frequent assessments of diet is needed to inform the impact of timing of nutrient exposures on offspring weight status</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-452" type="identity">
+         <class id="future_work"/>
+         <span end="27510" id="PMC3205727.nxml.gz-452" start="27501">is needed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-453" type="identity">
+         <class id="probable_understanding"/>
+         <span end="27520" id="PMC3205727.nxml.gz-453" start="27511">to inform</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-454" type="identity">
+         <class id="impact"/>
+         <span end="27531" id="PMC3205727.nxml.gz-454" start="27525">impact</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-455" type="identity">
+         <class id="subject_scope"/>
+         <span end="27758" id="PMC3205727.nxml.gz-455" start="27598">future adequately powered randomized clinical trials are needed to determine whether modifying maternal prenatal behaviors and GWG can prevent offspring obesity</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-456" type="identity">
+         <class id="future_work"/>
+         <span end="27604" id="PMC3205727.nxml.gz-456" start="27598">future</span>
+         <span end="27650" id="PMC3205727.nxml.gz-457" start="27644">trials</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-458" type="identity">
+         <class id="are_needed"/>
+         <span end="27661" id="PMC3205727.nxml.gz-458" start="27651">are needed</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-459" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="27674" id="PMC3205727.nxml.gz-459" start="27662">to determine</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-460" type="identity">
+         <class id="whether...and"/>
+         <span end="27682" id="PMC3205727.nxml.gz-460" start="27675">whether</span>
+         <span end="27724" id="PMC3205727.nxml.gz-461" start="27721">and</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-462" type="identity">
+         <class id="can"/>
+         <span end="27732" id="PMC3205727.nxml.gz-462" start="27729">can</span>
+      </annotation>
+      <annotation annotator="OVERLAP_MAX" id="PMC3205727.nxml.gz-463" type="identity">
+         <class id="subject_scope"/>
+         <span end="27942" id="PMC3205727.nxml.gz-463" start="27760">Identifying modifiable, prenatal causes of childhood obesity will inform future interventions targeting pregnancy as a “teachable moment” for primary and secondary obesity prevention</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-464" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="27771" id="PMC3205727.nxml.gz-464" start="27760">Identifying</span>
+      </annotation>
+      <annotation annotator="ELIZABETH" id="PMC3205727.nxml.gz-465" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="27799" id="PMC3205727.nxml.gz-465" start="27793">causes</span>
+      </annotation>
+      <annotation annotator="MAYLA" id="PMC3205727.nxml.gz-466" type="identity">
+         <class id="will"/>
+         <span end="27825" id="PMC3205727.nxml.gz-466" start="27821">will</span>
+      </annotation>
+      <annotation annotator="EXACT_MATCH" id="PMC3205727.nxml.gz-467" type="identity">
+         <class id="future_interventions"/>
+         <span end="27853" id="PMC3205727.nxml.gz-467" start="27833">future interventions</span>
+      </annotation>
+   </document>
+</knowtator-project>
