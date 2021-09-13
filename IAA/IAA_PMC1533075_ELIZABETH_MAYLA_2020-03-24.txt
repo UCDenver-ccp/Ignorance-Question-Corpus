@@ -1,0 +1,41 @@
+ARTICLE:	PMC1533075
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator ELIZABETH:	1
+total annotations for annotator MAYLA:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	1	1	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator ELIZABETH:	5
+total annotations for annotator MAYLA:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	5	3	0	0	2	0.60	0.60
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator ELIZABETH:	1
+total annotations for annotator MAYLA:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	1	1	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator MAYLA:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	2	2	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator ELIZABETH:	1
+total annotations for annotator MAYLA:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	1	1	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	subject_scope
+total annotations for annotator ELIZABETH:	5
+total annotations for annotator MAYLA:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+subject_scope	5	1	2	0	2	0.20	0.60
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	10	8	0	0	2	0.80	0.80
+subject_scope	5	1	2	0	2	0.20	0.60

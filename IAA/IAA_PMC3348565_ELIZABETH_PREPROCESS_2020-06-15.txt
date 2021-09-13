@@ -1,0 +1,83 @@
+ARTICLE:	PMC3348565
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator ELIZABETH:	4
+total annotations for annotator PREPROCESS:	8
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	8	4	0	0	4	0.50	0.50
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator ELIZABETH:	10
+total annotations for annotator PREPROCESS:	14
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+probable_understanding	15	9	0	0	6	0.60	0.60
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator ELIZABETH:	13
+total annotations for annotator PREPROCESS:	20
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	22	11	0	0	11	0.50	0.50
+
+CURRENT IGNORANCE TYPE:	alternative_options_controversy
+total annotations for annotator ELIZABETH:	30
+total annotations for annotator PREPROCESS:	47
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options_controversy	52	24	1	0	27	0.46	0.48
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator ELIZABETH:	6
+total annotations for annotator PREPROCESS:	6
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	11	1	0	0	10	0.09	0.09
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator ELIZABETH:	12
+total annotations for annotator PREPROCESS:	11
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_prediction	13	10	0	0	3	0.77	0.77
+
+CURRENT IGNORANCE TYPE:	important_consideration
+total annotations for annotator ELIZABETH:	8
+total annotations for annotator PREPROCESS:	13
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+important_consideration	15	6	0	0	9	0.40	0.40
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator ELIZABETH:	4
+total annotations for annotator PREPROCESS:	12
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+full_unknown	12	4	0	0	8	0.33	0.33
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator ELIZABETH:	26
+total annotations for annotator PREPROCESS:	38
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	43	21	0	0	22	0.49	0.49
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator ELIZABETH:	9
+total annotations for annotator PREPROCESS:	16
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	16	9	0	0	7	0.56	0.56
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator ELIZABETH:	12
+total annotations for annotator PREPROCESS:	20
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	20	12	0	0	8	0.60	0.60
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator ELIZABETH:	76
+total annotations for annotator PREPROCESS:	119
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	136	59	0	0	77	0.43	0.43
+
+CURRENT IGNORANCE TYPE:	explicit_question
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator PREPROCESS:	18
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+explicit_question	18	2	0	0	16	0.11	0.11
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	378	172	1	5	200	0.46	0.47
+subject_scope	70	0	0	0	70	0.00	0.00

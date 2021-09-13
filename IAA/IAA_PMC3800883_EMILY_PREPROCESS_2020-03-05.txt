@@ -1,0 +1,41 @@
+ARTICLE:	PMC3800883
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator EMILY:	6
+total annotations for annotator PREPROCESS:	5
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	6	4	1	0	1	0.67	0.83
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator EMILY:	2
+total annotations for annotator PREPROCESS:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	2	2	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator EMILY:	5
+total annotations for annotator PREPROCESS:	5
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_prediction	5	5	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator EMILY:	2
+total annotations for annotator PREPROCESS:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	2	2	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator EMILY:	3
+total annotations for annotator PREPROCESS:	4
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	4	3	0	0	1	0.75	0.75
+
+CURRENT IGNORANCE TYPE:	explicit_question
+total annotations for annotator EMILY:	21
+total annotations for annotator PREPROCESS:	21
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+explicit_question	21	21	0	0	0	1.00	1.00
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	42	37	2	0	3	0.88	0.93
+subject_scope	0	0	0	0	0	0.00	0.00

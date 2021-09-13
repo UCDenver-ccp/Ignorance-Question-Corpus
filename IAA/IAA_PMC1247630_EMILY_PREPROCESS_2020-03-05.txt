@@ -1,0 +1,65 @@
+ARTICLE:	PMC1247630
+
+CURRENT IGNORANCE TYPE:	controversy
+total annotations for annotator EMILY:	1
+total annotations for annotator PREPROCESS:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+controversy	1	1	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator EMILY:	3
+total annotations for annotator PREPROCESS:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	3	3	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator EMILY:	2
+total annotations for annotator PREPROCESS:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	2	2	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator EMILY:	11
+total annotations for annotator PREPROCESS:	8
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	11	8	0	0	3	0.73	0.73
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator EMILY:	2
+total annotations for annotator PREPROCESS:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	2	2	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator EMILY:	1
+total annotations for annotator PREPROCESS:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+full_unknown	2	1	0	0	1	0.50	0.50
+
+CURRENT IGNORANCE TYPE:	explicit_question
+total annotations for annotator EMILY:	10
+total annotations for annotator PREPROCESS:	10
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+explicit_question	10	10	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator EMILY:	1
+total annotations for annotator PREPROCESS:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	1	1	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	alternative_options
+total annotations for annotator EMILY:	1
+total annotations for annotator PREPROCESS:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options	2	1	0	0	1	0.50	0.50
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator EMILY:	5
+total annotations for annotator PREPROCESS:	9
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	9	5	0	0	4	0.56	0.56
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	43	34	0	0	9	0.79	0.79
+subject_scope	0	0	0	0	0	0.00	0.00

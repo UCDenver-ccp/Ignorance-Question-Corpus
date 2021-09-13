@@ -1,0 +1,75 @@
+ARTICLE:	PMC2874300
+
+CURRENT IGNORANCE TYPE:	controversy
+total annotations for annotator EMILY:	1
+total annotations for annotator ELIZABETH:	1
+total annotations for annotator MAYLA:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+controversy	2	1	0	0	1	0.50	0.50
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator EMILY:	7
+total annotations for annotator ELIZABETH:	5
+total annotations for annotator MAYLA:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	10	2	0	0	8	0.20	0.20
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator EMILY:	1
+total annotations for annotator ELIZABETH:	1
+total annotations for annotator MAYLA:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_prediction	1	1	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator EMILY:	11
+total annotations for annotator ELIZABETH:	10
+total annotations for annotator MAYLA:	8
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	13	8	0	0	5	0.62	0.62
+
+CURRENT IGNORANCE TYPE:	urgent_call_to_action
+total annotations for annotator EMILY:	1
+total annotations for annotator ELIZABETH:	1
+total annotations for annotator MAYLA:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+urgent_call_to_action	2	1	0	0	1	0.50	0.50
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator EMILY:	3
+total annotations for annotator ELIZABETH:	3
+total annotations for annotator MAYLA:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	4	2	0	0	2	0.50	0.50
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator EMILY:	1
+total annotations for annotator ELIZABETH:	1
+total annotations for annotator MAYLA:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	1	1	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	alternative_options
+total annotations for annotator EMILY:	4
+total annotations for annotator ELIZABETH:	1
+total annotations for annotator MAYLA:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options	6	1	0	0	5	0.17	0.17
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator EMILY:	2
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator MAYLA:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	3	2	0	0	1	0.67	0.67
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator EMILY:	1
+total annotations for annotator ELIZABETH:	1
+total annotations for annotator MAYLA:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+probable_understanding	1	1	0	0	0	1.00	1.00
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	61	20	0	0	41	0.33	0.33
+subject_scope	20	0	0	0	20	0.00	0.00

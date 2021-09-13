@@ -1,0 +1,26 @@
+ARTICLE:	PMC4500436
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator MAYLA:	3
+total annotations for annotator PREPROCESS:	7
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	8	2	0	0	6	0.25	0.25
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator ELIZABETH:	4
+total annotations for annotator MAYLA:	3
+total annotations for annotator PREPROCESS:	8
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	9	3	0	0	6	0.33	0.33
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator MAYLA:	4
+total annotations for annotator PREPROCESS:	5
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	11	2	0	0	9	0.18	0.18
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	53	7	0	0	46	0.13	0.13
+subject_scope	15	0	0	0	15	0.00	0.00

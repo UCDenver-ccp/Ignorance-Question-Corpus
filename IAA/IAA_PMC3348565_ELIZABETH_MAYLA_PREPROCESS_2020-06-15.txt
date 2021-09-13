@@ -1,0 +1,96 @@
+ARTICLE:	PMC3348565
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator ELIZABETH:	4
+total annotations for annotator MAYLA:	5
+total annotations for annotator PREPROCESS:	8
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	9	4	0	0	5	0.44	0.44
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator ELIZABETH:	10
+total annotations for annotator MAYLA:	8
+total annotations for annotator PREPROCESS:	14
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+probable_understanding	17	8	0	0	9	0.47	0.47
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator ELIZABETH:	13
+total annotations for annotator MAYLA:	12
+total annotations for annotator PREPROCESS:	20
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	25	11	0	0	14	0.44	0.44
+
+CURRENT IGNORANCE TYPE:	alternative_options_controversy
+total annotations for annotator ELIZABETH:	30
+total annotations for annotator MAYLA:	30
+total annotations for annotator PREPROCESS:	47
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options_controversy	61	25	2	0	34	0.41	0.44
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator ELIZABETH:	6
+total annotations for annotator MAYLA:	1
+total annotations for annotator PREPROCESS:	6
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	11	1	0	0	10	0.09	0.09
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator ELIZABETH:	12
+total annotations for annotator MAYLA:	9
+total annotations for annotator PREPROCESS:	11
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_prediction	14	9	0	0	5	0.64	0.64
+
+CURRENT IGNORANCE TYPE:	important_consideration
+total annotations for annotator ELIZABETH:	8
+total annotations for annotator MAYLA:	6
+total annotations for annotator PREPROCESS:	13
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+important_consideration	15	6	0	0	9	0.40	0.40
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator ELIZABETH:	4
+total annotations for annotator MAYLA:	4
+total annotations for annotator PREPROCESS:	12
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+full_unknown	12	4	0	0	8	0.33	0.33
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator ELIZABETH:	26
+total annotations for annotator MAYLA:	21
+total annotations for annotator PREPROCESS:	38
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	48	20	0	0	28	0.42	0.42
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator ELIZABETH:	9
+total annotations for annotator MAYLA:	13
+total annotations for annotator PREPROCESS:	16
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	20	9	0	0	11	0.45	0.45
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator ELIZABETH:	12
+total annotations for annotator MAYLA:	13
+total annotations for annotator PREPROCESS:	20
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	22	12	0	0	10	0.55	0.55
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator ELIZABETH:	76
+total annotations for annotator MAYLA:	67
+total annotations for annotator PREPROCESS:	119
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	148	62	2	0	84	0.42	0.43
+
+CURRENT IGNORANCE TYPE:	explicit_question
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator MAYLA:	1
+total annotations for annotator PREPROCESS:	18
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+explicit_question	19	1	0	0	18	0.05	0.05
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	411	173	4	5	229	0.42	0.44
+subject_scope	136	0	0	0	136	0.00	0.00

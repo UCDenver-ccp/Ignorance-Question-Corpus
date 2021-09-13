@@ -1,0 +1,178 @@
+ARTICLE:	PMC6033232
+
+CURRENT IGNORANCE TYPE:	explicit_question
+total annotations for annotator ELIZABETH:	0
+total annotations for annotator PREPROCESS:	58
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	0	0	0	0.00	0.00
+PREPROCESS	0	0	58	0.00	0.00
+
+TOTAL NUM ANNOTATIONS:	58
+
+
+CURRENT IGNORANCE TYPE:	alternative_options
+total annotations for annotator ELIZABETH:	13
+total annotations for annotator PREPROCESS:	31
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	12	13	0	0.92	1.00
+PREPROCESS	12	13	18	0.39	0.42
+
+TOTAL NUM ANNOTATIONS:	31
+
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator ELIZABETH:	1
+total annotations for annotator PREPROCESS:	7
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	1	1	0	1.00	1.00
+PREPROCESS	1	1	6	0.14	0.14
+
+TOTAL NUM ANNOTATIONS:	7
+
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator ELIZABETH:	14
+total annotations for annotator PREPROCESS:	17
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	7	9	5	0.50	0.64
+PREPROCESS	7	9	8	0.41	0.53
+
+TOTAL NUM ANNOTATIONS:	22
+
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator ELIZABETH:	42
+total annotations for annotator PREPROCESS:	100
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	41	41	1	0.98	0.98
+PREPROCESS	41	41	59	0.41	0.41
+
+TOTAL NUM ANNOTATIONS:	101
+
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator ELIZABETH:	4
+total annotations for annotator PREPROCESS:	5
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	4	4	0	1.00	1.00
+PREPROCESS	4	4	1	0.80	0.80
+
+TOTAL NUM ANNOTATIONS:	5
+
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator ELIZABETH:	85
+total annotations for annotator PREPROCESS:	91
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	80	83	2	0.94	0.98
+PREPROCESS	80	83	8	0.88	0.91
+
+TOTAL NUM ANNOTATIONS:	93
+
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator PREPROCESS:	2
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	2	2	0	1.00	1.00
+PREPROCESS	2	2	0	1.00	1.00
+
+TOTAL NUM ANNOTATIONS:	2
+
+
+CURRENT IGNORANCE TYPE:	controversy
+total annotations for annotator ELIZABETH:	3
+total annotations for annotator PREPROCESS:	21
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	3	3	0	1.00	1.00
+PREPROCESS	3	3	18	0.14	0.14
+
+TOTAL NUM ANNOTATIONS:	21
+
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator PREPROCESS:	2
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	1	1	1	0.50	0.50
+PREPROCESS	1	1	1	0.50	0.50
+
+TOTAL NUM ANNOTATIONS:	3
+
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator ELIZABETH:	3
+total annotations for annotator PREPROCESS:	12
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	3	3	0	1.00	1.00
+PREPROCESS	3	3	9	0.25	0.25
+
+TOTAL NUM ANNOTATIONS:	12
+
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator ELIZABETH:	7
+total annotations for annotator PREPROCESS:	6
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	6	6	1	0.86	0.86
+PREPROCESS	6	6	0	1.00	1.00
+
+TOTAL NUM ANNOTATIONS:	7
+
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator ELIZABETH:	9
+total annotations for annotator PREPROCESS:	15
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	8	9	0	0.89	1.00
+PREPROCESS	8	9	6	0.53	0.60
+
+TOTAL NUM ANNOTATIONS:	15
+
+
+CURRENT IGNORANCE TYPE:	urgent_call_to_action
+total annotations for annotator ELIZABETH:	3
+total annotations for annotator PREPROCESS:	3
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	3	3	0	1.00	1.00
+PREPROCESS	3	3	0	1.00	1.00
+
+TOTAL NUM ANNOTATIONS:	3
+
+
+CURRENT IGNORANCE TYPE:	Epistemics
+total annotations for annotator ELIZABETH:	0
+total annotations for annotator PREPROCESS:	0
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	0	0	0	0.00	0.00
+PREPROCESS	0	0	0	0.00	0.00
+
+TOTAL NUM ANNOTATIONS:	0
+
+
+CURRENT IGNORANCE TYPE:	subject_scope
+total annotations for annotator ELIZABETH:	83
+total annotations for annotator PREPROCESS:	0
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+ELIZABETH	0	0	83	0.00	0.00
+PREPROCESS	0	0	0	0.00	0.00
+
+TOTAL NUM ANNOTATIONS:	83
+
+

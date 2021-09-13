@@ -1,0 +1,41 @@
+ARTICLE:	PMC2516588
+
+CURRENT IGNORANCE TYPE:	controversy
+total annotations for annotator EMILY:	1
+total annotations for annotator MAYLA:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+controversy	1	1	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator EMILY:	20
+total annotations for annotator MAYLA:	6
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	20	6	0	0	14	0.30	0.30
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator EMILY:	1
+total annotations for annotator MAYLA:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	1	1	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	explicit_question
+total annotations for annotator EMILY:	4
+total annotations for annotator MAYLA:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+explicit_question	4	1	0	0	3	0.25	0.25
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator EMILY:	1
+total annotations for annotator MAYLA:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	3	1	0	0	2	0.33	0.33
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator EMILY:	8
+total annotations for annotator MAYLA:	5
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	8	5	0	0	3	0.62	0.62
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	48	15	0	0	33	0.31	0.31
+subject_scope	11	0	0	0	11	0.00	0.00

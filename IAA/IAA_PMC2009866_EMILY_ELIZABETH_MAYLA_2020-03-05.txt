@@ -1,0 +1,33 @@
+ARTICLE:	PMC2009866
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator EMILY:	3
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator MAYLA:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	4	1	0	0	3	0.25	0.25
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator EMILY:	5
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator MAYLA:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	5	2	0	0	3	0.40	0.40
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator EMILY:	1
+total annotations for annotator ELIZABETH:	1
+total annotations for annotator MAYLA:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+difficult_task	1	1	0	0	0	1.00	1.00
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator EMILY:	4
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator MAYLA:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	5	2	0	0	3	0.40	0.40
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	21	7	0	0	14	0.33	0.33
+subject_scope	7	0	0	0	7	0.00	0.00

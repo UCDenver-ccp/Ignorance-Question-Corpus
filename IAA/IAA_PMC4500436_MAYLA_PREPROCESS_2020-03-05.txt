@@ -1,0 +1,35 @@
+ARTICLE:	PMC4500436
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator MAYLA:	4
+total annotations for annotator PREPROCESS:	8
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	9	1	0	2	6	0.11	0.33
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator MAYLA:	3
+total annotations for annotator PREPROCESS:	9
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	9	2	0	1	6	0.22	0.33
+
+CURRENT IGNORANCE TYPE:	urgent_call_to_action
+total annotations for annotator MAYLA:	1
+total annotations for annotator PREPROCESS:	4
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+urgent_call_to_action	4	0	0	1	3	0.00	0.25
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator MAYLA:	1
+total annotations for annotator PREPROCESS:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	2	1	0	0	1	0.50	0.50
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator MAYLA:	3
+total annotations for annotator PREPROCESS:	10
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	10	3	0	0	7	0.30	0.30
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	58	7	0	4	47	0.12	0.19
+subject_scope	9	0	0	0	9	0.00	0.00

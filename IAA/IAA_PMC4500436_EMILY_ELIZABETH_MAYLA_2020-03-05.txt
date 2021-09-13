@@ -1,0 +1,26 @@
+ARTICLE:	PMC4500436
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator EMILY:	5
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator MAYLA:	4
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	9	2	0	0	7	0.22	0.22
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator EMILY:	8
+total annotations for annotator ELIZABETH:	4
+total annotations for annotator MAYLA:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	9	3	0	0	6	0.33	0.33
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator EMILY:	7
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator MAYLA:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	8	2	0	0	6	0.25	0.25
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	51	7	0	0	44	0.14	0.14
+subject_scope	15	0	0	0	15	0.00	0.00

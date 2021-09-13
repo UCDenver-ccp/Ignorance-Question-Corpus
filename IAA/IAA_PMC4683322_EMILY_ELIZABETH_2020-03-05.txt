@@ -1,0 +1,29 @@
+ARTICLE:	PMC4683322
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator EMILY:	1
+total annotations for annotator ELIZABETH:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	2	0	0	0	2	0.00	0.00
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator EMILY:	8
+total annotations for annotator ELIZABETH:	3
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	8	3	0	0	5	0.38	0.38
+
+CURRENT IGNORANCE TYPE:	urgent_call_to_action
+total annotations for annotator EMILY:	2
+total annotations for annotator ELIZABETH:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+urgent_call_to_action	2	1	0	0	1	0.50	0.50
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator EMILY:	2
+total annotations for annotator ELIZABETH:	1
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+full_unknown	2	1	0	0	1	0.50	0.50
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	22	5	0	0	17	0.23	0.23
+subject_scope	7	0	0	0	7	0.00	0.00

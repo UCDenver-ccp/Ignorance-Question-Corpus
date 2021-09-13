@@ -1,0 +1,11 @@
+ARTICLE:	PMC3800883
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator ELIZABETH:	2
+total annotations for annotator PREPROCESS:	5
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_prediction	5	2	0	0	3	0.40	0.40
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	42	2	0	0	40	0.05	0.05
+subject_scope	1	0	0	0	1	0.00	0.00

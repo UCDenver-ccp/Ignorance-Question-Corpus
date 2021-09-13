@@ -1,0 +1,178 @@
+ARTICLE:	PMC4500436
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator EMILY:	0
+total annotations for annotator PREPROCESS:	0
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	0	0	0	0.00	0.00
+PREPROCESS	0	0	0	0.00	0.00
+
+TOTAL NUM ANNOTATIONS:	0
+
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator EMILY:	0
+total annotations for annotator PREPROCESS:	3
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	0	0	0	0.00	0.00
+PREPROCESS	0	0	3	0.00	0.00
+
+TOTAL NUM ANNOTATIONS:	3
+
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator EMILY:	1
+total annotations for annotator PREPROCESS:	1
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	1	1	0	1.00	1.00
+PREPROCESS	1	1	0	1.00	1.00
+
+TOTAL NUM ANNOTATIONS:	1
+
+
+CURRENT IGNORANCE TYPE:	difficult_task
+total annotations for annotator EMILY:	0
+total annotations for annotator PREPROCESS:	0
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	0	0	0	0.00	0.00
+PREPROCESS	0	0	0	0.00	0.00
+
+TOTAL NUM ANNOTATIONS:	0
+
+
+CURRENT IGNORANCE TYPE:	explicit_question
+total annotations for annotator EMILY:	9
+total annotations for annotator PREPROCESS:	9
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	9	9	0	1.00	1.00
+PREPROCESS	9	9	0	1.00	1.00
+
+TOTAL NUM ANNOTATIONS:	9
+
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator EMILY:	8
+total annotations for annotator PREPROCESS:	9
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	8	8	0	1.00	1.00
+PREPROCESS	8	8	1	0.89	0.89
+
+TOTAL NUM ANNOTATIONS:	9
+
+
+CURRENT IGNORANCE TYPE:	urgent_call_to_action
+total annotations for annotator EMILY:	0
+total annotations for annotator PREPROCESS:	4
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	0	0	0	0.00	0.00
+PREPROCESS	0	0	4	0.00	0.00
+
+TOTAL NUM ANNOTATIONS:	4
+
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator EMILY:	1
+total annotations for annotator PREPROCESS:	1
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	1	1	0	1.00	1.00
+PREPROCESS	1	1	0	1.00	1.00
+
+TOTAL NUM ANNOTATIONS:	1
+
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator EMILY:	0
+total annotations for annotator PREPROCESS:	0
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	0	0	0	0.00	0.00
+PREPROCESS	0	0	0	0.00	0.00
+
+TOTAL NUM ANNOTATIONS:	0
+
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator EMILY:	7
+total annotations for annotator PREPROCESS:	7
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	7	7	0	1.00	1.00
+PREPROCESS	7	7	0	1.00	1.00
+
+TOTAL NUM ANNOTATIONS:	7
+
+
+CURRENT IGNORANCE TYPE:	alternative_options
+total annotations for annotator EMILY:	0
+total annotations for annotator PREPROCESS:	2
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	0	0	0	0.00	0.00
+PREPROCESS	0	0	2	0.00	0.00
+
+TOTAL NUM ANNOTATIONS:	2
+
+
+CURRENT IGNORANCE TYPE:	controversy
+total annotations for annotator EMILY:	8
+total annotations for annotator PREPROCESS:	8
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	8	8	0	1.00	1.00
+PREPROCESS	8	8	0	1.00	1.00
+
+TOTAL NUM ANNOTATIONS:	8
+
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator EMILY:	1
+total annotations for annotator PREPROCESS:	1
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	1	1	0	1.00	1.00
+PREPROCESS	1	1	0	1.00	1.00
+
+TOTAL NUM ANNOTATIONS:	1
+
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator EMILY:	5
+total annotations for annotator PREPROCESS:	8
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	5	5	0	1.00	1.00
+PREPROCESS	5	5	3	0.62	0.62
+
+TOTAL NUM ANNOTATIONS:	8
+
+
+CURRENT IGNORANCE TYPE:	Epistemics
+total annotations for annotator EMILY:	0
+total annotations for annotator PREPROCESS:	0
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	0	0	0	0.00	0.00
+PREPROCESS	0	0	0	0.00	0.00
+
+TOTAL NUM ANNOTATIONS:	0
+
+
+CURRENT IGNORANCE TYPE:	subject_scope
+total annotations for annotator EMILY:	0
+total annotations for annotator PREPROCESS:	0
+
+annotator	exact matches	overlapping matches	mismatches	percent exact matches	percent matches
+EMILY	0	0	0	0.00	0.00
+PREPROCESS	0	0	0	0.00	0.00
+
+TOTAL NUM ANNOTATIONS:	0
+
+

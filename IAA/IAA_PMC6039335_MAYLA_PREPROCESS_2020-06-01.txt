@@ -1,0 +1,77 @@
+ARTICLE:	PMC6039335
+
+CURRENT IGNORANCE TYPE:	future_work
+total annotations for annotator MAYLA:	28
+total annotations for annotator PREPROCESS:	43
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_work	48	23	0	0	25	0.48	0.48
+
+CURRENT IGNORANCE TYPE:	alternative_options_controversy
+total annotations for annotator MAYLA:	31
+total annotations for annotator PREPROCESS:	67
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+alternative_options_controversy	76	22	0	0	54	0.29	0.29
+
+CURRENT IGNORANCE TYPE:	future_prediction
+total annotations for annotator MAYLA:	4
+total annotations for annotator PREPROCESS:	4
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+future_prediction	5	3	0	0	2	0.60	0.60
+
+CURRENT IGNORANCE TYPE:	full_unknown
+total annotations for annotator MAYLA:	1
+total annotations for annotator PREPROCESS:	2
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+full_unknown	2	1	0	0	1	0.50	0.50
+
+CURRENT IGNORANCE TYPE:	question_answered_by_this_work
+total annotations for annotator MAYLA:	3
+total annotations for annotator PREPROCESS:	14
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+question_answered_by_this_work	15	2	0	0	13	0.13	0.13
+
+CURRENT IGNORANCE TYPE:	problem_complication
+total annotations for annotator MAYLA:	8
+total annotations for annotator PREPROCESS:	14
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+problem_complication	15	7	0	0	8	0.47	0.47
+
+CURRENT IGNORANCE TYPE:	probable_understanding
+total annotations for annotator MAYLA:	42
+total annotations for annotator PREPROCESS:	75
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+probable_understanding	77	40	0	0	37	0.52	0.52
+
+CURRENT IGNORANCE TYPE:	superficial_relationship
+total annotations for annotator MAYLA:	84
+total annotations for annotator PREPROCESS:	112
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+superficial_relationship	115	81	0	0	34	0.70	0.70
+
+CURRENT IGNORANCE TYPE:	incomplete_evidence
+total annotations for annotator MAYLA:	122
+total annotations for annotator PREPROCESS:	151
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+incomplete_evidence	157	116	0	0	41	0.74	0.74
+
+CURRENT IGNORANCE TYPE:	important_consideration
+total annotations for annotator MAYLA:	25
+total annotations for annotator PREPROCESS:	26
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+important_consideration	28	23	0	0	5	0.82	0.82
+
+CURRENT IGNORANCE TYPE:	explicit_question
+total annotations for annotator MAYLA:	2
+total annotations for annotator PREPROCESS:	50
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+explicit_question	50	2	0	0	48	0.04	0.04
+
+CURRENT IGNORANCE TYPE:	anomaly_curious_finding
+total annotations for annotator MAYLA:	14
+total annotations for annotator PREPROCESS:	10
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+anomaly_curious_finding	15	9	0	0	6	0.60	0.60
+
+ignorance type	total annotations	exact matches	overlapping matches	main category matches	mismatches	percent exact matches	percent matches
+ignorance	605	329	1	0	275	0.54	0.55
+subject_scope	206	0	0	0	206	0.00	0.00
