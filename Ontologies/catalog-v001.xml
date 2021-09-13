@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/so/so-xp/releases/2015-11-24/so-xp.owl/so.owl" uri="SO.obo"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/uberon/basic/uberon/releases/2015-04-23/basic.owl/uberon/basic.owl" uri="UBERON.obo"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/chebi/130/chebi.owl" uri="CHEBI.obo"/>
+    <uri id="Imports Wizard Entry" name="http://www.owl-ontologies.com/unnamed_updated.owl" uri="CRAFT_aggregate_OWL_ontology_updated.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.org/obo/owl/gene_ontology_edit" uri="go_daily-termdb.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1570327775879" name="duplicate:http://www.semanticweb.org/maylab/ontologies/2018/5/OntologyOfIngorance" uri="Ontology_Of_Ignorance_updated.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1570327775879" name="duplicate:http://www.semanticweb.org/maylab/ontologies/2018/5/OntologyOfIngorance" uri="Ontology_Of_Ignorance.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1570327775879" name="duplicate:http://www.semanticweb.org/maylab/ontologies/2018/5/OntologyOfIngorance" uri="Ontology_Of_Ignorance_10.4.19.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1570327775879" name="duplicate:http://www.semanticweb.org/maylab/ontologies/2018/5/OntologyOfIngorance" uri="Ontology_Of_Ignorance_original.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1570327775879" name="duplicate:http://www.semanticweb.org/maylab/ontologies/2018/5/OntologyOfIngorance" uri="Ontology_Of_Ignorance_9.12.19.xml"/>
+    </group>
+</catalog>
